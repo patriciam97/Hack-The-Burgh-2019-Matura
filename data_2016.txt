@@ -1,0 +1,6486 @@
+[
+{
+"genre": "Discussion",
+"fringe_first": null,
+"performers_number": null,
+"artist_type": null,
+"sub_title": null,
+"update_times": {
+"genre": 1455019065,
+"age_category": 1455019065,
+"other": 1455019065,
+"fringe_first": 1455019065,
+"status": 1455019065,
+"web_links": 1455019065,
+"venue": 1455019065,
+"identity": 1455019065,
+"title": 1455019065,
+"description": 1455019065,
+"discounts": 1455019065,
+"images": 1455019065,
+"performances": 1455019065,
+"artist": 1455019065,
+"disabled": 1455019065
+},
+"twitter": null,
+"title": "Can we address Fuel Poverty and respond to Climate Change?",
+"updated": "2016-02-09 11:57:45",
+"description": "<p>Are the UK and Scottish Governments’ actions to address fuel poverty and implement climate change targets compatible? The Church of Scotland will report on this issue at the General Assembly in May. Join <strong>Sarah Boyack MSP,</strong> <strong>Elizabeth Leighton,</strong> Policy Advisor and secretariat at the Existing Homes Alliance Scotland, <strong>John Cunningham</strong>, Head of Energy Unit for Western Isles Council and <strong>Shona Stephen</strong>, Chief Executive, Queen’s Cross Housing Association, to explore the issues.</p>",
+"discounts": {
+"two_for_one": null,
+"friends": null,
+"schools": null,
+"passport": null,
+"group": null
+},
+"festival": "Edinburgh International Science Festival",
+"year": 2016,
+"artist": null,
+"warnings": null,
+"festival_id": "science",
+"age_category": "Ages 14+",
+"non_english": null,
+"website": "http://www.sciencefestival.co.uk/event-details/can-we-address-fuel-poverty-and-respond-to-climate-change--",
+"status": "active",
+"performance_space": {
+"age_limit": null,
+"wheelchair_access": null,
+"name": null,
+"capacity": null,
+"age_limited": null
+},
+"code": "417",
+"venue": {
+"position": {
+"lon": -3.18228,
+"lat": 55.94
+},
+"phone": null,
+"web_address": null,
+"fax": null,
+"post_code": "EH9 1PL",
+"has_cafe": null,
+"cafe_description": null,
+"map_ref": null,
+"code": "Summerhall",
+"disabled_description": null,
+"box_office_fringe": false,
+"has_booking_over_phone": true,
+"address": "Summerhall Place\nEdinburgh",
+"email": null,
+"description": null,
+"has_booking_over_web": true,
+"name": "Summerhall",
+"box_office_opening": null,
+"has_booking_over_card": true,
+"has_bar": null
+},
+"sub_venue": null,
+"url": "https://api.edinburghfestivalcity.com/events/86d571502d4fd0e1e1d218e4fbe39c7a6c2d5c3f",
+"country": null,
+"genre_tags": "Science and Culture,Environment,Earth,Global Issues,Philosophy",
+"description_teaser": "Join experts in fuel poverty and the energy industry to discuss whether Government action to address fuel poverty and action to implement Scottish Government climate change targets are compatible.",
+"images": {
+"f084b91208a568b92223685447329f498f78a8bc": {
+"versions": {
+"medium-640": {
+"height": 640,
+"width": 640,
+"mime": "image/png",
+"type": "medium-640",
+"url": "//edfestimages.s3.amazonaws.com/f0/84/b9/f084b91208a568b92223685447329f498f78a8bc-medium-640.png"
+},
+"original": {
+"height": 800,
+"width": 800,
+"mime": "image/jpeg",
+"type": "original",
+"url": "//edfestimages.s3.amazonaws.com/f0/84/b9/f084b91208a568b92223685447329f498f78a8bc-original.jpg"
+},
+"small-320": {
+"height": 320,
+"width": 320,
+"mime": "image/png",
+"type": "small-320",
+"url": "//edfestimages.s3.amazonaws.com/f0/84/b9/f084b91208a568b92223685447329f498f78a8bc-small-320.png"
+},
+"thumb-100": {
+"height": 100,
+"width": 100,
+"mime": "image/png",
+"type": "thumb-100",
+"url": "//edfestimages.s3.amazonaws.com/f0/84/b9/f084b91208a568b92223685447329f498f78a8bc-thumb-100.png"
+},
+"square-75": {
+"height": 75,
+"width": 75,
+"mime": "image/png",
+"type": "square-75",
+"url": "//edfestimages.s3.amazonaws.com/f0/84/b9/f084b91208a568b92223685447329f498f78a8bc-square-75.png"
+},
+"square-150": {
+"height": 150,
+"width": 150,
+"mime": "image/png",
+"type": "square-150",
+"url": "//edfestimages.s3.amazonaws.com/f0/84/b9/f084b91208a568b92223685447329f498f78a8bc-square-150.png"
+}
+},
+"orientation": "square",
+"hash": "f084b91208a568b92223685447329f498f78a8bc",
+"type": "thumb"
+},
+"4c7febcfedd0894839db47fa8e6b72078b4be2b6": {
+"versions": {
+"large-1024": {
+"height": 213,
+"width": 1024,
+"mime": "image/png",
+"type": "large-1024",
+"url": "//edfestimages.s3.amazonaws.com/4c/7f/eb/4c7febcfedd0894839db47fa8e6b72078b4be2b6-large-1024.png"
+},
+"medium-640": {
+"height": 133,
+"width": 640,
+"mime": "image/png",
+"type": "medium-640",
+"url": "//edfestimages.s3.amazonaws.com/4c/7f/eb/4c7febcfedd0894839db47fa8e6b72078b4be2b6-medium-640.png"
+},
+"original": {
+"height": 400,
+"width": 1920,
+"mime": "image/jpeg",
+"type": "original",
+"url": "//edfestimages.s3.amazonaws.com/4c/7f/eb/4c7febcfedd0894839db47fa8e6b72078b4be2b6-original.jpg"
+},
+"small-320": {
+"height": 67,
+"width": 320,
+"mime": "image/png",
+"type": "small-320",
+"url": "//edfestimages.s3.amazonaws.com/4c/7f/eb/4c7febcfedd0894839db47fa8e6b72078b4be2b6-small-320.png"
+},
+"thumb-100": {
+"height": 21,
+"width": 100,
+"mime": "image/png",
+"type": "thumb-100",
+"url": "//edfestimages.s3.amazonaws.com/4c/7f/eb/4c7febcfedd0894839db47fa8e6b72078b4be2b6-thumb-100.png"
+},
+"square-75": {
+"height": 75,
+"width": 75,
+"mime": "image/png",
+"type": "square-75",
+"url": "//edfestimages.s3.amazonaws.com/4c/7f/eb/4c7febcfedd0894839db47fa8e6b72078b4be2b6-square-75.png"
+},
+"square-150": {
+"height": 150,
+"width": 150,
+"mime": "image/png",
+"type": "square-150",
+"url": "//edfestimages.s3.amazonaws.com/4c/7f/eb/4c7febcfedd0894839db47fa8e6b72078b4be2b6-square-150.png"
+}
+},
+"orientation": "landscape",
+"hash": "4c7febcfedd0894839db47fa8e6b72078b4be2b6",
+"type": "hero"
+}
+},
+"performances": [
+{
+"concession_family": false,
+"title": null,
+"concession": 6.5,
+"price": 8.5,
+"concession_additional": false,
+"start": "2016-04-06 20:00:00",
+"end": "2016-04-06 21:30:00"
+}
+],
+"categories": {
+"keywords": [
+{
+"category": "Headings",
+"keywords": [
+"Our planet",
+"Society & Culture"
+]
+},
+{
+"category": "Specialisations",
+"keywords": [
+"Philosophy"
+]
+},
+{
+"category": "Topics",
+"keywords": [
+"Climate change",
+"Conservation",
+"Politics",
+"Religion",
+"Transport"
+]
+}
+],
+"subjects": [
+"Environment",
+"Earth",
+"Global Issues",
+"Philosophy"
+],
+"strand_titles": [
+"Science and Culture"
+]
+},
+"disabled": {
+"signed_dates": null,
+"other_services_information": null,
+"captioning": null,
+"audio": null,
+"signed": null,
+"audio_dates": null,
+"other_services_dates": null,
+"captioning_dates": null,
+"other_services": null
+},
+"latitude": 55.94,
+"longitude": -3.18228
+},
+{
+"genre": "Discussion",
+"fringe_first": null,
+"performers_number": null,
+"artist_type": null,
+"sub_title": null,
+"update_times": {
+"genre": 1455019065,
+"age_category": 1455019065,
+"other": 1455019065,
+"fringe_first": 1455019065,
+"status": 1455019065,
+"web_links": 1455019065,
+"venue": 1455019065,
+"identity": 1455019065,
+"title": 1455019065,
+"description": 1455019065,
+"discounts": 1455019065,
+"images": 1455019065,
+"performances": 1455019065,
+"artist": 1455019065,
+"disabled": 1455019065
+},
+"twitter": null,
+"title": "Linking Our Cities",
+"updated": "2016-02-09 11:57:45",
+"description": "<p>What’s the cost of our reliance on roads and fossil fuel powered vehicles? And, as we accelerate into the future, what innovations and improvements can we hope for to reduce these impacts? Meet a range of experts including Arup Analyst <strong>Lynne Goulding </strong>and <strong>Prof Martin Tangney</strong> of Celtic Renewables, to discover what changes are just around the corner and the big ideas leading us down the road to the future.</p>",
+"discounts": {
+"two_for_one": null,
+"friends": null,
+"schools": null,
+"passport": null,
+"group": null
+},
+"festival": "Edinburgh International Science Festival",
+"year": 2016,
+"artist": null,
+"warnings": null,
+"festival_id": "science",
+"age_category": "Ages 14+",
+"non_english": null,
+"website": "http://www.sciencefestival.co.uk/event-details/linking-our-cities",
+"status": "active",
+"performance_space": {
+"age_limit": null,
+"wheelchair_access": null,
+"name": null,
+"capacity": null,
+"age_limited": null
+},
+"code": "432",
+"venue": {
+"position": {
+"lon": -3.18767,
+"lat": 55.9478
+},
+"phone": null,
+"web_address": null,
+"fax": null,
+"post_code": "EH1 1JF",
+"has_cafe": null,
+"cafe_description": null,
+"map_ref": null,
+"code": "National Museum of Scotland",
+"disabled_description": null,
+"box_office_fringe": false,
+"has_booking_over_phone": true,
+"address": "Chambers Street\nEdinburgh",
+"email": null,
+"description": null,
+"has_booking_over_web": true,
+"name": "National Museum of Scotland",
+"box_office_opening": null,
+"has_booking_over_card": true,
+"has_bar": null
+},
+"sub_venue": null,
+"url": "https://api.edinburghfestivalcity.com/events/b060912e0da519653c9ada89d9a86c72a3384df4",
+"country": null,
+"genre_tags": "Physics,Innovation,Engineering",
+"description_teaser": "Discover the transport changes that are just around the corner.",
+"images": {
+"2625839f21641071c270e49870405afe75834b0e": {
+"versions": {
+"large-1024": {
+"height": 213,
+"width": 1024,
+"mime": "image/png",
+"type": "large-1024",
+"url": "//edfestimages.s3.amazonaws.com/26/25/83/2625839f21641071c270e49870405afe75834b0e-large-1024.png"
+},
+"medium-640": {
+"height": 133,
+"width": 640,
+"mime": "image/png",
+"type": "medium-640",
+"url": "//edfestimages.s3.amazonaws.com/26/25/83/2625839f21641071c270e49870405afe75834b0e-medium-640.png"
+},
+"original": {
+"height": 400,
+"width": 1920,
+"mime": "image/jpeg",
+"type": "original",
+"url": "//edfestimages.s3.amazonaws.com/26/25/83/2625839f21641071c270e49870405afe75834b0e-original.jpg"
+},
+"small-320": {
+"height": 67,
+"width": 320,
+"mime": "image/png",
+"type": "small-320",
+"url": "//edfestimages.s3.amazonaws.com/26/25/83/2625839f21641071c270e49870405afe75834b0e-small-320.png"
+},
+"thumb-100": {
+"height": 21,
+"width": 100,
+"mime": "image/png",
+"type": "thumb-100",
+"url": "//edfestimages.s3.amazonaws.com/26/25/83/2625839f21641071c270e49870405afe75834b0e-thumb-100.png"
+},
+"square-75": {
+"height": 75,
+"width": 75,
+"mime": "image/png",
+"type": "square-75",
+"url": "//edfestimages.s3.amazonaws.com/26/25/83/2625839f21641071c270e49870405afe75834b0e-square-75.png"
+},
+"square-150": {
+"height": 150,
+"width": 150,
+"mime": "image/png",
+"type": "square-150",
+"url": "//edfestimages.s3.amazonaws.com/26/25/83/2625839f21641071c270e49870405afe75834b0e-square-150.png"
+}
+},
+"orientation": "landscape",
+"hash": "2625839f21641071c270e49870405afe75834b0e",
+"type": "hero"
+},
+"58ef459c0a85307ef3f3841ac577511c67f7a50b": {
+"versions": {
+"medium-640": {
+"height": 640,
+"width": 640,
+"mime": "image/png",
+"type": "medium-640",
+"url": "//edfestimages.s3.amazonaws.com/58/ef/45/58ef459c0a85307ef3f3841ac577511c67f7a50b-medium-640.png"
+},
+"original": {
+"height": 800,
+"width": 800,
+"mime": "image/jpeg",
+"type": "original",
+"url": "//edfestimages.s3.amazonaws.com/58/ef/45/58ef459c0a85307ef3f3841ac577511c67f7a50b-original.jpg"
+},
+"small-320": {
+"height": 320,
+"width": 320,
+"mime": "image/png",
+"type": "small-320",
+"url": "//edfestimages.s3.amazonaws.com/58/ef/45/58ef459c0a85307ef3f3841ac577511c67f7a50b-small-320.png"
+},
+"thumb-100": {
+"height": 100,
+"width": 100,
+"mime": "image/png",
+"type": "thumb-100",
+"url": "//edfestimages.s3.amazonaws.com/58/ef/45/58ef459c0a85307ef3f3841ac577511c67f7a50b-thumb-100.png"
+},
+"square-75": {
+"height": 75,
+"width": 75,
+"mime": "image/png",
+"type": "square-75",
+"url": "//edfestimages.s3.amazonaws.com/58/ef/45/58ef459c0a85307ef3f3841ac577511c67f7a50b-square-75.png"
+},
+"square-150": {
+"height": 150,
+"width": 150,
+"mime": "image/png",
+"type": "square-150",
+"url": "//edfestimages.s3.amazonaws.com/58/ef/45/58ef459c0a85307ef3f3841ac577511c67f7a50b-square-150.png"
+}
+},
+"orientation": "square",
+"hash": "58ef459c0a85307ef3f3841ac577511c67f7a50b",
+"type": "thumb"
+}
+},
+"performances": [
+{
+"concession_family": false,
+"title": null,
+"concession": 6.5,
+"price": 8.5,
+"concession_additional": false,
+"start": "2016-04-05 20:00:00",
+"end": "2016-04-05 21:30:00"
+}
+],
+"categories": {
+"keywords": [
+{
+"category": "Headings",
+"keywords": [
+"Material World",
+"Technology & Engineering"
+]
+},
+{
+"category": "Specialisations",
+"keywords": [
+"City planning"
+]
+},
+{
+"category": "Topics",
+"keywords": [
+"Climate change",
+"Energy",
+"Future",
+"Transport"
+]
+}
+],
+"subjects": [
+"Physics",
+"Innovation",
+"Engineering"
+],
+"strand_titles": []
+},
+"disabled": {
+"signed_dates": null,
+"other_services_information": null,
+"captioning": null,
+"audio": null,
+"signed": null,
+"audio_dates": null,
+"other_services_dates": null,
+"captioning_dates": null,
+"other_services": null
+},
+"latitude": 55.9478,
+"longitude": -3.18767
+},
+{
+"genre": "Workshop",
+"fringe_first": null,
+"performers_number": null,
+"artist_type": null,
+"sub_title": null,
+"update_times": {
+"genre": 1455019065,
+"age_category": 1455019065,
+"other": 1455019065,
+"fringe_first": 1455019065,
+"status": 1455019065,
+"web_links": 1455019065,
+"venue": 1455019065,
+"identity": 1455019065,
+"title": 1455019065,
+"description": 1455019065,
+"discounts": 1455019065,
+"images": 1455019065,
+"performances": 1455019065,
+"artist": 1455019065,
+"disabled": 1455019065
+},
+"twitter": null,
+"title": "Build a Prop Ray Gun Challenge",
+"updated": "2016-02-09 11:57:45",
+"description": "<p>Movie prop makers are masters of disguises... Did you know that the original Star Wars lightsabers were made from the handle of a camera flash? We invite you to take part in our very own prop making challenge with the help of prop artist Thom Wall from Sorenzo Props! Provided with an eclectic mix of everyday household items, we invite you to design and assemble your very own ray gun and turn it into a prop worthy of the movies.</p>",
+"discounts": {
+"two_for_one": null,
+"friends": null,
+"schools": null,
+"passport": null,
+"group": null
+},
+"festival": "Edinburgh International Science Festival",
+"year": 2016,
+"artist": null,
+"warnings": null,
+"festival_id": "science",
+"age_category": "Ages 8+",
+"non_english": null,
+"website": "http://www.sciencefestival.co.uk/event-details/build-a-prop-ray-gun-challenge",
+"status": "active",
+"performance_space": {
+"age_limit": null,
+"wheelchair_access": null,
+"name": null,
+"capacity": null,
+"age_limited": null
+},
+"code": "364",
+"venue": {
+"position": {
+"lon": -3.18228,
+"lat": 55.94
+},
+"phone": null,
+"web_address": null,
+"fax": null,
+"post_code": "EH9 1PL",
+"has_cafe": null,
+"cafe_description": null,
+"map_ref": null,
+"code": "Summerhall",
+"disabled_description": null,
+"box_office_fringe": false,
+"has_booking_over_phone": true,
+"address": "Summerhall Place\nEdinburgh",
+"email": null,
+"description": null,
+"has_booking_over_web": true,
+"name": "Summerhall",
+"box_office_opening": null,
+"has_booking_over_card": true,
+"has_bar": null
+},
+"sub_venue": null,
+"url": "https://api.edinburghfestivalcity.com/events/c2d9c38f24ad45510fc715b0e98c2ff6ec84ccd4",
+"country": null,
+"genre_tags": "Science and Culture,Gadgets,Entertainment & Leisure,Design",
+"description_teaser": "Design and assemble a ray gun worthy of the movies!",
+"images": {
+"a24933140131492463d272fc24a69f4a2beaaf9e": {
+"versions": {
+"medium-640": {
+"height": 640,
+"width": 640,
+"mime": "image/png",
+"type": "medium-640",
+"url": "//edfestimages.s3.amazonaws.com/a2/49/33/a24933140131492463d272fc24a69f4a2beaaf9e-medium-640.png"
+},
+"original": {
+"height": 800,
+"width": 800,
+"mime": "image/jpeg",
+"type": "original",
+"url": "//edfestimages.s3.amazonaws.com/a2/49/33/a24933140131492463d272fc24a69f4a2beaaf9e-original.jpg"
+},
+"small-320": {
+"height": 320,
+"width": 320,
+"mime": "image/png",
+"type": "small-320",
+"url": "//edfestimages.s3.amazonaws.com/a2/49/33/a24933140131492463d272fc24a69f4a2beaaf9e-small-320.png"
+},
+"thumb-100": {
+"height": 100,
+"width": 100,
+"mime": "image/png",
+"type": "thumb-100",
+"url": "//edfestimages.s3.amazonaws.com/a2/49/33/a24933140131492463d272fc24a69f4a2beaaf9e-thumb-100.png"
+},
+"square-75": {
+"height": 75,
+"width": 75,
+"mime": "image/png",
+"type": "square-75",
+"url": "//edfestimages.s3.amazonaws.com/a2/49/33/a24933140131492463d272fc24a69f4a2beaaf9e-square-75.png"
+},
+"square-150": {
+"height": 150,
+"width": 150,
+"mime": "image/png",
+"type": "square-150",
+"url": "//edfestimages.s3.amazonaws.com/a2/49/33/a24933140131492463d272fc24a69f4a2beaaf9e-square-150.png"
+}
+},
+"orientation": "square",
+"hash": "a24933140131492463d272fc24a69f4a2beaaf9e",
+"type": "thumb"
+},
+"1f7c256a9bbed3f4670608e534070d62d9835c86": {
+"versions": {
+"large-1024": {
+"height": 213,
+"width": 1024,
+"mime": "image/png",
+"type": "large-1024",
+"url": "//edfestimages.s3.amazonaws.com/1f/7c/25/1f7c256a9bbed3f4670608e534070d62d9835c86-large-1024.png"
+},
+"medium-640": {
+"height": 133,
+"width": 640,
+"mime": "image/png",
+"type": "medium-640",
+"url": "//edfestimages.s3.amazonaws.com/1f/7c/25/1f7c256a9bbed3f4670608e534070d62d9835c86-medium-640.png"
+},
+"original": {
+"height": 400,
+"width": 1920,
+"mime": "image/jpeg",
+"type": "original",
+"url": "//edfestimages.s3.amazonaws.com/1f/7c/25/1f7c256a9bbed3f4670608e534070d62d9835c86-original.jpg"
+},
+"small-320": {
+"height": 67,
+"width": 320,
+"mime": "image/png",
+"type": "small-320",
+"url": "//edfestimages.s3.amazonaws.com/1f/7c/25/1f7c256a9bbed3f4670608e534070d62d9835c86-small-320.png"
+},
+"thumb-100": {
+"height": 21,
+"width": 100,
+"mime": "image/png",
+"type": "thumb-100",
+"url": "//edfestimages.s3.amazonaws.com/1f/7c/25/1f7c256a9bbed3f4670608e534070d62d9835c86-thumb-100.png"
+},
+"square-75": {
+"height": 75,
+"width": 75,
+"mime": "image/png",
+"type": "square-75",
+"url": "//edfestimages.s3.amazonaws.com/1f/7c/25/1f7c256a9bbed3f4670608e534070d62d9835c86-square-75.png"
+},
+"square-150": {
+"height": 150,
+"width": 150,
+"mime": "image/png",
+"type": "square-150",
+"url": "//edfestimages.s3.amazonaws.com/1f/7c/25/1f7c256a9bbed3f4670608e534070d62d9835c86-square-150.png"
+}
+},
+"orientation": "landscape",
+"hash": "1f7c256a9bbed3f4670608e534070d62d9835c86",
+"type": "hero"
+}
+},
+"performances": [
+{
+"concession_family": false,
+"title": null,
+"concession": null,
+"price": 20,
+"concession_additional": false,
+"start": "2016-04-02 10:00:00",
+"end": "2016-04-02 12:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": null,
+"price": 20,
+"concession_additional": false,
+"start": "2016-04-02 14:00:00",
+"end": "2016-04-02 16:00:00"
+}
+],
+"categories": {
+"keywords": [
+{
+"category": "Headings",
+"keywords": [
+"Society & Culture",
+"Technology & Engineering"
+]
+},
+{
+"category": "Topics",
+"keywords": [
+"Film",
+"Maker"
+]
+}
+],
+"subjects": [
+"Gadgets",
+"Entertainment & Leisure",
+"Design"
+],
+"strand_titles": [
+"Science and Culture"
+]
+},
+"disabled": {
+"signed_dates": null,
+"other_services_information": null,
+"captioning": null,
+"audio": null,
+"signed": null,
+"audio_dates": null,
+"other_services_dates": null,
+"captioning_dates": null,
+"other_services": null
+},
+"latitude": 55.94,
+"longitude": -3.18228
+},
+{
+"genre": "Workshop",
+"fringe_first": null,
+"performers_number": null,
+"artist_type": null,
+"sub_title": null,
+"update_times": {
+"genre": 1455019065,
+"age_category": 1455019065,
+"other": 1455019065,
+"fringe_first": 1455019065,
+"status": 1455019065,
+"web_links": 1455019065,
+"venue": 1455019065,
+"identity": 1455019065,
+"title": 1455019065,
+"description": 1455019065,
+"discounts": 1455019065,
+"images": 1455019065,
+"performances": 1455019065,
+"artist": 1455019065,
+"disabled": 1455019065
+},
+"twitter": null,
+"title": "Paper Circuits",
+"updated": "2016-02-09 11:57:45",
+"description": "<p>Learn the basics of electronics as you build circuits using only paper, scissors and copper tape. You'll also have the opportunity to use your new skills to create a great-looking light-up card with LEDs.</p>",
+"discounts": {
+"two_for_one": null,
+"friends": null,
+"schools": null,
+"passport": null,
+"group": null
+},
+"festival": "Edinburgh International Science Festival",
+"year": 2016,
+"artist": null,
+"warnings": null,
+"festival_id": "science",
+"age_category": "Ages 8+",
+"non_english": null,
+"website": "http://www.sciencefestival.co.uk/event-details/paper-circuits",
+"status": "active",
+"performance_space": {
+"age_limit": null,
+"wheelchair_access": null,
+"name": null,
+"capacity": null,
+"age_limited": null
+},
+"code": "507",
+"venue": {
+"position": {
+"lon": -3.18228,
+"lat": 55.94
+},
+"phone": null,
+"web_address": null,
+"fax": null,
+"post_code": "EH9 1PL",
+"has_cafe": null,
+"cafe_description": null,
+"map_ref": null,
+"code": "Summerhall",
+"disabled_description": null,
+"box_office_fringe": false,
+"has_booking_over_phone": true,
+"address": "Summerhall Place\nEdinburgh",
+"email": null,
+"description": null,
+"has_booking_over_web": true,
+"name": "Summerhall",
+"box_office_opening": null,
+"has_booking_over_card": true,
+"has_bar": null
+},
+"sub_venue": null,
+"url": "https://api.edinburghfestivalcity.com/events/eff5830b7d4086d818d01d5cdcdbaaefd759f138",
+"country": null,
+"genre_tags": "Science and Culture,Materials",
+"description_teaser": "Learn the basics of electronics as you build circuits using only paper, scissors and copper tape.",
+"images": {
+"a6b2190f46ccaef7f83b9571607d0e4068eb8587": {
+"versions": {
+"large-1024": {
+"height": 213,
+"width": 1024,
+"mime": "image/png",
+"type": "large-1024",
+"url": "//edfestimages.s3.amazonaws.com/a6/b2/19/a6b2190f46ccaef7f83b9571607d0e4068eb8587-large-1024.png"
+},
+"medium-640": {
+"height": 133,
+"width": 640,
+"mime": "image/png",
+"type": "medium-640",
+"url": "//edfestimages.s3.amazonaws.com/a6/b2/19/a6b2190f46ccaef7f83b9571607d0e4068eb8587-medium-640.png"
+},
+"original": {
+"height": 400,
+"width": 1920,
+"mime": "image/jpeg",
+"type": "original",
+"url": "//edfestimages.s3.amazonaws.com/a6/b2/19/a6b2190f46ccaef7f83b9571607d0e4068eb8587-original.jpg"
+},
+"small-320": {
+"height": 67,
+"width": 320,
+"mime": "image/png",
+"type": "small-320",
+"url": "//edfestimages.s3.amazonaws.com/a6/b2/19/a6b2190f46ccaef7f83b9571607d0e4068eb8587-small-320.png"
+},
+"thumb-100": {
+"height": 21,
+"width": 100,
+"mime": "image/png",
+"type": "thumb-100",
+"url": "//edfestimages.s3.amazonaws.com/a6/b2/19/a6b2190f46ccaef7f83b9571607d0e4068eb8587-thumb-100.png"
+},
+"square-75": {
+"height": 75,
+"width": 75,
+"mime": "image/png",
+"type": "square-75",
+"url": "//edfestimages.s3.amazonaws.com/a6/b2/19/a6b2190f46ccaef7f83b9571607d0e4068eb8587-square-75.png"
+},
+"square-150": {
+"height": 150,
+"width": 150,
+"mime": "image/png",
+"type": "square-150",
+"url": "//edfestimages.s3.amazonaws.com/a6/b2/19/a6b2190f46ccaef7f83b9571607d0e4068eb8587-square-150.png"
+}
+},
+"orientation": "landscape",
+"hash": "a6b2190f46ccaef7f83b9571607d0e4068eb8587",
+"type": "hero"
+},
+"11a5c4395069e0849f5824b7ed9043567289f93e": {
+"versions": {
+"medium-640": {
+"height": 640,
+"width": 640,
+"mime": "image/png",
+"type": "medium-640",
+"url": "//edfestimages.s3.amazonaws.com/11/a5/c4/11a5c4395069e0849f5824b7ed9043567289f93e-medium-640.png"
+},
+"original": {
+"height": 800,
+"width": 800,
+"mime": "image/jpeg",
+"type": "original",
+"url": "//edfestimages.s3.amazonaws.com/11/a5/c4/11a5c4395069e0849f5824b7ed9043567289f93e-original.jpg"
+},
+"small-320": {
+"height": 320,
+"width": 320,
+"mime": "image/png",
+"type": "small-320",
+"url": "//edfestimages.s3.amazonaws.com/11/a5/c4/11a5c4395069e0849f5824b7ed9043567289f93e-small-320.png"
+},
+"thumb-100": {
+"height": 100,
+"width": 100,
+"mime": "image/png",
+"type": "thumb-100",
+"url": "//edfestimages.s3.amazonaws.com/11/a5/c4/11a5c4395069e0849f5824b7ed9043567289f93e-thumb-100.png"
+},
+"square-75": {
+"height": 75,
+"width": 75,
+"mime": "image/png",
+"type": "square-75",
+"url": "//edfestimages.s3.amazonaws.com/11/a5/c4/11a5c4395069e0849f5824b7ed9043567289f93e-square-75.png"
+},
+"square-150": {
+"height": 150,
+"width": 150,
+"mime": "image/png",
+"type": "square-150",
+"url": "//edfestimages.s3.amazonaws.com/11/a5/c4/11a5c4395069e0849f5824b7ed9043567289f93e-square-150.png"
+}
+},
+"orientation": "square",
+"hash": "11a5c4395069e0849f5824b7ed9043567289f93e",
+"type": "thumb"
+}
+},
+"performances": [
+{
+"concession_family": false,
+"title": null,
+"concession": null,
+"price": 10,
+"concession_additional": false,
+"start": "2016-03-26 11:00:00",
+"end": "2016-03-26 12:30:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": null,
+"price": 10,
+"concession_additional": false,
+"start": "2016-04-09 11:00:00",
+"end": "2016-04-09 12:30:00"
+}
+],
+"categories": {
+"keywords": [
+{
+"category": "Headings",
+"keywords": [
+"Material World"
+]
+},
+{
+"category": "Phenomena",
+"keywords": [
+"Electricity",
+"Light"
+]
+},
+{
+"category": "Topics",
+"keywords": [
+"Education"
+]
+},
+{
+"category": "Vibe / Atmosphere",
+"keywords": [
+"Hands-on"
+]
+}
+],
+"subjects": [
+"Materials"
+],
+"strand_titles": [
+"Science and Culture"
+]
+},
+"disabled": {
+"signed_dates": null,
+"other_services_information": null,
+"captioning": null,
+"audio": null,
+"signed": null,
+"audio_dates": null,
+"other_services_dates": null,
+"captioning_dates": null,
+"other_services": null
+},
+"latitude": 55.94,
+"longitude": -3.18228
+},
+{
+"genre": "Activity",
+"fringe_first": null,
+"performers_number": null,
+"artist_type": null,
+"sub_title": null,
+"update_times": {
+"genre": 1455019066,
+"age_category": 1455019066,
+"other": 1455019066,
+"fringe_first": 1455019066,
+"status": 1455019066,
+"web_links": 1455019066,
+"venue": 1455019066,
+"identity": 1455019066,
+"title": 1455019066,
+"description": 1455019066,
+"discounts": 1455019066,
+"images": 1455019066,
+"performances": 1455019066,
+"artist": 1455019066,
+"disabled": 1455019066
+},
+"twitter": null,
+"title": "Pop-Up Science: Robots",
+"updated": "2016-02-09 11:57:46",
+"description": "<p>Join us in this hands-on activity making LEGO® robots perform simple tasks using the <em>Scratch</em> programming environment. The drag-and-drop interface is easy to pick up with no experience – even parents can do it! You can also have a play with pre-prepared robot-based activities – robot sumo, anyone?</p>",
+"discounts": {
+"two_for_one": null,
+"friends": null,
+"schools": null,
+"passport": null,
+"group": null
+},
+"festival": "Edinburgh International Science Festival",
+"year": 2016,
+"artist": null,
+"warnings": null,
+"festival_id": "science",
+"age_category": "All Ages",
+"non_english": null,
+"website": "http://www.sciencefestival.co.uk/event-details/pop-up-science-robots",
+"status": "active",
+"performance_space": {
+"age_limit": null,
+"wheelchair_access": null,
+"name": null,
+"capacity": null,
+"age_limited": null
+},
+"code": "629",
+"venue": {
+"position": {
+"lon": -3.18767,
+"lat": 55.9478
+},
+"phone": null,
+"web_address": null,
+"fax": null,
+"post_code": "EH1 1JF",
+"has_cafe": null,
+"cafe_description": null,
+"map_ref": null,
+"code": "National Museum of Scotland",
+"disabled_description": null,
+"box_office_fringe": false,
+"has_booking_over_phone": true,
+"address": "Chambers Street\nEdinburgh",
+"email": null,
+"description": null,
+"has_booking_over_web": true,
+"name": "National Museum of Scotland",
+"box_office_opening": null,
+"has_booking_over_card": true,
+"has_bar": null
+},
+"sub_venue": null,
+"url": "https://api.edinburghfestivalcity.com/events/4c8dbfd547b5794bf264fe293f286dc8d201869a",
+"country": null,
+"genre_tags": "Science and Culture,Gadgets,Computing,Entertainment & Leisure,Design",
+"description_teaser": "Join us in this hands-on activity making LEGO® robots perform simple tasks using the Scratch programming environment",
+"images": {
+"671af89134b97a1b0ea783ad49389aeb2fc54f51": {
+"versions": {
+"medium-640": {
+"height": 640,
+"width": 640,
+"mime": "image/png",
+"type": "medium-640",
+"url": "//edfestimages.s3.amazonaws.com/67/1a/f8/671af89134b97a1b0ea783ad49389aeb2fc54f51-medium-640.png"
+},
+"original": {
+"height": 800,
+"width": 800,
+"mime": "image/jpeg",
+"type": "original",
+"url": "//edfestimages.s3.amazonaws.com/67/1a/f8/671af89134b97a1b0ea783ad49389aeb2fc54f51-original.jpg"
+},
+"small-320": {
+"height": 320,
+"width": 320,
+"mime": "image/png",
+"type": "small-320",
+"url": "//edfestimages.s3.amazonaws.com/67/1a/f8/671af89134b97a1b0ea783ad49389aeb2fc54f51-small-320.png"
+},
+"thumb-100": {
+"height": 100,
+"width": 100,
+"mime": "image/png",
+"type": "thumb-100",
+"url": "//edfestimages.s3.amazonaws.com/67/1a/f8/671af89134b97a1b0ea783ad49389aeb2fc54f51-thumb-100.png"
+},
+"square-75": {
+"height": 75,
+"width": 75,
+"mime": "image/png",
+"type": "square-75",
+"url": "//edfestimages.s3.amazonaws.com/67/1a/f8/671af89134b97a1b0ea783ad49389aeb2fc54f51-square-75.png"
+},
+"square-150": {
+"height": 150,
+"width": 150,
+"mime": "image/png",
+"type": "square-150",
+"url": "//edfestimages.s3.amazonaws.com/67/1a/f8/671af89134b97a1b0ea783ad49389aeb2fc54f51-square-150.png"
+}
+},
+"orientation": "square",
+"hash": "671af89134b97a1b0ea783ad49389aeb2fc54f51",
+"type": "thumb"
+},
+"a66163e7e9caa565a08faedc1e40c0a528f4cb4e": {
+"versions": {
+"large-1024": {
+"height": 213,
+"width": 1024,
+"mime": "image/png",
+"type": "large-1024",
+"url": "//edfestimages.s3.amazonaws.com/a6/61/63/a66163e7e9caa565a08faedc1e40c0a528f4cb4e-large-1024.png"
+},
+"medium-640": {
+"height": 133,
+"width": 640,
+"mime": "image/png",
+"type": "medium-640",
+"url": "//edfestimages.s3.amazonaws.com/a6/61/63/a66163e7e9caa565a08faedc1e40c0a528f4cb4e-medium-640.png"
+},
+"original": {
+"height": 400,
+"width": 1920,
+"mime": "image/jpeg",
+"type": "original",
+"url": "//edfestimages.s3.amazonaws.com/a6/61/63/a66163e7e9caa565a08faedc1e40c0a528f4cb4e-original.jpg"
+},
+"small-320": {
+"height": 67,
+"width": 320,
+"mime": "image/png",
+"type": "small-320",
+"url": "//edfestimages.s3.amazonaws.com/a6/61/63/a66163e7e9caa565a08faedc1e40c0a528f4cb4e-small-320.png"
+},
+"thumb-100": {
+"height": 21,
+"width": 100,
+"mime": "image/png",
+"type": "thumb-100",
+"url": "//edfestimages.s3.amazonaws.com/a6/61/63/a66163e7e9caa565a08faedc1e40c0a528f4cb4e-thumb-100.png"
+},
+"square-75": {
+"height": 75,
+"width": 75,
+"mime": "image/png",
+"type": "square-75",
+"url": "//edfestimages.s3.amazonaws.com/a6/61/63/a66163e7e9caa565a08faedc1e40c0a528f4cb4e-square-75.png"
+},
+"square-150": {
+"height": 150,
+"width": 150,
+"mime": "image/png",
+"type": "square-150",
+"url": "//edfestimages.s3.amazonaws.com/a6/61/63/a66163e7e9caa565a08faedc1e40c0a528f4cb4e-square-150.png"
+}
+},
+"orientation": "landscape",
+"hash": "a66163e7e9caa565a08faedc1e40c0a528f4cb4e",
+"type": "hero"
+}
+},
+"performances": [
+{
+"concession_family": false,
+"title": null,
+"concession": 0,
+"price": 0,
+"concession_additional": false,
+"start": "2016-03-28 10:00:00",
+"end": "2016-03-28 17:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 0,
+"price": 0,
+"concession_additional": false,
+"start": "2016-03-29 10:00:00",
+"end": "2016-03-29 17:00:00"
+}
+],
+"categories": {
+"keywords": [
+{
+"category": "Headings",
+"keywords": [
+"Society & Culture",
+"Technology & Engineering"
+]
+},
+{
+"category": "Specialisations",
+"keywords": [
+"Electronics",
+"Robotics"
+]
+},
+{
+"category": "Topics",
+"keywords": [
+"Computing",
+"Maker",
+"Software"
+]
+},
+{
+"category": "Vibe / Atmosphere",
+"keywords": [
+"Hands-on"
+]
+}
+],
+"subjects": [
+"Gadgets",
+"Computing",
+"Entertainment & Leisure",
+"Design"
+],
+"strand_titles": [
+"Science and Culture"
+]
+},
+"disabled": {
+"signed_dates": null,
+"other_services_information": null,
+"captioning": null,
+"audio": null,
+"signed": null,
+"audio_dates": null,
+"other_services_dates": null,
+"captioning_dates": null,
+"other_services": null
+},
+"latitude": 55.9478,
+"longitude": -3.18767
+},
+{
+"genre": "Activity",
+"fringe_first": null,
+"performers_number": null,
+"artist_type": null,
+"sub_title": null,
+"update_times": {
+"genre": 1455019066,
+"age_category": 1455019066,
+"other": 1455019066,
+"fringe_first": 1455019066,
+"status": 1455019066,
+"web_links": 1455019066,
+"venue": 1455019066,
+"identity": 1455019066,
+"title": 1455019066,
+"description": 1455019066,
+"discounts": 1455019066,
+"images": 1455019066,
+"performances": 1455019066,
+"artist": 1455019066,
+"disabled": 1455019066
+},
+"twitter": null,
+"title": "Making It",
+"updated": "2016-02-09 11:57:46",
+"description": "<p>An interactive exhibition all about the modern maker movement and its links to science, technology and design. Celebrating the rise of do-it-yourself culture this fun, engaging exhibition is packed with interactive demonstrations of modern design, innovation and technological futures, from 3D scanning to smartphone microscopes and live robotic drawing machines. This is your chance to interact with the modern digital design and fabrication tools which are taking the scientific, technological and design worlds by storm.</p>",
+"discounts": {
+"two_for_one": null,
+"friends": null,
+"schools": null,
+"passport": null,
+"group": null
+},
+"festival": "Edinburgh International Science Festival",
+"year": 2016,
+"artist": null,
+"warnings": null,
+"festival_id": "science",
+"age_category": "All Ages",
+"non_english": null,
+"website": "http://www.sciencefestival.co.uk/event-details/making-it",
+"status": "active",
+"performance_space": {
+"age_limit": null,
+"wheelchair_access": null,
+"name": null,
+"capacity": null,
+"age_limited": null
+},
+"code": "614",
+"venue": {
+"position": {
+"lon": -3.50995,
+"lat": 55.884
+},
+"phone": null,
+"web_address": null,
+"fax": null,
+"post_code": "EH54 6HR",
+"has_cafe": null,
+"cafe_description": null,
+"map_ref": null,
+"code": "The Centre, Livingston",
+"disabled_description": null,
+"box_office_fringe": false,
+"has_booking_over_phone": true,
+"address": "87 Almondvale South\nLivingston",
+"email": null,
+"description": null,
+"has_booking_over_web": true,
+"name": "The Centre, Livingston",
+"box_office_opening": null,
+"has_booking_over_card": true,
+"has_bar": null
+},
+"sub_venue": null,
+"url": "https://api.edinburghfestivalcity.com/events/5a947d2701533a264e9b5a7ffaba0b0d9f35e74c",
+"country": null,
+"genre_tags": "Science and Culture,Gadgets,Innovation,Art,Design",
+"description_teaser": "An interactive exhibition all about the modern maker movement and its links to science, technology and design.",
+"images": {
+"73759e02b3d65a8efb41c8d732f9ec789b076879": {
+"versions": {
+"medium-640": {
+"height": 640,
+"width": 640,
+"mime": "image/png",
+"type": "medium-640",
+"url": "//edfestimages.s3.amazonaws.com/73/75/9e/73759e02b3d65a8efb41c8d732f9ec789b076879-medium-640.png"
+},
+"original": {
+"height": 800,
+"width": 800,
+"mime": "image/jpeg",
+"type": "original",
+"url": "//edfestimages.s3.amazonaws.com/73/75/9e/73759e02b3d65a8efb41c8d732f9ec789b076879-original.jpg"
+},
+"small-320": {
+"height": 320,
+"width": 320,
+"mime": "image/png",
+"type": "small-320",
+"url": "//edfestimages.s3.amazonaws.com/73/75/9e/73759e02b3d65a8efb41c8d732f9ec789b076879-small-320.png"
+},
+"thumb-100": {
+"height": 100,
+"width": 100,
+"mime": "image/png",
+"type": "thumb-100",
+"url": "//edfestimages.s3.amazonaws.com/73/75/9e/73759e02b3d65a8efb41c8d732f9ec789b076879-thumb-100.png"
+},
+"square-75": {
+"height": 75,
+"width": 75,
+"mime": "image/png",
+"type": "square-75",
+"url": "//edfestimages.s3.amazonaws.com/73/75/9e/73759e02b3d65a8efb41c8d732f9ec789b076879-square-75.png"
+},
+"square-150": {
+"height": 150,
+"width": 150,
+"mime": "image/png",
+"type": "square-150",
+"url": "//edfestimages.s3.amazonaws.com/73/75/9e/73759e02b3d65a8efb41c8d732f9ec789b076879-square-150.png"
+}
+},
+"orientation": "square",
+"hash": "73759e02b3d65a8efb41c8d732f9ec789b076879",
+"type": "thumb"
+},
+"1c28da17232f5ec91c9ceea475ce3a7fd7d598e5": {
+"versions": {
+"large-1024": {
+"height": 213,
+"width": 1024,
+"mime": "image/png",
+"type": "large-1024",
+"url": "//edfestimages.s3.amazonaws.com/1c/28/da/1c28da17232f5ec91c9ceea475ce3a7fd7d598e5-large-1024.png"
+},
+"medium-640": {
+"height": 133,
+"width": 640,
+"mime": "image/png",
+"type": "medium-640",
+"url": "//edfestimages.s3.amazonaws.com/1c/28/da/1c28da17232f5ec91c9ceea475ce3a7fd7d598e5-medium-640.png"
+},
+"original": {
+"height": 400,
+"width": 1920,
+"mime": "image/jpeg",
+"type": "original",
+"url": "//edfestimages.s3.amazonaws.com/1c/28/da/1c28da17232f5ec91c9ceea475ce3a7fd7d598e5-original.jpg"
+},
+"small-320": {
+"height": 67,
+"width": 320,
+"mime": "image/png",
+"type": "small-320",
+"url": "//edfestimages.s3.amazonaws.com/1c/28/da/1c28da17232f5ec91c9ceea475ce3a7fd7d598e5-small-320.png"
+},
+"thumb-100": {
+"height": 21,
+"width": 100,
+"mime": "image/png",
+"type": "thumb-100",
+"url": "//edfestimages.s3.amazonaws.com/1c/28/da/1c28da17232f5ec91c9ceea475ce3a7fd7d598e5-thumb-100.png"
+},
+"square-75": {
+"height": 75,
+"width": 75,
+"mime": "image/png",
+"type": "square-75",
+"url": "//edfestimages.s3.amazonaws.com/1c/28/da/1c28da17232f5ec91c9ceea475ce3a7fd7d598e5-square-75.png"
+},
+"square-150": {
+"height": 150,
+"width": 150,
+"mime": "image/png",
+"type": "square-150",
+"url": "//edfestimages.s3.amazonaws.com/1c/28/da/1c28da17232f5ec91c9ceea475ce3a7fd7d598e5-square-150.png"
+}
+},
+"orientation": "landscape",
+"hash": "1c28da17232f5ec91c9ceea475ce3a7fd7d598e5",
+"type": "hero"
+}
+},
+"performances": [
+{
+"concession_family": false,
+"title": null,
+"concession": 0,
+"price": 0,
+"concession_additional": false,
+"start": "2016-03-27 10:00:00",
+"end": "2016-03-27 16:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 0,
+"price": 0,
+"concession_additional": false,
+"start": "2016-03-28 10:00:00",
+"end": "2016-03-28 16:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 0,
+"price": 0,
+"concession_additional": false,
+"start": "2016-03-29 10:00:00",
+"end": "2016-03-29 16:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 0,
+"price": 0,
+"concession_additional": false,
+"start": "2016-03-30 10:00:00",
+"end": "2016-03-30 16:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 0,
+"price": 0,
+"concession_additional": false,
+"start": "2016-03-31 10:00:00",
+"end": "2016-03-31 16:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 0,
+"price": 0,
+"concession_additional": false,
+"start": "2016-04-01 10:00:00",
+"end": "2016-04-01 16:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 0,
+"price": 0,
+"concession_additional": false,
+"start": "2016-04-02 10:00:00",
+"end": "2016-04-02 16:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 0,
+"price": 0,
+"concession_additional": false,
+"start": "2016-04-03 10:00:00",
+"end": "2016-04-03 16:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 0,
+"price": 0,
+"concession_additional": false,
+"start": "2016-04-04 10:00:00",
+"end": "2016-04-04 16:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 0,
+"price": 0,
+"concession_additional": false,
+"start": "2016-04-05 10:00:00",
+"end": "2016-04-05 16:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 0,
+"price": 0,
+"concession_additional": false,
+"start": "2016-04-06 10:00:00",
+"end": "2016-04-06 16:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 0,
+"price": 0,
+"concession_additional": false,
+"start": "2016-04-07 10:00:00",
+"end": "2016-04-07 16:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 0,
+"price": 0,
+"concession_additional": false,
+"start": "2016-04-08 10:00:00",
+"end": "2016-04-08 16:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 0,
+"price": 0,
+"concession_additional": false,
+"start": "2016-04-09 10:00:00",
+"end": "2016-04-09 16:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 0,
+"price": 0,
+"concession_additional": false,
+"start": "2016-04-10 10:00:00",
+"end": "2016-04-10 16:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 0,
+"price": 0,
+"concession_additional": false,
+"start": "2016-03-26 10:00:00",
+"end": "2016-03-26 16:00:00"
+}
+],
+"categories": {
+"keywords": [
+{
+"category": "Headings",
+"keywords": [
+"Society & Culture",
+"Technology & Engineering"
+]
+},
+{
+"category": "Specialisations",
+"keywords": [
+"Electronics",
+"Robotics"
+]
+},
+{
+"category": "Topics",
+"keywords": [
+"Computing",
+"Maker",
+"Population",
+"Software"
+]
+}
+],
+"subjects": [
+"Gadgets",
+"Innovation",
+"Art",
+"Design"
+],
+"strand_titles": [
+"Science and Culture"
+]
+},
+"disabled": {
+"signed_dates": null,
+"other_services_information": null,
+"captioning": null,
+"audio": null,
+"signed": null,
+"audio_dates": null,
+"other_services_dates": null,
+"captioning_dates": null,
+"other_services": null
+},
+"latitude": 55.884,
+"longitude": -3.50995
+},
+{
+"genre": "Workshop",
+"fringe_first": null,
+"performers_number": null,
+"artist_type": null,
+"sub_title": null,
+"update_times": {
+"genre": 1455019066,
+"age_category": 1455019066,
+"other": 1455019066,
+"fringe_first": 1455019066,
+"status": 1455019066,
+"web_links": 1455019066,
+"venue": 1455019066,
+"identity": 1455019066,
+"title": 1455019066,
+"description": 1455019066,
+"discounts": 1455019066,
+"images": 1455019066,
+"performances": 1455019066,
+"artist": 1455019066,
+"disabled": 1455019066
+},
+"twitter": null,
+"title": "Digital Maker Workshop",
+"updated": "2016-02-09 11:57:46",
+"description": "<p>Join <strong>Martin Evans</strong> and <strong>Phil Thompson </strong>from <em>Digital Maker</em> for a full on Maker Party! In this interactive workshop that’s ideal for 9-11 year olds, you’ll learn how computer programming works and get help with coding as you make your own computer game and get hands-on with some interactive electronics.</p>",
+"discounts": {
+"two_for_one": null,
+"friends": null,
+"schools": null,
+"passport": null,
+"group": null
+},
+"festival": "Edinburgh International Science Festival",
+"year": 2016,
+"artist": null,
+"warnings": null,
+"festival_id": "science",
+"age_category": "Ages 9+",
+"non_english": null,
+"website": "http://www.sciencefestival.co.uk/event-details/digital-maker-workshop",
+"status": "active",
+"performance_space": {
+"age_limit": null,
+"wheelchair_access": null,
+"name": null,
+"capacity": null,
+"age_limited": null
+},
+"code": "605",
+"venue": {
+"position": {
+"lon": -3.18228,
+"lat": 55.94
+},
+"phone": null,
+"web_address": null,
+"fax": null,
+"post_code": "EH9 1PL",
+"has_cafe": null,
+"cafe_description": null,
+"map_ref": null,
+"code": "Summerhall",
+"disabled_description": null,
+"box_office_fringe": false,
+"has_booking_over_phone": true,
+"address": "Summerhall Place\nEdinburgh",
+"email": null,
+"description": null,
+"has_booking_over_web": true,
+"name": "Summerhall",
+"box_office_opening": null,
+"has_booking_over_card": true,
+"has_bar": null
+},
+"sub_venue": null,
+"url": "https://api.edinburghfestivalcity.com/events/6ee2cd491442a4c8d7e420a3ff2910d7dc71b384",
+"country": null,
+"genre_tags": "Our Built Environment,Gadgets,Innovation,Mathematics",
+"description_teaser": "Learn how computer programming works, make your own computer game and get hands-on with some interactive electronics!",
+"images": {
+"27ee2263bd462fe2c042743088c7f1d0dd21a8e0": {
+"versions": {
+"medium-640": {
+"height": 640,
+"width": 640,
+"mime": "image/png",
+"type": "medium-640",
+"url": "//edfestimages.s3.amazonaws.com/27/ee/22/27ee2263bd462fe2c042743088c7f1d0dd21a8e0-medium-640.png"
+},
+"original": {
+"height": 800,
+"width": 800,
+"mime": "image/jpeg",
+"type": "original",
+"url": "//edfestimages.s3.amazonaws.com/27/ee/22/27ee2263bd462fe2c042743088c7f1d0dd21a8e0-original.jpg"
+},
+"small-320": {
+"height": 320,
+"width": 320,
+"mime": "image/png",
+"type": "small-320",
+"url": "//edfestimages.s3.amazonaws.com/27/ee/22/27ee2263bd462fe2c042743088c7f1d0dd21a8e0-small-320.png"
+},
+"thumb-100": {
+"height": 100,
+"width": 100,
+"mime": "image/png",
+"type": "thumb-100",
+"url": "//edfestimages.s3.amazonaws.com/27/ee/22/27ee2263bd462fe2c042743088c7f1d0dd21a8e0-thumb-100.png"
+},
+"square-75": {
+"height": 75,
+"width": 75,
+"mime": "image/png",
+"type": "square-75",
+"url": "//edfestimages.s3.amazonaws.com/27/ee/22/27ee2263bd462fe2c042743088c7f1d0dd21a8e0-square-75.png"
+},
+"square-150": {
+"height": 150,
+"width": 150,
+"mime": "image/png",
+"type": "square-150",
+"url": "//edfestimages.s3.amazonaws.com/27/ee/22/27ee2263bd462fe2c042743088c7f1d0dd21a8e0-square-150.png"
+}
+},
+"orientation": "square",
+"hash": "27ee2263bd462fe2c042743088c7f1d0dd21a8e0",
+"type": "thumb"
+},
+"481b74e766d114f6d4bb0c14f3a4ab732a216b8d": {
+"versions": {
+"large-1024": {
+"height": 213,
+"width": 1024,
+"mime": "image/png",
+"type": "large-1024",
+"url": "//edfestimages.s3.amazonaws.com/48/1b/74/481b74e766d114f6d4bb0c14f3a4ab732a216b8d-large-1024.png"
+},
+"medium-640": {
+"height": 133,
+"width": 640,
+"mime": "image/png",
+"type": "medium-640",
+"url": "//edfestimages.s3.amazonaws.com/48/1b/74/481b74e766d114f6d4bb0c14f3a4ab732a216b8d-medium-640.png"
+},
+"original": {
+"height": 400,
+"width": 1920,
+"mime": "image/jpeg",
+"type": "original",
+"url": "//edfestimages.s3.amazonaws.com/48/1b/74/481b74e766d114f6d4bb0c14f3a4ab732a216b8d-original.jpg"
+},
+"small-320": {
+"height": 67,
+"width": 320,
+"mime": "image/png",
+"type": "small-320",
+"url": "//edfestimages.s3.amazonaws.com/48/1b/74/481b74e766d114f6d4bb0c14f3a4ab732a216b8d-small-320.png"
+},
+"thumb-100": {
+"height": 21,
+"width": 100,
+"mime": "image/png",
+"type": "thumb-100",
+"url": "//edfestimages.s3.amazonaws.com/48/1b/74/481b74e766d114f6d4bb0c14f3a4ab732a216b8d-thumb-100.png"
+},
+"square-75": {
+"height": 75,
+"width": 75,
+"mime": "image/png",
+"type": "square-75",
+"url": "//edfestimages.s3.amazonaws.com/48/1b/74/481b74e766d114f6d4bb0c14f3a4ab732a216b8d-square-75.png"
+},
+"square-150": {
+"height": 150,
+"width": 150,
+"mime": "image/png",
+"type": "square-150",
+"url": "//edfestimages.s3.amazonaws.com/48/1b/74/481b74e766d114f6d4bb0c14f3a4ab732a216b8d-square-150.png"
+}
+},
+"orientation": "landscape",
+"hash": "481b74e766d114f6d4bb0c14f3a4ab732a216b8d",
+"type": "hero"
+}
+},
+"performances": [
+{
+"concession_family": false,
+"title": null,
+"concession": null,
+"price": 15,
+"concession_additional": false,
+"start": "2016-04-01 10:30:00",
+"end": "2016-04-01 12:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": null,
+"price": 15,
+"concession_additional": false,
+"start": "2016-04-01 14:30:00",
+"end": "2016-04-01 16:00:00"
+}
+],
+"categories": {
+"keywords": [
+{
+"category": "Headings",
+"keywords": [
+"Technology & Engineering"
+]
+},
+{
+"category": "Specialisations",
+"keywords": [
+"Electronics",
+"Robotics"
+]
+},
+{
+"category": "Topics",
+"keywords": [
+"Computing",
+"Maker",
+"Software"
+]
+}
+],
+"subjects": [
+"Gadgets",
+"Innovation",
+"Mathematics"
+],
+"strand_titles": [
+"Our Built Environment"
+]
+},
+"disabled": {
+"signed_dates": null,
+"other_services_information": null,
+"captioning": null,
+"audio": null,
+"signed": null,
+"audio_dates": null,
+"other_services_dates": null,
+"captioning_dates": null,
+"other_services": null
+},
+"latitude": 55.94,
+"longitude": -3.18228
+},
+{
+"genre": "Special Event",
+"fringe_first": null,
+"performers_number": null,
+"artist_type": null,
+"sub_title": null,
+"update_times": {
+"genre": 1455019066,
+"age_category": 1455019066,
+"other": 1455019066,
+"fringe_first": 1455019066,
+"status": 1455019066,
+"web_links": 1455019066,
+"venue": 1455019066,
+"identity": 1455019066,
+"title": 1455019066,
+"description": 1455019066,
+"discounts": 1455019066,
+"images": 1455019066,
+"performances": 1455019066,
+"artist": 1455019066,
+"disabled": 1455019066
+},
+"twitter": null,
+"title": "Space Day",
+"updated": "2016-02-09 11:57:46",
+"description": "<p>Blast-off into outer space with intergalactic activities for the whole family. An expert will be on hand to talk about the wonders of the universe and answer your questions about the cosmos and there will be out-of-this-world demonstrations from the Royal Observatory Edinburgh. Look out for our 'rocket in your pocket' space science busking around Summerhall as well as face painting, space suit dressing-up and a planetarium. </p>",
+"discounts": {
+"two_for_one": null,
+"friends": null,
+"schools": null,
+"passport": null,
+"group": null
+},
+"festival": "Edinburgh International Science Festival",
+"year": 2016,
+"artist": null,
+"warnings": null,
+"festival_id": "science",
+"age_category": "All Ages",
+"non_english": null,
+"website": "http://www.sciencefestival.co.uk/event-details/space-day",
+"status": "active",
+"performance_space": {
+"age_limit": null,
+"wheelchair_access": null,
+"name": null,
+"capacity": null,
+"age_limited": null
+},
+"code": "619",
+"venue": {
+"position": {
+"lon": -3.18228,
+"lat": 55.94
+},
+"phone": null,
+"web_address": null,
+"fax": null,
+"post_code": "EH9 1PL",
+"has_cafe": null,
+"cafe_description": null,
+"map_ref": null,
+"code": "Summerhall",
+"disabled_description": null,
+"box_office_fringe": false,
+"has_booking_over_phone": true,
+"address": "Summerhall Place\nEdinburgh",
+"email": null,
+"description": null,
+"has_booking_over_web": true,
+"name": "Summerhall",
+"box_office_opening": null,
+"has_booking_over_card": true,
+"has_bar": null
+},
+"sub_venue": null,
+"url": "https://api.edinburghfestivalcity.com/events/87ca871c3c7e324090bd831016f599f4a69b43a3",
+"country": null,
+"genre_tags": "Beyond Planet Earth,Astronomy,Our Universe,Space Exploration",
+"description_teaser": "Blast-off into outer space with intergalactic activities for the whole family",
+"images": {
+"37af5318256f1ec360bf5e40096e5c13583b53fd": {
+"versions": {
+"medium-640": {
+"height": 640,
+"width": 640,
+"mime": "image/png",
+"type": "medium-640",
+"url": "//edfestimages.s3.amazonaws.com/37/af/53/37af5318256f1ec360bf5e40096e5c13583b53fd-medium-640.png"
+},
+"original": {
+"height": 800,
+"width": 800,
+"mime": "image/jpeg",
+"type": "original",
+"url": "//edfestimages.s3.amazonaws.com/37/af/53/37af5318256f1ec360bf5e40096e5c13583b53fd-original.jpg"
+},
+"small-320": {
+"height": 320,
+"width": 320,
+"mime": "image/png",
+"type": "small-320",
+"url": "//edfestimages.s3.amazonaws.com/37/af/53/37af5318256f1ec360bf5e40096e5c13583b53fd-small-320.png"
+},
+"thumb-100": {
+"height": 100,
+"width": 100,
+"mime": "image/png",
+"type": "thumb-100",
+"url": "//edfestimages.s3.amazonaws.com/37/af/53/37af5318256f1ec360bf5e40096e5c13583b53fd-thumb-100.png"
+},
+"square-75": {
+"height": 75,
+"width": 75,
+"mime": "image/png",
+"type": "square-75",
+"url": "//edfestimages.s3.amazonaws.com/37/af/53/37af5318256f1ec360bf5e40096e5c13583b53fd-square-75.png"
+},
+"square-150": {
+"height": 150,
+"width": 150,
+"mime": "image/png",
+"type": "square-150",
+"url": "//edfestimages.s3.amazonaws.com/37/af/53/37af5318256f1ec360bf5e40096e5c13583b53fd-square-150.png"
+}
+},
+"orientation": "square",
+"hash": "37af5318256f1ec360bf5e40096e5c13583b53fd",
+"type": "thumb"
+},
+"d6cd1db76af4637d5364def59812d39823af216d": {
+"versions": {
+"large-1024": {
+"height": 261,
+"width": 1024,
+"mime": "image/png",
+"type": "large-1024",
+"url": "//edfestimages.s3.amazonaws.com/d6/cd/1d/d6cd1db76af4637d5364def59812d39823af216d-large-1024.png"
+},
+"medium-640": {
+"height": 163,
+"width": 640,
+"mime": "image/png",
+"type": "medium-640",
+"url": "//edfestimages.s3.amazonaws.com/d6/cd/1d/d6cd1db76af4637d5364def59812d39823af216d-medium-640.png"
+},
+"original": {
+"height": 490,
+"width": 1920,
+"mime": "image/jpeg",
+"type": "original",
+"url": "//edfestimages.s3.amazonaws.com/d6/cd/1d/d6cd1db76af4637d5364def59812d39823af216d-original.jpg"
+},
+"small-320": {
+"height": 82,
+"width": 320,
+"mime": "image/png",
+"type": "small-320",
+"url": "//edfestimages.s3.amazonaws.com/d6/cd/1d/d6cd1db76af4637d5364def59812d39823af216d-small-320.png"
+},
+"thumb-100": {
+"height": 26,
+"width": 100,
+"mime": "image/png",
+"type": "thumb-100",
+"url": "//edfestimages.s3.amazonaws.com/d6/cd/1d/d6cd1db76af4637d5364def59812d39823af216d-thumb-100.png"
+},
+"square-75": {
+"height": 75,
+"width": 75,
+"mime": "image/png",
+"type": "square-75",
+"url": "//edfestimages.s3.amazonaws.com/d6/cd/1d/d6cd1db76af4637d5364def59812d39823af216d-square-75.png"
+},
+"square-150": {
+"height": 150,
+"width": 150,
+"mime": "image/png",
+"type": "square-150",
+"url": "//edfestimages.s3.amazonaws.com/d6/cd/1d/d6cd1db76af4637d5364def59812d39823af216d-square-150.png"
+}
+},
+"orientation": "landscape",
+"hash": "d6cd1db76af4637d5364def59812d39823af216d",
+"type": "hero"
+}
+},
+"performances": [
+{
+"concession_family": false,
+"title": null,
+"concession": 0,
+"price": 0,
+"concession_additional": false,
+"start": "2016-04-02 10:00:00",
+"end": "2016-04-02 15:00:00"
+}
+],
+"categories": {
+"keywords": [
+{
+"category": "Headings",
+"keywords": [
+"Space"
+]
+},
+{
+"category": "Phenomena",
+"keywords": [
+"Comet",
+"Gravity"
+]
+},
+{
+"category": "Topics",
+"keywords": [
+"Mars",
+"Solar system",
+"Space craft",
+"Space tourism"
+]
+}
+],
+"subjects": [
+"Astronomy",
+"Our Universe",
+"Space Exploration"
+],
+"strand_titles": [
+"Beyond Planet Earth"
+]
+},
+"disabled": {
+"signed_dates": null,
+"other_services_information": null,
+"captioning": null,
+"audio": null,
+"signed": null,
+"audio_dates": null,
+"other_services_dates": null,
+"captioning_dates": null,
+"other_services": null
+},
+"latitude": 55.94,
+"longitude": -3.18228
+},
+{
+"genre": "Activity",
+"fringe_first": null,
+"performers_number": null,
+"artist_type": null,
+"sub_title": null,
+"update_times": {
+"genre": 1455019066,
+"age_category": 1455019066,
+"other": 1455019066,
+"fringe_first": 1455019066,
+"status": 1455019066,
+"web_links": 1455019066,
+"venue": 1455019066,
+"identity": 1455019066,
+"title": 1455019066,
+"description": 1455019066,
+"discounts": 1455019066,
+"images": 1455019066,
+"performances": 1455019066,
+"artist": 1455019066,
+"disabled": 1455019066
+},
+"twitter": null,
+"title": "Robot Lab",
+"updated": "2016-02-09 11:57:46",
+"description": "<p>Come and interact with robots from the Edinburgh Centre for Robotics. From an assembly line robot that wants to learn how to work with you, to cute football playing robots, learn about the many ways in which robots are trying to understand and imitate human beings.</p>",
+"discounts": {
+"two_for_one": null,
+"friends": null,
+"schools": null,
+"passport": null,
+"group": null
+},
+"festival": "Edinburgh International Science Festival",
+"year": 2016,
+"artist": null,
+"warnings": null,
+"festival_id": "science",
+"age_category": "All Ages",
+"non_english": null,
+"website": "http://www.sciencefestival.co.uk/event-details/robot-lab",
+"status": "active",
+"performance_space": {
+"age_limit": null,
+"wheelchair_access": null,
+"name": null,
+"capacity": null,
+"age_limited": null
+},
+"code": "646",
+"venue": {
+"position": {
+"lon": -3.18767,
+"lat": 55.9478
+},
+"phone": null,
+"web_address": null,
+"fax": null,
+"post_code": "EH1 1JF",
+"has_cafe": null,
+"cafe_description": null,
+"map_ref": null,
+"code": "National Museum of Scotland",
+"disabled_description": null,
+"box_office_fringe": false,
+"has_booking_over_phone": true,
+"address": "Chambers Street\nEdinburgh",
+"email": null,
+"description": null,
+"has_booking_over_web": true,
+"name": "National Museum of Scotland",
+"box_office_opening": null,
+"has_booking_over_card": true,
+"has_bar": null
+},
+"sub_venue": null,
+"url": "https://api.edinburghfestivalcity.com/events/891cc75ac5dbe471d8fa7701e75fbc9d9ca57769",
+"country": null,
+"genre_tags": "Science and Culture,Gadgets,Computing,Design,Engineering",
+"description_teaser": "Come and interact with robots from the Edinburgh Centre for Robotics.",
+"images": {
+"e4186e7f002eae92c2742301d56880cf6b559159": {
+"versions": {
+"large-1024": {
+"height": 213,
+"width": 1024,
+"mime": "image/png",
+"type": "large-1024",
+"url": "//edfestimages.s3.amazonaws.com/e4/18/6e/e4186e7f002eae92c2742301d56880cf6b559159-large-1024.png"
+},
+"medium-640": {
+"height": 133,
+"width": 640,
+"mime": "image/png",
+"type": "medium-640",
+"url": "//edfestimages.s3.amazonaws.com/e4/18/6e/e4186e7f002eae92c2742301d56880cf6b559159-medium-640.png"
+},
+"original": {
+"height": 400,
+"width": 1920,
+"mime": "image/jpeg",
+"type": "original",
+"url": "//edfestimages.s3.amazonaws.com/e4/18/6e/e4186e7f002eae92c2742301d56880cf6b559159-original.jpg"
+},
+"small-320": {
+"height": 67,
+"width": 320,
+"mime": "image/png",
+"type": "small-320",
+"url": "//edfestimages.s3.amazonaws.com/e4/18/6e/e4186e7f002eae92c2742301d56880cf6b559159-small-320.png"
+},
+"thumb-100": {
+"height": 21,
+"width": 100,
+"mime": "image/png",
+"type": "thumb-100",
+"url": "//edfestimages.s3.amazonaws.com/e4/18/6e/e4186e7f002eae92c2742301d56880cf6b559159-thumb-100.png"
+},
+"square-75": {
+"height": 75,
+"width": 75,
+"mime": "image/png",
+"type": "square-75",
+"url": "//edfestimages.s3.amazonaws.com/e4/18/6e/e4186e7f002eae92c2742301d56880cf6b559159-square-75.png"
+},
+"square-150": {
+"height": 150,
+"width": 150,
+"mime": "image/png",
+"type": "square-150",
+"url": "//edfestimages.s3.amazonaws.com/e4/18/6e/e4186e7f002eae92c2742301d56880cf6b559159-square-150.png"
+}
+},
+"orientation": "landscape",
+"hash": "e4186e7f002eae92c2742301d56880cf6b559159",
+"type": "hero"
+},
+"1777e0665bd1a690b936f07740a948b2e3d78503": {
+"versions": {
+"medium-640": {
+"height": 640,
+"width": 640,
+"mime": "image/png",
+"type": "medium-640",
+"url": "//edfestimages.s3.amazonaws.com/17/77/e0/1777e0665bd1a690b936f07740a948b2e3d78503-medium-640.png"
+},
+"original": {
+"height": 800,
+"width": 800,
+"mime": "image/jpeg",
+"type": "original",
+"url": "//edfestimages.s3.amazonaws.com/17/77/e0/1777e0665bd1a690b936f07740a948b2e3d78503-original.jpg"
+},
+"small-320": {
+"height": 320,
+"width": 320,
+"mime": "image/png",
+"type": "small-320",
+"url": "//edfestimages.s3.amazonaws.com/17/77/e0/1777e0665bd1a690b936f07740a948b2e3d78503-small-320.png"
+},
+"thumb-100": {
+"height": 100,
+"width": 100,
+"mime": "image/png",
+"type": "thumb-100",
+"url": "//edfestimages.s3.amazonaws.com/17/77/e0/1777e0665bd1a690b936f07740a948b2e3d78503-thumb-100.png"
+},
+"square-75": {
+"height": 75,
+"width": 75,
+"mime": "image/png",
+"type": "square-75",
+"url": "//edfestimages.s3.amazonaws.com/17/77/e0/1777e0665bd1a690b936f07740a948b2e3d78503-square-75.png"
+},
+"square-150": {
+"height": 150,
+"width": 150,
+"mime": "image/png",
+"type": "square-150",
+"url": "//edfestimages.s3.amazonaws.com/17/77/e0/1777e0665bd1a690b936f07740a948b2e3d78503-square-150.png"
+}
+},
+"orientation": "square",
+"hash": "1777e0665bd1a690b936f07740a948b2e3d78503",
+"type": "thumb"
+}
+},
+"performances": [
+{
+"concession_family": false,
+"title": null,
+"concession": 0,
+"price": 0,
+"concession_additional": false,
+"start": "2016-03-26 10:00:00",
+"end": "2016-03-26 16:30:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 0,
+"price": 0,
+"concession_additional": false,
+"start": "2016-03-27 10:00:00",
+"end": "2016-03-27 16:30:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 0,
+"price": 0,
+"concession_additional": false,
+"start": "2016-03-28 10:00:00",
+"end": "2016-03-28 16:30:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 0,
+"price": 0,
+"concession_additional": false,
+"start": "2016-03-29 10:00:00",
+"end": "2016-03-29 16:30:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 0,
+"price": 0,
+"concession_additional": false,
+"start": "2016-03-30 10:00:00",
+"end": "2016-03-30 16:30:00"
+}
+],
+"categories": {
+"keywords": [
+{
+"category": "Headings",
+"keywords": [
+"Society & Culture",
+"Technology & Engineering"
+]
+},
+{
+"category": "Specialisations",
+"keywords": [
+"Electronics",
+"Robotics"
+]
+},
+{
+"category": "Topics",
+"keywords": [
+"Computing",
+"Maker",
+"Software"
+]
+}
+],
+"subjects": [
+"Gadgets",
+"Computing",
+"Design",
+"Engineering"
+],
+"strand_titles": [
+"Science and Culture"
+]
+},
+"disabled": {
+"signed_dates": null,
+"other_services_information": null,
+"captioning": null,
+"audio": null,
+"signed": null,
+"audio_dates": null,
+"other_services_dates": null,
+"captioning_dates": null,
+"other_services": null
+},
+"latitude": 55.9478,
+"longitude": -3.18767
+},
+{
+"genre": "Activity",
+"fringe_first": null,
+"performers_number": null,
+"artist_type": null,
+"sub_title": null,
+"update_times": {
+"genre": 1455019066,
+"age_category": 1455019066,
+"other": 1455019066,
+"fringe_first": 1455019066,
+"status": 1455019066,
+"web_links": 1455019066,
+"venue": 1455019066,
+"identity": 1455019066,
+"title": 1455019066,
+"description": 1455019066,
+"discounts": 1455019066,
+"images": 1455019066,
+"performances": 1455019066,
+"artist": 1455019066,
+"disabled": 1455019066
+},
+"twitter": null,
+"title": "Destination Space: Life in Space",
+"updated": "2016-02-09 11:57:46",
+"description": "<p>Do you have what it takes to become an astronaut? Join us to find out. Astronauts must train for years to be ready to live and work in space and the hard work doesn’t stop when they get there. Take part in our astronaut challenges and discover some of the gruesome but fascinating things that can happen to the human body when we leave planet Earth behind.</p>",
+"discounts": {
+"two_for_one": null,
+"friends": null,
+"schools": null,
+"passport": null,
+"group": null
+},
+"festival": "Edinburgh International Science Festival",
+"year": 2016,
+"artist": null,
+"warnings": null,
+"festival_id": "science",
+"age_category": "Ages 5+",
+"non_english": null,
+"website": "http://www.sciencefestival.co.uk/event-details/destination-space-life-in-space",
+"status": "active",
+"performance_space": {
+"age_limit": null,
+"wheelchair_access": null,
+"name": null,
+"capacity": null,
+"age_limited": null
+},
+"code": "645",
+"venue": {
+"position": {
+"lon": -3.17314,
+"lat": 55.9401
+},
+"phone": null,
+"web_address": null,
+"fax": null,
+"post_code": "EH8 8AS",
+"has_cafe": null,
+"cafe_description": null,
+"map_ref": null,
+"code": "Dynamic Earth",
+"disabled_description": null,
+"box_office_fringe": false,
+"has_booking_over_phone": true,
+"address": "112-116 Holyrood Rd\nEdinburgh",
+"email": null,
+"description": null,
+"has_booking_over_web": true,
+"name": "Dynamic Earth",
+"box_office_opening": null,
+"has_booking_over_card": true,
+"has_bar": null
+},
+"sub_venue": null,
+"url": "https://api.edinburghfestivalcity.com/events/931ed3324821d34a3edb9bf2f3f413c3466493e2",
+"country": null,
+"genre_tags": "Being Human,Beyond Planet Earth,Our Universe,Space Exploration,Human Biology,Health & Diseases",
+"description_teaser": "Take our astronaut challenges and discover some of the gruesome but fascinating things that can happen to the human body in space.",
+"images": {
+"23cb8065eb9954e949d373c2a4b686d57c609c87": {
+"versions": {
+"medium-640": {
+"height": 640,
+"width": 640,
+"mime": "image/png",
+"type": "medium-640",
+"url": "//edfestimages.s3.amazonaws.com/23/cb/80/23cb8065eb9954e949d373c2a4b686d57c609c87-medium-640.png"
+},
+"original": {
+"height": 800,
+"width": 800,
+"mime": "image/jpeg",
+"type": "original",
+"url": "//edfestimages.s3.amazonaws.com/23/cb/80/23cb8065eb9954e949d373c2a4b686d57c609c87-original.jpg"
+},
+"small-320": {
+"height": 320,
+"width": 320,
+"mime": "image/png",
+"type": "small-320",
+"url": "//edfestimages.s3.amazonaws.com/23/cb/80/23cb8065eb9954e949d373c2a4b686d57c609c87-small-320.png"
+},
+"thumb-100": {
+"height": 100,
+"width": 100,
+"mime": "image/png",
+"type": "thumb-100",
+"url": "//edfestimages.s3.amazonaws.com/23/cb/80/23cb8065eb9954e949d373c2a4b686d57c609c87-thumb-100.png"
+},
+"square-75": {
+"height": 75,
+"width": 75,
+"mime": "image/png",
+"type": "square-75",
+"url": "//edfestimages.s3.amazonaws.com/23/cb/80/23cb8065eb9954e949d373c2a4b686d57c609c87-square-75.png"
+},
+"square-150": {
+"height": 150,
+"width": 150,
+"mime": "image/png",
+"type": "square-150",
+"url": "//edfestimages.s3.amazonaws.com/23/cb/80/23cb8065eb9954e949d373c2a4b686d57c609c87-square-150.png"
+}
+},
+"orientation": "square",
+"hash": "23cb8065eb9954e949d373c2a4b686d57c609c87",
+"type": "thumb"
+},
+"405059f0197e990862a62cb0b6b78f32ba526604": {
+"versions": {
+"large-1024": {
+"height": 213,
+"width": 1024,
+"mime": "image/png",
+"type": "large-1024",
+"url": "//edfestimages.s3.amazonaws.com/40/50/59/405059f0197e990862a62cb0b6b78f32ba526604-large-1024.png"
+},
+"medium-640": {
+"height": 133,
+"width": 640,
+"mime": "image/png",
+"type": "medium-640",
+"url": "//edfestimages.s3.amazonaws.com/40/50/59/405059f0197e990862a62cb0b6b78f32ba526604-medium-640.png"
+},
+"original": {
+"height": 400,
+"width": 1920,
+"mime": "image/jpeg",
+"type": "original",
+"url": "//edfestimages.s3.amazonaws.com/40/50/59/405059f0197e990862a62cb0b6b78f32ba526604-original.jpg"
+},
+"small-320": {
+"height": 67,
+"width": 320,
+"mime": "image/png",
+"type": "small-320",
+"url": "//edfestimages.s3.amazonaws.com/40/50/59/405059f0197e990862a62cb0b6b78f32ba526604-small-320.png"
+},
+"thumb-100": {
+"height": 21,
+"width": 100,
+"mime": "image/png",
+"type": "thumb-100",
+"url": "//edfestimages.s3.amazonaws.com/40/50/59/405059f0197e990862a62cb0b6b78f32ba526604-thumb-100.png"
+},
+"square-75": {
+"height": 75,
+"width": 75,
+"mime": "image/png",
+"type": "square-75",
+"url": "//edfestimages.s3.amazonaws.com/40/50/59/405059f0197e990862a62cb0b6b78f32ba526604-square-75.png"
+},
+"square-150": {
+"height": 150,
+"width": 150,
+"mime": "image/png",
+"type": "square-150",
+"url": "//edfestimages.s3.amazonaws.com/40/50/59/405059f0197e990862a62cb0b6b78f32ba526604-square-150.png"
+}
+},
+"orientation": "landscape",
+"hash": "405059f0197e990862a62cb0b6b78f32ba526604",
+"type": "hero"
+}
+},
+"performances": [
+{
+"concession_family": false,
+"title": null,
+"concession": 0,
+"price": 0,
+"concession_additional": false,
+"start": "2016-04-01 10:00:00",
+"end": "2016-04-01 16:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 0,
+"price": 0,
+"concession_additional": false,
+"start": "2016-04-08 10:00:00",
+"end": "2016-04-08 16:00:00"
+}
+],
+"categories": {
+"keywords": [
+{
+"category": "Headings",
+"keywords": [
+"Mind & Body",
+"Space"
+]
+},
+{
+"category": "Phenomena",
+"keywords": [
+"Gravity"
+]
+},
+{
+"category": "Specialisations",
+"keywords": [
+"Anatomy"
+]
+},
+{
+"category": "Topics",
+"keywords": [
+"Energy",
+"Nutrition",
+"Space craft",
+"Wellbeing"
+]
+}
+],
+"subjects": [
+"Our Universe",
+"Space Exploration",
+"Human Biology",
+"Health & Diseases"
+],
+"strand_titles": [
+"Being Human",
+"Beyond Planet Earth"
+]
+},
+"disabled": {
+"signed_dates": null,
+"other_services_information": null,
+"captioning": null,
+"audio": null,
+"signed": null,
+"audio_dates": null,
+"other_services_dates": null,
+"captioning_dates": null,
+"other_services": null
+},
+"latitude": 55.9401,
+"longitude": -3.17314
+},
+{
+"genre": "Show",
+"fringe_first": null,
+"performers_number": null,
+"artist_type": null,
+"sub_title": null,
+"update_times": {
+"genre": 1455019066,
+"age_category": 1455019066,
+"other": 1455019066,
+"fringe_first": 1455019066,
+"status": 1455019066,
+"web_links": 1455019066,
+"venue": 1455019066,
+"identity": 1455019066,
+"title": 1455019066,
+"description": 1455019066,
+"discounts": 1455019066,
+"images": 1455019066,
+"performances": 1455019066,
+"artist": 1455019066,
+"disabled": 1455019066
+},
+"twitter": null,
+"title": "Murderous Maths with Kjartan Poskitt",
+"updated": "2016-02-09 11:57:46",
+"description": "<p>Author of the <em>Murderous Maths</em> books<strong> Kjartan Poskitt </strong>introduces you to the people who really did put the Murder into Maths!  He’ll also be showing off some amazing tricks and weird facts including how to make a dragon from a cinema ticket... But no nasty sums  – guaranteed!    </p>\n\n<p><em>“A stand-up maths routine has children and teachers in fits of laughter…”  </em>The Times Educational Supplement  </p>",
+"discounts": {
+"two_for_one": null,
+"friends": null,
+"schools": null,
+"passport": null,
+"group": null
+},
+"festival": "Edinburgh International Science Festival",
+"year": 2016,
+"artist": null,
+"warnings": null,
+"festival_id": "science",
+"age_category": "Ages 8+",
+"non_english": null,
+"website": "http://www.sciencefestival.co.uk/event-details/murderous-maths-with-kjartan-poskitt",
+"status": "active",
+"performance_space": {
+"age_limit": null,
+"wheelchair_access": null,
+"name": null,
+"capacity": null,
+"age_limited": null
+},
+"code": "574",
+"venue": {
+"position": {
+"lon": -3.18228,
+"lat": 55.94
+},
+"phone": null,
+"web_address": null,
+"fax": null,
+"post_code": "EH9 1PL",
+"has_cafe": null,
+"cafe_description": null,
+"map_ref": null,
+"code": "Summerhall",
+"disabled_description": null,
+"box_office_fringe": false,
+"has_booking_over_phone": true,
+"address": "Summerhall Place\nEdinburgh",
+"email": null,
+"description": null,
+"has_booking_over_web": true,
+"name": "Summerhall",
+"box_office_opening": null,
+"has_booking_over_card": true,
+"has_bar": null
+},
+"sub_venue": null,
+"url": "https://api.edinburghfestivalcity.com/events/93446e2b0a9c91a40ddb7a8d5b4b6c7320219f0c",
+"country": null,
+"genre_tags": "Science and Culture,Mathematics,Entertainment & Leisure",
+"description_teaser": "Author of the Murderous Maths books Kjartan Poskitt introduces you to the people who really did put the murder into maths!",
+"images": {
+"8f25e46f29c8f922f807998842ea83ef8d92b88c": {
+"versions": {
+"large-1024": {
+"height": 213,
+"width": 1024,
+"mime": "image/png",
+"type": "large-1024",
+"url": "//edfestimages.s3.amazonaws.com/8f/25/e4/8f25e46f29c8f922f807998842ea83ef8d92b88c-large-1024.png"
+},
+"medium-640": {
+"height": 133,
+"width": 640,
+"mime": "image/png",
+"type": "medium-640",
+"url": "//edfestimages.s3.amazonaws.com/8f/25/e4/8f25e46f29c8f922f807998842ea83ef8d92b88c-medium-640.png"
+},
+"original": {
+"height": 400,
+"width": 1920,
+"mime": "image/jpeg",
+"type": "original",
+"url": "//edfestimages.s3.amazonaws.com/8f/25/e4/8f25e46f29c8f922f807998842ea83ef8d92b88c-original.jpg"
+},
+"small-320": {
+"height": 67,
+"width": 320,
+"mime": "image/png",
+"type": "small-320",
+"url": "//edfestimages.s3.amazonaws.com/8f/25/e4/8f25e46f29c8f922f807998842ea83ef8d92b88c-small-320.png"
+},
+"thumb-100": {
+"height": 21,
+"width": 100,
+"mime": "image/png",
+"type": "thumb-100",
+"url": "//edfestimages.s3.amazonaws.com/8f/25/e4/8f25e46f29c8f922f807998842ea83ef8d92b88c-thumb-100.png"
+},
+"square-75": {
+"height": 75,
+"width": 75,
+"mime": "image/png",
+"type": "square-75",
+"url": "//edfestimages.s3.amazonaws.com/8f/25/e4/8f25e46f29c8f922f807998842ea83ef8d92b88c-square-75.png"
+},
+"square-150": {
+"height": 150,
+"width": 150,
+"mime": "image/png",
+"type": "square-150",
+"url": "//edfestimages.s3.amazonaws.com/8f/25/e4/8f25e46f29c8f922f807998842ea83ef8d92b88c-square-150.png"
+}
+},
+"orientation": "landscape",
+"hash": "8f25e46f29c8f922f807998842ea83ef8d92b88c",
+"type": "hero"
+},
+"8246617616590fbf1c438be40fc4e1a3183c077b": {
+"versions": {
+"medium-640": {
+"height": 640,
+"width": 640,
+"mime": "image/png",
+"type": "medium-640",
+"url": "//edfestimages.s3.amazonaws.com/82/46/61/8246617616590fbf1c438be40fc4e1a3183c077b-medium-640.png"
+},
+"original": {
+"height": 800,
+"width": 800,
+"mime": "image/jpeg",
+"type": "original",
+"url": "//edfestimages.s3.amazonaws.com/82/46/61/8246617616590fbf1c438be40fc4e1a3183c077b-original.jpg"
+},
+"small-320": {
+"height": 320,
+"width": 320,
+"mime": "image/png",
+"type": "small-320",
+"url": "//edfestimages.s3.amazonaws.com/82/46/61/8246617616590fbf1c438be40fc4e1a3183c077b-small-320.png"
+},
+"thumb-100": {
+"height": 100,
+"width": 100,
+"mime": "image/png",
+"type": "thumb-100",
+"url": "//edfestimages.s3.amazonaws.com/82/46/61/8246617616590fbf1c438be40fc4e1a3183c077b-thumb-100.png"
+},
+"square-75": {
+"height": 75,
+"width": 75,
+"mime": "image/png",
+"type": "square-75",
+"url": "//edfestimages.s3.amazonaws.com/82/46/61/8246617616590fbf1c438be40fc4e1a3183c077b-square-75.png"
+},
+"square-150": {
+"height": 150,
+"width": 150,
+"mime": "image/png",
+"type": "square-150",
+"url": "//edfestimages.s3.amazonaws.com/82/46/61/8246617616590fbf1c438be40fc4e1a3183c077b-square-150.png"
+}
+},
+"orientation": "square",
+"hash": "8246617616590fbf1c438be40fc4e1a3183c077b",
+"type": "thumb"
+}
+},
+"performances": [
+{
+"concession_family": false,
+"title": null,
+"concession": null,
+"price": 6,
+"concession_additional": false,
+"start": "2016-03-26 14:30:00",
+"end": "2016-03-26 15:30:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": null,
+"price": 6,
+"concession_additional": false,
+"start": "2016-03-26 12:30:00",
+"end": "2016-03-26 13:30:00"
+}
+],
+"categories": {
+"keywords": [
+{
+"category": "Headings",
+"keywords": [
+"Society & Culture",
+"Technology & Engineering"
+]
+},
+{
+"category": "Specialisations",
+"keywords": [
+"Logic"
+]
+},
+{
+"category": "Vibe / Atmosphere",
+"keywords": [
+"Show"
+]
+}
+],
+"subjects": [
+"Mathematics",
+"Entertainment & Leisure"
+],
+"strand_titles": [
+"Science and Culture"
+]
+},
+"disabled": {
+"signed_dates": null,
+"other_services_information": null,
+"captioning": null,
+"audio": null,
+"signed": null,
+"audio_dates": null,
+"other_services_dates": null,
+"captioning_dates": null,
+"other_services": null
+},
+"latitude": 55.94,
+"longitude": -3.18228
+},
+{
+"genre": "Other",
+"fringe_first": null,
+"performers_number": null,
+"artist_type": null,
+"sub_title": null,
+"update_times": {
+"genre": 1455019066,
+"age_category": 1455019066,
+"other": 1455019066,
+"fringe_first": 1455019066,
+"status": 1455019066,
+"web_links": 1455019066,
+"venue": 1455019066,
+"identity": 1455019066,
+"title": 1455019066,
+"description": 1455019066,
+"discounts": 1455019066,
+"images": 1455019066,
+"performances": 1455019066,
+"artist": 1455019066,
+"disabled": 1455019066
+},
+"twitter": null,
+"title": "Dr Book",
+"updated": "2016-02-09 11:57:46",
+"description": "<p>Stuck for something to read? Looking for new and exciting authors to explore? Then visit Edinburgh City Libraries' very own <em>Dr Book</em> where our book doctors will dispense advice and suggestions to cure all your reading ailments. You’ll even get your own reading prescription to take away with you. Consultations available for children, teens and parents looking for reading ideas for their young ones too. No appointment necessary! </p>",
+"discounts": {
+"two_for_one": null,
+"friends": null,
+"schools": null,
+"passport": null,
+"group": null
+},
+"festival": "Edinburgh International Science Festival",
+"year": 2016,
+"artist": null,
+"warnings": null,
+"festival_id": "science",
+"age_category": "All Ages",
+"non_english": null,
+"website": "http://www.sciencefestival.co.uk/event-details/dr-book",
+"status": "active",
+"performance_space": {
+"age_limit": null,
+"wheelchair_access": null,
+"name": null,
+"capacity": null,
+"age_limited": null
+},
+"code": "579",
+"venue": {
+"position": {
+"lon": -3.18228,
+"lat": 55.94
+},
+"phone": null,
+"web_address": null,
+"fax": null,
+"post_code": "EH9 1PL",
+"has_cafe": null,
+"cafe_description": null,
+"map_ref": null,
+"code": "Summerhall",
+"disabled_description": null,
+"box_office_fringe": false,
+"has_booking_over_phone": true,
+"address": "Summerhall Place\nEdinburgh",
+"email": null,
+"description": null,
+"has_booking_over_web": true,
+"name": "Summerhall",
+"box_office_opening": null,
+"has_booking_over_card": true,
+"has_bar": null
+},
+"sub_venue": null,
+"url": "https://api.edinburghfestivalcity.com/events/dae887cabe2542d19685f7a7b1efc3606476b847",
+"country": null,
+"genre_tags": "Science and Culture,Entertainment & Leisure",
+"description_teaser": "Visit Edinburgh City Libraries&#39; Dr Book where our book doctors will dispense advice and suggestions to cure all your reading ailments.",
+"images": {
+"24047e6cba9ddd04215697152f9878c022338dca": {
+"versions": {
+"large-1024": {
+"height": 213,
+"width": 1024,
+"mime": "image/png",
+"type": "large-1024",
+"url": "//edfestimages.s3.amazonaws.com/24/04/7e/24047e6cba9ddd04215697152f9878c022338dca-large-1024.png"
+},
+"medium-640": {
+"height": 133,
+"width": 640,
+"mime": "image/png",
+"type": "medium-640",
+"url": "//edfestimages.s3.amazonaws.com/24/04/7e/24047e6cba9ddd04215697152f9878c022338dca-medium-640.png"
+},
+"original": {
+"height": 400,
+"width": 1920,
+"mime": "image/jpeg",
+"type": "original",
+"url": "//edfestimages.s3.amazonaws.com/24/04/7e/24047e6cba9ddd04215697152f9878c022338dca-original.jpg"
+},
+"small-320": {
+"height": 67,
+"width": 320,
+"mime": "image/png",
+"type": "small-320",
+"url": "//edfestimages.s3.amazonaws.com/24/04/7e/24047e6cba9ddd04215697152f9878c022338dca-small-320.png"
+},
+"thumb-100": {
+"height": 21,
+"width": 100,
+"mime": "image/png",
+"type": "thumb-100",
+"url": "//edfestimages.s3.amazonaws.com/24/04/7e/24047e6cba9ddd04215697152f9878c022338dca-thumb-100.png"
+},
+"square-75": {
+"height": 75,
+"width": 75,
+"mime": "image/png",
+"type": "square-75",
+"url": "//edfestimages.s3.amazonaws.com/24/04/7e/24047e6cba9ddd04215697152f9878c022338dca-square-75.png"
+},
+"square-150": {
+"height": 150,
+"width": 150,
+"mime": "image/png",
+"type": "square-150",
+"url": "//edfestimages.s3.amazonaws.com/24/04/7e/24047e6cba9ddd04215697152f9878c022338dca-square-150.png"
+}
+},
+"orientation": "landscape",
+"hash": "24047e6cba9ddd04215697152f9878c022338dca",
+"type": "hero"
+},
+"b4be848f85bc17654a83813bea9d768083434e3e": {
+"versions": {
+"medium-640": {
+"height": 640,
+"width": 640,
+"mime": "image/png",
+"type": "medium-640",
+"url": "//edfestimages.s3.amazonaws.com/b4/be/84/b4be848f85bc17654a83813bea9d768083434e3e-medium-640.png"
+},
+"original": {
+"height": 800,
+"width": 800,
+"mime": "image/jpeg",
+"type": "original",
+"url": "//edfestimages.s3.amazonaws.com/b4/be/84/b4be848f85bc17654a83813bea9d768083434e3e-original.jpg"
+},
+"small-320": {
+"height": 320,
+"width": 320,
+"mime": "image/png",
+"type": "small-320",
+"url": "//edfestimages.s3.amazonaws.com/b4/be/84/b4be848f85bc17654a83813bea9d768083434e3e-small-320.png"
+},
+"thumb-100": {
+"height": 100,
+"width": 100,
+"mime": "image/png",
+"type": "thumb-100",
+"url": "//edfestimages.s3.amazonaws.com/b4/be/84/b4be848f85bc17654a83813bea9d768083434e3e-thumb-100.png"
+},
+"square-75": {
+"height": 75,
+"width": 75,
+"mime": "image/png",
+"type": "square-75",
+"url": "//edfestimages.s3.amazonaws.com/b4/be/84/b4be848f85bc17654a83813bea9d768083434e3e-square-75.png"
+},
+"square-150": {
+"height": 150,
+"width": 150,
+"mime": "image/png",
+"type": "square-150",
+"url": "//edfestimages.s3.amazonaws.com/b4/be/84/b4be848f85bc17654a83813bea9d768083434e3e-square-150.png"
+}
+},
+"orientation": "square",
+"hash": "b4be848f85bc17654a83813bea9d768083434e3e",
+"type": "thumb"
+}
+},
+"performances": [
+{
+"concession_family": false,
+"title": null,
+"concession": 0,
+"price": 0,
+"concession_additional": false,
+"start": "2016-04-07 10:00:00",
+"end": "2016-04-07 13:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 0,
+"price": 0,
+"concession_additional": false,
+"start": "2016-04-06 10:00:00",
+"end": "2016-04-06 13:00:00"
+}
+],
+"categories": {
+"keywords": [
+{
+"category": "Headings",
+"keywords": [
+"Society & Culture"
+]
+},
+{
+"category": "Phenomena",
+"keywords": [
+"Language"
+]
+},
+{
+"category": "Specialisations",
+"keywords": [
+"Literature"
+]
+},
+{
+"category": "Topics",
+"keywords": [
+"Education"
+]
+}
+],
+"subjects": [
+"Entertainment & Leisure"
+],
+"strand_titles": [
+"Science and Culture"
+]
+},
+"disabled": {
+"signed_dates": null,
+"other_services_information": null,
+"captioning": null,
+"audio": null,
+"signed": null,
+"audio_dates": null,
+"other_services_dates": null,
+"captioning_dates": null,
+"other_services": null
+},
+"latitude": 55.94,
+"longitude": -3.18228
+},
+{
+"genre": "Discussion",
+"fringe_first": null,
+"performers_number": null,
+"artist_type": null,
+"sub_title": null,
+"update_times": {
+"genre": 1455019066,
+"age_category": 1455019066,
+"other": 1455019066,
+"fringe_first": 1455019066,
+"status": 1455019066,
+"web_links": 1455019066,
+"venue": 1455019066,
+"identity": 1455019066,
+"title": 1455019066,
+"description": 1455019066,
+"discounts": 1455019066,
+"images": 1455019066,
+"performances": 1455019066,
+"artist": 1455019066,
+"disabled": 1455019066
+},
+"twitter": null,
+"title": "Electric Automotive Adventures with Robert Llewellyn",
+"updated": "2016-02-09 11:57:46",
+"description": "<p>Join <strong>Robert Llewellyn</strong> – actor, comedian, writer and star of hit Fringe show <em>Electric Cars are Rubbish. Aren't They?</em> – as he makes a special stop at ECCI, the UK’s leading hub for low carbon ideas, to recharge his batteries and share stories of his electric automotive adventures.</p>",
+"discounts": {
+"two_for_one": null,
+"friends": null,
+"schools": null,
+"passport": null,
+"group": null
+},
+"festival": "Edinburgh International Science Festival",
+"year": 2016,
+"artist": null,
+"warnings": null,
+"festival_id": "science",
+"age_category": "Ages 14+",
+"non_english": null,
+"website": "http://www.sciencefestival.co.uk/event-details/electric-automotive-adventures-with-robert-llewellyn",
+"status": "active",
+"performance_space": {
+"age_limit": null,
+"wheelchair_access": null,
+"name": null,
+"capacity": null,
+"age_limited": null
+},
+"code": "707",
+"venue": {
+"position": {
+"lon": -3.186426,
+"lat": 55.947924
+},
+"phone": null,
+"web_address": null,
+"fax": null,
+"post_code": "EH1 1LZ",
+"has_cafe": null,
+"cafe_description": null,
+"map_ref": null,
+"code": "Edinburgh Centre for Carbon Innovation",
+"disabled_description": null,
+"box_office_fringe": false,
+"has_booking_over_phone": true,
+"address": "High School Yards\nInfirmary Street\nEdinburgh",
+"email": null,
+"description": null,
+"has_booking_over_web": true,
+"name": "Edinburgh Centre for Carbon Innovation",
+"box_office_opening": null,
+"has_booking_over_card": true,
+"has_bar": null
+},
+"sub_venue": null,
+"url": "https://api.edinburghfestivalcity.com/events/11459b81f7cf8e67e486531188786b97266f6912",
+"country": null,
+"genre_tags": "Our Built Environment,Design,Global Issues",
+"description_teaser": "Join Robert Llewellyn as he makes a special stop at ECCI",
+"images": {
+"a3e63a2ea61c0e15e55dd444df526891e25e5b0d": {
+"versions": {
+"medium-640": {
+"height": 640,
+"width": 640,
+"mime": "image/png",
+"type": "medium-640",
+"url": "//edfestimages.s3.amazonaws.com/a3/e6/3a/a3e63a2ea61c0e15e55dd444df526891e25e5b0d-medium-640.png"
+},
+"original": {
+"height": 800,
+"width": 800,
+"mime": "image/jpeg",
+"type": "original",
+"url": "//edfestimages.s3.amazonaws.com/a3/e6/3a/a3e63a2ea61c0e15e55dd444df526891e25e5b0d-original.jpg"
+},
+"small-320": {
+"height": 320,
+"width": 320,
+"mime": "image/png",
+"type": "small-320",
+"url": "//edfestimages.s3.amazonaws.com/a3/e6/3a/a3e63a2ea61c0e15e55dd444df526891e25e5b0d-small-320.png"
+},
+"thumb-100": {
+"height": 100,
+"width": 100,
+"mime": "image/png",
+"type": "thumb-100",
+"url": "//edfestimages.s3.amazonaws.com/a3/e6/3a/a3e63a2ea61c0e15e55dd444df526891e25e5b0d-thumb-100.png"
+},
+"square-75": {
+"height": 75,
+"width": 75,
+"mime": "image/png",
+"type": "square-75",
+"url": "//edfestimages.s3.amazonaws.com/a3/e6/3a/a3e63a2ea61c0e15e55dd444df526891e25e5b0d-square-75.png"
+},
+"square-150": {
+"height": 150,
+"width": 150,
+"mime": "image/png",
+"type": "square-150",
+"url": "//edfestimages.s3.amazonaws.com/a3/e6/3a/a3e63a2ea61c0e15e55dd444df526891e25e5b0d-square-150.png"
+}
+},
+"orientation": "square",
+"hash": "a3e63a2ea61c0e15e55dd444df526891e25e5b0d",
+"type": "thumb"
+},
+"75cca71611c7f9303edb74179b1c5f6d3e175c71": {
+"versions": {
+"large-1024": {
+"height": 213,
+"width": 1024,
+"mime": "image/png",
+"type": "large-1024",
+"url": "//edfestimages.s3.amazonaws.com/75/cc/a7/75cca71611c7f9303edb74179b1c5f6d3e175c71-large-1024.png"
+},
+"medium-640": {
+"height": 133,
+"width": 640,
+"mime": "image/png",
+"type": "medium-640",
+"url": "//edfestimages.s3.amazonaws.com/75/cc/a7/75cca71611c7f9303edb74179b1c5f6d3e175c71-medium-640.png"
+},
+"original": {
+"height": 400,
+"width": 1920,
+"mime": "image/jpeg",
+"type": "original",
+"url": "//edfestimages.s3.amazonaws.com/75/cc/a7/75cca71611c7f9303edb74179b1c5f6d3e175c71-original.jpg"
+},
+"small-320": {
+"height": 67,
+"width": 320,
+"mime": "image/png",
+"type": "small-320",
+"url": "//edfestimages.s3.amazonaws.com/75/cc/a7/75cca71611c7f9303edb74179b1c5f6d3e175c71-small-320.png"
+},
+"thumb-100": {
+"height": 21,
+"width": 100,
+"mime": "image/png",
+"type": "thumb-100",
+"url": "//edfestimages.s3.amazonaws.com/75/cc/a7/75cca71611c7f9303edb74179b1c5f6d3e175c71-thumb-100.png"
+},
+"square-75": {
+"height": 75,
+"width": 75,
+"mime": "image/png",
+"type": "square-75",
+"url": "//edfestimages.s3.amazonaws.com/75/cc/a7/75cca71611c7f9303edb74179b1c5f6d3e175c71-square-75.png"
+},
+"square-150": {
+"height": 150,
+"width": 150,
+"mime": "image/png",
+"type": "square-150",
+"url": "//edfestimages.s3.amazonaws.com/75/cc/a7/75cca71611c7f9303edb74179b1c5f6d3e175c71-square-150.png"
+}
+},
+"orientation": "landscape",
+"hash": "75cca71611c7f9303edb74179b1c5f6d3e175c71",
+"type": "hero"
+}
+},
+"performances": [
+{
+"concession_family": false,
+"title": null,
+"concession": null,
+"price": 5,
+"concession_additional": false,
+"start": "2016-04-09 12:00:00",
+"end": "2016-04-09 13:30:00"
+}
+],
+"categories": {
+"keywords": [
+{
+"category": "Headings",
+"keywords": [
+"Society & Culture"
+]
+},
+{
+"category": "Phenomena",
+"keywords": [
+"Electricity"
+]
+},
+{
+"category": "Specialisations",
+"keywords": [
+"City planning",
+"Electronics"
+]
+},
+{
+"category": "Topics",
+"keywords": [
+"Transport"
+]
+}
+],
+"subjects": [
+"Design",
+"Global Issues"
+],
+"strand_titles": [
+"Our Built Environment"
+]
+},
+"disabled": {
+"signed_dates": null,
+"other_services_information": null,
+"captioning": null,
+"audio": null,
+"signed": null,
+"audio_dates": null,
+"other_services_dates": null,
+"captioning_dates": null,
+"other_services": null
+},
+"latitude": 55.947924,
+"longitude": -3.186426
+},
+{
+"genre": "Discussion",
+"fringe_first": null,
+"performers_number": null,
+"artist_type": null,
+"sub_title": null,
+"update_times": {
+"genre": 1455019066,
+"age_category": 1455019066,
+"other": 1455019066,
+"fringe_first": 1455019066,
+"status": 1455019066,
+"web_links": 1455019066,
+"venue": 1455019066,
+"identity": 1455019066,
+"title": 1455019066,
+"description": 1455019066,
+"discounts": 1455019066,
+"images": 1455019066,
+"performances": 1455019066,
+"artist": 1455019066,
+"disabled": 1455019066
+},
+"twitter": null,
+"title": "A Very Short Introduction to...Moons",
+"updated": "2016-02-09 11:57:46",
+"description": "<p>Moons are far more common than planets in our Solar System. On the moons of the giant outer planets, scientists have glimpsed volcanic activity on Io, found oceans of water on Titan, and captured photos of icy geysers bursting from Enceladus. Join <strong>David Rothery </strong>as he gives a fascinating introduction to the moons of our Solar System, beginning with the early discoveries of Galileo and the early use of Jupiter's moons to establish position at sea and to estimate the speed of light. </p>",
+"discounts": {
+"two_for_one": null,
+"friends": null,
+"schools": null,
+"passport": null,
+"group": null
+},
+"festival": "Edinburgh International Science Festival",
+"year": 2016,
+"artist": null,
+"warnings": null,
+"festival_id": "science",
+"age_category": "Ages 14+",
+"non_english": null,
+"website": "http://www.sciencefestival.co.uk/event-details/a-very-short-introduction-tomoons",
+"status": "active",
+"performance_space": {
+"age_limit": null,
+"wheelchair_access": null,
+"name": null,
+"capacity": null,
+"age_limited": null
+},
+"code": "715",
+"venue": {
+"position": {
+"lon": -3.18228,
+"lat": 55.94
+},
+"phone": null,
+"web_address": null,
+"fax": null,
+"post_code": "EH9 1PL",
+"has_cafe": null,
+"cafe_description": null,
+"map_ref": null,
+"code": "Summerhall",
+"disabled_description": null,
+"box_office_fringe": false,
+"has_booking_over_phone": true,
+"address": "Summerhall Place\nEdinburgh",
+"email": null,
+"description": null,
+"has_booking_over_web": true,
+"name": "Summerhall",
+"box_office_opening": null,
+"has_booking_over_card": true,
+"has_bar": null
+},
+"sub_venue": null,
+"url": "https://api.edinburghfestivalcity.com/events/1280834a17a4c933b372bd958c1f3cfd545552e9",
+"country": null,
+"genre_tags": "Beyond Planet Earth,Our Universe,Space Exploration",
+"description_teaser": "Join David Rothery as he gives a fascinating introduction to the moons of our Solar System",
+"images": {
+"f1d5fc2b707248fea18d4071ed05d1cf56bcbb89": {
+"versions": {
+"medium-640": {
+"height": 640,
+"width": 640,
+"mime": "image/png",
+"type": "medium-640",
+"url": "//edfestimages.s3.amazonaws.com/f1/d5/fc/f1d5fc2b707248fea18d4071ed05d1cf56bcbb89-medium-640.png"
+},
+"original": {
+"height": 800,
+"width": 800,
+"mime": "image/jpeg",
+"type": "original",
+"url": "//edfestimages.s3.amazonaws.com/f1/d5/fc/f1d5fc2b707248fea18d4071ed05d1cf56bcbb89-original.jpg"
+},
+"small-320": {
+"height": 320,
+"width": 320,
+"mime": "image/png",
+"type": "small-320",
+"url": "//edfestimages.s3.amazonaws.com/f1/d5/fc/f1d5fc2b707248fea18d4071ed05d1cf56bcbb89-small-320.png"
+},
+"thumb-100": {
+"height": 100,
+"width": 100,
+"mime": "image/png",
+"type": "thumb-100",
+"url": "//edfestimages.s3.amazonaws.com/f1/d5/fc/f1d5fc2b707248fea18d4071ed05d1cf56bcbb89-thumb-100.png"
+},
+"square-75": {
+"height": 75,
+"width": 75,
+"mime": "image/png",
+"type": "square-75",
+"url": "//edfestimages.s3.amazonaws.com/f1/d5/fc/f1d5fc2b707248fea18d4071ed05d1cf56bcbb89-square-75.png"
+},
+"square-150": {
+"height": 150,
+"width": 150,
+"mime": "image/png",
+"type": "square-150",
+"url": "//edfestimages.s3.amazonaws.com/f1/d5/fc/f1d5fc2b707248fea18d4071ed05d1cf56bcbb89-square-150.png"
+}
+},
+"orientation": "square",
+"hash": "f1d5fc2b707248fea18d4071ed05d1cf56bcbb89",
+"type": "thumb"
+},
+"095e41b006c52077a8608a6b48544f2adc2bc4f5": {
+"versions": {
+"large-1024": {
+"height": 261,
+"width": 1024,
+"mime": "image/png",
+"type": "large-1024",
+"url": "//edfestimages.s3.amazonaws.com/09/5e/41/095e41b006c52077a8608a6b48544f2adc2bc4f5-large-1024.png"
+},
+"medium-640": {
+"height": 163,
+"width": 640,
+"mime": "image/png",
+"type": "medium-640",
+"url": "//edfestimages.s3.amazonaws.com/09/5e/41/095e41b006c52077a8608a6b48544f2adc2bc4f5-medium-640.png"
+},
+"original": {
+"height": 490,
+"width": 1920,
+"mime": "image/jpeg",
+"type": "original",
+"url": "//edfestimages.s3.amazonaws.com/09/5e/41/095e41b006c52077a8608a6b48544f2adc2bc4f5-original.jpg"
+},
+"small-320": {
+"height": 82,
+"width": 320,
+"mime": "image/png",
+"type": "small-320",
+"url": "//edfestimages.s3.amazonaws.com/09/5e/41/095e41b006c52077a8608a6b48544f2adc2bc4f5-small-320.png"
+},
+"thumb-100": {
+"height": 26,
+"width": 100,
+"mime": "image/png",
+"type": "thumb-100",
+"url": "//edfestimages.s3.amazonaws.com/09/5e/41/095e41b006c52077a8608a6b48544f2adc2bc4f5-thumb-100.png"
+},
+"square-75": {
+"height": 75,
+"width": 75,
+"mime": "image/png",
+"type": "square-75",
+"url": "//edfestimages.s3.amazonaws.com/09/5e/41/095e41b006c52077a8608a6b48544f2adc2bc4f5-square-75.png"
+},
+"square-150": {
+"height": 150,
+"width": 150,
+"mime": "image/png",
+"type": "square-150",
+"url": "//edfestimages.s3.amazonaws.com/09/5e/41/095e41b006c52077a8608a6b48544f2adc2bc4f5-square-150.png"
+}
+},
+"orientation": "landscape",
+"hash": "095e41b006c52077a8608a6b48544f2adc2bc4f5",
+"type": "hero"
+}
+},
+"performances": [
+{
+"concession_family": false,
+"title": null,
+"concession": null,
+"price": 6,
+"concession_additional": false,
+"start": "2016-04-08 13:00:00",
+"end": "2016-04-08 14:00:00"
+}
+],
+"categories": {
+"keywords": [
+{
+"category": "Headings",
+"keywords": [
+"Space"
+]
+},
+{
+"category": "Phenomena",
+"keywords": [
+"Gravity"
+]
+},
+{
+"category": "Topics",
+"keywords": [
+"Solar system",
+"Space tourism"
+]
+}
+],
+"subjects": [
+"Our Universe",
+"Space Exploration"
+],
+"strand_titles": [
+"Beyond Planet Earth"
+]
+},
+"disabled": {
+"signed_dates": null,
+"other_services_information": null,
+"captioning": null,
+"audio": null,
+"signed": null,
+"audio_dates": null,
+"other_services_dates": null,
+"captioning_dates": null,
+"other_services": null
+},
+"latitude": 55.94,
+"longitude": -3.18228
+},
+{
+"genre": "Activity",
+"fringe_first": null,
+"performers_number": null,
+"artist_type": null,
+"sub_title": null,
+"update_times": {
+"genre": 1455019066,
+"age_category": 1455019066,
+"other": 1455019066,
+"fringe_first": 1455019066,
+"status": 1455019066,
+"web_links": 1455019066,
+"venue": 1455019066,
+"identity": 1455019066,
+"title": 1455019066,
+"description": 1455019066,
+"discounts": 1455019066,
+"images": 1455019066,
+"performances": 1455019066,
+"artist": 1455019066,
+"disabled": 1455019066
+},
+"twitter": null,
+"title": "Children and Technology",
+"updated": "2016-02-09 11:57:46",
+"description": "<p>Join researchers from Edinburgh’s Children and Technology group to explore, debate and play with some recent technologies designed especially for young children; from toys that teach computing to activity games using mobiles. Both children and adults are invited to share thoughts and experiences of technology in children’s lives.</p>",
+"discounts": {
+"two_for_one": null,
+"friends": null,
+"schools": null,
+"passport": null,
+"group": null
+},
+"festival": "Edinburgh International Science Festival",
+"year": 2016,
+"artist": null,
+"warnings": null,
+"festival_id": "science",
+"age_category": "All Ages",
+"non_english": null,
+"website": "http://www.sciencefestival.co.uk/event-details/children-and-technology",
+"status": "active",
+"performance_space": {
+"age_limit": null,
+"wheelchair_access": null,
+"name": null,
+"capacity": null,
+"age_limited": null
+},
+"code": "656",
+"venue": {
+"position": {
+"lon": -3.18767,
+"lat": 55.9478
+},
+"phone": null,
+"web_address": null,
+"fax": null,
+"post_code": "EH1 1JF",
+"has_cafe": null,
+"cafe_description": null,
+"map_ref": null,
+"code": "National Museum of Scotland",
+"disabled_description": null,
+"box_office_fringe": false,
+"has_booking_over_phone": true,
+"address": "Chambers Street\nEdinburgh",
+"email": null,
+"description": null,
+"has_booking_over_web": true,
+"name": "National Museum of Scotland",
+"box_office_opening": null,
+"has_booking_over_card": true,
+"has_bar": null
+},
+"sub_venue": null,
+"url": "https://api.edinburghfestivalcity.com/events/2156055cd01f36dabfd78b8aca51d022a837f82d",
+"country": null,
+"genre_tags": "Our Built Environment,Gadgets,Entertainment & Leisure",
+"description_teaser": "Come along to explore, debate and play with some recent technologies designed especially for young children",
+"images": {
+"9581ef3e10e70f5c1aa79cf9e37abaf8e2c9c279": {
+"versions": {
+"medium-640": {
+"height": 640,
+"width": 640,
+"mime": "image/png",
+"type": "medium-640",
+"url": "//edfestimages.s3.amazonaws.com/95/81/ef/9581ef3e10e70f5c1aa79cf9e37abaf8e2c9c279-medium-640.png"
+},
+"original": {
+"height": 800,
+"width": 800,
+"mime": "image/jpeg",
+"type": "original",
+"url": "//edfestimages.s3.amazonaws.com/95/81/ef/9581ef3e10e70f5c1aa79cf9e37abaf8e2c9c279-original.jpg"
+},
+"small-320": {
+"height": 320,
+"width": 320,
+"mime": "image/png",
+"type": "small-320",
+"url": "//edfestimages.s3.amazonaws.com/95/81/ef/9581ef3e10e70f5c1aa79cf9e37abaf8e2c9c279-small-320.png"
+},
+"thumb-100": {
+"height": 100,
+"width": 100,
+"mime": "image/png",
+"type": "thumb-100",
+"url": "//edfestimages.s3.amazonaws.com/95/81/ef/9581ef3e10e70f5c1aa79cf9e37abaf8e2c9c279-thumb-100.png"
+},
+"square-75": {
+"height": 75,
+"width": 75,
+"mime": "image/png",
+"type": "square-75",
+"url": "//edfestimages.s3.amazonaws.com/95/81/ef/9581ef3e10e70f5c1aa79cf9e37abaf8e2c9c279-square-75.png"
+},
+"square-150": {
+"height": 150,
+"width": 150,
+"mime": "image/png",
+"type": "square-150",
+"url": "//edfestimages.s3.amazonaws.com/95/81/ef/9581ef3e10e70f5c1aa79cf9e37abaf8e2c9c279-square-150.png"
+}
+},
+"orientation": "square",
+"hash": "9581ef3e10e70f5c1aa79cf9e37abaf8e2c9c279",
+"type": "thumb"
+},
+"86fcc24340f7354294e3934986f5d7701b8f6c70": {
+"versions": {
+"large-1024": {
+"height": 213,
+"width": 1024,
+"mime": "image/png",
+"type": "large-1024",
+"url": "//edfestimages.s3.amazonaws.com/86/fc/c2/86fcc24340f7354294e3934986f5d7701b8f6c70-large-1024.png"
+},
+"medium-640": {
+"height": 133,
+"width": 640,
+"mime": "image/png",
+"type": "medium-640",
+"url": "//edfestimages.s3.amazonaws.com/86/fc/c2/86fcc24340f7354294e3934986f5d7701b8f6c70-medium-640.png"
+},
+"original": {
+"height": 400,
+"width": 1920,
+"mime": "image/jpeg",
+"type": "original",
+"url": "//edfestimages.s3.amazonaws.com/86/fc/c2/86fcc24340f7354294e3934986f5d7701b8f6c70-original.jpg"
+},
+"small-320": {
+"height": 67,
+"width": 320,
+"mime": "image/png",
+"type": "small-320",
+"url": "//edfestimages.s3.amazonaws.com/86/fc/c2/86fcc24340f7354294e3934986f5d7701b8f6c70-small-320.png"
+},
+"thumb-100": {
+"height": 21,
+"width": 100,
+"mime": "image/png",
+"type": "thumb-100",
+"url": "//edfestimages.s3.amazonaws.com/86/fc/c2/86fcc24340f7354294e3934986f5d7701b8f6c70-thumb-100.png"
+},
+"square-75": {
+"height": 75,
+"width": 75,
+"mime": "image/png",
+"type": "square-75",
+"url": "//edfestimages.s3.amazonaws.com/86/fc/c2/86fcc24340f7354294e3934986f5d7701b8f6c70-square-75.png"
+},
+"square-150": {
+"height": 150,
+"width": 150,
+"mime": "image/png",
+"type": "square-150",
+"url": "//edfestimages.s3.amazonaws.com/86/fc/c2/86fcc24340f7354294e3934986f5d7701b8f6c70-square-150.png"
+}
+},
+"orientation": "landscape",
+"hash": "86fcc24340f7354294e3934986f5d7701b8f6c70",
+"type": "hero"
+}
+},
+"performances": [
+{
+"concession_family": false,
+"title": null,
+"concession": 0,
+"price": 0,
+"concession_additional": false,
+"start": "2016-03-31 10:00:00",
+"end": "2016-03-31 16:30:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 0,
+"price": 0,
+"concession_additional": false,
+"start": "2016-04-01 10:00:00",
+"end": "2016-04-01 16:30:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 0,
+"price": 0,
+"concession_additional": false,
+"start": "2016-04-02 10:00:00",
+"end": "2016-04-02 16:30:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 0,
+"price": 0,
+"concession_additional": false,
+"start": "2016-04-03 10:00:00",
+"end": "2016-04-03 16:30:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 0,
+"price": 0,
+"concession_additional": false,
+"start": "2016-04-04 10:00:00",
+"end": "2016-04-04 16:30:00"
+}
+],
+"categories": {
+"keywords": [
+{
+"category": "Headings",
+"keywords": [
+"Society & Culture",
+"Technology & Engineering"
+]
+},
+{
+"category": "Topics",
+"keywords": [
+"Communications",
+"Computing",
+"Education",
+"Maker",
+"Software"
+]
+},
+{
+"category": "Vibe / Atmosphere",
+"keywords": [
+"Mass participation"
+]
+}
+],
+"subjects": [
+"Gadgets",
+"Entertainment & Leisure"
+],
+"strand_titles": [
+"Our Built Environment"
+]
+},
+"disabled": {
+"signed_dates": null,
+"other_services_information": null,
+"captioning": null,
+"audio": null,
+"signed": null,
+"audio_dates": null,
+"other_services_dates": null,
+"captioning_dates": null,
+"other_services": null
+},
+"latitude": 55.9478,
+"longitude": -3.18767
+},
+{
+"genre": "Discussion",
+"fringe_first": null,
+"performers_number": null,
+"artist_type": null,
+"sub_title": null,
+"update_times": {
+"genre": 1455019065,
+"age_category": 1455019065,
+"other": 1455019065,
+"fringe_first": 1455019065,
+"status": 1455019065,
+"web_links": 1455019065,
+"venue": 1455019065,
+"identity": 1455019065,
+"title": 1455019065,
+"description": 1455019065,
+"discounts": 1455019065,
+"images": 1455019065,
+"performances": 1455019065,
+"artist": 1455019065,
+"disabled": 1455019065
+},
+"twitter": null,
+"title": "Gut Feeling",
+"updated": "2016-02-09 11:57:45",
+"description": "<p>Discover the important role your gut plays in your overall health. <strong>Prof Adam Hart</strong>, author of <em>The Life of Poo</em>, will chair this fascinating panel event, supported by the British Society for Immunology, featuring immunologist <strong>Prof Fiona Powrie FRS</strong> and microbiologist <strong>Dr Lindsay Hall</strong>. You’ll be introduced to bacterial biology and the immune system, followed by a discussion on the latest research connecting gut bacteria with inflammatory bowel disease, Crohn's disease, asthma, eczema and even mental health. There will be a chance to ask your own question and an opportunity to interact with a demonstration wall, led by Prof Powrie, after the event.</p>",
+"discounts": {
+"two_for_one": null,
+"friends": null,
+"schools": null,
+"passport": null,
+"group": null
+},
+"festival": "Edinburgh International Science Festival",
+"year": 2016,
+"artist": null,
+"warnings": null,
+"festival_id": "science",
+"age_category": "Ages 14+",
+"non_english": null,
+"website": "http://www.sciencefestival.co.uk/event-details/gut-feeling",
+"status": "active",
+"performance_space": {
+"age_limit": null,
+"wheelchair_access": null,
+"name": null,
+"capacity": null,
+"age_limited": null
+},
+"code": "538",
+"venue": {
+"position": {
+"lon": -3.18767,
+"lat": 55.9478
+},
+"phone": null,
+"web_address": null,
+"fax": null,
+"post_code": "EH1 1JF",
+"has_cafe": null,
+"cafe_description": null,
+"map_ref": null,
+"code": "National Museum of Scotland",
+"disabled_description": null,
+"box_office_fringe": false,
+"has_booking_over_phone": true,
+"address": "Chambers Street\nEdinburgh",
+"email": null,
+"description": null,
+"has_booking_over_web": true,
+"name": "National Museum of Scotland",
+"box_office_opening": null,
+"has_booking_over_card": true,
+"has_bar": null
+},
+"sub_venue": null,
+"url": "https://api.edinburghfestivalcity.com/events/ebf9cc9e7a67726f3d51bb08046f81e396070f77",
+"country": null,
+"genre_tags": "Being Human,Human Biology,Health & Diseases,Mind",
+"description_teaser": "A panel event exploring our complex relationship with the bacteria in our gut",
+"images": {
+"7a0fba06ce6352f02cb40fa817e48e73cdbd3d0c": {
+"versions": {
+"large-1024": {
+"height": 213,
+"width": 1024,
+"mime": "image/png",
+"type": "large-1024",
+"url": "//edfestimages.s3.amazonaws.com/7a/0f/ba/7a0fba06ce6352f02cb40fa817e48e73cdbd3d0c-large-1024.png"
+},
+"medium-640": {
+"height": 133,
+"width": 640,
+"mime": "image/png",
+"type": "medium-640",
+"url": "//edfestimages.s3.amazonaws.com/7a/0f/ba/7a0fba06ce6352f02cb40fa817e48e73cdbd3d0c-medium-640.png"
+},
+"original": {
+"height": 400,
+"width": 1920,
+"mime": "image/jpeg",
+"type": "original",
+"url": "//edfestimages.s3.amazonaws.com/7a/0f/ba/7a0fba06ce6352f02cb40fa817e48e73cdbd3d0c-original.jpg"
+},
+"small-320": {
+"height": 67,
+"width": 320,
+"mime": "image/png",
+"type": "small-320",
+"url": "//edfestimages.s3.amazonaws.com/7a/0f/ba/7a0fba06ce6352f02cb40fa817e48e73cdbd3d0c-small-320.png"
+},
+"thumb-100": {
+"height": 21,
+"width": 100,
+"mime": "image/png",
+"type": "thumb-100",
+"url": "//edfestimages.s3.amazonaws.com/7a/0f/ba/7a0fba06ce6352f02cb40fa817e48e73cdbd3d0c-thumb-100.png"
+},
+"square-75": {
+"height": 75,
+"width": 75,
+"mime": "image/png",
+"type": "square-75",
+"url": "//edfestimages.s3.amazonaws.com/7a/0f/ba/7a0fba06ce6352f02cb40fa817e48e73cdbd3d0c-square-75.png"
+},
+"square-150": {
+"height": 150,
+"width": 150,
+"mime": "image/png",
+"type": "square-150",
+"url": "//edfestimages.s3.amazonaws.com/7a/0f/ba/7a0fba06ce6352f02cb40fa817e48e73cdbd3d0c-square-150.png"
+}
+},
+"orientation": "landscape",
+"hash": "7a0fba06ce6352f02cb40fa817e48e73cdbd3d0c",
+"type": "hero"
+},
+"2aa3e9c350d09fe63c5b2f87ad474e273177a94b": {
+"versions": {
+"medium-640": {
+"height": 640,
+"width": 640,
+"mime": "image/png",
+"type": "medium-640",
+"url": "//edfestimages.s3.amazonaws.com/2a/a3/e9/2aa3e9c350d09fe63c5b2f87ad474e273177a94b-medium-640.png"
+},
+"original": {
+"height": 800,
+"width": 800,
+"mime": "image/jpeg",
+"type": "original",
+"url": "//edfestimages.s3.amazonaws.com/2a/a3/e9/2aa3e9c350d09fe63c5b2f87ad474e273177a94b-original.jpg"
+},
+"small-320": {
+"height": 320,
+"width": 320,
+"mime": "image/png",
+"type": "small-320",
+"url": "//edfestimages.s3.amazonaws.com/2a/a3/e9/2aa3e9c350d09fe63c5b2f87ad474e273177a94b-small-320.png"
+},
+"thumb-100": {
+"height": 100,
+"width": 100,
+"mime": "image/png",
+"type": "thumb-100",
+"url": "//edfestimages.s3.amazonaws.com/2a/a3/e9/2aa3e9c350d09fe63c5b2f87ad474e273177a94b-thumb-100.png"
+},
+"square-75": {
+"height": 75,
+"width": 75,
+"mime": "image/png",
+"type": "square-75",
+"url": "//edfestimages.s3.amazonaws.com/2a/a3/e9/2aa3e9c350d09fe63c5b2f87ad474e273177a94b-square-75.png"
+},
+"square-150": {
+"height": 150,
+"width": 150,
+"mime": "image/png",
+"type": "square-150",
+"url": "//edfestimages.s3.amazonaws.com/2a/a3/e9/2aa3e9c350d09fe63c5b2f87ad474e273177a94b-square-150.png"
+}
+},
+"orientation": "square",
+"hash": "2aa3e9c350d09fe63c5b2f87ad474e273177a94b",
+"type": "thumb"
+}
+},
+"performances": [
+{
+"concession_family": false,
+"title": null,
+"concession": 6.5,
+"price": 8.5,
+"concession_additional": false,
+"start": "2016-04-09 12:30:00",
+"end": "2016-04-09 14:00:00"
+}
+],
+"categories": {
+"keywords": [
+{
+"category": "Headings",
+"keywords": [
+"Mind & Body"
+]
+},
+{
+"category": "Phenomena",
+"keywords": [
+"Infection"
+]
+},
+{
+"category": "Specialisations",
+"keywords": [
+"Biology",
+"Medicine",
+"Mental health"
+]
+}
+],
+"subjects": [
+"Human Biology",
+"Health & Diseases",
+"Mind"
+],
+"strand_titles": [
+"Being Human"
+]
+},
+"disabled": {
+"signed_dates": null,
+"other_services_information": null,
+"captioning": null,
+"audio": null,
+"signed": null,
+"audio_dates": null,
+"other_services_dates": null,
+"captioning_dates": null,
+"other_services": null
+},
+"latitude": 55.9478,
+"longitude": -3.18767
+},
+{
+"genre": "Discussion",
+"fringe_first": null,
+"performers_number": null,
+"artist_type": null,
+"sub_title": null,
+"update_times": {
+"genre": 1455019066,
+"age_category": 1455019066,
+"other": 1455019066,
+"fringe_first": 1455019066,
+"status": 1455019066,
+"web_links": 1455019066,
+"venue": 1455019066,
+"identity": 1455019066,
+"title": 1455019066,
+"description": 1455019066,
+"discounts": 1455019066,
+"images": 1455019066,
+"performances": 1455019066,
+"artist": 1455019066,
+"disabled": 1455019066
+},
+"twitter": null,
+"title": "Battlefield pathology in the First World War",
+"updated": "2016-02-09 11:57:46",
+"description": "<p>In the First World War, flamethrowers and poison gas were used on a large scale for the first time. This new injuries created by this new weaponry were accompanied by a remarkable co-evolution of surgical practice and treatments. <strong>Prof Donaldson</strong> will discuss the main types of battlefield wounds and the tissue injury, repair and infection that resulted. Warning: This talk will show graphic images of wounds and their consequences which some people may find distressing.</p>",
+"discounts": {
+"two_for_one": null,
+"friends": null,
+"schools": null,
+"passport": null,
+"group": null
+},
+"festival": "Edinburgh International Science Festival",
+"year": 2016,
+"artist": null,
+"warnings": null,
+"festival_id": "science",
+"age_category": "Ages 14+",
+"non_english": null,
+"website": "http://www.sciencefestival.co.uk/event-details/battlefield-pathology-in-the-first-world-war",
+"status": "active",
+"performance_space": {
+"age_limit": null,
+"wheelchair_access": null,
+"name": null,
+"capacity": null,
+"age_limited": null
+},
+"code": "691",
+"venue": {
+"position": {
+"lon": -3.175567,
+"lat": 55.951973
+},
+"phone": null,
+"web_address": null,
+"fax": null,
+"post_code": "EH99 1SP",
+"has_cafe": null,
+"cafe_description": null,
+"map_ref": null,
+"code": "The Scottish Parliament",
+"disabled_description": null,
+"box_office_fringe": false,
+"has_booking_over_phone": true,
+"address": "Edinburgh",
+"email": null,
+"description": null,
+"has_booking_over_web": true,
+"name": "The Scottish Parliament",
+"box_office_opening": null,
+"has_booking_over_card": true,
+"has_bar": null
+},
+"sub_venue": null,
+"url": "https://api.edinburghfestivalcity.com/events/74a378c550345e4a6f1d0d8c2deb34c70d1e10e0",
+"country": null,
+"genre_tags": "Being Human,Health & Diseases,History of Science",
+"description_teaser": "Learn about the battlefield wounds and co-evolution of surgical practice and treatment that resulted from new weaponry in the First World War.",
+"images": {
+"48b94cff848ce0f931c12e3b504993b31752f995": {
+"versions": {
+"medium-640": {
+"height": 640,
+"width": 640,
+"mime": "image/png",
+"type": "medium-640",
+"url": "//edfestimages.s3.amazonaws.com/48/b9/4c/48b94cff848ce0f931c12e3b504993b31752f995-medium-640.png"
+},
+"original": {
+"height": 800,
+"width": 800,
+"mime": "image/jpeg",
+"type": "original",
+"url": "//edfestimages.s3.amazonaws.com/48/b9/4c/48b94cff848ce0f931c12e3b504993b31752f995-original.jpg"
+},
+"small-320": {
+"height": 320,
+"width": 320,
+"mime": "image/png",
+"type": "small-320",
+"url": "//edfestimages.s3.amazonaws.com/48/b9/4c/48b94cff848ce0f931c12e3b504993b31752f995-small-320.png"
+},
+"thumb-100": {
+"height": 100,
+"width": 100,
+"mime": "image/png",
+"type": "thumb-100",
+"url": "//edfestimages.s3.amazonaws.com/48/b9/4c/48b94cff848ce0f931c12e3b504993b31752f995-thumb-100.png"
+},
+"square-75": {
+"height": 75,
+"width": 75,
+"mime": "image/png",
+"type": "square-75",
+"url": "//edfestimages.s3.amazonaws.com/48/b9/4c/48b94cff848ce0f931c12e3b504993b31752f995-square-75.png"
+},
+"square-150": {
+"height": 150,
+"width": 150,
+"mime": "image/png",
+"type": "square-150",
+"url": "//edfestimages.s3.amazonaws.com/48/b9/4c/48b94cff848ce0f931c12e3b504993b31752f995-square-150.png"
+}
+},
+"orientation": "square",
+"hash": "48b94cff848ce0f931c12e3b504993b31752f995",
+"type": "thumb"
+},
+"97c802a330a75db69097af253110906c9fbc5b57": {
+"versions": {
+"large-1024": {
+"height": 213,
+"width": 1024,
+"mime": "image/png",
+"type": "large-1024",
+"url": "//edfestimages.s3.amazonaws.com/97/c8/02/97c802a330a75db69097af253110906c9fbc5b57-large-1024.png"
+},
+"medium-640": {
+"height": 133,
+"width": 640,
+"mime": "image/png",
+"type": "medium-640",
+"url": "//edfestimages.s3.amazonaws.com/97/c8/02/97c802a330a75db69097af253110906c9fbc5b57-medium-640.png"
+},
+"original": {
+"height": 400,
+"width": 1920,
+"mime": "image/jpeg",
+"type": "original",
+"url": "//edfestimages.s3.amazonaws.com/97/c8/02/97c802a330a75db69097af253110906c9fbc5b57-original.jpg"
+},
+"small-320": {
+"height": 67,
+"width": 320,
+"mime": "image/png",
+"type": "small-320",
+"url": "//edfestimages.s3.amazonaws.com/97/c8/02/97c802a330a75db69097af253110906c9fbc5b57-small-320.png"
+},
+"thumb-100": {
+"height": 21,
+"width": 100,
+"mime": "image/png",
+"type": "thumb-100",
+"url": "//edfestimages.s3.amazonaws.com/97/c8/02/97c802a330a75db69097af253110906c9fbc5b57-thumb-100.png"
+},
+"square-75": {
+"height": 75,
+"width": 75,
+"mime": "image/png",
+"type": "square-75",
+"url": "//edfestimages.s3.amazonaws.com/97/c8/02/97c802a330a75db69097af253110906c9fbc5b57-square-75.png"
+},
+"square-150": {
+"height": 150,
+"width": 150,
+"mime": "image/png",
+"type": "square-150",
+"url": "//edfestimages.s3.amazonaws.com/97/c8/02/97c802a330a75db69097af253110906c9fbc5b57-square-150.png"
+}
+},
+"orientation": "landscape",
+"hash": "97c802a330a75db69097af253110906c9fbc5b57",
+"type": "hero"
+}
+},
+"performances": [
+{
+"concession_family": false,
+"title": null,
+"concession": null,
+"price": 0,
+"concession_additional": false,
+"start": "2016-04-09 14:00:00",
+"end": "2016-04-09 15:00:00"
+}
+],
+"categories": {
+"keywords": [
+{
+"category": "Headings",
+"keywords": [
+"Mind & Body",
+"Society & Culture"
+]
+},
+{
+"category": "Phenomena",
+"keywords": [
+"Death",
+"Infection"
+]
+},
+{
+"category": "Specialisations",
+"keywords": [
+"Anatomy",
+"Biology",
+"Medicine",
+"Pharmacology"
+]
+},
+{
+"category": "Topics",
+"keywords": [
+"Visual art"
+]
+}
+],
+"subjects": [
+"Health & Diseases",
+"History of Science"
+],
+"strand_titles": [
+"Being Human"
+]
+},
+"disabled": {
+"signed_dates": null,
+"other_services_information": null,
+"captioning": null,
+"audio": null,
+"signed": null,
+"audio_dates": null,
+"other_services_dates": null,
+"captioning_dates": null,
+"other_services": null
+},
+"latitude": 55.951973,
+"longitude": -3.175567
+},
+{
+"genre": "Special Event",
+"fringe_first": null,
+"performers_number": null,
+"artist_type": null,
+"sub_title": null,
+"update_times": {
+"genre": 1455019065,
+"age_category": 1455019065,
+"other": 1455019065,
+"fringe_first": 1455019065,
+"status": 1455019065,
+"web_links": 1455019065,
+"venue": 1455035746,
+"identity": 1455019065,
+"title": 1455019065,
+"description": 1455035814,
+"discounts": 1455019065,
+"images": 1455019065,
+"performances": 1455019065,
+"artist": 1455019065,
+"disabled": 1455019065
+},
+"twitter": null,
+"title": "Quackery and bad medicine",
+"updated": "2016-02-09 16:36:54",
+"description": "<p>Discover Edinburgh’s history of quackery and fake medicine in this fascinating event. In a behind-the-scenes tour of the Royal College of Physicians you will get the chance to see unusual equipment, early medical texts and illustrations revealing how charlatans plied their trade. Find out how people were persuaded to spend money on unicorn horn, live doves and Miracle Whirling Sprays.</p>",
+"discounts": {
+"two_for_one": null,
+"friends": null,
+"schools": null,
+"passport": null,
+"group": null
+},
+"festival": "Edinburgh International Science Festival",
+"year": 2016,
+"artist": null,
+"warnings": null,
+"festival_id": "science",
+"age_category": "Ages 14+",
+"non_english": null,
+"website": "http://www.sciencefestival.co.uk/event-details/quackery-and-bad-medicine",
+"status": "active",
+"performance_space": {
+"age_limit": null,
+"wheelchair_access": null,
+"name": null,
+"capacity": null,
+"age_limited": null
+},
+"code": "543",
+"venue": {
+"position": {
+"lon": -3.196332,
+"lat": 55.955235
+},
+"phone": null,
+"web_address": null,
+"fax": null,
+"post_code": "EH2 1JQ",
+"has_cafe": null,
+"cafe_description": null,
+"map_ref": null,
+"code": "Royal College of Physicians of Edinburgh",
+"disabled_description": null,
+"box_office_fringe": false,
+"has_booking_over_phone": true,
+"address": "9 Queen Street\nEdinburgh",
+"email": null,
+"description": null,
+"has_booking_over_web": true,
+"name": "Royal College of Physicians of Edinburgh",
+"box_office_opening": null,
+"has_booking_over_card": true,
+"has_bar": null
+},
+"sub_venue": null,
+"url": "https://api.edinburghfestivalcity.com/events/52134aed5bbf08e6a6e5ca7136b7e1f01591ac35",
+"country": null,
+"genre_tags": "Being Human,Science and Culture,Human Biology,Health & Diseases,History of Science",
+"description_teaser": "A chance to discover Edinburgh&#39;s  history of quackery and fake medicine in a behind-the-scenes tour of the Royal College of Physicians of Edinburgh.",
+"images": {
+"8fa77161f838a8e48271821faa9e80e727cecaa0": {
+"versions": {
+"large-1024": {
+"height": 214,
+"width": 1024,
+"mime": "image/png",
+"type": "large-1024",
+"url": "//edfestimages.s3.amazonaws.com/8f/a7/71/8fa77161f838a8e48271821faa9e80e727cecaa0-large-1024.png"
+},
+"medium-640": {
+"height": 134,
+"width": 640,
+"mime": "image/png",
+"type": "medium-640",
+"url": "//edfestimages.s3.amazonaws.com/8f/a7/71/8fa77161f838a8e48271821faa9e80e727cecaa0-medium-640.png"
+},
+"original": {
+"height": 401,
+"width": 1920,
+"mime": "image/jpeg",
+"type": "original",
+"url": "//edfestimages.s3.amazonaws.com/8f/a7/71/8fa77161f838a8e48271821faa9e80e727cecaa0-original.jpg"
+},
+"small-320": {
+"height": 67,
+"width": 320,
+"mime": "image/png",
+"type": "small-320",
+"url": "//edfestimages.s3.amazonaws.com/8f/a7/71/8fa77161f838a8e48271821faa9e80e727cecaa0-small-320.png"
+},
+"thumb-100": {
+"height": 21,
+"width": 100,
+"mime": "image/png",
+"type": "thumb-100",
+"url": "//edfestimages.s3.amazonaws.com/8f/a7/71/8fa77161f838a8e48271821faa9e80e727cecaa0-thumb-100.png"
+},
+"square-75": {
+"height": 75,
+"width": 75,
+"mime": "image/png",
+"type": "square-75",
+"url": "//edfestimages.s3.amazonaws.com/8f/a7/71/8fa77161f838a8e48271821faa9e80e727cecaa0-square-75.png"
+},
+"square-150": {
+"height": 150,
+"width": 150,
+"mime": "image/png",
+"type": "square-150",
+"url": "//edfestimages.s3.amazonaws.com/8f/a7/71/8fa77161f838a8e48271821faa9e80e727cecaa0-square-150.png"
+}
+},
+"orientation": "landscape",
+"hash": "8fa77161f838a8e48271821faa9e80e727cecaa0",
+"type": "hero"
+},
+"e7fb964d4858ed1200b1cdfe008ea332b5dfacec": {
+"versions": {
+"medium-640": {
+"height": 640,
+"width": 640,
+"mime": "image/png",
+"type": "medium-640",
+"url": "//edfestimages.s3.amazonaws.com/e7/fb/96/e7fb964d4858ed1200b1cdfe008ea332b5dfacec-medium-640.png"
+},
+"original": {
+"height": 800,
+"width": 800,
+"mime": "image/jpeg",
+"type": "original",
+"url": "//edfestimages.s3.amazonaws.com/e7/fb/96/e7fb964d4858ed1200b1cdfe008ea332b5dfacec-original.jpg"
+},
+"small-320": {
+"height": 320,
+"width": 320,
+"mime": "image/png",
+"type": "small-320",
+"url": "//edfestimages.s3.amazonaws.com/e7/fb/96/e7fb964d4858ed1200b1cdfe008ea332b5dfacec-small-320.png"
+},
+"thumb-100": {
+"height": 100,
+"width": 100,
+"mime": "image/png",
+"type": "thumb-100",
+"url": "//edfestimages.s3.amazonaws.com/e7/fb/96/e7fb964d4858ed1200b1cdfe008ea332b5dfacec-thumb-100.png"
+},
+"square-75": {
+"height": 75,
+"width": 75,
+"mime": "image/png",
+"type": "square-75",
+"url": "//edfestimages.s3.amazonaws.com/e7/fb/96/e7fb964d4858ed1200b1cdfe008ea332b5dfacec-square-75.png"
+},
+"square-150": {
+"height": 150,
+"width": 150,
+"mime": "image/png",
+"type": "square-150",
+"url": "//edfestimages.s3.amazonaws.com/e7/fb/96/e7fb964d4858ed1200b1cdfe008ea332b5dfacec-square-150.png"
+}
+},
+"orientation": "square",
+"hash": "e7fb964d4858ed1200b1cdfe008ea332b5dfacec",
+"type": "thumb"
+}
+},
+"performances": [
+{
+"concession_family": false,
+"title": null,
+"concession": 6,
+"price": 8,
+"concession_additional": false,
+"start": "2016-04-07 18:30:00",
+"end": "2016-04-07 19:30:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 6,
+"price": 8,
+"concession_additional": false,
+"start": "2016-04-02 14:30:00",
+"end": "2016-04-02 15:30:00"
+}
+],
+"categories": {
+"keywords": [
+{
+"category": "Headings",
+"keywords": [
+"Mind & Body",
+"Society & Culture"
+]
+},
+{
+"category": "Specialisations",
+"keywords": [
+"Anthropology",
+"Medicine"
+]
+},
+{
+"category": "Topics",
+"keywords": [
+"History"
+]
+}
+],
+"subjects": [
+"Human Biology",
+"Health & Diseases",
+"History of Science"
+],
+"strand_titles": [
+"Being Human",
+"Science and Culture"
+]
+},
+"disabled": {
+"signed_dates": null,
+"other_services_information": null,
+"captioning": null,
+"audio": null,
+"signed": null,
+"audio_dates": null,
+"other_services_dates": null,
+"captioning_dates": null,
+"other_services": null
+},
+"latitude": 55.955235,
+"longitude": -3.196332
+},
+{
+"genre": "Discussion",
+"fringe_first": null,
+"performers_number": null,
+"artist_type": null,
+"sub_title": null,
+"update_times": {
+"genre": 1455109220,
+"age_category": 1455019065,
+"other": 1455109220,
+"fringe_first": 1455019065,
+"status": 1455019065,
+"web_links": 1455019065,
+"venue": 1455019065,
+"identity": 1455019065,
+"title": 1455019065,
+"description": 1455019065,
+"discounts": 1455019065,
+"images": 1455019065,
+"performances": 1455019065,
+"artist": 1455019065,
+"disabled": 1455019065
+},
+"twitter": null,
+"title": "Symmetries in Light: The Life and Work of David Brewster",
+"updated": "2016-02-10 13:00:20",
+"description": "<p>Invented 200 years ago by Scottish scientist Sir David Brewster, the kaleidoscope was one of the must have toys of the 1800's and this fascinating gadget is still popular today. Join us to learn about the life and work of Sir Brewster, one of the founding figures in physics in the mid nineteenth century, and find out why his discoveries are still relevant today.</p>",
+"discounts": {
+"two_for_one": null,
+"friends": null,
+"schools": null,
+"passport": null,
+"group": null
+},
+"festival": "Edinburgh International Science Festival",
+"year": 2016,
+"artist": null,
+"warnings": null,
+"festival_id": "science",
+"age_category": "Ages 14+",
+"non_english": null,
+"website": "http://www.sciencefestival.co.uk/event-details/symmetries-in-light-the-life-and-work-of-david-brewster",
+"status": "active",
+"performance_space": {
+"age_limit": null,
+"wheelchair_access": null,
+"name": null,
+"capacity": null,
+"age_limited": null
+},
+"code": "420",
+"venue": {
+"position": {
+"lon": -3.18648,
+"lat": 55.947509
+},
+"phone": null,
+"web_address": null,
+"fax": null,
+"post_code": "EH8 9YL",
+"has_cafe": null,
+"cafe_description": null,
+"map_ref": null,
+"code": "Playfair Library",
+"disabled_description": null,
+"box_office_fringe": false,
+"has_booking_over_phone": true,
+"address": "Old College\nSouth Bridge\nEdinburgh",
+"email": null,
+"description": null,
+"has_booking_over_web": true,
+"name": "Playfair Library",
+"box_office_opening": null,
+"has_booking_over_card": true,
+"has_bar": null
+},
+"sub_venue": null,
+"url": "https://api.edinburghfestivalcity.com/events/044d71e993830c2d3f4e3b98e5c32e993d4cf532",
+"country": null,
+"genre_tags": "A Planetary Perspective,Physics,Gadgets,Innovation",
+"description_teaser": "Bringing together the art of the kaleidoscope with the science of one of Scotland’s great innovators.",
+"images": {
+"06b9da382cddf64d048b48be0956a33a4242375d": {
+"versions": {
+"large-1024": {
+"height": 213,
+"width": 1024,
+"mime": "image/png",
+"type": "large-1024",
+"url": "//edfestimages.s3.amazonaws.com/06/b9/da/06b9da382cddf64d048b48be0956a33a4242375d-large-1024.png"
+},
+"medium-640": {
+"height": 133,
+"width": 640,
+"mime": "image/png",
+"type": "medium-640",
+"url": "//edfestimages.s3.amazonaws.com/06/b9/da/06b9da382cddf64d048b48be0956a33a4242375d-medium-640.png"
+},
+"original": {
+"height": 400,
+"width": 1920,
+"mime": "image/jpeg",
+"type": "original",
+"url": "//edfestimages.s3.amazonaws.com/06/b9/da/06b9da382cddf64d048b48be0956a33a4242375d-original.jpg"
+},
+"small-320": {
+"height": 67,
+"width": 320,
+"mime": "image/png",
+"type": "small-320",
+"url": "//edfestimages.s3.amazonaws.com/06/b9/da/06b9da382cddf64d048b48be0956a33a4242375d-small-320.png"
+},
+"thumb-100": {
+"height": 21,
+"width": 100,
+"mime": "image/png",
+"type": "thumb-100",
+"url": "//edfestimages.s3.amazonaws.com/06/b9/da/06b9da382cddf64d048b48be0956a33a4242375d-thumb-100.png"
+},
+"square-75": {
+"height": 75,
+"width": 75,
+"mime": "image/png",
+"type": "square-75",
+"url": "//edfestimages.s3.amazonaws.com/06/b9/da/06b9da382cddf64d048b48be0956a33a4242375d-square-75.png"
+},
+"square-150": {
+"height": 150,
+"width": 150,
+"mime": "image/png",
+"type": "square-150",
+"url": "//edfestimages.s3.amazonaws.com/06/b9/da/06b9da382cddf64d048b48be0956a33a4242375d-square-150.png"
+}
+},
+"orientation": "landscape",
+"hash": "06b9da382cddf64d048b48be0956a33a4242375d",
+"type": "hero"
+},
+"85a4d48fe048d6d233b48690beb049f0709a51a9": {
+"versions": {
+"medium-640": {
+"height": 640,
+"width": 640,
+"mime": "image/png",
+"type": "medium-640",
+"url": "//edfestimages.s3.amazonaws.com/85/a4/d4/85a4d48fe048d6d233b48690beb049f0709a51a9-medium-640.png"
+},
+"original": {
+"height": 800,
+"width": 800,
+"mime": "image/jpeg",
+"type": "original",
+"url": "//edfestimages.s3.amazonaws.com/85/a4/d4/85a4d48fe048d6d233b48690beb049f0709a51a9-original.jpg"
+},
+"small-320": {
+"height": 320,
+"width": 320,
+"mime": "image/png",
+"type": "small-320",
+"url": "//edfestimages.s3.amazonaws.com/85/a4/d4/85a4d48fe048d6d233b48690beb049f0709a51a9-small-320.png"
+},
+"thumb-100": {
+"height": 100,
+"width": 100,
+"mime": "image/png",
+"type": "thumb-100",
+"url": "//edfestimages.s3.amazonaws.com/85/a4/d4/85a4d48fe048d6d233b48690beb049f0709a51a9-thumb-100.png"
+},
+"square-75": {
+"height": 75,
+"width": 75,
+"mime": "image/png",
+"type": "square-75",
+"url": "//edfestimages.s3.amazonaws.com/85/a4/d4/85a4d48fe048d6d233b48690beb049f0709a51a9-square-75.png"
+},
+"square-150": {
+"height": 150,
+"width": 150,
+"mime": "image/png",
+"type": "square-150",
+"url": "//edfestimages.s3.amazonaws.com/85/a4/d4/85a4d48fe048d6d233b48690beb049f0709a51a9-square-150.png"
+}
+},
+"orientation": "square",
+"hash": "85a4d48fe048d6d233b48690beb049f0709a51a9",
+"type": "thumb"
+}
+},
+"performances": [
+{
+"concession_family": false,
+"title": null,
+"concession": null,
+"price": 5,
+"concession_additional": false,
+"start": "2016-04-08 18:00:00",
+"end": "2016-04-08 19:00:00"
+}
+],
+"categories": {
+"keywords": [
+{
+"category": "Headings",
+"keywords": [
+"Material World",
+"Technology & Engineering"
+]
+},
+{
+"category": "Phenomena",
+"keywords": [
+"Fractals",
+"Illusions",
+"Light"
+]
+},
+{
+"category": "Specialisations",
+"keywords": [
+"Psychology"
+]
+},
+{
+"category": "Topics",
+"keywords": [
+"History"
+]
+}
+],
+"subjects": [
+"Physics",
+"Gadgets",
+"Innovation"
+],
+"strand_titles": [
+"A Planetary Perspective"
+]
+},
+"disabled": {
+"signed_dates": null,
+"other_services_information": null,
+"captioning": null,
+"audio": null,
+"signed": null,
+"audio_dates": null,
+"other_services_dates": null,
+"captioning_dates": null,
+"other_services": null
+},
+"latitude": 55.947509,
+"longitude": -3.18648
+},
+{
+"genre": "Show",
+"fringe_first": null,
+"performers_number": null,
+"artist_type": null,
+"sub_title": null,
+"update_times": {
+"genre": 1455109220,
+"age_category": 1455019065,
+"other": 1455109220,
+"fringe_first": 1455019065,
+"status": 1455019065,
+"web_links": 1455019065,
+"venue": 1455019065,
+"identity": 1455019065,
+"title": 1455019065,
+"description": 1455019065,
+"discounts": 1455019065,
+"images": 1455019065,
+"performances": 1455019065,
+"artist": 1455019065,
+"disabled": 1455019065
+},
+"twitter": null,
+"title": "SWAT! A Fly's Guide to Staying Alive",
+"updated": "2016-02-10 13:00:20",
+"description": "<p>A funny, fact-filled family show about housefly survival and insect biology performed by author and Private Eye cartoonist <strong>Mike Barfield. </strong><em>SWAT!</em> is based on the critically acclaimed book of the same name. This highly interactive show is packed full of full of audience participation, jokes, props, peril and poo! You’ll come away having learned more than you ever wanted to know about the humble housefly.</p>",
+"discounts": {
+"two_for_one": null,
+"friends": null,
+"schools": null,
+"passport": null,
+"group": null
+},
+"festival": "Edinburgh International Science Festival",
+"year": 2016,
+"artist": null,
+"warnings": null,
+"festival_id": "science",
+"age_category": "All Ages",
+"non_english": null,
+"website": "http://www.sciencefestival.co.uk/event-details/swat-a-flys-guide-to-staying-alive",
+"status": "active",
+"performance_space": {
+"age_limit": null,
+"wheelchair_access": null,
+"name": null,
+"capacity": null,
+"age_limited": null
+},
+"code": "427",
+"venue": {
+"position": {
+"lon": -3.18228,
+"lat": 55.94
+},
+"phone": null,
+"web_address": null,
+"fax": null,
+"post_code": "EH9 1PL",
+"has_cafe": null,
+"cafe_description": null,
+"map_ref": null,
+"code": "Summerhall",
+"disabled_description": null,
+"box_office_fringe": false,
+"has_booking_over_phone": true,
+"address": "Summerhall Place\nEdinburgh",
+"email": null,
+"description": null,
+"has_booking_over_web": true,
+"name": "Summerhall",
+"box_office_opening": null,
+"has_booking_over_card": true,
+"has_bar": null
+},
+"sub_venue": null,
+"url": "https://api.edinburghfestivalcity.com/events/4884fe032f047835c6267f638242d1d32468da29",
+"country": null,
+"genre_tags": "A Planetary Perspective,Science and Culture,Animals,Entertainment & Leisure",
+"description_teaser": "A funny, fact-filled family show about housefly survival and insect biology",
+"images": {
+"0a0e8b13d9dad46b2065c20ea1d73d90aa8c93bc": {
+"versions": {
+"large-1024": {
+"height": 213,
+"width": 1024,
+"mime": "image/png",
+"type": "large-1024",
+"url": "//edfestimages.s3.amazonaws.com/0a/0e/8b/0a0e8b13d9dad46b2065c20ea1d73d90aa8c93bc-large-1024.png"
+},
+"medium-640": {
+"height": 133,
+"width": 640,
+"mime": "image/png",
+"type": "medium-640",
+"url": "//edfestimages.s3.amazonaws.com/0a/0e/8b/0a0e8b13d9dad46b2065c20ea1d73d90aa8c93bc-medium-640.png"
+},
+"original": {
+"height": 400,
+"width": 1920,
+"mime": "image/jpeg",
+"type": "original",
+"url": "//edfestimages.s3.amazonaws.com/0a/0e/8b/0a0e8b13d9dad46b2065c20ea1d73d90aa8c93bc-original.jpg"
+},
+"small-320": {
+"height": 67,
+"width": 320,
+"mime": "image/png",
+"type": "small-320",
+"url": "//edfestimages.s3.amazonaws.com/0a/0e/8b/0a0e8b13d9dad46b2065c20ea1d73d90aa8c93bc-small-320.png"
+},
+"thumb-100": {
+"height": 21,
+"width": 100,
+"mime": "image/png",
+"type": "thumb-100",
+"url": "//edfestimages.s3.amazonaws.com/0a/0e/8b/0a0e8b13d9dad46b2065c20ea1d73d90aa8c93bc-thumb-100.png"
+},
+"square-75": {
+"height": 75,
+"width": 75,
+"mime": "image/png",
+"type": "square-75",
+"url": "//edfestimages.s3.amazonaws.com/0a/0e/8b/0a0e8b13d9dad46b2065c20ea1d73d90aa8c93bc-square-75.png"
+},
+"square-150": {
+"height": 150,
+"width": 150,
+"mime": "image/png",
+"type": "square-150",
+"url": "//edfestimages.s3.amazonaws.com/0a/0e/8b/0a0e8b13d9dad46b2065c20ea1d73d90aa8c93bc-square-150.png"
+}
+},
+"orientation": "landscape",
+"hash": "0a0e8b13d9dad46b2065c20ea1d73d90aa8c93bc",
+"type": "hero"
+},
+"e320432a0373d2d0af24e13f09eb05d80caef25e": {
+"versions": {
+"medium-640": {
+"height": 640,
+"width": 640,
+"mime": "image/png",
+"type": "medium-640",
+"url": "//edfestimages.s3.amazonaws.com/e3/20/43/e320432a0373d2d0af24e13f09eb05d80caef25e-medium-640.png"
+},
+"original": {
+"height": 800,
+"width": 800,
+"mime": "image/jpeg",
+"type": "original",
+"url": "//edfestimages.s3.amazonaws.com/e3/20/43/e320432a0373d2d0af24e13f09eb05d80caef25e-original.jpg"
+},
+"small-320": {
+"height": 320,
+"width": 320,
+"mime": "image/png",
+"type": "small-320",
+"url": "//edfestimages.s3.amazonaws.com/e3/20/43/e320432a0373d2d0af24e13f09eb05d80caef25e-small-320.png"
+},
+"thumb-100": {
+"height": 100,
+"width": 100,
+"mime": "image/png",
+"type": "thumb-100",
+"url": "//edfestimages.s3.amazonaws.com/e3/20/43/e320432a0373d2d0af24e13f09eb05d80caef25e-thumb-100.png"
+},
+"square-75": {
+"height": 75,
+"width": 75,
+"mime": "image/png",
+"type": "square-75",
+"url": "//edfestimages.s3.amazonaws.com/e3/20/43/e320432a0373d2d0af24e13f09eb05d80caef25e-square-75.png"
+},
+"square-150": {
+"height": 150,
+"width": 150,
+"mime": "image/png",
+"type": "square-150",
+"url": "//edfestimages.s3.amazonaws.com/e3/20/43/e320432a0373d2d0af24e13f09eb05d80caef25e-square-150.png"
+}
+},
+"orientation": "square",
+"hash": "e320432a0373d2d0af24e13f09eb05d80caef25e",
+"type": "thumb"
+}
+},
+"performances": [
+{
+"concession_family": false,
+"title": null,
+"concession": null,
+"price": 6,
+"concession_additional": false,
+"start": "2016-04-08 14:30:00",
+"end": "2016-04-08 15:30:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": null,
+"price": 6,
+"concession_additional": false,
+"start": "2016-04-08 10:30:00",
+"end": "2016-04-08 11:30:00"
+}
+],
+"categories": {
+"keywords": [
+{
+"category": "Headings",
+"keywords": [
+"Life on Earth",
+"Society & Culture"
+]
+},
+{
+"category": "Specialisations",
+"keywords": [
+"Biology",
+"Literature"
+]
+},
+{
+"category": "Topics",
+"keywords": [
+"Wildlife"
+]
+},
+{
+"category": "Vibe / Atmosphere",
+"keywords": [
+"Comedy",
+"Show"
+]
+}
+],
+"subjects": [
+"Animals",
+"Entertainment & Leisure"
+],
+"strand_titles": [
+"A Planetary Perspective",
+"Science and Culture"
+]
+},
+"disabled": {
+"signed_dates": null,
+"other_services_information": null,
+"captioning": null,
+"audio": null,
+"signed": null,
+"audio_dates": null,
+"other_services_dates": null,
+"captioning_dates": null,
+"other_services": null
+},
+"latitude": 55.94,
+"longitude": -3.18228
+},
+{
+"genre": "Film",
+"fringe_first": null,
+"performers_number": null,
+"artist_type": null,
+"sub_title": null,
+"update_times": {
+"genre": 1455109220,
+"age_category": 1455019065,
+"other": 1455109220,
+"fringe_first": 1455019065,
+"status": 1455019065,
+"web_links": 1455019065,
+"venue": 1455019065,
+"identity": 1455019065,
+"title": 1455019065,
+"description": 1455019065,
+"discounts": 1455019065,
+"images": 1455019065,
+"performances": 1455019065,
+"artist": 1455019065,
+"disabled": 1455019065
+},
+"twitter": null,
+"title": "Bikes Vs Cars: A Pedal Powered Screening",
+"updated": "2016-02-10 13:00:20",
+"description": "<p>Enjoy guilt-free cinema as we present this Bike-Powered Movie Night. You’ll enjoy a screening of <em>Bikes vs Cars</em><em>, </em>a feature length movie that investigates the daily global drama in traffic around the world, along with a series of short films – all powered by human beings. The film will be followed by a panel debate with creative thinkers from the world of politics, journalism, science, art and technology.</p>",
+"discounts": {
+"two_for_one": null,
+"friends": null,
+"schools": null,
+"passport": null,
+"group": null
+},
+"festival": "Edinburgh International Science Festival",
+"year": 2016,
+"artist": null,
+"warnings": null,
+"festival_id": "science",
+"age_category": "Ages 14+",
+"non_english": null,
+"website": "http://www.sciencefestival.co.uk/event-details/bikes-vs-cars-a-pedal-powered-screening",
+"status": "active",
+"performance_space": {
+"age_limit": null,
+"wheelchair_access": null,
+"name": null,
+"capacity": null,
+"age_limited": null
+},
+"code": "518",
+"venue": {
+"position": {
+"lon": -3.186426,
+"lat": 55.947924
+},
+"phone": null,
+"web_address": null,
+"fax": null,
+"post_code": "EH1 1LZ",
+"has_cafe": null,
+"cafe_description": null,
+"map_ref": null,
+"code": "Edinburgh Centre for Carbon Innovation",
+"disabled_description": null,
+"box_office_fringe": false,
+"has_booking_over_phone": true,
+"address": "High School Yards\nInfirmary Street\nEdinburgh",
+"email": null,
+"description": null,
+"has_booking_over_web": true,
+"name": "Edinburgh Centre for Carbon Innovation",
+"box_office_opening": null,
+"has_booking_over_card": true,
+"has_bar": null
+},
+"sub_venue": null,
+"url": "https://api.edinburghfestivalcity.com/events/837027c11130fddaa441d5f99c032b95f55e31ea",
+"country": null,
+"genre_tags": "A Planetary Perspective,Earth,Environment,Global Issues",
+"description_teaser": "Enjoy guilt-free cinema as we present this Bike-Powered Movie Night",
+"images": {
+"c45906ba74d9d1462c39aadce420e68d4ed36ecc": {
+"versions": {
+"large-1024": {
+"height": 213,
+"width": 1024,
+"mime": "image/png",
+"type": "large-1024",
+"url": "//edfestimages.s3.amazonaws.com/c4/59/06/c45906ba74d9d1462c39aadce420e68d4ed36ecc-large-1024.png"
+},
+"medium-640": {
+"height": 133,
+"width": 640,
+"mime": "image/png",
+"type": "medium-640",
+"url": "//edfestimages.s3.amazonaws.com/c4/59/06/c45906ba74d9d1462c39aadce420e68d4ed36ecc-medium-640.png"
+},
+"original": {
+"height": 400,
+"width": 1920,
+"mime": "image/jpeg",
+"type": "original",
+"url": "//edfestimages.s3.amazonaws.com/c4/59/06/c45906ba74d9d1462c39aadce420e68d4ed36ecc-original.jpg"
+},
+"small-320": {
+"height": 67,
+"width": 320,
+"mime": "image/png",
+"type": "small-320",
+"url": "//edfestimages.s3.amazonaws.com/c4/59/06/c45906ba74d9d1462c39aadce420e68d4ed36ecc-small-320.png"
+},
+"thumb-100": {
+"height": 21,
+"width": 100,
+"mime": "image/png",
+"type": "thumb-100",
+"url": "//edfestimages.s3.amazonaws.com/c4/59/06/c45906ba74d9d1462c39aadce420e68d4ed36ecc-thumb-100.png"
+},
+"square-75": {
+"height": 75,
+"width": 75,
+"mime": "image/png",
+"type": "square-75",
+"url": "//edfestimages.s3.amazonaws.com/c4/59/06/c45906ba74d9d1462c39aadce420e68d4ed36ecc-square-75.png"
+},
+"square-150": {
+"height": 150,
+"width": 150,
+"mime": "image/png",
+"type": "square-150",
+"url": "//edfestimages.s3.amazonaws.com/c4/59/06/c45906ba74d9d1462c39aadce420e68d4ed36ecc-square-150.png"
+}
+},
+"orientation": "landscape",
+"hash": "c45906ba74d9d1462c39aadce420e68d4ed36ecc",
+"type": "hero"
+},
+"755b92b00e1dbb76d3e735586ad49273d766757b": {
+"versions": {
+"medium-640": {
+"height": 640,
+"width": 640,
+"mime": "image/png",
+"type": "medium-640",
+"url": "//edfestimages.s3.amazonaws.com/75/5b/92/755b92b00e1dbb76d3e735586ad49273d766757b-medium-640.png"
+},
+"original": {
+"height": 800,
+"width": 800,
+"mime": "image/jpeg",
+"type": "original",
+"url": "//edfestimages.s3.amazonaws.com/75/5b/92/755b92b00e1dbb76d3e735586ad49273d766757b-original.jpg"
+},
+"small-320": {
+"height": 320,
+"width": 320,
+"mime": "image/png",
+"type": "small-320",
+"url": "//edfestimages.s3.amazonaws.com/75/5b/92/755b92b00e1dbb76d3e735586ad49273d766757b-small-320.png"
+},
+"thumb-100": {
+"height": 100,
+"width": 100,
+"mime": "image/png",
+"type": "thumb-100",
+"url": "//edfestimages.s3.amazonaws.com/75/5b/92/755b92b00e1dbb76d3e735586ad49273d766757b-thumb-100.png"
+},
+"square-75": {
+"height": 75,
+"width": 75,
+"mime": "image/png",
+"type": "square-75",
+"url": "//edfestimages.s3.amazonaws.com/75/5b/92/755b92b00e1dbb76d3e735586ad49273d766757b-square-75.png"
+},
+"square-150": {
+"height": 150,
+"width": 150,
+"mime": "image/png",
+"type": "square-150",
+"url": "//edfestimages.s3.amazonaws.com/75/5b/92/755b92b00e1dbb76d3e735586ad49273d766757b-square-150.png"
+}
+},
+"orientation": "square",
+"hash": "755b92b00e1dbb76d3e735586ad49273d766757b",
+"type": "thumb"
+}
+},
+"performances": [
+{
+"concession_family": false,
+"title": null,
+"concession": null,
+"price": 5,
+"concession_additional": false,
+"start": "2016-04-08 19:30:00",
+"end": "2016-04-08 21:30:00"
+}
+],
+"categories": {
+"keywords": [
+{
+"category": "Headings",
+"keywords": [
+"Our planet",
+"Society & Culture"
+]
+},
+{
+"category": "Topics",
+"keywords": [
+"Film",
+"Politics",
+"Transport"
+]
+},
+{
+"category": "Vibe / Atmosphere",
+"keywords": [
+"Debate"
+]
+}
+],
+"subjects": [
+"Earth",
+"Environment",
+"Global Issues"
+],
+"strand_titles": [
+"A Planetary Perspective"
+]
+},
+"disabled": {
+"signed_dates": null,
+"other_services_information": null,
+"captioning": null,
+"audio": null,
+"signed": null,
+"audio_dates": null,
+"other_services_dates": null,
+"captioning_dates": null,
+"other_services": null
+},
+"latitude": 55.947924,
+"longitude": -3.186426
+},
+{
+"genre": "Discussion",
+"fringe_first": null,
+"performers_number": null,
+"artist_type": null,
+"sub_title": null,
+"update_times": {
+"genre": 1455109220,
+"age_category": 1455019065,
+"other": 1455109220,
+"fringe_first": 1455019065,
+"status": 1455019065,
+"web_links": 1455019065,
+"venue": 1455019065,
+"identity": 1455019065,
+"title": 1455019065,
+"description": 1455019065,
+"discounts": 1455019065,
+"images": 1455019065,
+"performances": 1455019065,
+"artist": 1455019065,
+"disabled": 1455019065
+},
+"twitter": null,
+"title": "Life in the Extremes",
+"updated": "2016-02-10 13:00:20",
+"description": "<p>Our planet has an amazing variety of extreme environments, from the hottest deserts that can reach a baking 70 °C to the deepest point in our oceans, a staggering seven miles down from the surface. Join us for three engaging talks on the different aspects of “Life in the Extremes”, looking at its importance in our soils, what it tells us about early life on the planet and whether life might exist elsewhere in the Universe.</p>",
+"discounts": {
+"two_for_one": null,
+"friends": null,
+"schools": null,
+"passport": null,
+"group": null
+},
+"festival": "Edinburgh International Science Festival",
+"year": 2016,
+"artist": null,
+"warnings": null,
+"festival_id": "science",
+"age_category": "Ages 14+",
+"non_english": null,
+"website": "http://www.sciencefestival.co.uk/event-details/life-in-the-extremes",
+"status": "active",
+"performance_space": {
+"age_limit": null,
+"wheelchair_access": null,
+"name": null,
+"capacity": null,
+"age_limited": null
+},
+"code": "510",
+"venue": {
+"position": {
+"lon": -3.18767,
+"lat": 55.9478
+},
+"phone": null,
+"web_address": null,
+"fax": null,
+"post_code": "EH1 1JF",
+"has_cafe": null,
+"cafe_description": null,
+"map_ref": null,
+"code": "National Museum of Scotland",
+"disabled_description": null,
+"box_office_fringe": false,
+"has_booking_over_phone": true,
+"address": "Chambers Street\nEdinburgh",
+"email": null,
+"description": null,
+"has_booking_over_web": true,
+"name": "National Museum of Scotland",
+"box_office_opening": null,
+"has_booking_over_card": true,
+"has_bar": null
+},
+"sub_venue": null,
+"url": "https://api.edinburghfestivalcity.com/events/91ab7490508ce6837738f3fcf39f752d813ec6e6",
+"country": null,
+"genre_tags": "A Planetary Perspective,Beyond Planet Earth,Environment,Earth,Oceans",
+"description_teaser": "A look at life in extreme environments – its importance in our soils, what it tells us about early life on the planet and whether life might exist elsewhere in the Universe.",
+"images": {
+"e19f2b7ff811fcaf44d45df4d84cbca48caad97b": {
+"versions": {
+"medium-640": {
+"height": 640,
+"width": 640,
+"mime": "image/png",
+"type": "medium-640",
+"url": "//edfestimages.s3.amazonaws.com/e1/9f/2b/e19f2b7ff811fcaf44d45df4d84cbca48caad97b-medium-640.png"
+},
+"original": {
+"height": 800,
+"width": 800,
+"mime": "image/jpeg",
+"type": "original",
+"url": "//edfestimages.s3.amazonaws.com/e1/9f/2b/e19f2b7ff811fcaf44d45df4d84cbca48caad97b-original.jpg"
+},
+"small-320": {
+"height": 320,
+"width": 320,
+"mime": "image/png",
+"type": "small-320",
+"url": "//edfestimages.s3.amazonaws.com/e1/9f/2b/e19f2b7ff811fcaf44d45df4d84cbca48caad97b-small-320.png"
+},
+"thumb-100": {
+"height": 100,
+"width": 100,
+"mime": "image/png",
+"type": "thumb-100",
+"url": "//edfestimages.s3.amazonaws.com/e1/9f/2b/e19f2b7ff811fcaf44d45df4d84cbca48caad97b-thumb-100.png"
+},
+"square-75": {
+"height": 75,
+"width": 75,
+"mime": "image/png",
+"type": "square-75",
+"url": "//edfestimages.s3.amazonaws.com/e1/9f/2b/e19f2b7ff811fcaf44d45df4d84cbca48caad97b-square-75.png"
+},
+"square-150": {
+"height": 150,
+"width": 150,
+"mime": "image/png",
+"type": "square-150",
+"url": "//edfestimages.s3.amazonaws.com/e1/9f/2b/e19f2b7ff811fcaf44d45df4d84cbca48caad97b-square-150.png"
+}
+},
+"orientation": "square",
+"hash": "e19f2b7ff811fcaf44d45df4d84cbca48caad97b",
+"type": "thumb"
+},
+"5545c34fa5e9905b999de05820da300e5298881f": {
+"versions": {
+"large-1024": {
+"height": 213,
+"width": 1024,
+"mime": "image/png",
+"type": "large-1024",
+"url": "//edfestimages.s3.amazonaws.com/55/45/c3/5545c34fa5e9905b999de05820da300e5298881f-large-1024.png"
+},
+"medium-640": {
+"height": 133,
+"width": 640,
+"mime": "image/png",
+"type": "medium-640",
+"url": "//edfestimages.s3.amazonaws.com/55/45/c3/5545c34fa5e9905b999de05820da300e5298881f-medium-640.png"
+},
+"original": {
+"height": 399,
+"width": 1920,
+"mime": "image/jpeg",
+"type": "original",
+"url": "//edfestimages.s3.amazonaws.com/55/45/c3/5545c34fa5e9905b999de05820da300e5298881f-original.jpg"
+},
+"small-320": {
+"height": 67,
+"width": 320,
+"mime": "image/png",
+"type": "small-320",
+"url": "//edfestimages.s3.amazonaws.com/55/45/c3/5545c34fa5e9905b999de05820da300e5298881f-small-320.png"
+},
+"thumb-100": {
+"height": 21,
+"width": 100,
+"mime": "image/png",
+"type": "thumb-100",
+"url": "//edfestimages.s3.amazonaws.com/55/45/c3/5545c34fa5e9905b999de05820da300e5298881f-thumb-100.png"
+},
+"square-75": {
+"height": 75,
+"width": 75,
+"mime": "image/png",
+"type": "square-75",
+"url": "//edfestimages.s3.amazonaws.com/55/45/c3/5545c34fa5e9905b999de05820da300e5298881f-square-75.png"
+},
+"square-150": {
+"height": 150,
+"width": 150,
+"mime": "image/png",
+"type": "square-150",
+"url": "//edfestimages.s3.amazonaws.com/55/45/c3/5545c34fa5e9905b999de05820da300e5298881f-square-150.png"
+}
+},
+"orientation": "landscape",
+"hash": "5545c34fa5e9905b999de05820da300e5298881f",
+"type": "hero"
+}
+},
+"performances": [
+{
+"concession_family": false,
+"title": null,
+"concession": 6.5,
+"price": 8.5,
+"concession_additional": false,
+"start": "2016-04-10 15:00:00",
+"end": "2016-04-10 16:30:00"
+}
+],
+"categories": {
+"keywords": [
+{
+"category": "Headings",
+"keywords": [
+"Our planet"
+]
+},
+{
+"category": "Phenomena",
+"keywords": [
+"Weather"
+]
+},
+{
+"category": "Specialisations",
+"keywords": [
+"Biology",
+"Ecology"
+]
+},
+{
+"category": "Topics",
+"keywords": [
+"Agriculture",
+"Water",
+"Wildlife"
+]
+}
+],
+"subjects": [
+"Environment",
+"Earth",
+"Oceans"
+],
+"strand_titles": [
+"A Planetary Perspective",
+"Beyond Planet Earth"
+]
+},
+"disabled": {
+"signed_dates": null,
+"other_services_information": null,
+"captioning": null,
+"audio": null,
+"signed": null,
+"audio_dates": null,
+"other_services_dates": null,
+"captioning_dates": null,
+"other_services": null
+},
+"latitude": 55.9478,
+"longitude": -3.18767
+},
+{
+"genre": "Discussion",
+"fringe_first": null,
+"performers_number": null,
+"artist_type": null,
+"sub_title": null,
+"update_times": {
+"genre": 1455109220,
+"age_category": 1455019066,
+"other": 1455109220,
+"fringe_first": 1455019066,
+"status": 1455019066,
+"web_links": 1455019066,
+"venue": 1455019066,
+"identity": 1455019066,
+"title": 1455019066,
+"description": 1455019066,
+"discounts": 1455019066,
+"images": 1455019066,
+"performances": 1455019066,
+"artist": 1455019066,
+"disabled": 1455019066
+},
+"twitter": null,
+"title": "Tiny Home Sweet Home",
+"updated": "2016-02-10 13:00:20",
+"description": "<p>The UN predicts that by 2060 66% of the world’s population will live in urban environments. One of the biggest challenges ahead of us is meeting housing requirements for this tribe of city dwellers. Space is limited and expensive so some home developers are thinking small. Join our panel of tiny home developers, psychologists and interior designers as they discuss what makes a home and how to create a place in which we thrive. </p>",
+"discounts": {
+"two_for_one": null,
+"friends": null,
+"schools": null,
+"passport": null,
+"group": null
+},
+"festival": "Edinburgh International Science Festival",
+"year": 2016,
+"artist": null,
+"warnings": null,
+"festival_id": "science",
+"age_category": "Ages 14+",
+"non_english": null,
+"website": "http://www.sciencefestival.co.uk/event-details/tiny-home-sweet-home",
+"status": "active",
+"performance_space": {
+"age_limit": null,
+"wheelchair_access": null,
+"name": null,
+"capacity": null,
+"age_limited": null
+},
+"code": "638",
+"venue": {
+"position": {
+"lon": -3.18228,
+"lat": 55.94
+},
+"phone": null,
+"web_address": null,
+"fax": null,
+"post_code": "EH9 1PL",
+"has_cafe": null,
+"cafe_description": null,
+"map_ref": null,
+"code": "Summerhall",
+"disabled_description": null,
+"box_office_fringe": false,
+"has_booking_over_phone": true,
+"address": "Summerhall Place\nEdinburgh",
+"email": null,
+"description": null,
+"has_booking_over_web": true,
+"name": "Summerhall",
+"box_office_opening": null,
+"has_booking_over_card": true,
+"has_bar": null
+},
+"sub_venue": null,
+"url": "https://api.edinburghfestivalcity.com/events/972f6ad48879a0c1b69b54672e4c1c94de168ac3",
+"country": null,
+"genre_tags": "A Planetary Perspective,Design,Earth,Environment,Global Issues",
+"description_teaser": "Join our panel of tiny home developers, psychologists and interior designers as they discuss what makes a home",
+"images": {
+"c9e548d25f1bf7bb610d641351ba7c3b06a87dc6": {
+"versions": {
+"large-1024": {
+"height": 213,
+"width": 1024,
+"mime": "image/png",
+"type": "large-1024",
+"url": "//edfestimages.s3.amazonaws.com/c9/e5/48/c9e548d25f1bf7bb610d641351ba7c3b06a87dc6-large-1024.png"
+},
+"medium-640": {
+"height": 133,
+"width": 640,
+"mime": "image/png",
+"type": "medium-640",
+"url": "//edfestimages.s3.amazonaws.com/c9/e5/48/c9e548d25f1bf7bb610d641351ba7c3b06a87dc6-medium-640.png"
+},
+"original": {
+"height": 400,
+"width": 1920,
+"mime": "image/jpeg",
+"type": "original",
+"url": "//edfestimages.s3.amazonaws.com/c9/e5/48/c9e548d25f1bf7bb610d641351ba7c3b06a87dc6-original.jpg"
+},
+"small-320": {
+"height": 67,
+"width": 320,
+"mime": "image/png",
+"type": "small-320",
+"url": "//edfestimages.s3.amazonaws.com/c9/e5/48/c9e548d25f1bf7bb610d641351ba7c3b06a87dc6-small-320.png"
+},
+"thumb-100": {
+"height": 21,
+"width": 100,
+"mime": "image/png",
+"type": "thumb-100",
+"url": "//edfestimages.s3.amazonaws.com/c9/e5/48/c9e548d25f1bf7bb610d641351ba7c3b06a87dc6-thumb-100.png"
+},
+"square-75": {
+"height": 75,
+"width": 75,
+"mime": "image/png",
+"type": "square-75",
+"url": "//edfestimages.s3.amazonaws.com/c9/e5/48/c9e548d25f1bf7bb610d641351ba7c3b06a87dc6-square-75.png"
+},
+"square-150": {
+"height": 150,
+"width": 150,
+"mime": "image/png",
+"type": "square-150",
+"url": "//edfestimages.s3.amazonaws.com/c9/e5/48/c9e548d25f1bf7bb610d641351ba7c3b06a87dc6-square-150.png"
+}
+},
+"orientation": "landscape",
+"hash": "c9e548d25f1bf7bb610d641351ba7c3b06a87dc6",
+"type": "hero"
+},
+"ab91e98a8bd8da2f438aad5170b9e93e9c7af309": {
+"versions": {
+"medium-640": {
+"height": 640,
+"width": 640,
+"mime": "image/png",
+"type": "medium-640",
+"url": "//edfestimages.s3.amazonaws.com/ab/91/e9/ab91e98a8bd8da2f438aad5170b9e93e9c7af309-medium-640.png"
+},
+"original": {
+"height": 800,
+"width": 800,
+"mime": "image/jpeg",
+"type": "original",
+"url": "//edfestimages.s3.amazonaws.com/ab/91/e9/ab91e98a8bd8da2f438aad5170b9e93e9c7af309-original.jpg"
+},
+"small-320": {
+"height": 320,
+"width": 320,
+"mime": "image/png",
+"type": "small-320",
+"url": "//edfestimages.s3.amazonaws.com/ab/91/e9/ab91e98a8bd8da2f438aad5170b9e93e9c7af309-small-320.png"
+},
+"thumb-100": {
+"height": 100,
+"width": 100,
+"mime": "image/png",
+"type": "thumb-100",
+"url": "//edfestimages.s3.amazonaws.com/ab/91/e9/ab91e98a8bd8da2f438aad5170b9e93e9c7af309-thumb-100.png"
+},
+"square-75": {
+"height": 75,
+"width": 75,
+"mime": "image/png",
+"type": "square-75",
+"url": "//edfestimages.s3.amazonaws.com/ab/91/e9/ab91e98a8bd8da2f438aad5170b9e93e9c7af309-square-75.png"
+},
+"square-150": {
+"height": 150,
+"width": 150,
+"mime": "image/png",
+"type": "square-150",
+"url": "//edfestimages.s3.amazonaws.com/ab/91/e9/ab91e98a8bd8da2f438aad5170b9e93e9c7af309-square-150.png"
+}
+},
+"orientation": "square",
+"hash": "ab91e98a8bd8da2f438aad5170b9e93e9c7af309",
+"type": "thumb"
+}
+},
+"performances": [
+{
+"concession_family": false,
+"title": null,
+"concession": 6.5,
+"price": 8.5,
+"concession_additional": false,
+"start": "2016-04-02 20:00:00",
+"end": "2016-04-02 21:30:00"
+}
+],
+"categories": {
+"keywords": [
+{
+"category": "Headings",
+"keywords": [
+"Our planet",
+"Society & Culture"
+]
+},
+{
+"category": "Specialisations",
+"keywords": [
+"City planning"
+]
+},
+{
+"category": "Topics",
+"keywords": [
+"Conservation",
+"Current research",
+"Population",
+"Wellbeing"
+]
+}
+],
+"subjects": [
+"Design",
+"Earth",
+"Environment",
+"Global Issues"
+],
+"strand_titles": [
+"A Planetary Perspective"
+]
+},
+"disabled": {
+"signed_dates": null,
+"other_services_information": null,
+"captioning": null,
+"audio": null,
+"signed": null,
+"audio_dates": null,
+"other_services_dates": null,
+"captioning_dates": null,
+"other_services": null
+},
+"latitude": 55.94,
+"longitude": -3.18228
+},
+{
+"genre": "Special Event",
+"fringe_first": null,
+"performers_number": null,
+"artist_type": null,
+"sub_title": null,
+"update_times": {
+"genre": 1455109220,
+"age_category": 1455019066,
+"other": 1455109220,
+"fringe_first": 1455019066,
+"status": 1455019066,
+"web_links": 1455019066,
+"venue": 1455019066,
+"identity": 1455019066,
+"title": 1455019066,
+"description": 1455019066,
+"discounts": 1455019066,
+"images": 1455019066,
+"performances": 1455019066,
+"artist": 1455019066,
+"disabled": 1455019066
+},
+"twitter": null,
+"title": "Dino Day",
+"updated": "2016-02-10 13:00:20",
+"description": "<p>Join us for a day of prehistoric fun family activities. Play with robotic dinosaurs, discover dino fossils, meet Velma the Velociraptor and dig up the newest species of dinosaur yourself. There'll also be the chance to try some dinosaur dressing up, as well as face painting, colouring-in and, as it's Easter, a dino egg hunt!</p>",
+"discounts": {
+"two_for_one": null,
+"friends": null,
+"schools": null,
+"passport": null,
+"group": null
+},
+"festival": "Edinburgh International Science Festival",
+"year": 2016,
+"artist": null,
+"warnings": null,
+"festival_id": "science",
+"age_category": "All Ages",
+"non_english": null,
+"website": "http://www.sciencefestival.co.uk/event-details/dino-day",
+"status": "active",
+"performance_space": {
+"age_limit": null,
+"wheelchair_access": null,
+"name": null,
+"capacity": null,
+"age_limited": null
+},
+"code": "620",
+"venue": {
+"position": {
+"lon": -3.18228,
+"lat": 55.94
+},
+"phone": null,
+"web_address": null,
+"fax": null,
+"post_code": "EH9 1PL",
+"has_cafe": null,
+"cafe_description": null,
+"map_ref": null,
+"code": "Summerhall",
+"disabled_description": null,
+"box_office_fringe": false,
+"has_booking_over_phone": true,
+"address": "Summerhall Place\nEdinburgh",
+"email": null,
+"description": null,
+"has_booking_over_web": true,
+"name": "Summerhall",
+"box_office_opening": null,
+"has_booking_over_card": true,
+"has_bar": null
+},
+"sub_venue": null,
+"url": "https://api.edinburghfestivalcity.com/events/a5cded30480cbc94cba7e2e765fe23d1bc658065",
+"country": null,
+"genre_tags": "A Planetary Perspective,Animals,Evolution & Genetics,History of Science",
+"description_teaser": "Join us for a day of prehistoric fun family activities.",
+"images": {
+"d36cec55f5175afc92694182b9384cd1e1e55670": {
+"versions": {
+"medium-640": {
+"height": 640,
+"width": 640,
+"mime": "image/png",
+"type": "medium-640",
+"url": "//edfestimages.s3.amazonaws.com/d3/6c/ec/d36cec55f5175afc92694182b9384cd1e1e55670-medium-640.png"
+},
+"original": {
+"height": 800,
+"width": 800,
+"mime": "image/jpeg",
+"type": "original",
+"url": "//edfestimages.s3.amazonaws.com/d3/6c/ec/d36cec55f5175afc92694182b9384cd1e1e55670-original.jpg"
+},
+"small-320": {
+"height": 320,
+"width": 320,
+"mime": "image/png",
+"type": "small-320",
+"url": "//edfestimages.s3.amazonaws.com/d3/6c/ec/d36cec55f5175afc92694182b9384cd1e1e55670-small-320.png"
+},
+"thumb-100": {
+"height": 100,
+"width": 100,
+"mime": "image/png",
+"type": "thumb-100",
+"url": "//edfestimages.s3.amazonaws.com/d3/6c/ec/d36cec55f5175afc92694182b9384cd1e1e55670-thumb-100.png"
+},
+"square-75": {
+"height": 75,
+"width": 75,
+"mime": "image/png",
+"type": "square-75",
+"url": "//edfestimages.s3.amazonaws.com/d3/6c/ec/d36cec55f5175afc92694182b9384cd1e1e55670-square-75.png"
+},
+"square-150": {
+"height": 150,
+"width": 150,
+"mime": "image/png",
+"type": "square-150",
+"url": "//edfestimages.s3.amazonaws.com/d3/6c/ec/d36cec55f5175afc92694182b9384cd1e1e55670-square-150.png"
+}
+},
+"orientation": "square",
+"hash": "d36cec55f5175afc92694182b9384cd1e1e55670",
+"type": "thumb"
+},
+"1fc3440987c9d67618eb7e949fd65b79bdf6dd6a": {
+"versions": {
+"large-1024": {
+"height": 261,
+"width": 1024,
+"mime": "image/png",
+"type": "large-1024",
+"url": "//edfestimages.s3.amazonaws.com/1f/c3/44/1fc3440987c9d67618eb7e949fd65b79bdf6dd6a-large-1024.png"
+},
+"medium-640": {
+"height": 163,
+"width": 640,
+"mime": "image/png",
+"type": "medium-640",
+"url": "//edfestimages.s3.amazonaws.com/1f/c3/44/1fc3440987c9d67618eb7e949fd65b79bdf6dd6a-medium-640.png"
+},
+"original": {
+"height": 490,
+"width": 1920,
+"mime": "image/jpeg",
+"type": "original",
+"url": "//edfestimages.s3.amazonaws.com/1f/c3/44/1fc3440987c9d67618eb7e949fd65b79bdf6dd6a-original.jpg"
+},
+"small-320": {
+"height": 82,
+"width": 320,
+"mime": "image/png",
+"type": "small-320",
+"url": "//edfestimages.s3.amazonaws.com/1f/c3/44/1fc3440987c9d67618eb7e949fd65b79bdf6dd6a-small-320.png"
+},
+"thumb-100": {
+"height": 26,
+"width": 100,
+"mime": "image/png",
+"type": "thumb-100",
+"url": "//edfestimages.s3.amazonaws.com/1f/c3/44/1fc3440987c9d67618eb7e949fd65b79bdf6dd6a-thumb-100.png"
+},
+"square-75": {
+"height": 75,
+"width": 75,
+"mime": "image/png",
+"type": "square-75",
+"url": "//edfestimages.s3.amazonaws.com/1f/c3/44/1fc3440987c9d67618eb7e949fd65b79bdf6dd6a-square-75.png"
+},
+"square-150": {
+"height": 150,
+"width": 150,
+"mime": "image/png",
+"type": "square-150",
+"url": "//edfestimages.s3.amazonaws.com/1f/c3/44/1fc3440987c9d67618eb7e949fd65b79bdf6dd6a-square-150.png"
+}
+},
+"orientation": "landscape",
+"hash": "1fc3440987c9d67618eb7e949fd65b79bdf6dd6a",
+"type": "hero"
+}
+},
+"performances": [
+{
+"concession_family": false,
+"title": null,
+"concession": 0,
+"price": 0,
+"concession_additional": false,
+"start": "2016-03-26 10:00:00",
+"end": "2016-03-26 15:00:00"
+}
+],
+"categories": {
+"keywords": [
+{
+"category": "Headings",
+"keywords": [
+"Life on Earth",
+"Society & Culture"
+]
+},
+{
+"category": "Phenomena",
+"keywords": [
+"Biodiversity",
+"Dinosaurs"
+]
+},
+{
+"category": "Topics",
+"keywords": [
+"Animals",
+"Evolution"
+]
+}
+],
+"subjects": [
+"Animals",
+"Evolution & Genetics",
+"History of Science"
+],
+"strand_titles": [
+"A Planetary Perspective"
+]
+},
+"disabled": {
+"signed_dates": null,
+"other_services_information": null,
+"captioning": null,
+"audio": null,
+"signed": null,
+"audio_dates": null,
+"other_services_dates": null,
+"captioning_dates": null,
+"other_services": null
+},
+"latitude": 55.94,
+"longitude": -3.18228
+},
+{
+"genre": "Discussion",
+"fringe_first": null,
+"performers_number": null,
+"artist_type": null,
+"sub_title": null,
+"update_times": {
+"genre": 1455109220,
+"age_category": 1455019066,
+"other": 1455109220,
+"fringe_first": 1455019066,
+"status": 1455019066,
+"web_links": 1455019066,
+"venue": 1455019066,
+"identity": 1455019066,
+"title": 1455019066,
+"description": 1455019066,
+"discounts": 1455019066,
+"images": 1455019066,
+"performances": 1455019066,
+"artist": 1455019066,
+"disabled": 1455019066
+},
+"twitter": null,
+"title": "A Very Short Introduction to...Evolution",
+"updated": "2016-02-10 13:00:20",
+"description": "<p>Less than 250 years ago, most European scholars believed that the universe was created essentially in its present state about 6000 years ago. Join <strong>Brian</strong> <strong>Charlesworth </strong>and <strong>Deborah Charlesworth</strong> as they explain the crucial role of evolutionary biology in transforming our view of human origins and relation to the universe. It will provide an introduction to some of the most important basic findings, concepts, and procedures of evolutionary biology, as it has developed since the first publications of Darwin and Wallace on the subject, over 140 years ago. </p>",
+"discounts": {
+"two_for_one": null,
+"friends": null,
+"schools": null,
+"passport": null,
+"group": null
+},
+"festival": "Edinburgh International Science Festival",
+"year": 2016,
+"artist": null,
+"warnings": null,
+"festival_id": "science",
+"age_category": "Ages 14+",
+"non_english": null,
+"website": "http://www.sciencefestival.co.uk/event-details/a-very-short-introduction-toevolution",
+"status": "active",
+"performance_space": {
+"age_limit": null,
+"wheelchair_access": null,
+"name": null,
+"capacity": null,
+"age_limited": null
+},
+"code": "696",
+"venue": {
+"position": {
+"lon": -3.18228,
+"lat": 55.94
+},
+"phone": null,
+"web_address": null,
+"fax": null,
+"post_code": "EH9 1PL",
+"has_cafe": null,
+"cafe_description": null,
+"map_ref": null,
+"code": "Summerhall",
+"disabled_description": null,
+"box_office_fringe": false,
+"has_booking_over_phone": true,
+"address": "Summerhall Place\nEdinburgh",
+"email": null,
+"description": null,
+"has_booking_over_web": true,
+"name": "Summerhall",
+"box_office_opening": null,
+"has_booking_over_card": true,
+"has_bar": null
+},
+"sub_venue": null,
+"url": "https://api.edinburghfestivalcity.com/events/ca4b27c5186b77159408bdcf3bf54e642d97c100",
+"country": null,
+"genre_tags": "A Planetary Perspective,Ecosystems,Evolution & Genetics",
+"description_teaser": "Join us for an introduction to the crucial role of evolutionary biology in transforming our view of human origins and relation to the universe",
+"images": {
+"c86047d2808cf2f73bf73e233b59e7d682e77faa": {
+"versions": {
+"medium-640": {
+"height": 640,
+"width": 640,
+"mime": "image/png",
+"type": "medium-640",
+"url": "//edfestimages.s3.amazonaws.com/c8/60/47/c86047d2808cf2f73bf73e233b59e7d682e77faa-medium-640.png"
+},
+"original": {
+"height": 800,
+"width": 800,
+"mime": "image/jpeg",
+"type": "original",
+"url": "//edfestimages.s3.amazonaws.com/c8/60/47/c86047d2808cf2f73bf73e233b59e7d682e77faa-original.jpg"
+},
+"small-320": {
+"height": 320,
+"width": 320,
+"mime": "image/png",
+"type": "small-320",
+"url": "//edfestimages.s3.amazonaws.com/c8/60/47/c86047d2808cf2f73bf73e233b59e7d682e77faa-small-320.png"
+},
+"thumb-100": {
+"height": 100,
+"width": 100,
+"mime": "image/png",
+"type": "thumb-100",
+"url": "//edfestimages.s3.amazonaws.com/c8/60/47/c86047d2808cf2f73bf73e233b59e7d682e77faa-thumb-100.png"
+},
+"square-75": {
+"height": 75,
+"width": 75,
+"mime": "image/png",
+"type": "square-75",
+"url": "//edfestimages.s3.amazonaws.com/c8/60/47/c86047d2808cf2f73bf73e233b59e7d682e77faa-square-75.png"
+},
+"square-150": {
+"height": 150,
+"width": 150,
+"mime": "image/png",
+"type": "square-150",
+"url": "//edfestimages.s3.amazonaws.com/c8/60/47/c86047d2808cf2f73bf73e233b59e7d682e77faa-square-150.png"
+}
+},
+"orientation": "square",
+"hash": "c86047d2808cf2f73bf73e233b59e7d682e77faa",
+"type": "thumb"
+},
+"1dbcf1766a47c998b62d57a7f442dc57fac828d0": {
+"versions": {
+"large-1024": {
+"height": 213,
+"width": 1024,
+"mime": "image/png",
+"type": "large-1024",
+"url": "//edfestimages.s3.amazonaws.com/1d/bc/f1/1dbcf1766a47c998b62d57a7f442dc57fac828d0-large-1024.png"
+},
+"medium-640": {
+"height": 133,
+"width": 640,
+"mime": "image/png",
+"type": "medium-640",
+"url": "//edfestimages.s3.amazonaws.com/1d/bc/f1/1dbcf1766a47c998b62d57a7f442dc57fac828d0-medium-640.png"
+},
+"original": {
+"height": 400,
+"width": 1920,
+"mime": "image/jpeg",
+"type": "original",
+"url": "//edfestimages.s3.amazonaws.com/1d/bc/f1/1dbcf1766a47c998b62d57a7f442dc57fac828d0-original.jpg"
+},
+"small-320": {
+"height": 67,
+"width": 320,
+"mime": "image/png",
+"type": "small-320",
+"url": "//edfestimages.s3.amazonaws.com/1d/bc/f1/1dbcf1766a47c998b62d57a7f442dc57fac828d0-small-320.png"
+},
+"thumb-100": {
+"height": 21,
+"width": 100,
+"mime": "image/png",
+"type": "thumb-100",
+"url": "//edfestimages.s3.amazonaws.com/1d/bc/f1/1dbcf1766a47c998b62d57a7f442dc57fac828d0-thumb-100.png"
+},
+"square-75": {
+"height": 75,
+"width": 75,
+"mime": "image/png",
+"type": "square-75",
+"url": "//edfestimages.s3.amazonaws.com/1d/bc/f1/1dbcf1766a47c998b62d57a7f442dc57fac828d0-square-75.png"
+},
+"square-150": {
+"height": 150,
+"width": 150,
+"mime": "image/png",
+"type": "square-150",
+"url": "//edfestimages.s3.amazonaws.com/1d/bc/f1/1dbcf1766a47c998b62d57a7f442dc57fac828d0-square-150.png"
+}
+},
+"orientation": "landscape",
+"hash": "1dbcf1766a47c998b62d57a7f442dc57fac828d0",
+"type": "hero"
+}
+},
+"performances": [
+{
+"concession_family": false,
+"title": null,
+"concession": null,
+"price": 6,
+"concession_additional": false,
+"start": "2016-04-04 13:00:00",
+"end": "2016-04-04 14:00:00"
+}
+],
+"categories": {
+"keywords": [
+{
+"category": "Headings",
+"keywords": [
+"Life on Earth"
+]
+},
+{
+"category": "Specialisations",
+"keywords": [
+"Anatomy",
+"Biology",
+"Genetics"
+]
+},
+{
+"category": "Topics",
+"keywords": [
+"Animals",
+"Ecosystems",
+"Evolution"
+]
+}
+],
+"subjects": [
+"Ecosystems",
+"Evolution & Genetics"
+],
+"strand_titles": [
+"A Planetary Perspective"
+]
+},
+"disabled": {
+"signed_dates": null,
+"other_services_information": null,
+"captioning": null,
+"audio": null,
+"signed": null,
+"audio_dates": null,
+"other_services_dates": null,
+"captioning_dates": null,
+"other_services": null
+},
+"latitude": 55.94,
+"longitude": -3.18228
+}
+]

@@ -1,0 +1,8060 @@
+[
+{
+"festival_id": "science",
+"title": "Wild Vets",
+"sub_title": null,
+"status": "active",
+"code": "1640",
+"year": 2019,
+"venue": {
+"name": "City Art Centre",
+"map_ref": null,
+"code": "City Art Centre",
+"description": null,
+"address": "2 Market Street\nEdinburgh",
+"post_code": "EH1 1DE",
+"phone": null,
+"fax": null,
+"email": null,
+"disabled_description": null,
+"has_booking_over_phone": true,
+"has_booking_over_card": true,
+"has_booking_over_web": true,
+"box_office_opening": null,
+"box_office_fringe": false,
+"has_bar": null,
+"has_cafe": null,
+"cafe_description": null,
+"web_address": null,
+"position": {
+"lat": 55.9515,
+"lon": -3.18448
+}
+},
+"performances": [
+{
+"start": "2019-04-06 10:00:00",
+"end": "2019-04-06 10:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-06 11:00:00",
+"end": "2019-04-06 11:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-06 12:00:00",
+"end": "2019-04-06 12:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-08 12:00:00",
+"end": "2019-04-08 12:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-09 12:00:00",
+"end": "2019-04-09 12:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-10 12:00:00",
+"end": "2019-04-10 12:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-11 12:00:00",
+"end": "2019-04-11 12:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-12 12:00:00",
+"end": "2019-04-12 12:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-13 12:00:00",
+"end": "2019-04-13 12:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-15 12:00:00",
+"end": "2019-04-15 12:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-16 12:00:00",
+"end": "2019-04-16 12:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-17 12:00:00",
+"end": "2019-04-17 12:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-18 12:00:00",
+"end": "2019-04-18 12:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-19 12:00:00",
+"end": "2019-04-19 12:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-20 12:00:00",
+"end": "2019-04-20 12:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-08 10:00:00",
+"end": "2019-04-08 10:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-09 10:00:00",
+"end": "2019-04-09 10:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-10 10:00:00",
+"end": "2019-04-10 10:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-11 10:00:00",
+"end": "2019-04-11 10:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-12 10:00:00",
+"end": "2019-04-12 10:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-13 10:00:00",
+"end": "2019-04-13 10:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-15 10:00:00",
+"end": "2019-04-15 10:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-16 10:00:00",
+"end": "2019-04-16 10:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-17 10:00:00",
+"end": "2019-04-17 10:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-18 10:00:00",
+"end": "2019-04-18 10:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-19 10:00:00",
+"end": "2019-04-19 10:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-20 10:00:00",
+"end": "2019-04-20 10:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-08 11:00:00",
+"end": "2019-04-08 11:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-09 11:00:00",
+"end": "2019-04-09 11:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-10 11:00:00",
+"end": "2019-04-10 11:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-11 11:00:00",
+"end": "2019-04-11 11:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-12 11:00:00",
+"end": "2019-04-12 11:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-13 11:00:00",
+"end": "2019-04-13 11:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-15 11:00:00",
+"end": "2019-04-15 11:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-16 11:00:00",
+"end": "2019-04-16 11:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-17 11:00:00",
+"end": "2019-04-17 11:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-18 11:00:00",
+"end": "2019-04-18 11:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-19 11:00:00",
+"end": "2019-04-19 11:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-20 11:00:00",
+"end": "2019-04-20 11:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-06 13:00:00",
+"end": "2019-04-06 13:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-08 13:00:00",
+"end": "2019-04-08 13:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-09 13:00:00",
+"end": "2019-04-09 13:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-10 13:00:00",
+"end": "2019-04-10 13:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-11 13:00:00",
+"end": "2019-04-11 13:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-12 13:00:00",
+"end": "2019-04-12 13:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-13 13:00:00",
+"end": "2019-04-13 13:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-15 13:00:00",
+"end": "2019-04-15 13:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-16 13:00:00",
+"end": "2019-04-16 13:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-17 13:00:00",
+"end": "2019-04-17 13:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-18 13:00:00",
+"end": "2019-04-18 13:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-19 13:00:00",
+"end": "2019-04-19 13:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-20 13:00:00",
+"end": "2019-04-20 13:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-06 14:00:00",
+"end": "2019-04-06 14:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-08 14:00:00",
+"end": "2019-04-08 14:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-09 14:00:00",
+"end": "2019-04-09 14:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-10 14:00:00",
+"end": "2019-04-10 14:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-11 14:00:00",
+"end": "2019-04-11 14:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-12 14:00:00",
+"end": "2019-04-12 14:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-13 14:00:00",
+"end": "2019-04-13 14:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-15 14:00:00",
+"end": "2019-04-15 14:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-16 14:00:00",
+"end": "2019-04-16 14:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-17 14:00:00",
+"end": "2019-04-17 14:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-18 14:00:00",
+"end": "2019-04-18 14:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-19 14:00:00",
+"end": "2019-04-19 14:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-20 14:00:00",
+"end": "2019-04-20 14:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-06 15:00:00",
+"end": "2019-04-06 15:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-08 15:00:00",
+"end": "2019-04-08 15:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-09 15:00:00",
+"end": "2019-04-09 15:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-10 15:00:00",
+"end": "2019-04-10 15:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-11 15:00:00",
+"end": "2019-04-11 15:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-12 15:00:00",
+"end": "2019-04-12 15:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-13 15:00:00",
+"end": "2019-04-13 15:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-15 15:00:00",
+"end": "2019-04-15 15:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-16 15:00:00",
+"end": "2019-04-16 15:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-17 15:00:00",
+"end": "2019-04-17 15:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-18 15:00:00",
+"end": "2019-04-18 15:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-19 15:00:00",
+"end": "2019-04-19 15:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-20 15:00:00",
+"end": "2019-04-20 15:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-06 16:00:00",
+"end": "2019-04-06 16:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-08 16:00:00",
+"end": "2019-04-08 16:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-09 16:00:00",
+"end": "2019-04-09 16:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-10 16:00:00",
+"end": "2019-04-10 16:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-11 16:00:00",
+"end": "2019-04-11 16:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-12 16:00:00",
+"end": "2019-04-12 16:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-13 16:00:00",
+"end": "2019-04-13 16:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-15 16:00:00",
+"end": "2019-04-15 16:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-16 16:00:00",
+"end": "2019-04-16 16:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-17 16:00:00",
+"end": "2019-04-17 16:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-18 16:00:00",
+"end": "2019-04-18 16:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-19 16:00:00",
+"end": "2019-04-19 16:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-20 16:00:00",
+"end": "2019-04-20 16:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+}
+],
+"performance_space": {
+"name": null,
+"capacity": null,
+"wheelchair_access": null,
+"age_limited": null,
+"age_limit": null
+},
+"sub_venue": null,
+"warnings": null,
+"fringe_first": null,
+"description": "<p>Take on the role of an animal conservationist in our totally wild workshop. Discover more about Scottish wildlife heritage by exploring the animals that used to live here and the work being carried out to reintroduce animals – like the beaver – to Scotland!</p>",
+"description_teaser": "",
+"artist": null,
+"artist_type": null,
+"genre": "Workshop",
+"genre_tags": "",
+"categories": {
+"strand_titles": [],
+"subjects": [],
+"keywords": []
+},
+"discounts": {
+"two_for_one": null,
+"group": null,
+"friends": null,
+"passport": null,
+"schools": null
+},
+"disabled": {
+"audio": null,
+"audio_dates": null,
+"signed": null,
+"signed_dates": null,
+"captioning": null,
+"captioning_dates": null,
+"other_services": null,
+"other_services_dates": null,
+"other_services_information": null
+},
+"age_category": "Ages 5+",
+"website": "http://www.sciencefestival.co.uk/event-details/wild-vets",
+"images": {
+"c72434e3218149fa6306266fa3d97072aca57788": {
+"hash": "c72434e3218149fa6306266fa3d97072aca57788",
+"type": "hero",
+"orientation": "landscape",
+"versions": {
+"original": {
+"type": "original",
+"width": 1920,
+"height": 400,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/c7/24/34/c72434e3218149fa6306266fa3d97072aca57788-original.jpg"
+},
+"square-75": {
+"type": "square-75",
+"width": 75,
+"height": 75,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/c7/24/34/c72434e3218149fa6306266fa3d97072aca57788-square-75.jpg"
+},
+"square-150": {
+"type": "square-150",
+"width": 150,
+"height": 150,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/c7/24/34/c72434e3218149fa6306266fa3d97072aca57788-square-150.jpg"
+},
+"thumb-100": {
+"type": "thumb-100",
+"width": 100,
+"height": 21,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/c7/24/34/c72434e3218149fa6306266fa3d97072aca57788-thumb-100.jpg"
+},
+"small-320": {
+"type": "small-320",
+"width": 320,
+"height": 67,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/c7/24/34/c72434e3218149fa6306266fa3d97072aca57788-small-320.jpg"
+},
+"medium-640": {
+"type": "medium-640",
+"width": 640,
+"height": 133,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/c7/24/34/c72434e3218149fa6306266fa3d97072aca57788-medium-640.jpg"
+},
+"large-1024": {
+"type": "large-1024",
+"width": 1024,
+"height": 213,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/c7/24/34/c72434e3218149fa6306266fa3d97072aca57788-large-1024.jpg"
+}
+}
+},
+"c6d7dd0f94319e772688d03d6e8b6dca6c355033": {
+"hash": "c6d7dd0f94319e772688d03d6e8b6dca6c355033",
+"type": "thumb",
+"orientation": "square",
+"versions": {
+"original": {
+"type": "original",
+"width": 800,
+"height": 800,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/c6/d7/dd/c6d7dd0f94319e772688d03d6e8b6dca6c355033-original.jpg"
+},
+"square-75": {
+"type": "square-75",
+"width": 75,
+"height": 75,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/c6/d7/dd/c6d7dd0f94319e772688d03d6e8b6dca6c355033-square-75.jpg"
+},
+"square-150": {
+"type": "square-150",
+"width": 150,
+"height": 150,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/c6/d7/dd/c6d7dd0f94319e772688d03d6e8b6dca6c355033-square-150.jpg"
+},
+"thumb-100": {
+"type": "thumb-100",
+"width": 100,
+"height": 100,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/c6/d7/dd/c6d7dd0f94319e772688d03d6e8b6dca6c355033-thumb-100.jpg"
+},
+"small-320": {
+"type": "small-320",
+"width": 320,
+"height": 320,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/c6/d7/dd/c6d7dd0f94319e772688d03d6e8b6dca6c355033-small-320.jpg"
+},
+"medium-640": {
+"type": "medium-640",
+"width": 640,
+"height": 640,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/c6/d7/dd/c6d7dd0f94319e772688d03d6e8b6dca6c355033-medium-640.jpg"
+}
+}
+}
+},
+"twitter": null,
+"country": null,
+"performers_number": null,
+"non_english": null,
+"festival": "Edinburgh Science Festival",
+"url": "https://api.edinburghfestivalcity.com/events/01f945550af0570b506e2f211405bcae45600957",
+"updated": "2019-02-13 21:45:59",
+"update_times": {
+"identity": 1550094359,
+"title": 1550081997,
+"description": 1550081997,
+"venue": 1550081997,
+"performances": 1550081997,
+"artist": 1550081997,
+"genre": 1550081997,
+"discounts": 1550081997,
+"age_category": 1550081997,
+"fringe_first": 1550081997,
+"other": 1550081997,
+"disabled": 1550081997,
+"web_links": 1550081997,
+"images": 1550081997,
+"status": 1550081997
+},
+"latitude": 55.9515,
+"longitude": -3.18448
+},
+{
+"festival_id": "science",
+"title": "A Very Short Introduction to... Depression",
+"sub_title": null,
+"status": "active",
+"code": "1656",
+"year": 2019,
+"venue": {
+"name": "Pleasance",
+"map_ref": null,
+"code": "Pleasance",
+"description": null,
+"address": "60 Pleasance\nEdinburgh",
+"post_code": "EH8 9TJ",
+"phone": null,
+"fax": null,
+"email": null,
+"disabled_description": null,
+"has_booking_over_phone": true,
+"has_booking_over_card": true,
+"has_booking_over_web": true,
+"box_office_opening": null,
+"box_office_fringe": false,
+"has_bar": null,
+"has_cafe": null,
+"cafe_description": null,
+"web_address": null,
+"position": {
+"lat": 55.947394,
+"lon": -3.181877
+}
+},
+"performances": [
+{
+"start": "2019-04-10 13:00:00",
+"end": "2019-04-10 14:00:00",
+"title": null,
+"price": 6,
+"concession": null,
+"concession_family": false,
+"concession_additional": false
+}
+],
+"performance_space": {
+"name": null,
+"capacity": null,
+"wheelchair_access": null,
+"age_limited": null,
+"age_limit": null
+},
+"sub_venue": null,
+"warnings": null,
+"fringe_first": null,
+"description": "<p>Consultant psychiatrist <strong>Dr Mary Jane Tacchi</strong> and professor of psychological medicine <strong>Jan Scott</strong> present a history of depression and bipolar disorder and explain how they are experienced and understood today. They examine the controversies of diagnosis and treatment and discuss how mood disorders can influence creativity.</p>",
+"description_teaser": "Explore a history of depression and bipolar disorder and explain how they are experienced and understood today.",
+"artist": null,
+"artist_type": null,
+"genre": "Discussion",
+"genre_tags": "Brainwaves,Mind",
+"categories": {
+"strand_titles": [
+"Brainwaves"
+],
+"subjects": [
+"Mind"
+],
+"keywords": [
+{
+"category": "Headings",
+"keywords": [
+"Mind & Body"
+]
+},
+{
+"category": "Specialisations",
+"keywords": [
+"Mental health",
+"Psychology"
+]
+}
+]
+},
+"discounts": {
+"two_for_one": null,
+"group": null,
+"friends": null,
+"passport": null,
+"schools": null
+},
+"disabled": {
+"audio": null,
+"audio_dates": null,
+"signed": null,
+"signed_dates": null,
+"captioning": null,
+"captioning_dates": null,
+"other_services": null,
+"other_services_dates": null,
+"other_services_information": null
+},
+"age_category": "Ages 14+",
+"website": "http://www.sciencefestival.co.uk/event-details/a-very-short-introduction-to-depression",
+"images": {
+"ef401be8fffc552e6ace8e412dc31f3d1e19e5b0": {
+"hash": "ef401be8fffc552e6ace8e412dc31f3d1e19e5b0",
+"type": "hero",
+"orientation": "landscape",
+"versions": {
+"original": {
+"type": "original",
+"width": 1920,
+"height": 400,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/ef/40/1b/ef401be8fffc552e6ace8e412dc31f3d1e19e5b0-original.jpg"
+},
+"square-75": {
+"type": "square-75",
+"width": 75,
+"height": 75,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/ef/40/1b/ef401be8fffc552e6ace8e412dc31f3d1e19e5b0-square-75.jpg"
+},
+"square-150": {
+"type": "square-150",
+"width": 150,
+"height": 150,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/ef/40/1b/ef401be8fffc552e6ace8e412dc31f3d1e19e5b0-square-150.jpg"
+},
+"thumb-100": {
+"type": "thumb-100",
+"width": 100,
+"height": 21,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/ef/40/1b/ef401be8fffc552e6ace8e412dc31f3d1e19e5b0-thumb-100.jpg"
+},
+"small-320": {
+"type": "small-320",
+"width": 320,
+"height": 67,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/ef/40/1b/ef401be8fffc552e6ace8e412dc31f3d1e19e5b0-small-320.jpg"
+},
+"medium-640": {
+"type": "medium-640",
+"width": 640,
+"height": 133,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/ef/40/1b/ef401be8fffc552e6ace8e412dc31f3d1e19e5b0-medium-640.jpg"
+},
+"large-1024": {
+"type": "large-1024",
+"width": 1024,
+"height": 213,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/ef/40/1b/ef401be8fffc552e6ace8e412dc31f3d1e19e5b0-large-1024.jpg"
+}
+}
+},
+"80cf529c16d9edb96dee49292a1a79d761c77799": {
+"hash": "80cf529c16d9edb96dee49292a1a79d761c77799",
+"type": "thumb",
+"orientation": "square",
+"versions": {
+"original": {
+"type": "original",
+"width": 800,
+"height": 800,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/80/cf/52/80cf529c16d9edb96dee49292a1a79d761c77799-original.jpg"
+},
+"square-75": {
+"type": "square-75",
+"width": 75,
+"height": 75,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/80/cf/52/80cf529c16d9edb96dee49292a1a79d761c77799-square-75.jpg"
+},
+"square-150": {
+"type": "square-150",
+"width": 150,
+"height": 150,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/80/cf/52/80cf529c16d9edb96dee49292a1a79d761c77799-square-150.jpg"
+},
+"thumb-100": {
+"type": "thumb-100",
+"width": 100,
+"height": 100,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/80/cf/52/80cf529c16d9edb96dee49292a1a79d761c77799-thumb-100.jpg"
+},
+"small-320": {
+"type": "small-320",
+"width": 320,
+"height": 320,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/80/cf/52/80cf529c16d9edb96dee49292a1a79d761c77799-small-320.jpg"
+},
+"medium-640": {
+"type": "medium-640",
+"width": 640,
+"height": 640,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/80/cf/52/80cf529c16d9edb96dee49292a1a79d761c77799-medium-640.jpg"
+}
+}
+}
+},
+"twitter": null,
+"country": null,
+"performers_number": null,
+"non_english": null,
+"festival": "Edinburgh Science Festival",
+"url": "https://api.edinburghfestivalcity.com/events/080c2b9ebc8aa88f8c21363254fdf23f9d35c842",
+"updated": "2019-02-13 21:45:59",
+"update_times": {
+"identity": 1550094359,
+"title": 1550081997,
+"description": 1550081997,
+"venue": 1550081997,
+"performances": 1550081997,
+"artist": 1550081997,
+"genre": 1550081997,
+"discounts": 1550081997,
+"age_category": 1550081997,
+"fringe_first": 1550081997,
+"other": 1550081997,
+"disabled": 1550081997,
+"web_links": 1550081997,
+"images": 1550081997,
+"status": 1550081997
+},
+"latitude": 55.947394,
+"longitude": -3.181877
+},
+{
+"festival_id": "science",
+"title": "Disease Detectives",
+"sub_title": null,
+"status": "active",
+"code": "1578",
+"year": 2019,
+"venue": {
+"name": "Royal Botanic Garden Edinburgh",
+"map_ref": null,
+"code": "Royal Botanic Garden Edinburgh",
+"description": null,
+"address": "20a Inverleith Row\nEdinburgh",
+"post_code": "EH3 5LR",
+"phone": null,
+"fax": null,
+"email": null,
+"disabled_description": null,
+"has_booking_over_phone": true,
+"has_booking_over_card": true,
+"has_booking_over_web": true,
+"box_office_opening": null,
+"box_office_fringe": false,
+"has_bar": null,
+"has_cafe": null,
+"cafe_description": null,
+"web_address": null,
+"position": {
+"lat": 55.9652,
+"lon": -3.20941
+}
+},
+"performances": [
+{
+"start": "2019-04-10 12:00:00",
+"end": "2019-04-10 16:00:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+}
+],
+"performance_space": {
+"name": null,
+"capacity": null,
+"wheelchair_access": null,
+"age_limited": null,
+"age_limit": null
+},
+"sub_venue": null,
+"warnings": null,
+"fringe_first": null,
+"description": "<p>With an increasing number of viruses, bacteria and parasites that cause diseases in both animals and people, it is really important to be able to get a quick diagnosis. This family friendly hands-on activity allows you to be a Disease Detective and to try out some of the different tests that are used in labs to help find out which bugs are making us, and our animals, unwell.</p>",
+"description_teaser": "",
+"artist": null,
+"artist_type": null,
+"genre": "Activity",
+"genre_tags": "Healthcare Frontiers,Invisible Worlds,Health & Diseases",
+"categories": {
+"strand_titles": [
+"Healthcare Frontiers",
+"Invisible Worlds"
+],
+"subjects": [
+"Health & Diseases"
+],
+"keywords": [
+{
+"category": "Headings",
+"keywords": [
+"Mind & Body"
+]
+}
+]
+},
+"discounts": {
+"two_for_one": null,
+"group": null,
+"friends": null,
+"passport": null,
+"schools": null
+},
+"disabled": {
+"audio": null,
+"audio_dates": null,
+"signed": null,
+"signed_dates": null,
+"captioning": null,
+"captioning_dates": null,
+"other_services": null,
+"other_services_dates": null,
+"other_services_information": null
+},
+"age_category": "All Ages",
+"website": "http://www.sciencefestival.co.uk/event-details/disease-detectives",
+"images": {
+"938de5a10cda3041fdc06f2568ded0a5e2ea7d1b": {
+"hash": "938de5a10cda3041fdc06f2568ded0a5e2ea7d1b",
+"type": "hero",
+"orientation": "landscape",
+"versions": {
+"original": {
+"type": "original",
+"width": 1920,
+"height": 400,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/93/8d/e5/938de5a10cda3041fdc06f2568ded0a5e2ea7d1b-original.jpg"
+},
+"square-75": {
+"type": "square-75",
+"width": 75,
+"height": 75,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/93/8d/e5/938de5a10cda3041fdc06f2568ded0a5e2ea7d1b-square-75.jpg"
+},
+"square-150": {
+"type": "square-150",
+"width": 150,
+"height": 150,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/93/8d/e5/938de5a10cda3041fdc06f2568ded0a5e2ea7d1b-square-150.jpg"
+},
+"thumb-100": {
+"type": "thumb-100",
+"width": 100,
+"height": 21,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/93/8d/e5/938de5a10cda3041fdc06f2568ded0a5e2ea7d1b-thumb-100.jpg"
+},
+"small-320": {
+"type": "small-320",
+"width": 320,
+"height": 67,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/93/8d/e5/938de5a10cda3041fdc06f2568ded0a5e2ea7d1b-small-320.jpg"
+},
+"medium-640": {
+"type": "medium-640",
+"width": 640,
+"height": 133,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/93/8d/e5/938de5a10cda3041fdc06f2568ded0a5e2ea7d1b-medium-640.jpg"
+},
+"large-1024": {
+"type": "large-1024",
+"width": 1024,
+"height": 213,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/93/8d/e5/938de5a10cda3041fdc06f2568ded0a5e2ea7d1b-large-1024.jpg"
+}
+}
+},
+"565236c715cd2d1d3e92cc96800c2819d789259d": {
+"hash": "565236c715cd2d1d3e92cc96800c2819d789259d",
+"type": "thumb",
+"orientation": "square",
+"versions": {
+"original": {
+"type": "original",
+"width": 800,
+"height": 800,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/56/52/36/565236c715cd2d1d3e92cc96800c2819d789259d-original.jpg"
+},
+"square-75": {
+"type": "square-75",
+"width": 75,
+"height": 75,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/56/52/36/565236c715cd2d1d3e92cc96800c2819d789259d-square-75.jpg"
+},
+"square-150": {
+"type": "square-150",
+"width": 150,
+"height": 150,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/56/52/36/565236c715cd2d1d3e92cc96800c2819d789259d-square-150.jpg"
+},
+"thumb-100": {
+"type": "thumb-100",
+"width": 100,
+"height": 100,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/56/52/36/565236c715cd2d1d3e92cc96800c2819d789259d-thumb-100.jpg"
+},
+"small-320": {
+"type": "small-320",
+"width": 320,
+"height": 320,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/56/52/36/565236c715cd2d1d3e92cc96800c2819d789259d-small-320.jpg"
+},
+"medium-640": {
+"type": "medium-640",
+"width": 640,
+"height": 640,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/56/52/36/565236c715cd2d1d3e92cc96800c2819d789259d-medium-640.jpg"
+}
+}
+}
+},
+"twitter": null,
+"country": null,
+"performers_number": null,
+"non_english": null,
+"festival": "Edinburgh Science Festival",
+"url": "https://api.edinburghfestivalcity.com/events/081ce15343b62bdee92146acfe17ad868c3d6684",
+"updated": "2019-02-13 21:45:58",
+"update_times": {
+"identity": 1550094358,
+"title": 1550081997,
+"description": 1550081997,
+"venue": 1550081997,
+"performances": 1550081997,
+"artist": 1550081997,
+"genre": 1550081997,
+"discounts": 1550081997,
+"age_category": 1550081997,
+"fringe_first": 1550081997,
+"other": 1550081997,
+"disabled": 1550081997,
+"web_links": 1550081997,
+"images": 1550081997,
+"status": 1550081997
+},
+"latitude": 55.9652,
+"longitude": -3.20941
+},
+{
+"festival_id": "science",
+"title": "#LitterCUBES",
+"sub_title": null,
+"status": "active",
+"code": "1583",
+"year": 2019,
+"venue": {
+"name": "Dynamic Earth",
+"map_ref": null,
+"code": "Dynamic Earth",
+"description": null,
+"address": "112-116 Holyrood Rd\nEdinburgh",
+"post_code": "EH8 8AS",
+"phone": null,
+"fax": null,
+"email": null,
+"disabled_description": null,
+"has_booking_over_phone": true,
+"has_booking_over_card": true,
+"has_booking_over_web": true,
+"box_office_opening": null,
+"box_office_fringe": false,
+"has_bar": null,
+"has_cafe": null,
+"cafe_description": null,
+"web_address": null,
+"position": {
+"lat": 55.9401,
+"lon": -3.17314
+}
+},
+"performances": [
+{
+"start": "2019-04-06 10:00:00",
+"end": "2019-04-06 16:00:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-07 10:00:00",
+"end": "2019-04-07 16:00:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-08 10:00:00",
+"end": "2019-04-08 16:00:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-09 10:00:00",
+"end": "2019-04-09 16:00:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-10 10:00:00",
+"end": "2019-04-10 16:00:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+}
+],
+"performance_space": {
+"name": null,
+"capacity": null,
+"wheelchair_access": null,
+"age_limited": null,
+"age_limit": null
+},
+"sub_venue": null,
+"warnings": null,
+"fringe_first": null,
+"description": "<p>Watch artist <strong>Julia Barton</strong> as she constructs her thought-provoking #LitterCUBES from litter collected on local beaches. Bring along collected plastic bottles or cotton-bud stems and help Julia with her work by washing, sorting and squashing bottles! Join us in asking: how did it get into our seas and on our beaches and what can we do to stop it getting there?</p>",
+"description_teaser": "How does litter get into our seas and on our beaches and what can we do to stop it?",
+"artist": null,
+"artist_type": null,
+"genre": "Activity",
+"genre_tags": "Environmental Frontiers,Our Blue Dot,Environment,Oceans",
+"categories": {
+"strand_titles": [
+"Environmental Frontiers",
+"Our Blue Dot"
+],
+"subjects": [
+"Environment",
+"Oceans"
+],
+"keywords": [
+{
+"category": "Headings",
+"keywords": [
+"Our planet"
+]
+}
+]
+},
+"discounts": {
+"two_for_one": null,
+"group": null,
+"friends": null,
+"passport": null,
+"schools": null
+},
+"disabled": {
+"audio": null,
+"audio_dates": null,
+"signed": null,
+"signed_dates": null,
+"captioning": null,
+"captioning_dates": null,
+"other_services": null,
+"other_services_dates": null,
+"other_services_information": null
+},
+"age_category": "Ages 8+",
+"website": "http://www.sciencefestival.co.uk/event-details/littercubes",
+"images": {
+"58937fbbcf67891b009da25494f7c9cf5d46b117": {
+"hash": "58937fbbcf67891b009da25494f7c9cf5d46b117",
+"type": "hero",
+"orientation": "landscape",
+"versions": {
+"original": {
+"type": "original",
+"width": 1920,
+"height": 400,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/58/93/7f/58937fbbcf67891b009da25494f7c9cf5d46b117-original.jpg"
+},
+"square-75": {
+"type": "square-75",
+"width": 75,
+"height": 75,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/58/93/7f/58937fbbcf67891b009da25494f7c9cf5d46b117-square-75.jpg"
+},
+"square-150": {
+"type": "square-150",
+"width": 150,
+"height": 150,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/58/93/7f/58937fbbcf67891b009da25494f7c9cf5d46b117-square-150.jpg"
+},
+"thumb-100": {
+"type": "thumb-100",
+"width": 100,
+"height": 21,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/58/93/7f/58937fbbcf67891b009da25494f7c9cf5d46b117-thumb-100.jpg"
+},
+"small-320": {
+"type": "small-320",
+"width": 320,
+"height": 67,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/58/93/7f/58937fbbcf67891b009da25494f7c9cf5d46b117-small-320.jpg"
+},
+"medium-640": {
+"type": "medium-640",
+"width": 640,
+"height": 133,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/58/93/7f/58937fbbcf67891b009da25494f7c9cf5d46b117-medium-640.jpg"
+},
+"large-1024": {
+"type": "large-1024",
+"width": 1024,
+"height": 213,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/58/93/7f/58937fbbcf67891b009da25494f7c9cf5d46b117-large-1024.jpg"
+}
+}
+},
+"b0d9f43dc2c48d9e2bc20fccf86a409a554004f6": {
+"hash": "b0d9f43dc2c48d9e2bc20fccf86a409a554004f6",
+"type": "thumb",
+"orientation": "square",
+"versions": {
+"original": {
+"type": "original",
+"width": 800,
+"height": 800,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/b0/d9/f4/b0d9f43dc2c48d9e2bc20fccf86a409a554004f6-original.jpg"
+},
+"square-75": {
+"type": "square-75",
+"width": 75,
+"height": 75,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/b0/d9/f4/b0d9f43dc2c48d9e2bc20fccf86a409a554004f6-square-75.jpg"
+},
+"square-150": {
+"type": "square-150",
+"width": 150,
+"height": 150,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/b0/d9/f4/b0d9f43dc2c48d9e2bc20fccf86a409a554004f6-square-150.jpg"
+},
+"thumb-100": {
+"type": "thumb-100",
+"width": 100,
+"height": 100,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/b0/d9/f4/b0d9f43dc2c48d9e2bc20fccf86a409a554004f6-thumb-100.jpg"
+},
+"small-320": {
+"type": "small-320",
+"width": 320,
+"height": 320,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/b0/d9/f4/b0d9f43dc2c48d9e2bc20fccf86a409a554004f6-small-320.jpg"
+},
+"medium-640": {
+"type": "medium-640",
+"width": 640,
+"height": 640,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/b0/d9/f4/b0d9f43dc2c48d9e2bc20fccf86a409a554004f6-medium-640.jpg"
+}
+}
+}
+},
+"twitter": null,
+"country": null,
+"performers_number": null,
+"non_english": null,
+"festival": "Edinburgh Science Festival",
+"url": "https://api.edinburghfestivalcity.com/events/3961fe3b19b0d3fde0617bfc295ef7dbcb476c7e",
+"updated": "2019-02-13 21:45:58",
+"update_times": {
+"identity": 1550094358,
+"title": 1550081997,
+"description": 1550081997,
+"venue": 1550081997,
+"performances": 1550081997,
+"artist": 1550081997,
+"genre": 1550081997,
+"discounts": 1550081997,
+"age_category": 1550081997,
+"fringe_first": 1550081997,
+"other": 1550081997,
+"disabled": 1550081997,
+"web_links": 1550081997,
+"images": 1550081997,
+"status": 1550081997
+},
+"latitude": 55.9401,
+"longitude": -3.17314
+},
+{
+"festival_id": "science",
+"title": "The Cities of the Future",
+"sub_title": null,
+"status": "active",
+"code": "1599",
+"year": 2019,
+"venue": {
+"name": "The Patrick Geddes Centre",
+"map_ref": null,
+"code": "The Patrick Geddes Centre",
+"description": null,
+"address": "Riddle’s Court\n322 Lawnmarket\nEdinburgh",
+"post_code": "EH1 2PG",
+"phone": null,
+"fax": null,
+"email": null,
+"disabled_description": null,
+"has_booking_over_phone": true,
+"has_booking_over_card": true,
+"has_booking_over_web": true,
+"box_office_opening": null,
+"box_office_fringe": false,
+"has_bar": null,
+"has_cafe": null,
+"cafe_description": null,
+"web_address": null,
+"position": {
+"lat": 55.94909244,
+"lon": -3.19357168
+}
+},
+"performances": [
+{
+"start": "2019-04-11 19:00:00",
+"end": "2019-04-11 20:30:00",
+"title": null,
+"price": 8.5,
+"concession": 6.5,
+"concession_family": false,
+"concession_additional": false
+}
+],
+"performance_space": {
+"name": null,
+"capacity": null,
+"wheelchair_access": null,
+"age_limited": null,
+"age_limit": null
+},
+"sub_venue": null,
+"warnings": null,
+"fringe_first": null,
+"description": "<p>The continued growth of urban populations and added pressures present sustainability challenges for our future cities. Join a panel of experts, including Planning Aid Scotland (PAS), academics, engineers and technology experts to explore what lies ahead for humanity.</p>\n\n<p>Presented by the Patrick Geddes Centre.</p>",
+"description_teaser": "Join a panel of experts, including Planning Aid Scotland (PAS), academics, engineers and technology experts to explore what lies ahead for humanity.",
+"artist": null,
+"artist_type": null,
+"genre": "Discussion",
+"genre_tags": "Ideas on the Edge,Design",
+"categories": {
+"strand_titles": [
+"Ideas on the Edge"
+],
+"subjects": [
+"Design"
+],
+"keywords": [
+{
+"category": "Headings",
+"keywords": [
+"Society & Culture"
+]
+},
+{
+"category": "Specialisations",
+"keywords": [
+"City planning"
+]
+}
+]
+},
+"discounts": {
+"two_for_one": null,
+"group": null,
+"friends": null,
+"passport": null,
+"schools": null
+},
+"disabled": {
+"audio": null,
+"audio_dates": null,
+"signed": null,
+"signed_dates": null,
+"captioning": null,
+"captioning_dates": null,
+"other_services": null,
+"other_services_dates": null,
+"other_services_information": null
+},
+"age_category": "Ages 14+",
+"website": "http://www.sciencefestival.co.uk/event-details/the-cities-of-the-future",
+"images": {
+"d65424836f3b3c2f0e0ffd143042d05358a14894": {
+"hash": "d65424836f3b3c2f0e0ffd143042d05358a14894",
+"type": "hero",
+"orientation": "landscape",
+"versions": {
+"original": {
+"type": "original",
+"width": 1920,
+"height": 400,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/d6/54/24/d65424836f3b3c2f0e0ffd143042d05358a14894-original.jpg"
+},
+"square-75": {
+"type": "square-75",
+"width": 75,
+"height": 75,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/d6/54/24/d65424836f3b3c2f0e0ffd143042d05358a14894-square-75.jpg"
+},
+"square-150": {
+"type": "square-150",
+"width": 150,
+"height": 150,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/d6/54/24/d65424836f3b3c2f0e0ffd143042d05358a14894-square-150.jpg"
+},
+"thumb-100": {
+"type": "thumb-100",
+"width": 100,
+"height": 21,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/d6/54/24/d65424836f3b3c2f0e0ffd143042d05358a14894-thumb-100.jpg"
+},
+"small-320": {
+"type": "small-320",
+"width": 320,
+"height": 67,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/d6/54/24/d65424836f3b3c2f0e0ffd143042d05358a14894-small-320.jpg"
+},
+"medium-640": {
+"type": "medium-640",
+"width": 640,
+"height": 133,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/d6/54/24/d65424836f3b3c2f0e0ffd143042d05358a14894-medium-640.jpg"
+},
+"large-1024": {
+"type": "large-1024",
+"width": 1024,
+"height": 213,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/d6/54/24/d65424836f3b3c2f0e0ffd143042d05358a14894-large-1024.jpg"
+}
+}
+},
+"30cdd5919f54f605017a252f77f531b5aeea9521": {
+"hash": "30cdd5919f54f605017a252f77f531b5aeea9521",
+"type": "thumb",
+"orientation": "landscape",
+"versions": {
+"original": {
+"type": "original",
+"width": 800,
+"height": 362,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/30/cd/d5/30cdd5919f54f605017a252f77f531b5aeea9521-original.jpg"
+},
+"square-75": {
+"type": "square-75",
+"width": 75,
+"height": 75,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/30/cd/d5/30cdd5919f54f605017a252f77f531b5aeea9521-square-75.jpg"
+},
+"square-150": {
+"type": "square-150",
+"width": 150,
+"height": 150,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/30/cd/d5/30cdd5919f54f605017a252f77f531b5aeea9521-square-150.jpg"
+},
+"thumb-100": {
+"type": "thumb-100",
+"width": 100,
+"height": 45,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/30/cd/d5/30cdd5919f54f605017a252f77f531b5aeea9521-thumb-100.jpg"
+},
+"small-320": {
+"type": "small-320",
+"width": 320,
+"height": 145,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/30/cd/d5/30cdd5919f54f605017a252f77f531b5aeea9521-small-320.jpg"
+},
+"medium-640": {
+"type": "medium-640",
+"width": 640,
+"height": 290,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/30/cd/d5/30cdd5919f54f605017a252f77f531b5aeea9521-medium-640.jpg"
+}
+}
+}
+},
+"twitter": null,
+"country": null,
+"performers_number": null,
+"non_english": null,
+"festival": "Edinburgh Science Festival",
+"url": "https://api.edinburghfestivalcity.com/events/42e776a6a589a2de5021962311bfd4cd6c94d36c",
+"updated": "2019-02-13 21:45:58",
+"update_times": {
+"identity": 1550094358,
+"title": 1550081997,
+"description": 1550081997,
+"venue": 1550081997,
+"performances": 1550081997,
+"artist": 1550081997,
+"genre": 1550081997,
+"discounts": 1550081997,
+"age_category": 1550081997,
+"fringe_first": 1550081997,
+"other": 1550081997,
+"disabled": 1550081997,
+"web_links": 1550081997,
+"images": 1550081997,
+"status": 1550081997
+},
+"latitude": 55.94909244,
+"longitude": -3.19357168
+},
+{
+"festival_id": "science",
+"title": "Medical Frontiers: From Science to Future Medicine",
+"sub_title": null,
+"status": "active",
+"code": "1392",
+"year": 2019,
+"venue": {
+"name": "National Museum of Scotland",
+"map_ref": null,
+"code": "National Museum of Scotland",
+"description": null,
+"address": "Chambers Street\nEdinburgh",
+"post_code": "EH1 1JF",
+"phone": null,
+"fax": null,
+"email": null,
+"disabled_description": null,
+"has_booking_over_phone": true,
+"has_booking_over_card": true,
+"has_booking_over_web": true,
+"box_office_opening": null,
+"box_office_fringe": false,
+"has_bar": null,
+"has_cafe": null,
+"cafe_description": null,
+"web_address": null,
+"position": {
+"lat": 55.9478,
+"lon": -3.18767
+}
+},
+"performances": [
+{
+"start": "2019-04-19 10:00:00",
+"end": "2019-04-19 16:30:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-20 10:00:00",
+"end": "2019-04-20 16:30:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+}
+],
+"performance_space": {
+"name": null,
+"capacity": null,
+"wheelchair_access": null,
+"age_limited": null,
+"age_limit": null
+},
+"sub_venue": null,
+"warnings": null,
+"fringe_first": null,
+"description": "<p>Join our biomedical research scientists to find out how science and new technologies are advancing the frontiers of future medicine. Explore inside your cells, heart and brain, learn how bodies function and discover the challenges of tackling disease in a technology led, data-driven world.</p>",
+"description_teaser": "",
+"artist": null,
+"artist_type": null,
+"genre": "Activity",
+"genre_tags": "Healthcare Frontiers,Human Biology",
+"categories": {
+"strand_titles": [
+"Healthcare Frontiers"
+],
+"subjects": [
+"Human Biology"
+],
+"keywords": [
+{
+"category": "Headings",
+"keywords": [
+"Mind & Body"
+]
+},
+{
+"category": "Specialisations",
+"keywords": [
+"Biology",
+"Medicine"
+]
+}
+]
+},
+"discounts": {
+"two_for_one": null,
+"group": null,
+"friends": null,
+"passport": null,
+"schools": null
+},
+"disabled": {
+"audio": null,
+"audio_dates": null,
+"signed": null,
+"signed_dates": null,
+"captioning": null,
+"captioning_dates": null,
+"other_services": null,
+"other_services_dates": null,
+"other_services_information": null
+},
+"age_category": "All Ages",
+"website": "http://www.sciencefestival.co.uk/event-details/medical-frontiers-from-science-to-future-medicine",
+"images": {
+"0076d852c7e30b8872ea46f55b1388ed02d0c7c4": {
+"hash": "0076d852c7e30b8872ea46f55b1388ed02d0c7c4",
+"type": "hero",
+"orientation": "landscape",
+"versions": {
+"original": {
+"type": "original",
+"width": 1920,
+"height": 400,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/00/76/d8/0076d852c7e30b8872ea46f55b1388ed02d0c7c4-original.jpg"
+},
+"square-75": {
+"type": "square-75",
+"width": 75,
+"height": 75,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/00/76/d8/0076d852c7e30b8872ea46f55b1388ed02d0c7c4-square-75.jpg"
+},
+"square-150": {
+"type": "square-150",
+"width": 150,
+"height": 150,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/00/76/d8/0076d852c7e30b8872ea46f55b1388ed02d0c7c4-square-150.jpg"
+},
+"thumb-100": {
+"type": "thumb-100",
+"width": 100,
+"height": 21,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/00/76/d8/0076d852c7e30b8872ea46f55b1388ed02d0c7c4-thumb-100.jpg"
+},
+"small-320": {
+"type": "small-320",
+"width": 320,
+"height": 67,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/00/76/d8/0076d852c7e30b8872ea46f55b1388ed02d0c7c4-small-320.jpg"
+},
+"medium-640": {
+"type": "medium-640",
+"width": 640,
+"height": 133,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/00/76/d8/0076d852c7e30b8872ea46f55b1388ed02d0c7c4-medium-640.jpg"
+},
+"large-1024": {
+"type": "large-1024",
+"width": 1024,
+"height": 213,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/00/76/d8/0076d852c7e30b8872ea46f55b1388ed02d0c7c4-large-1024.jpg"
+}
+}
+},
+"9b6720a42089edd2b5d3af5ab7c40463741ca849": {
+"hash": "9b6720a42089edd2b5d3af5ab7c40463741ca849",
+"type": "thumb",
+"orientation": "square",
+"versions": {
+"original": {
+"type": "original",
+"width": 800,
+"height": 800,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/9b/67/20/9b6720a42089edd2b5d3af5ab7c40463741ca849-original.jpg"
+},
+"square-75": {
+"type": "square-75",
+"width": 75,
+"height": 75,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/9b/67/20/9b6720a42089edd2b5d3af5ab7c40463741ca849-square-75.jpg"
+},
+"square-150": {
+"type": "square-150",
+"width": 150,
+"height": 150,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/9b/67/20/9b6720a42089edd2b5d3af5ab7c40463741ca849-square-150.jpg"
+},
+"thumb-100": {
+"type": "thumb-100",
+"width": 100,
+"height": 100,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/9b/67/20/9b6720a42089edd2b5d3af5ab7c40463741ca849-thumb-100.jpg"
+},
+"small-320": {
+"type": "small-320",
+"width": 320,
+"height": 320,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/9b/67/20/9b6720a42089edd2b5d3af5ab7c40463741ca849-small-320.jpg"
+},
+"medium-640": {
+"type": "medium-640",
+"width": 640,
+"height": 640,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/9b/67/20/9b6720a42089edd2b5d3af5ab7c40463741ca849-medium-640.jpg"
+}
+}
+}
+},
+"twitter": null,
+"country": null,
+"performers_number": null,
+"non_english": null,
+"festival": "Edinburgh Science Festival",
+"url": "https://api.edinburghfestivalcity.com/events/662020d20be7029dcb69aae9f1ee3eac718a3ab8",
+"updated": "2019-02-13 21:45:56",
+"update_times": {
+"identity": 1550094356,
+"title": 1550081995,
+"description": 1550081995,
+"venue": 1550081995,
+"performances": 1550081995,
+"artist": 1550081995,
+"genre": 1550081995,
+"discounts": 1550081995,
+"age_category": 1550081995,
+"fringe_first": 1550081995,
+"other": 1550081995,
+"disabled": 1550081995,
+"web_links": 1550081995,
+"images": 1550081995,
+"status": 1550081995
+},
+"latitude": 55.9478,
+"longitude": -3.18767
+},
+{
+"festival_id": "science",
+"title": "Make A Monster",
+"sub_title": null,
+"status": "active",
+"code": "1474",
+"year": 2019,
+"venue": {
+"name": "Pleasance",
+"map_ref": null,
+"code": "Pleasance",
+"description": null,
+"address": "60 Pleasance\nEdinburgh",
+"post_code": "EH8 9TJ",
+"phone": null,
+"fax": null,
+"email": null,
+"disabled_description": null,
+"has_booking_over_phone": true,
+"has_booking_over_card": true,
+"has_booking_over_web": true,
+"box_office_opening": null,
+"box_office_fringe": false,
+"has_bar": null,
+"has_cafe": null,
+"cafe_description": null,
+"web_address": null,
+"position": {
+"lat": 55.947394,
+"lon": -3.181877
+}
+},
+"performances": [
+{
+"start": "2019-04-11 11:00:00",
+"end": "2019-04-11 12:30:00",
+"title": null,
+"price": 15,
+"concession": null,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-12 11:00:00",
+"end": "2019-04-12 12:30:00",
+"title": null,
+"price": 15,
+"concession": null,
+"concession_family": false,
+"concession_additional": false
+}
+],
+"performance_space": {
+"name": null,
+"capacity": null,
+"wheelchair_access": null,
+"age_limited": null,
+"age_limit": null
+},
+"sub_venue": null,
+"warnings": null,
+"fringe_first": null,
+"description": "<p>Meet some of the strangest animals that exist on our planet and learn how biodiversity and adaptation help them to survive. Inspired by these weird creatures, you'll design and make your very own monster from recycled materials. Then capture a photograph of your monster in its natural habitat using our custom Monster Photo Booth!</p>",
+"description_teaser": "Meet some of the strangest animals that exist on our planet.",
+"artist": null,
+"artist_type": null,
+"genre": "Workshop",
+"genre_tags": "",
+"categories": {
+"strand_titles": [],
+"subjects": [],
+"keywords": []
+},
+"discounts": {
+"two_for_one": null,
+"group": null,
+"friends": null,
+"passport": null,
+"schools": null
+},
+"disabled": {
+"audio": null,
+"audio_dates": null,
+"signed": null,
+"signed_dates": null,
+"captioning": null,
+"captioning_dates": null,
+"other_services": null,
+"other_services_dates": null,
+"other_services_information": null
+},
+"age_category": "Ages 7+",
+"website": "http://www.sciencefestival.co.uk/event-details/make-a-monster",
+"images": {
+"1a2be5a212d1955c1c91948eefb499b9c7a12285": {
+"hash": "1a2be5a212d1955c1c91948eefb499b9c7a12285",
+"type": "hero",
+"orientation": "landscape",
+"versions": {
+"original": {
+"type": "original",
+"width": 1920,
+"height": 400,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/1a/2b/e5/1a2be5a212d1955c1c91948eefb499b9c7a12285-original.jpg"
+},
+"square-75": {
+"type": "square-75",
+"width": 75,
+"height": 75,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/1a/2b/e5/1a2be5a212d1955c1c91948eefb499b9c7a12285-square-75.jpg"
+},
+"square-150": {
+"type": "square-150",
+"width": 150,
+"height": 150,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/1a/2b/e5/1a2be5a212d1955c1c91948eefb499b9c7a12285-square-150.jpg"
+},
+"thumb-100": {
+"type": "thumb-100",
+"width": 100,
+"height": 21,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/1a/2b/e5/1a2be5a212d1955c1c91948eefb499b9c7a12285-thumb-100.jpg"
+},
+"small-320": {
+"type": "small-320",
+"width": 320,
+"height": 67,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/1a/2b/e5/1a2be5a212d1955c1c91948eefb499b9c7a12285-small-320.jpg"
+},
+"medium-640": {
+"type": "medium-640",
+"width": 640,
+"height": 133,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/1a/2b/e5/1a2be5a212d1955c1c91948eefb499b9c7a12285-medium-640.jpg"
+},
+"large-1024": {
+"type": "large-1024",
+"width": 1024,
+"height": 213,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/1a/2b/e5/1a2be5a212d1955c1c91948eefb499b9c7a12285-large-1024.jpg"
+}
+}
+},
+"f4c323843d166a9754a4e37133793c5a58b48439": {
+"hash": "f4c323843d166a9754a4e37133793c5a58b48439",
+"type": "thumb",
+"orientation": "square",
+"versions": {
+"original": {
+"type": "original",
+"width": 800,
+"height": 800,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/f4/c3/23/f4c323843d166a9754a4e37133793c5a58b48439-original.jpg"
+},
+"square-75": {
+"type": "square-75",
+"width": 75,
+"height": 75,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/f4/c3/23/f4c323843d166a9754a4e37133793c5a58b48439-square-75.jpg"
+},
+"square-150": {
+"type": "square-150",
+"width": 150,
+"height": 150,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/f4/c3/23/f4c323843d166a9754a4e37133793c5a58b48439-square-150.jpg"
+},
+"thumb-100": {
+"type": "thumb-100",
+"width": 100,
+"height": 100,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/f4/c3/23/f4c323843d166a9754a4e37133793c5a58b48439-thumb-100.jpg"
+},
+"small-320": {
+"type": "small-320",
+"width": 320,
+"height": 320,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/f4/c3/23/f4c323843d166a9754a4e37133793c5a58b48439-small-320.jpg"
+},
+"medium-640": {
+"type": "medium-640",
+"width": 640,
+"height": 640,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/f4/c3/23/f4c323843d166a9754a4e37133793c5a58b48439-medium-640.jpg"
+}
+}
+}
+},
+"twitter": null,
+"country": null,
+"performers_number": null,
+"non_english": null,
+"festival": "Edinburgh Science Festival",
+"url": "https://api.edinburghfestivalcity.com/events/7283edcaa1fed5590e310950608cbe05eb3ff96c",
+"updated": "2019-02-13 21:45:57",
+"update_times": {
+"identity": 1550094357,
+"title": 1550081996,
+"description": 1550081996,
+"venue": 1550081996,
+"performances": 1550081996,
+"artist": 1550081996,
+"genre": 1550081996,
+"discounts": 1550081996,
+"age_category": 1550081996,
+"fringe_first": 1550081996,
+"other": 1550081996,
+"disabled": 1550081996,
+"web_links": 1550081996,
+"images": 1550081996,
+"status": 1550081996
+},
+"latitude": 55.947394,
+"longitude": -3.181877
+},
+{
+"festival_id": "science",
+"title": "The Magicians",
+"sub_title": null,
+"status": "active",
+"code": "1549",
+"year": 2019,
+"venue": {
+"name": "Pleasance",
+"map_ref": null,
+"code": "Pleasance",
+"description": null,
+"address": "60 Pleasance\nEdinburgh",
+"post_code": "EH8 9TJ",
+"phone": null,
+"fax": null,
+"email": null,
+"disabled_description": null,
+"has_booking_over_phone": true,
+"has_booking_over_card": true,
+"has_booking_over_web": true,
+"box_office_opening": null,
+"box_office_fringe": false,
+"has_bar": null,
+"has_cafe": null,
+"cafe_description": null,
+"web_address": null,
+"position": {
+"lat": 55.947394,
+"lon": -3.181877
+}
+},
+"performances": [
+{
+"start": "2019-04-12 17:30:00",
+"end": "2019-04-12 18:30:00",
+"title": null,
+"price": 8.5,
+"concession": 6.5,
+"concession_family": false,
+"concession_additional": false
+}
+],
+"performance_space": {
+"name": null,
+"capacity": null,
+"wheelchair_access": null,
+"age_limited": null,
+"age_limit": null
+},
+"sub_venue": null,
+"warnings": null,
+"fringe_first": null,
+"description": "<p>In 1965, Edinburgh resident Peter Higgs predicted a new fundamental particle and almost 40 years later the Higgs particle was found at the Large Hadron Collider. This magic of science – that things predicted by mathematical formulae actually exist – is so miraculous that even scientists themselves scarcely believe it. Today, best-selling science writer <strong>Marcus Chown</strong> discusses the 'magicians' who have predicted the existence of invisible waves that course through the air, antimatter, black holes and more.</p>",
+"description_teaser": "",
+"artist": null,
+"artist_type": null,
+"genre": "Discussion",
+"genre_tags": "",
+"categories": {
+"strand_titles": [],
+"subjects": [],
+"keywords": []
+},
+"discounts": {
+"two_for_one": null,
+"group": null,
+"friends": null,
+"passport": null,
+"schools": null
+},
+"disabled": {
+"audio": null,
+"audio_dates": null,
+"signed": null,
+"signed_dates": null,
+"captioning": null,
+"captioning_dates": null,
+"other_services": null,
+"other_services_dates": null,
+"other_services_information": null
+},
+"age_category": "Ages 14+",
+"website": "http://www.sciencefestival.co.uk/event-details/the-magicians",
+"images": {
+"0269e14579f398140c0ae8d892b9ad3652dc5e1c": {
+"hash": "0269e14579f398140c0ae8d892b9ad3652dc5e1c",
+"type": "hero",
+"orientation": "landscape",
+"versions": {
+"original": {
+"type": "original",
+"width": 1920,
+"height": 400,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/02/69/e1/0269e14579f398140c0ae8d892b9ad3652dc5e1c-original.jpg"
+},
+"square-75": {
+"type": "square-75",
+"width": 75,
+"height": 75,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/02/69/e1/0269e14579f398140c0ae8d892b9ad3652dc5e1c-square-75.jpg"
+},
+"square-150": {
+"type": "square-150",
+"width": 150,
+"height": 150,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/02/69/e1/0269e14579f398140c0ae8d892b9ad3652dc5e1c-square-150.jpg"
+},
+"thumb-100": {
+"type": "thumb-100",
+"width": 100,
+"height": 21,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/02/69/e1/0269e14579f398140c0ae8d892b9ad3652dc5e1c-thumb-100.jpg"
+},
+"small-320": {
+"type": "small-320",
+"width": 320,
+"height": 67,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/02/69/e1/0269e14579f398140c0ae8d892b9ad3652dc5e1c-small-320.jpg"
+},
+"medium-640": {
+"type": "medium-640",
+"width": 640,
+"height": 133,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/02/69/e1/0269e14579f398140c0ae8d892b9ad3652dc5e1c-medium-640.jpg"
+},
+"large-1024": {
+"type": "large-1024",
+"width": 1024,
+"height": 213,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/02/69/e1/0269e14579f398140c0ae8d892b9ad3652dc5e1c-large-1024.jpg"
+}
+}
+},
+"8b68930c4a328e35a6c22f5a7eb01d59e35a2162": {
+"hash": "8b68930c4a328e35a6c22f5a7eb01d59e35a2162",
+"type": "thumb",
+"orientation": "square",
+"versions": {
+"original": {
+"type": "original",
+"width": 800,
+"height": 800,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/8b/68/93/8b68930c4a328e35a6c22f5a7eb01d59e35a2162-original.jpg"
+},
+"square-75": {
+"type": "square-75",
+"width": 75,
+"height": 75,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/8b/68/93/8b68930c4a328e35a6c22f5a7eb01d59e35a2162-square-75.jpg"
+},
+"square-150": {
+"type": "square-150",
+"width": 150,
+"height": 150,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/8b/68/93/8b68930c4a328e35a6c22f5a7eb01d59e35a2162-square-150.jpg"
+},
+"thumb-100": {
+"type": "thumb-100",
+"width": 100,
+"height": 100,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/8b/68/93/8b68930c4a328e35a6c22f5a7eb01d59e35a2162-thumb-100.jpg"
+},
+"small-320": {
+"type": "small-320",
+"width": 320,
+"height": 320,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/8b/68/93/8b68930c4a328e35a6c22f5a7eb01d59e35a2162-small-320.jpg"
+},
+"medium-640": {
+"type": "medium-640",
+"width": 640,
+"height": 640,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/8b/68/93/8b68930c4a328e35a6c22f5a7eb01d59e35a2162-medium-640.jpg"
+}
+}
+}
+},
+"twitter": null,
+"country": null,
+"performers_number": null,
+"non_english": null,
+"festival": "Edinburgh Science Festival",
+"url": "https://api.edinburghfestivalcity.com/events/77265158e8f49d8791a833e3d11e4e87032213f9",
+"updated": "2019-02-13 21:45:58",
+"update_times": {
+"identity": 1550094358,
+"title": 1550081996,
+"description": 1550081996,
+"venue": 1550081996,
+"performances": 1550081996,
+"artist": 1550081996,
+"genre": 1550081996,
+"discounts": 1550081996,
+"age_category": 1550081996,
+"fringe_first": 1550081996,
+"other": 1550081996,
+"disabled": 1550081996,
+"web_links": 1550081996,
+"images": 1550081996,
+"status": 1550081996
+},
+"latitude": 55.947394,
+"longitude": -3.181877
+},
+{
+"festival_id": "science",
+"title": "Robo Constructors",
+"sub_title": null,
+"status": "active",
+"code": "1451",
+"year": 2019,
+"venue": {
+"name": "City Art Centre",
+"map_ref": null,
+"code": "City Art Centre",
+"description": null,
+"address": "2 Market Street\nEdinburgh",
+"post_code": "EH1 1DE",
+"phone": null,
+"fax": null,
+"email": null,
+"disabled_description": null,
+"has_booking_over_phone": true,
+"has_booking_over_card": true,
+"has_booking_over_web": true,
+"box_office_opening": null,
+"box_office_fringe": false,
+"has_bar": null,
+"has_cafe": null,
+"cafe_description": null,
+"web_address": null,
+"position": {
+"lat": 55.9515,
+"lon": -3.18448
+}
+},
+"performances": [
+{
+"start": "2019-04-06 10:00:00",
+"end": "2019-04-06 10:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-08 10:00:00",
+"end": "2019-04-08 10:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-09 10:00:00",
+"end": "2019-04-09 10:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-10 10:00:00",
+"end": "2019-04-10 10:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-11 10:00:00",
+"end": "2019-04-11 10:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-12 10:00:00",
+"end": "2019-04-12 10:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-13 10:00:00",
+"end": "2019-04-13 10:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-15 10:00:00",
+"end": "2019-04-15 10:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-16 10:00:00",
+"end": "2019-04-16 10:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-17 10:00:00",
+"end": "2019-04-17 10:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-18 10:00:00",
+"end": "2019-04-18 10:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-19 10:00:00",
+"end": "2019-04-19 10:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-20 10:00:00",
+"end": "2019-04-20 10:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-06 11:00:00",
+"end": "2019-04-06 11:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-08 11:00:00",
+"end": "2019-04-08 11:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-09 11:00:00",
+"end": "2019-04-09 11:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-10 11:00:00",
+"end": "2019-04-10 11:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-11 11:00:00",
+"end": "2019-04-11 11:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-12 11:00:00",
+"end": "2019-04-12 11:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-13 11:00:00",
+"end": "2019-04-13 11:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-15 11:00:00",
+"end": "2019-04-15 11:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-16 11:00:00",
+"end": "2019-04-16 11:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-17 11:00:00",
+"end": "2019-04-17 11:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-18 11:00:00",
+"end": "2019-04-18 11:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-19 11:00:00",
+"end": "2019-04-19 11:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-20 11:00:00",
+"end": "2019-04-20 11:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-06 12:00:00",
+"end": "2019-04-06 12:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-08 12:00:00",
+"end": "2019-04-08 12:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-09 12:00:00",
+"end": "2019-04-09 12:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-10 12:00:00",
+"end": "2019-04-10 12:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-11 12:00:00",
+"end": "2019-04-11 12:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-12 12:00:00",
+"end": "2019-04-12 12:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-13 12:00:00",
+"end": "2019-04-13 12:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-15 12:00:00",
+"end": "2019-04-15 12:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-16 12:00:00",
+"end": "2019-04-16 12:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-17 12:00:00",
+"end": "2019-04-17 12:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-18 12:00:00",
+"end": "2019-04-18 12:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-19 12:00:00",
+"end": "2019-04-19 12:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-20 12:00:00",
+"end": "2019-04-20 12:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-06 13:00:00",
+"end": "2019-04-06 13:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-08 13:00:00",
+"end": "2019-04-08 13:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-09 13:00:00",
+"end": "2019-04-09 13:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-10 13:00:00",
+"end": "2019-04-10 13:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-11 13:00:00",
+"end": "2019-04-11 13:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-12 13:00:00",
+"end": "2019-04-12 13:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-13 13:00:00",
+"end": "2019-04-13 13:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-15 13:00:00",
+"end": "2019-04-15 13:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-16 13:00:00",
+"end": "2019-04-16 13:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-17 13:00:00",
+"end": "2019-04-17 13:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-18 13:00:00",
+"end": "2019-04-18 13:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-19 13:00:00",
+"end": "2019-04-19 13:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-20 13:00:00",
+"end": "2019-04-20 13:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-06 14:00:00",
+"end": "2019-04-06 14:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-08 14:00:00",
+"end": "2019-04-08 14:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-09 14:00:00",
+"end": "2019-04-09 14:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-10 14:00:00",
+"end": "2019-04-10 14:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-11 14:00:00",
+"end": "2019-04-11 14:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-12 14:00:00",
+"end": "2019-04-12 14:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-13 14:00:00",
+"end": "2019-04-13 14:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-15 14:00:00",
+"end": "2019-04-15 14:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-16 14:00:00",
+"end": "2019-04-16 14:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-17 14:00:00",
+"end": "2019-04-17 14:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-18 14:00:00",
+"end": "2019-04-18 14:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-19 14:00:00",
+"end": "2019-04-19 14:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-20 14:00:00",
+"end": "2019-04-20 14:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-06 15:00:00",
+"end": "2019-04-06 15:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-08 15:00:00",
+"end": "2019-04-08 15:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-09 15:00:00",
+"end": "2019-04-09 15:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-10 15:00:00",
+"end": "2019-04-10 15:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-11 15:00:00",
+"end": "2019-04-11 15:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-12 15:00:00",
+"end": "2019-04-12 15:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-13 15:00:00",
+"end": "2019-04-13 15:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-15 15:00:00",
+"end": "2019-04-15 15:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-16 15:00:00",
+"end": "2019-04-16 15:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-17 15:00:00",
+"end": "2019-04-17 15:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-18 15:00:00",
+"end": "2019-04-18 15:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-19 15:00:00",
+"end": "2019-04-19 15:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-20 15:00:00",
+"end": "2019-04-20 15:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-06 16:00:00",
+"end": "2019-04-06 16:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-08 16:00:00",
+"end": "2019-04-08 16:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-09 16:00:00",
+"end": "2019-04-09 16:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-10 16:00:00",
+"end": "2019-04-10 16:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-11 16:00:00",
+"end": "2019-04-11 16:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-12 16:00:00",
+"end": "2019-04-12 16:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-13 16:00:00",
+"end": "2019-04-13 16:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-15 16:00:00",
+"end": "2019-04-15 16:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-16 16:00:00",
+"end": "2019-04-16 16:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-17 16:00:00",
+"end": "2019-04-17 16:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-18 16:00:00",
+"end": "2019-04-18 16:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-19 16:00:00",
+"end": "2019-04-19 16:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-20 16:00:00",
+"end": "2019-04-20 16:45:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+}
+],
+"performance_space": {
+"name": null,
+"capacity": null,
+"wheelchair_access": null,
+"age_limited": null,
+"age_limit": null
+},
+"sub_venue": null,
+"warnings": null,
+"fringe_first": null,
+"description": "<p>Welcome to the world of Cubelets! Building your own robot has never been easier – just snap the robot blocks together and let the magnetic faces do the rest. Become a mini-robot engineer in this fun, fast-paced workshop and create your own wacky and useful robots!</p>",
+"description_teaser": "",
+"artist": null,
+"artist_type": null,
+"genre": "Workshop",
+"genre_tags": "",
+"categories": {
+"strand_titles": [],
+"subjects": [],
+"keywords": []
+},
+"discounts": {
+"two_for_one": null,
+"group": null,
+"friends": null,
+"passport": null,
+"schools": null
+},
+"disabled": {
+"audio": null,
+"audio_dates": null,
+"signed": null,
+"signed_dates": null,
+"captioning": null,
+"captioning_dates": null,
+"other_services": null,
+"other_services_dates": null,
+"other_services_information": null
+},
+"age_category": "Ages 7+",
+"website": "http://www.sciencefestival.co.uk/event-details/robo-constructors",
+"images": {
+"945dd623b8bc83ba4de70b63946cf935366a2b84": {
+"hash": "945dd623b8bc83ba4de70b63946cf935366a2b84",
+"type": "hero",
+"orientation": "landscape",
+"versions": {
+"original": {
+"type": "original",
+"width": 1921,
+"height": 402,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/94/5d/d6/945dd623b8bc83ba4de70b63946cf935366a2b84-original.jpg"
+},
+"square-75": {
+"type": "square-75",
+"width": 75,
+"height": 75,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/94/5d/d6/945dd623b8bc83ba4de70b63946cf935366a2b84-square-75.jpg"
+},
+"square-150": {
+"type": "square-150",
+"width": 150,
+"height": 150,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/94/5d/d6/945dd623b8bc83ba4de70b63946cf935366a2b84-square-150.jpg"
+},
+"thumb-100": {
+"type": "thumb-100",
+"width": 100,
+"height": 21,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/94/5d/d6/945dd623b8bc83ba4de70b63946cf935366a2b84-thumb-100.jpg"
+},
+"small-320": {
+"type": "small-320",
+"width": 320,
+"height": 67,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/94/5d/d6/945dd623b8bc83ba4de70b63946cf935366a2b84-small-320.jpg"
+},
+"medium-640": {
+"type": "medium-640",
+"width": 640,
+"height": 134,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/94/5d/d6/945dd623b8bc83ba4de70b63946cf935366a2b84-medium-640.jpg"
+},
+"large-1024": {
+"type": "large-1024",
+"width": 1024,
+"height": 214,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/94/5d/d6/945dd623b8bc83ba4de70b63946cf935366a2b84-large-1024.jpg"
+}
+}
+},
+"4ae7a01cc64f6713738d3044537acce67d724c44": {
+"hash": "4ae7a01cc64f6713738d3044537acce67d724c44",
+"type": "thumb",
+"orientation": "square",
+"versions": {
+"original": {
+"type": "original",
+"width": 800,
+"height": 800,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/4a/e7/a0/4ae7a01cc64f6713738d3044537acce67d724c44-original.jpg"
+},
+"square-75": {
+"type": "square-75",
+"width": 75,
+"height": 75,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/4a/e7/a0/4ae7a01cc64f6713738d3044537acce67d724c44-square-75.jpg"
+},
+"square-150": {
+"type": "square-150",
+"width": 150,
+"height": 150,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/4a/e7/a0/4ae7a01cc64f6713738d3044537acce67d724c44-square-150.jpg"
+},
+"thumb-100": {
+"type": "thumb-100",
+"width": 100,
+"height": 100,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/4a/e7/a0/4ae7a01cc64f6713738d3044537acce67d724c44-thumb-100.jpg"
+},
+"small-320": {
+"type": "small-320",
+"width": 320,
+"height": 320,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/4a/e7/a0/4ae7a01cc64f6713738d3044537acce67d724c44-small-320.jpg"
+},
+"medium-640": {
+"type": "medium-640",
+"width": 640,
+"height": 640,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/4a/e7/a0/4ae7a01cc64f6713738d3044537acce67d724c44-medium-640.jpg"
+}
+}
+}
+},
+"twitter": null,
+"country": null,
+"performers_number": null,
+"non_english": null,
+"festival": "Edinburgh Science Festival",
+"url": "https://api.edinburghfestivalcity.com/events/84ce6b7b954b8ac9ee420030bfc05ef5c9a47b37",
+"updated": "2019-02-13 21:45:56",
+"update_times": {
+"identity": 1550094356,
+"title": 1550081995,
+"description": 1550081995,
+"venue": 1550081995,
+"performances": 1550081995,
+"artist": 1550081995,
+"genre": 1550081995,
+"discounts": 1550081995,
+"age_category": 1550081995,
+"fringe_first": 1550081995,
+"other": 1550081995,
+"disabled": 1550081995,
+"web_links": 1550081995,
+"images": 1550081995,
+"status": 1550081995
+},
+"latitude": 55.9515,
+"longitude": -3.18448
+},
+{
+"festival_id": "science",
+"title": "Dr Bunhead’s Puppet Mission to Mars",
+"sub_title": null,
+"status": "active",
+"code": "1401",
+"year": 2019,
+"venue": {
+"name": "National Museum of Scotland",
+"map_ref": null,
+"code": "National Museum of Scotland",
+"description": null,
+"address": "Chambers Street\nEdinburgh",
+"post_code": "EH1 1JF",
+"phone": null,
+"fax": null,
+"email": null,
+"disabled_description": null,
+"has_booking_over_phone": true,
+"has_booking_over_card": true,
+"has_booking_over_web": true,
+"box_office_opening": null,
+"box_office_fringe": false,
+"has_bar": null,
+"has_cafe": null,
+"cafe_description": null,
+"web_address": null,
+"position": {
+"lat": 55.9478,
+"lon": -3.18767
+}
+},
+"performances": [
+{
+"start": "2019-04-09 11:00:00",
+"end": "2019-04-09 11:25:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-09 12:00:00",
+"end": "2019-04-09 12:25:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-09 13:30:00",
+"end": "2019-04-09 13:55:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-09 14:30:00",
+"end": "2019-04-09 14:55:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-09 15:30:00",
+"end": "2019-04-09 15:55:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-10 11:00:00",
+"end": "2019-04-10 11:25:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-10 12:00:00",
+"end": "2019-04-10 12:25:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-10 13:30:00",
+"end": "2019-04-10 13:55:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-10 14:30:00",
+"end": "2019-04-10 14:55:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-10 15:30:00",
+"end": "2019-04-10 15:55:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+}
+],
+"performance_space": {
+"name": null,
+"capacity": null,
+"wheelchair_access": null,
+"age_limited": null,
+"age_limit": null
+},
+"sub_venue": null,
+"warnings": null,
+"fringe_first": null,
+"description": "<p>Hold on tight as we blast off for <strong>Dr Bunhead</strong>'s Rubbish Puppets' biggest, bravest adventure. Will they survive six months inside a wobbly cardboard spaceship? Are there really Mars Bars on Mars? Come and find out!</p>",
+"description_teaser": "Hold on tight as we blast off for Dr Bunhead's Rubbish Puppets' biggest, bravest adventure.",
+"artist": null,
+"artist_type": null,
+"genre": "Show",
+"genre_tags": "Planetary Frontiers,Space Exploration",
+"categories": {
+"strand_titles": [
+"Planetary Frontiers"
+],
+"subjects": [
+"Space Exploration"
+],
+"keywords": [
+{
+"category": "Headings",
+"keywords": [
+"Space"
+]
+},
+{
+"category": "Topics",
+"keywords": [
+"Space craft",
+"Space tourism"
+]
+}
+]
+},
+"discounts": {
+"two_for_one": null,
+"group": null,
+"friends": null,
+"passport": null,
+"schools": null
+},
+"disabled": {
+"audio": null,
+"audio_dates": null,
+"signed": null,
+"signed_dates": null,
+"captioning": null,
+"captioning_dates": null,
+"other_services": null,
+"other_services_dates": null,
+"other_services_information": null
+},
+"age_category": "Ages 4+",
+"website": "http://www.sciencefestival.co.uk/event-details/dr-bunheads-puppet-mission-to-mars",
+"images": {
+"ff3f415a4e2a5e152d530c9010e0c462f7087973": {
+"hash": "ff3f415a4e2a5e152d530c9010e0c462f7087973",
+"type": "hero",
+"orientation": "landscape",
+"versions": {
+"original": {
+"type": "original",
+"width": 1920,
+"height": 400,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/ff/3f/41/ff3f415a4e2a5e152d530c9010e0c462f7087973-original.jpg"
+},
+"square-75": {
+"type": "square-75",
+"width": 75,
+"height": 75,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/ff/3f/41/ff3f415a4e2a5e152d530c9010e0c462f7087973-square-75.jpg"
+},
+"square-150": {
+"type": "square-150",
+"width": 150,
+"height": 150,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/ff/3f/41/ff3f415a4e2a5e152d530c9010e0c462f7087973-square-150.jpg"
+},
+"thumb-100": {
+"type": "thumb-100",
+"width": 100,
+"height": 21,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/ff/3f/41/ff3f415a4e2a5e152d530c9010e0c462f7087973-thumb-100.jpg"
+},
+"small-320": {
+"type": "small-320",
+"width": 320,
+"height": 67,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/ff/3f/41/ff3f415a4e2a5e152d530c9010e0c462f7087973-small-320.jpg"
+},
+"medium-640": {
+"type": "medium-640",
+"width": 640,
+"height": 133,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/ff/3f/41/ff3f415a4e2a5e152d530c9010e0c462f7087973-medium-640.jpg"
+},
+"large-1024": {
+"type": "large-1024",
+"width": 1024,
+"height": 213,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/ff/3f/41/ff3f415a4e2a5e152d530c9010e0c462f7087973-large-1024.jpg"
+}
+}
+},
+"1c52ab32c2c5e1d980bba07050b71dd62bae222b": {
+"hash": "1c52ab32c2c5e1d980bba07050b71dd62bae222b",
+"type": "thumb",
+"orientation": "square",
+"versions": {
+"original": {
+"type": "original",
+"width": 800,
+"height": 800,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/1c/52/ab/1c52ab32c2c5e1d980bba07050b71dd62bae222b-original.jpg"
+},
+"square-75": {
+"type": "square-75",
+"width": 75,
+"height": 75,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/1c/52/ab/1c52ab32c2c5e1d980bba07050b71dd62bae222b-square-75.jpg"
+},
+"square-150": {
+"type": "square-150",
+"width": 150,
+"height": 150,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/1c/52/ab/1c52ab32c2c5e1d980bba07050b71dd62bae222b-square-150.jpg"
+},
+"thumb-100": {
+"type": "thumb-100",
+"width": 100,
+"height": 100,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/1c/52/ab/1c52ab32c2c5e1d980bba07050b71dd62bae222b-thumb-100.jpg"
+},
+"small-320": {
+"type": "small-320",
+"width": 320,
+"height": 320,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/1c/52/ab/1c52ab32c2c5e1d980bba07050b71dd62bae222b-small-320.jpg"
+},
+"medium-640": {
+"type": "medium-640",
+"width": 640,
+"height": 640,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/1c/52/ab/1c52ab32c2c5e1d980bba07050b71dd62bae222b-medium-640.jpg"
+}
+}
+}
+},
+"twitter": null,
+"country": null,
+"performers_number": null,
+"non_english": null,
+"festival": "Edinburgh Science Festival",
+"url": "https://api.edinburghfestivalcity.com/events/873bfca93240838977e2a28d057e5460eebece39",
+"updated": "2019-02-13 21:45:56",
+"update_times": {
+"identity": 1550094356,
+"title": 1550081995,
+"description": 1550081995,
+"venue": 1550081995,
+"performances": 1550081995,
+"artist": 1550081995,
+"genre": 1550081995,
+"discounts": 1550081995,
+"age_category": 1550081995,
+"fringe_first": 1550081995,
+"other": 1550081995,
+"disabled": 1550081995,
+"web_links": 1550081995,
+"images": 1550081995,
+"status": 1550081995
+},
+"latitude": 55.9478,
+"longitude": -3.18767
+},
+{
+"festival_id": "science",
+"title": "Lab of the Ludicrous",
+"sub_title": null,
+"status": "active",
+"code": "1546",
+"year": 2019,
+"venue": {
+"name": "Pleasance",
+"map_ref": null,
+"code": "Pleasance",
+"description": null,
+"address": "60 Pleasance\nEdinburgh",
+"post_code": "EH8 9TJ",
+"phone": null,
+"fax": null,
+"email": null,
+"disabled_description": null,
+"has_booking_over_phone": true,
+"has_booking_over_card": true,
+"has_booking_over_web": true,
+"box_office_opening": null,
+"box_office_fringe": false,
+"has_bar": null,
+"has_cafe": null,
+"cafe_description": null,
+"web_address": null,
+"position": {
+"lat": 55.947394,
+"lon": -3.181877
+}
+},
+"performances": [
+{
+"start": "2019-04-09 20:00:00",
+"end": "2019-04-09 21:30:00",
+"title": null,
+"price": 8.5,
+"concession": 6.5,
+"concession_family": false,
+"concession_additional": false
+}
+],
+"performance_space": {
+"name": null,
+"capacity": null,
+"wheelchair_access": null,
+"age_limited": null,
+"age_limit": null
+},
+"sub_venue": null,
+"warnings": null,
+"fringe_first": null,
+"description": "<p>Stand-up scientist <strong>Dr Rob Pyatt</strong> returns with an all new tour of the strangest science studies ever conducted! This interactive discussion of bizarre studies will demystify scientific methods and put you at the heart of a research experiment. Expect laughter, conversation, hands-on experiments and Weird Science!</p>",
+"description_teaser": "Stand-up scientist Dr Rob Pyatt returns with an all new tour of the strangest science studies ever conducted",
+"artist": null,
+"artist_type": null,
+"genre": "Show",
+"genre_tags": "",
+"categories": {
+"strand_titles": [],
+"subjects": [],
+"keywords": []
+},
+"discounts": {
+"two_for_one": null,
+"group": null,
+"friends": null,
+"passport": null,
+"schools": null
+},
+"disabled": {
+"audio": null,
+"audio_dates": null,
+"signed": null,
+"signed_dates": null,
+"captioning": null,
+"captioning_dates": null,
+"other_services": null,
+"other_services_dates": null,
+"other_services_information": null
+},
+"age_category": "Ages 14+",
+"website": "http://www.sciencefestival.co.uk/event-details/lab-of-the-ludicrous",
+"images": {
+"da11938dceb0416c1566c8e15c69417cd95fe0a1": {
+"hash": "da11938dceb0416c1566c8e15c69417cd95fe0a1",
+"type": "hero",
+"orientation": "landscape",
+"versions": {
+"original": {
+"type": "original",
+"width": 1920,
+"height": 400,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/da/11/93/da11938dceb0416c1566c8e15c69417cd95fe0a1-original.jpg"
+},
+"square-75": {
+"type": "square-75",
+"width": 75,
+"height": 75,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/da/11/93/da11938dceb0416c1566c8e15c69417cd95fe0a1-square-75.jpg"
+},
+"square-150": {
+"type": "square-150",
+"width": 150,
+"height": 150,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/da/11/93/da11938dceb0416c1566c8e15c69417cd95fe0a1-square-150.jpg"
+},
+"thumb-100": {
+"type": "thumb-100",
+"width": 100,
+"height": 21,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/da/11/93/da11938dceb0416c1566c8e15c69417cd95fe0a1-thumb-100.jpg"
+},
+"small-320": {
+"type": "small-320",
+"width": 320,
+"height": 67,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/da/11/93/da11938dceb0416c1566c8e15c69417cd95fe0a1-small-320.jpg"
+},
+"medium-640": {
+"type": "medium-640",
+"width": 640,
+"height": 133,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/da/11/93/da11938dceb0416c1566c8e15c69417cd95fe0a1-medium-640.jpg"
+},
+"large-1024": {
+"type": "large-1024",
+"width": 1024,
+"height": 213,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/da/11/93/da11938dceb0416c1566c8e15c69417cd95fe0a1-large-1024.jpg"
+}
+}
+},
+"e05234cba1e4d6efe8c53b68cc10a2ddb438504f": {
+"hash": "e05234cba1e4d6efe8c53b68cc10a2ddb438504f",
+"type": "thumb",
+"orientation": "square",
+"versions": {
+"original": {
+"type": "original",
+"width": 800,
+"height": 800,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/e0/52/34/e05234cba1e4d6efe8c53b68cc10a2ddb438504f-original.jpg"
+},
+"square-75": {
+"type": "square-75",
+"width": 75,
+"height": 75,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/e0/52/34/e05234cba1e4d6efe8c53b68cc10a2ddb438504f-square-75.jpg"
+},
+"square-150": {
+"type": "square-150",
+"width": 150,
+"height": 150,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/e0/52/34/e05234cba1e4d6efe8c53b68cc10a2ddb438504f-square-150.jpg"
+},
+"thumb-100": {
+"type": "thumb-100",
+"width": 100,
+"height": 100,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/e0/52/34/e05234cba1e4d6efe8c53b68cc10a2ddb438504f-thumb-100.jpg"
+},
+"small-320": {
+"type": "small-320",
+"width": 320,
+"height": 320,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/e0/52/34/e05234cba1e4d6efe8c53b68cc10a2ddb438504f-small-320.jpg"
+},
+"medium-640": {
+"type": "medium-640",
+"width": 640,
+"height": 640,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/e0/52/34/e05234cba1e4d6efe8c53b68cc10a2ddb438504f-medium-640.jpg"
+}
+}
+}
+},
+"twitter": null,
+"country": null,
+"performers_number": null,
+"non_english": null,
+"festival": "Edinburgh Science Festival",
+"url": "https://api.edinburghfestivalcity.com/events/87af0bc1ca1dd9bd25d04fb86e81e03dc5e1353d",
+"updated": "2019-02-13 21:45:58",
+"update_times": {
+"identity": 1550094358,
+"title": 1550081996,
+"description": 1550081996,
+"venue": 1550081996,
+"performances": 1550081996,
+"artist": 1550081996,
+"genre": 1550081996,
+"discounts": 1550081996,
+"age_category": 1550081996,
+"fringe_first": 1550081996,
+"other": 1550081996,
+"disabled": 1550081996,
+"web_links": 1550081996,
+"images": 1550081996,
+"status": 1550081996
+},
+"latitude": 55.947394,
+"longitude": -3.181877
+},
+{
+"festival_id": "science",
+"title": "Delving into Deep Earth, Exploring our Final Frontier",
+"sub_title": null,
+"status": "active",
+"code": "1582",
+"year": 2019,
+"venue": {
+"name": "Dynamic Earth",
+"map_ref": null,
+"code": "Dynamic Earth",
+"description": null,
+"address": "112-116 Holyrood Rd\nEdinburgh",
+"post_code": "EH8 8AS",
+"phone": null,
+"fax": null,
+"email": null,
+"disabled_description": null,
+"has_booking_over_phone": true,
+"has_booking_over_card": true,
+"has_booking_over_web": true,
+"box_office_opening": null,
+"box_office_fringe": false,
+"has_bar": null,
+"has_cafe": null,
+"cafe_description": null,
+"web_address": null,
+"position": {
+"lat": 55.9401,
+"lon": -3.17314
+}
+},
+"performances": [
+{
+"start": "2019-04-16 10:00:00",
+"end": "2019-04-16 16:00:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+}
+],
+"performance_space": {
+"name": null,
+"capacity": null,
+"wheelchair_access": null,
+"age_limited": null,
+"age_limit": null
+},
+"sub_venue": null,
+"warnings": null,
+"fringe_first": null,
+"description": "<p>The UK Geoenergy Observatories project invites you to explore the fascinating secrets of the geological underworld and talk to experts from the British Geological Survey and Professor of Geoscience Communication, <strong>Prof Iain Stewart</strong>. The project is developing two unique Earth observatories to research energy solutions for a cleaner, greener future. Discover the uses of different types of rocks and minerals, how the Earth is constantly moving and even make your own earthquakes!</p>",
+"description_teaser": "Explore the fascinating secrets of the geological underworld.",
+"artist": null,
+"artist_type": null,
+"genre": "Activity",
+"genre_tags": "Environmental Frontiers,Explorers Club,Earth",
+"categories": {
+"strand_titles": [
+"Environmental Frontiers",
+"Explorers Club"
+],
+"subjects": [
+"Earth"
+],
+"keywords": [
+{
+"category": "Headings",
+"keywords": [
+"Our planet"
+]
+},
+{
+"category": "Specialisations",
+"keywords": [
+"Geology"
+]
+}
+]
+},
+"discounts": {
+"two_for_one": null,
+"group": null,
+"friends": null,
+"passport": null,
+"schools": null
+},
+"disabled": {
+"audio": null,
+"audio_dates": null,
+"signed": null,
+"signed_dates": null,
+"captioning": null,
+"captioning_dates": null,
+"other_services": null,
+"other_services_dates": null,
+"other_services_information": null
+},
+"age_category": "Ages 5+",
+"website": "http://www.sciencefestival.co.uk/event-details/delving-into-deep-earth-exploring-our-final-frontier",
+"images": {
+"b4a620b96d5bd4a96a225b09851d10fa16dc229b": {
+"hash": "b4a620b96d5bd4a96a225b09851d10fa16dc229b",
+"type": "hero",
+"orientation": "landscape",
+"versions": {
+"original": {
+"type": "original",
+"width": 1920,
+"height": 400,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/b4/a6/20/b4a620b96d5bd4a96a225b09851d10fa16dc229b-original.jpg"
+},
+"square-75": {
+"type": "square-75",
+"width": 75,
+"height": 75,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/b4/a6/20/b4a620b96d5bd4a96a225b09851d10fa16dc229b-square-75.jpg"
+},
+"square-150": {
+"type": "square-150",
+"width": 150,
+"height": 150,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/b4/a6/20/b4a620b96d5bd4a96a225b09851d10fa16dc229b-square-150.jpg"
+},
+"thumb-100": {
+"type": "thumb-100",
+"width": 100,
+"height": 21,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/b4/a6/20/b4a620b96d5bd4a96a225b09851d10fa16dc229b-thumb-100.jpg"
+},
+"small-320": {
+"type": "small-320",
+"width": 320,
+"height": 67,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/b4/a6/20/b4a620b96d5bd4a96a225b09851d10fa16dc229b-small-320.jpg"
+},
+"medium-640": {
+"type": "medium-640",
+"width": 640,
+"height": 133,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/b4/a6/20/b4a620b96d5bd4a96a225b09851d10fa16dc229b-medium-640.jpg"
+},
+"large-1024": {
+"type": "large-1024",
+"width": 1024,
+"height": 213,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/b4/a6/20/b4a620b96d5bd4a96a225b09851d10fa16dc229b-large-1024.jpg"
+}
+}
+},
+"5f3d53d912b962b5a76e22286a319fddb93eda37": {
+"hash": "5f3d53d912b962b5a76e22286a319fddb93eda37",
+"type": "thumb",
+"orientation": "square",
+"versions": {
+"original": {
+"type": "original",
+"width": 800,
+"height": 800,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/5f/3d/53/5f3d53d912b962b5a76e22286a319fddb93eda37-original.jpg"
+},
+"square-75": {
+"type": "square-75",
+"width": 75,
+"height": 75,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/5f/3d/53/5f3d53d912b962b5a76e22286a319fddb93eda37-square-75.jpg"
+},
+"square-150": {
+"type": "square-150",
+"width": 150,
+"height": 150,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/5f/3d/53/5f3d53d912b962b5a76e22286a319fddb93eda37-square-150.jpg"
+},
+"thumb-100": {
+"type": "thumb-100",
+"width": 100,
+"height": 100,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/5f/3d/53/5f3d53d912b962b5a76e22286a319fddb93eda37-thumb-100.jpg"
+},
+"small-320": {
+"type": "small-320",
+"width": 320,
+"height": 320,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/5f/3d/53/5f3d53d912b962b5a76e22286a319fddb93eda37-small-320.jpg"
+},
+"medium-640": {
+"type": "medium-640",
+"width": 640,
+"height": 640,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/5f/3d/53/5f3d53d912b962b5a76e22286a319fddb93eda37-medium-640.jpg"
+}
+}
+}
+},
+"twitter": null,
+"country": null,
+"performers_number": null,
+"non_english": null,
+"festival": "Edinburgh Science Festival",
+"url": "https://api.edinburghfestivalcity.com/events/87eee9b381ad13a942d90d7e31e872a81ecdbe7a",
+"updated": "2019-02-13 21:45:58",
+"update_times": {
+"identity": 1550094358,
+"title": 1550081997,
+"description": 1550081997,
+"venue": 1550081997,
+"performances": 1550081997,
+"artist": 1550081997,
+"genre": 1550081997,
+"discounts": 1550081997,
+"age_category": 1550081997,
+"fringe_first": 1550081997,
+"other": 1550081997,
+"disabled": 1550081997,
+"web_links": 1550081997,
+"images": 1550081997,
+"status": 1550081997
+},
+"latitude": 55.9401,
+"longitude": -3.17314
+},
+{
+"festival_id": "science",
+"title": "Becoming Animal and Plastic Man",
+"sub_title": null,
+"status": "active",
+"code": "1621",
+"year": 2019,
+"venue": {
+"name": "Summerhall",
+"map_ref": null,
+"code": "Summerhall",
+"description": null,
+"address": "Summerhall Place\nEdinburgh",
+"post_code": "EH9 1PL",
+"phone": null,
+"fax": null,
+"email": null,
+"disabled_description": null,
+"has_booking_over_phone": true,
+"has_booking_over_card": true,
+"has_booking_over_web": true,
+"box_office_opening": null,
+"box_office_fringe": false,
+"has_bar": null,
+"has_cafe": null,
+"cafe_description": null,
+"web_address": null,
+"position": {
+"lat": 55.94,
+"lon": -3.18228
+}
+},
+"performances": [
+{
+"start": "2019-04-11 19:30:00",
+"end": "2019-04-11 21:00:00",
+"title": null,
+"price": 5,
+"concession": null,
+"concession_family": false,
+"concession_additional": false
+}
+],
+"performance_space": {
+"name": null,
+"capacity": null,
+"wheelchair_access": null,
+"age_limited": null,
+"age_limit": null
+},
+"sub_venue": null,
+"warnings": null,
+"fringe_first": null,
+"description": "<p>A nature film with a difference, <em>Becoming Animal</em> traces how we sense the 'more than human' world. An inspired collaboration between filmmakers <strong>Emma Davie</strong> and <strong>Peter Mettler</strong>, environmental philosopher <strong>David Abram</strong> journeys to Grand Teton National Park in North America to explore how the written word and technology has affected how we see. Preceded by the short film <em>Plastic Man</em> by <strong>Yulia Kovanova</strong>. <em>This venue is undergoing access improvements, contact the venue for up-to-date information.</em></p>",
+"description_teaser": "Films with a difference.",
+"artist": null,
+"artist_type": null,
+"genre": "Film",
+"genre_tags": "Frontiers on Film,Art,Philosophy",
+"categories": {
+"strand_titles": [
+"Frontiers on Film"
+],
+"subjects": [
+"Art",
+"Philosophy"
+],
+"keywords": [
+{
+"category": "Headings",
+"keywords": [
+"Society & Culture"
+]
+},
+{
+"category": "Topics",
+"keywords": [
+"Film"
+]
+}
+]
+},
+"discounts": {
+"two_for_one": null,
+"group": null,
+"friends": null,
+"passport": null,
+"schools": null
+},
+"disabled": {
+"audio": null,
+"audio_dates": null,
+"signed": null,
+"signed_dates": null,
+"captioning": null,
+"captioning_dates": null,
+"other_services": null,
+"other_services_dates": null,
+"other_services_information": null
+},
+"age_category": "Ages 14+",
+"website": "http://www.sciencefestival.co.uk/event-details/becoming-animal-and-plastic-man",
+"images": {
+"a3167a76df49cbcc941adb9b58a275f6765288cd": {
+"hash": "a3167a76df49cbcc941adb9b58a275f6765288cd",
+"type": "hero",
+"orientation": "landscape",
+"versions": {
+"original": {
+"type": "original",
+"width": 1920,
+"height": 400,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/a3/16/7a/a3167a76df49cbcc941adb9b58a275f6765288cd-original.jpg"
+},
+"square-75": {
+"type": "square-75",
+"width": 75,
+"height": 75,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/a3/16/7a/a3167a76df49cbcc941adb9b58a275f6765288cd-square-75.jpg"
+},
+"square-150": {
+"type": "square-150",
+"width": 150,
+"height": 150,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/a3/16/7a/a3167a76df49cbcc941adb9b58a275f6765288cd-square-150.jpg"
+},
+"thumb-100": {
+"type": "thumb-100",
+"width": 100,
+"height": 21,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/a3/16/7a/a3167a76df49cbcc941adb9b58a275f6765288cd-thumb-100.jpg"
+},
+"small-320": {
+"type": "small-320",
+"width": 320,
+"height": 67,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/a3/16/7a/a3167a76df49cbcc941adb9b58a275f6765288cd-small-320.jpg"
+},
+"medium-640": {
+"type": "medium-640",
+"width": 640,
+"height": 133,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/a3/16/7a/a3167a76df49cbcc941adb9b58a275f6765288cd-medium-640.jpg"
+},
+"large-1024": {
+"type": "large-1024",
+"width": 1024,
+"height": 213,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/a3/16/7a/a3167a76df49cbcc941adb9b58a275f6765288cd-large-1024.jpg"
+}
+}
+},
+"d470198e9d560fb5e88f30297bdb2d46fbea1058": {
+"hash": "d470198e9d560fb5e88f30297bdb2d46fbea1058",
+"type": "thumb",
+"orientation": "square",
+"versions": {
+"original": {
+"type": "original",
+"width": 800,
+"height": 800,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/d4/70/19/d470198e9d560fb5e88f30297bdb2d46fbea1058-original.jpg"
+},
+"square-75": {
+"type": "square-75",
+"width": 75,
+"height": 75,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/d4/70/19/d470198e9d560fb5e88f30297bdb2d46fbea1058-square-75.jpg"
+},
+"square-150": {
+"type": "square-150",
+"width": 150,
+"height": 150,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/d4/70/19/d470198e9d560fb5e88f30297bdb2d46fbea1058-square-150.jpg"
+},
+"thumb-100": {
+"type": "thumb-100",
+"width": 100,
+"height": 100,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/d4/70/19/d470198e9d560fb5e88f30297bdb2d46fbea1058-thumb-100.jpg"
+},
+"small-320": {
+"type": "small-320",
+"width": 320,
+"height": 320,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/d4/70/19/d470198e9d560fb5e88f30297bdb2d46fbea1058-small-320.jpg"
+},
+"medium-640": {
+"type": "medium-640",
+"width": 640,
+"height": 640,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/d4/70/19/d470198e9d560fb5e88f30297bdb2d46fbea1058-medium-640.jpg"
+}
+}
+}
+},
+"twitter": null,
+"country": null,
+"performers_number": null,
+"non_english": null,
+"festival": "Edinburgh Science Festival",
+"url": "https://api.edinburghfestivalcity.com/events/8ae0f45781445cc5817a68528eed61799d9fb4ad",
+"updated": "2019-02-13 21:45:58",
+"update_times": {
+"identity": 1550094358,
+"title": 1550081997,
+"description": 1550081997,
+"venue": 1550081997,
+"performances": 1550081997,
+"artist": 1550081997,
+"genre": 1550081997,
+"discounts": 1550081997,
+"age_category": 1550081997,
+"fringe_first": 1550081997,
+"other": 1550081997,
+"disabled": 1550081997,
+"web_links": 1550081997,
+"images": 1550081997,
+"status": 1550081997
+},
+"latitude": 55.94,
+"longitude": -3.18228
+},
+{
+"festival_id": "science",
+"title": "Atlantic Adventures with ATLAS",
+"sub_title": null,
+"status": "active",
+"code": "1588",
+"year": 2019,
+"venue": {
+"name": "Dynamic Earth",
+"map_ref": null,
+"code": "Dynamic Earth",
+"description": null,
+"address": "112-116 Holyrood Rd\nEdinburgh",
+"post_code": "EH8 8AS",
+"phone": null,
+"fax": null,
+"email": null,
+"disabled_description": null,
+"has_booking_over_phone": true,
+"has_booking_over_card": true,
+"has_booking_over_web": true,
+"box_office_opening": null,
+"box_office_fringe": false,
+"has_bar": null,
+"has_cafe": null,
+"cafe_description": null,
+"web_address": null,
+"position": {
+"lat": 55.9401,
+"lon": -3.17314
+}
+},
+"performances": [
+{
+"start": "2019-04-11 10:00:00",
+"end": "2019-04-11 16:00:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-14 10:00:00",
+"end": "2019-04-14 16:00:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-15 10:00:00",
+"end": "2019-04-15 16:00:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-20 10:00:00",
+"end": "2019-04-20 16:00:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-21 10:00:00",
+"end": "2019-04-21 16:00:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+}
+],
+"performance_space": {
+"name": null,
+"capacity": null,
+"wheelchair_access": null,
+"age_limited": null,
+"age_limit": null
+},
+"sub_venue": null,
+"warnings": null,
+"fringe_first": null,
+"description": "<p>Do you know what lives in the deep waters around Scotland and the North Atlantic? Discover more about how scientists in the ATLAS project are exploring the deep sea and working out how to protect it in a changing ocean. Play with some real and virtual underwater robots, get hands-on with watery experiments and investigate biodiversity in the deep.</p>",
+"description_teaser": "Do you know what lives in the deep waters around Scotland and the North Atlantic?",
+"artist": null,
+"artist_type": null,
+"genre": "Activity",
+"genre_tags": "Our Blue Dot,Oceans",
+"categories": {
+"strand_titles": [
+"Our Blue Dot"
+],
+"subjects": [
+"Oceans"
+],
+"keywords": [
+{
+"category": "Headings",
+"keywords": [
+"Our planet"
+]
+},
+{
+"category": "Specialisations",
+"keywords": [
+"Marine biology"
+]
+}
+]
+},
+"discounts": {
+"two_for_one": null,
+"group": null,
+"friends": null,
+"passport": null,
+"schools": null
+},
+"disabled": {
+"audio": null,
+"audio_dates": null,
+"signed": null,
+"signed_dates": null,
+"captioning": null,
+"captioning_dates": null,
+"other_services": null,
+"other_services_dates": null,
+"other_services_information": null
+},
+"age_category": "Ages 5+",
+"website": "http://www.sciencefestival.co.uk/event-details/atlantic-adventures-with-atlas",
+"images": {
+"0d8dc97acbc8f0338c386dc772b03821e4ce7fae": {
+"hash": "0d8dc97acbc8f0338c386dc772b03821e4ce7fae",
+"type": "hero",
+"orientation": "landscape",
+"versions": {
+"original": {
+"type": "original",
+"width": 1920,
+"height": 400,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/0d/8d/c9/0d8dc97acbc8f0338c386dc772b03821e4ce7fae-original.jpg"
+},
+"square-75": {
+"type": "square-75",
+"width": 75,
+"height": 75,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/0d/8d/c9/0d8dc97acbc8f0338c386dc772b03821e4ce7fae-square-75.jpg"
+},
+"square-150": {
+"type": "square-150",
+"width": 150,
+"height": 150,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/0d/8d/c9/0d8dc97acbc8f0338c386dc772b03821e4ce7fae-square-150.jpg"
+},
+"thumb-100": {
+"type": "thumb-100",
+"width": 100,
+"height": 21,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/0d/8d/c9/0d8dc97acbc8f0338c386dc772b03821e4ce7fae-thumb-100.jpg"
+},
+"small-320": {
+"type": "small-320",
+"width": 320,
+"height": 67,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/0d/8d/c9/0d8dc97acbc8f0338c386dc772b03821e4ce7fae-small-320.jpg"
+},
+"medium-640": {
+"type": "medium-640",
+"width": 640,
+"height": 133,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/0d/8d/c9/0d8dc97acbc8f0338c386dc772b03821e4ce7fae-medium-640.jpg"
+},
+"large-1024": {
+"type": "large-1024",
+"width": 1024,
+"height": 213,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/0d/8d/c9/0d8dc97acbc8f0338c386dc772b03821e4ce7fae-large-1024.jpg"
+}
+}
+},
+"35ebaf23456a74b5e8975f4eed5fea0144ec62f0": {
+"hash": "35ebaf23456a74b5e8975f4eed5fea0144ec62f0",
+"type": "thumb",
+"orientation": "square",
+"versions": {
+"original": {
+"type": "original",
+"width": 800,
+"height": 800,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/35/eb/af/35ebaf23456a74b5e8975f4eed5fea0144ec62f0-original.jpg"
+},
+"square-75": {
+"type": "square-75",
+"width": 75,
+"height": 75,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/35/eb/af/35ebaf23456a74b5e8975f4eed5fea0144ec62f0-square-75.jpg"
+},
+"square-150": {
+"type": "square-150",
+"width": 150,
+"height": 150,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/35/eb/af/35ebaf23456a74b5e8975f4eed5fea0144ec62f0-square-150.jpg"
+},
+"thumb-100": {
+"type": "thumb-100",
+"width": 100,
+"height": 100,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/35/eb/af/35ebaf23456a74b5e8975f4eed5fea0144ec62f0-thumb-100.jpg"
+},
+"small-320": {
+"type": "small-320",
+"width": 320,
+"height": 320,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/35/eb/af/35ebaf23456a74b5e8975f4eed5fea0144ec62f0-small-320.jpg"
+},
+"medium-640": {
+"type": "medium-640",
+"width": 640,
+"height": 640,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/35/eb/af/35ebaf23456a74b5e8975f4eed5fea0144ec62f0-medium-640.jpg"
+}
+}
+}
+},
+"twitter": null,
+"country": null,
+"performers_number": null,
+"non_english": null,
+"festival": "Edinburgh Science Festival",
+"url": "https://api.edinburghfestivalcity.com/events/8f8d99d081f6f46656306e0363f198ce89688fa1",
+"updated": "2019-02-13 21:45:58",
+"update_times": {
+"identity": 1550094358,
+"title": 1550081997,
+"description": 1550081997,
+"venue": 1550081997,
+"performances": 1550081997,
+"artist": 1550081997,
+"genre": 1550081997,
+"discounts": 1550081997,
+"age_category": 1550081997,
+"fringe_first": 1550081997,
+"other": 1550081997,
+"disabled": 1550081997,
+"web_links": 1550081997,
+"images": 1550081997,
+"status": 1550081997
+},
+"latitude": 55.9401,
+"longitude": -3.17314
+},
+{
+"festival_id": "science",
+"title": "Revealing Scotland’s Cold-Water Coral Reef",
+"sub_title": null,
+"status": "active",
+"code": "1590",
+"year": 2019,
+"venue": {
+"name": "Dynamic Earth",
+"map_ref": null,
+"code": "Dynamic Earth",
+"description": null,
+"address": "112-116 Holyrood Rd\nEdinburgh",
+"post_code": "EH8 8AS",
+"phone": null,
+"fax": null,
+"email": null,
+"disabled_description": null,
+"has_booking_over_phone": true,
+"has_booking_over_card": true,
+"has_booking_over_web": true,
+"box_office_opening": null,
+"box_office_fringe": false,
+"has_bar": null,
+"has_cafe": null,
+"cafe_description": null,
+"web_address": null,
+"position": {
+"lat": 55.9401,
+"lon": -3.17314
+}
+},
+"performances": [
+{
+"start": "2019-04-17 10:00:00",
+"end": "2019-04-17 16:00:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-19 10:00:00",
+"end": "2019-04-19 16:00:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+}
+],
+"performance_space": {
+"name": null,
+"capacity": null,
+"wheelchair_access": null,
+"age_limited": null,
+"age_limit": null
+},
+"sub_venue": null,
+"warnings": null,
+"fringe_first": null,
+"description": "<p>Did you know that Scotland has its own coral reefs? Scientists from the University of Edinburgh will help you learn more about these amazing reefs with a selection of interactive, sensory activities. Touch real specimens and find out just what these reefs can do for us and why we should care about them. Bring along a clean glass jar to make a crafty coral creation to take away!</p>",
+"description_teaser": "Did you know that Scotland has its own coral reefs?",
+"artist": null,
+"artist_type": null,
+"genre": "Activity",
+"genre_tags": "Our Blue Dot,Oceans",
+"categories": {
+"strand_titles": [
+"Our Blue Dot"
+],
+"subjects": [
+"Oceans"
+],
+"keywords": [
+{
+"category": "Headings",
+"keywords": [
+"Our planet"
+]
+},
+{
+"category": "Specialisations",
+"keywords": [
+"Marine biology"
+]
+}
+]
+},
+"discounts": {
+"two_for_one": null,
+"group": null,
+"friends": null,
+"passport": null,
+"schools": null
+},
+"disabled": {
+"audio": null,
+"audio_dates": null,
+"signed": null,
+"signed_dates": null,
+"captioning": null,
+"captioning_dates": null,
+"other_services": null,
+"other_services_dates": null,
+"other_services_information": null
+},
+"age_category": "Ages 8+",
+"website": "http://www.sciencefestival.co.uk/event-details/revealing-scotlands-cold-water-coral-reef",
+"images": {
+"06b11b37a13642c54d1317624e5590e273a52a75": {
+"hash": "06b11b37a13642c54d1317624e5590e273a52a75",
+"type": "hero",
+"orientation": "landscape",
+"versions": {
+"original": {
+"type": "original",
+"width": 1920,
+"height": 400,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/06/b1/1b/06b11b37a13642c54d1317624e5590e273a52a75-original.jpg"
+},
+"square-75": {
+"type": "square-75",
+"width": 75,
+"height": 75,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/06/b1/1b/06b11b37a13642c54d1317624e5590e273a52a75-square-75.jpg"
+},
+"square-150": {
+"type": "square-150",
+"width": 150,
+"height": 150,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/06/b1/1b/06b11b37a13642c54d1317624e5590e273a52a75-square-150.jpg"
+},
+"thumb-100": {
+"type": "thumb-100",
+"width": 100,
+"height": 21,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/06/b1/1b/06b11b37a13642c54d1317624e5590e273a52a75-thumb-100.jpg"
+},
+"small-320": {
+"type": "small-320",
+"width": 320,
+"height": 67,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/06/b1/1b/06b11b37a13642c54d1317624e5590e273a52a75-small-320.jpg"
+},
+"medium-640": {
+"type": "medium-640",
+"width": 640,
+"height": 133,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/06/b1/1b/06b11b37a13642c54d1317624e5590e273a52a75-medium-640.jpg"
+},
+"large-1024": {
+"type": "large-1024",
+"width": 1024,
+"height": 213,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/06/b1/1b/06b11b37a13642c54d1317624e5590e273a52a75-large-1024.jpg"
+}
+}
+},
+"e84e88c0f9d03660f328dc36b447bcd5429831e0": {
+"hash": "e84e88c0f9d03660f328dc36b447bcd5429831e0",
+"type": "thumb",
+"orientation": "square",
+"versions": {
+"original": {
+"type": "original",
+"width": 800,
+"height": 800,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/e8/4e/88/e84e88c0f9d03660f328dc36b447bcd5429831e0-original.jpg"
+},
+"square-75": {
+"type": "square-75",
+"width": 75,
+"height": 75,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/e8/4e/88/e84e88c0f9d03660f328dc36b447bcd5429831e0-square-75.jpg"
+},
+"square-150": {
+"type": "square-150",
+"width": 150,
+"height": 150,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/e8/4e/88/e84e88c0f9d03660f328dc36b447bcd5429831e0-square-150.jpg"
+},
+"thumb-100": {
+"type": "thumb-100",
+"width": 100,
+"height": 100,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/e8/4e/88/e84e88c0f9d03660f328dc36b447bcd5429831e0-thumb-100.jpg"
+},
+"small-320": {
+"type": "small-320",
+"width": 320,
+"height": 320,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/e8/4e/88/e84e88c0f9d03660f328dc36b447bcd5429831e0-small-320.jpg"
+},
+"medium-640": {
+"type": "medium-640",
+"width": 640,
+"height": 640,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/e8/4e/88/e84e88c0f9d03660f328dc36b447bcd5429831e0-medium-640.jpg"
+}
+}
+}
+},
+"twitter": null,
+"country": null,
+"performers_number": null,
+"non_english": null,
+"festival": "Edinburgh Science Festival",
+"url": "https://api.edinburghfestivalcity.com/events/933d2b81f46f938cf6e63abce88f942fa670cc0c",
+"updated": "2019-02-13 21:45:58",
+"update_times": {
+"identity": 1550094358,
+"title": 1550081997,
+"description": 1550081997,
+"venue": 1550081997,
+"performances": 1550081997,
+"artist": 1550081997,
+"genre": 1550081997,
+"discounts": 1550081997,
+"age_category": 1550081997,
+"fringe_first": 1550081997,
+"other": 1550081997,
+"disabled": 1550081997,
+"web_links": 1550081997,
+"images": 1550081997,
+"status": 1550081997
+},
+"latitude": 55.9401,
+"longitude": -3.17314
+},
+{
+"festival_id": "science",
+"title": "Design: The Frontiers of Art and Science",
+"sub_title": null,
+"status": "active",
+"code": "1611",
+"year": 2019,
+"venue": {
+"name": "The Patrick Geddes Centre",
+"map_ref": null,
+"code": "The Patrick Geddes Centre",
+"description": null,
+"address": "Riddle’s Court\n322 Lawnmarket\nEdinburgh",
+"post_code": "EH1 2PG",
+"phone": null,
+"fax": null,
+"email": null,
+"disabled_description": null,
+"has_booking_over_phone": true,
+"has_booking_over_card": true,
+"has_booking_over_web": true,
+"box_office_opening": null,
+"box_office_fringe": false,
+"has_bar": null,
+"has_cafe": null,
+"cafe_description": null,
+"web_address": null,
+"position": {
+"lat": 55.94909244,
+"lon": -3.19357168
+}
+},
+"performances": [
+{
+"start": "2019-04-09 19:00:00",
+"end": "2019-04-09 20:30:00",
+"title": null,
+"price": 8.5,
+"concession": 6.5,
+"concession_family": false,
+"concession_additional": false
+}
+],
+"performance_space": {
+"name": null,
+"capacity": null,
+"wheelchair_access": null,
+"age_limited": null,
+"age_limit": null
+},
+"sub_venue": null,
+"warnings": null,
+"fringe_first": null,
+"description": "<p>From the innovation of early man to cutting-edge design solutions, we present a swift series of short, punchy talks from a panel of academics, curators and industry experts that will guide us through the frontiers of art and science.</p>",
+"description_teaser": "We present a swift series of short, punchy talks from a panel of academics, curators and industry experts that will guide us through the frontiers of art and science.",
+"artist": null,
+"artist_type": null,
+"genre": "Discussion",
+"genre_tags": "",
+"categories": {
+"strand_titles": [],
+"subjects": [],
+"keywords": []
+},
+"discounts": {
+"two_for_one": null,
+"group": null,
+"friends": null,
+"passport": null,
+"schools": null
+},
+"disabled": {
+"audio": null,
+"audio_dates": null,
+"signed": null,
+"signed_dates": null,
+"captioning": null,
+"captioning_dates": null,
+"other_services": null,
+"other_services_dates": null,
+"other_services_information": null
+},
+"age_category": "Ages 14+",
+"website": "http://www.sciencefestival.co.uk/event-details/design-the-frontiers-of-art-and-science",
+"images": {
+"7a348c1f4c5467983b3abcf7968277af7ed8c4b3": {
+"hash": "7a348c1f4c5467983b3abcf7968277af7ed8c4b3",
+"type": "hero",
+"orientation": "landscape",
+"versions": {
+"original": {
+"type": "original",
+"width": 1920,
+"height": 400,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/7a/34/8c/7a348c1f4c5467983b3abcf7968277af7ed8c4b3-original.jpg"
+},
+"square-75": {
+"type": "square-75",
+"width": 75,
+"height": 75,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/7a/34/8c/7a348c1f4c5467983b3abcf7968277af7ed8c4b3-square-75.jpg"
+},
+"square-150": {
+"type": "square-150",
+"width": 150,
+"height": 150,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/7a/34/8c/7a348c1f4c5467983b3abcf7968277af7ed8c4b3-square-150.jpg"
+},
+"thumb-100": {
+"type": "thumb-100",
+"width": 100,
+"height": 21,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/7a/34/8c/7a348c1f4c5467983b3abcf7968277af7ed8c4b3-thumb-100.jpg"
+},
+"small-320": {
+"type": "small-320",
+"width": 320,
+"height": 67,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/7a/34/8c/7a348c1f4c5467983b3abcf7968277af7ed8c4b3-small-320.jpg"
+},
+"medium-640": {
+"type": "medium-640",
+"width": 640,
+"height": 133,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/7a/34/8c/7a348c1f4c5467983b3abcf7968277af7ed8c4b3-medium-640.jpg"
+},
+"large-1024": {
+"type": "large-1024",
+"width": 1024,
+"height": 213,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/7a/34/8c/7a348c1f4c5467983b3abcf7968277af7ed8c4b3-large-1024.jpg"
+}
+}
+},
+"cb3489c508236f31403a7c4252c912af02f6bb0c": {
+"hash": "cb3489c508236f31403a7c4252c912af02f6bb0c",
+"type": "thumb",
+"orientation": "square",
+"versions": {
+"original": {
+"type": "original",
+"width": 800,
+"height": 800,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/cb/34/89/cb3489c508236f31403a7c4252c912af02f6bb0c-original.jpg"
+},
+"square-75": {
+"type": "square-75",
+"width": 75,
+"height": 75,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/cb/34/89/cb3489c508236f31403a7c4252c912af02f6bb0c-square-75.jpg"
+},
+"square-150": {
+"type": "square-150",
+"width": 150,
+"height": 150,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/cb/34/89/cb3489c508236f31403a7c4252c912af02f6bb0c-square-150.jpg"
+},
+"thumb-100": {
+"type": "thumb-100",
+"width": 100,
+"height": 100,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/cb/34/89/cb3489c508236f31403a7c4252c912af02f6bb0c-thumb-100.jpg"
+},
+"small-320": {
+"type": "small-320",
+"width": 320,
+"height": 320,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/cb/34/89/cb3489c508236f31403a7c4252c912af02f6bb0c-small-320.jpg"
+},
+"medium-640": {
+"type": "medium-640",
+"width": 640,
+"height": 640,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/cb/34/89/cb3489c508236f31403a7c4252c912af02f6bb0c-medium-640.jpg"
+}
+}
+}
+},
+"twitter": null,
+"country": null,
+"performers_number": null,
+"non_english": null,
+"festival": "Edinburgh Science Festival",
+"url": "https://api.edinburghfestivalcity.com/events/9421187f0076ccef5a1192da5064a4a99320bb8a",
+"updated": "2019-02-13 21:45:58",
+"update_times": {
+"identity": 1550094358,
+"title": 1550081997,
+"description": 1550081997,
+"venue": 1550081997,
+"performances": 1550081997,
+"artist": 1550081997,
+"genre": 1550081997,
+"discounts": 1550081997,
+"age_category": 1550081997,
+"fringe_first": 1550081997,
+"other": 1550081997,
+"disabled": 1550081997,
+"web_links": 1550081997,
+"images": 1550081997,
+"status": 1550081997
+},
+"latitude": 55.94909244,
+"longitude": -3.19357168
+},
+{
+"festival_id": "science",
+"title": "Life on Mars",
+"sub_title": null,
+"status": "active",
+"code": "1437",
+"year": 2019,
+"venue": {
+"name": "Pleasance",
+"map_ref": null,
+"code": "Pleasance",
+"description": null,
+"address": "60 Pleasance\nEdinburgh",
+"post_code": "EH8 9TJ",
+"phone": null,
+"fax": null,
+"email": null,
+"disabled_description": null,
+"has_booking_over_phone": true,
+"has_booking_over_card": true,
+"has_booking_over_web": true,
+"box_office_opening": null,
+"box_office_fringe": false,
+"has_bar": null,
+"has_cafe": null,
+"cafe_description": null,
+"web_address": null,
+"position": {
+"lat": 55.947394,
+"lon": -3.181877
+}
+},
+"performances": [
+{
+"start": "2019-04-06 20:00:00",
+"end": "2019-04-06 22:00:00",
+"title": null,
+"price": 8.5,
+"concession": 6.5,
+"concession_family": false,
+"concession_additional": false
+}
+],
+"performance_space": {
+"name": null,
+"capacity": null,
+"wheelchair_access": null,
+"age_limited": null,
+"age_limit": null
+},
+"sub_venue": null,
+"warnings": null,
+"fringe_first": null,
+"description": "<p>Join science presenter <strong>Neil Monteiro</strong> to build a new life on Mars in this pub quiz, board game and sci-fi mashup! Divide up resources, develop structures and prepare to live on the edge whilst dealing with on-screen random events. You'll need to bring your best space and sci-fi brains for the knowledge and dexterity challenges. Come prepared with a team of four to eight people or simply bring a willingness to join in and submit your name to the team creator on the night. <em>Over 18s only.</em></p>",
+"description_teaser": "Join science presenter Neil Monteiro to build a new life on Mars in this pub quiz, board game and sci-fi mashup!",
+"artist": null,
+"artist_type": null,
+"genre": "Activity",
+"genre_tags": "",
+"categories": {
+"strand_titles": [],
+"subjects": [],
+"keywords": []
+},
+"discounts": {
+"two_for_one": null,
+"group": null,
+"friends": null,
+"passport": null,
+"schools": null
+},
+"disabled": {
+"audio": null,
+"audio_dates": null,
+"signed": null,
+"signed_dates": null,
+"captioning": null,
+"captioning_dates": null,
+"other_services": null,
+"other_services_dates": null,
+"other_services_information": null
+},
+"age_category": "Ages 18+",
+"website": "http://www.sciencefestival.co.uk/event-details/life-on-mars",
+"images": {
+"aa5533089c809b46ac438d1c8a0845e05ff78ce3": {
+"hash": "aa5533089c809b46ac438d1c8a0845e05ff78ce3",
+"type": "hero",
+"orientation": "landscape",
+"versions": {
+"original": {
+"type": "original",
+"width": 1920,
+"height": 400,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/aa/55/33/aa5533089c809b46ac438d1c8a0845e05ff78ce3-original.jpg"
+},
+"square-75": {
+"type": "square-75",
+"width": 75,
+"height": 75,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/aa/55/33/aa5533089c809b46ac438d1c8a0845e05ff78ce3-square-75.jpg"
+},
+"square-150": {
+"type": "square-150",
+"width": 150,
+"height": 150,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/aa/55/33/aa5533089c809b46ac438d1c8a0845e05ff78ce3-square-150.jpg"
+},
+"thumb-100": {
+"type": "thumb-100",
+"width": 100,
+"height": 21,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/aa/55/33/aa5533089c809b46ac438d1c8a0845e05ff78ce3-thumb-100.jpg"
+},
+"small-320": {
+"type": "small-320",
+"width": 320,
+"height": 67,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/aa/55/33/aa5533089c809b46ac438d1c8a0845e05ff78ce3-small-320.jpg"
+},
+"medium-640": {
+"type": "medium-640",
+"width": 640,
+"height": 133,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/aa/55/33/aa5533089c809b46ac438d1c8a0845e05ff78ce3-medium-640.jpg"
+},
+"large-1024": {
+"type": "large-1024",
+"width": 1024,
+"height": 213,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/aa/55/33/aa5533089c809b46ac438d1c8a0845e05ff78ce3-large-1024.jpg"
+}
+}
+},
+"0f1f4df5fada7dfa62cbe69e64a68f6947b14c75": {
+"hash": "0f1f4df5fada7dfa62cbe69e64a68f6947b14c75",
+"type": "thumb",
+"orientation": "square",
+"versions": {
+"original": {
+"type": "original",
+"width": 800,
+"height": 800,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/0f/1f/4d/0f1f4df5fada7dfa62cbe69e64a68f6947b14c75-original.jpg"
+},
+"square-75": {
+"type": "square-75",
+"width": 75,
+"height": 75,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/0f/1f/4d/0f1f4df5fada7dfa62cbe69e64a68f6947b14c75-square-75.jpg"
+},
+"square-150": {
+"type": "square-150",
+"width": 150,
+"height": 150,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/0f/1f/4d/0f1f4df5fada7dfa62cbe69e64a68f6947b14c75-square-150.jpg"
+},
+"thumb-100": {
+"type": "thumb-100",
+"width": 100,
+"height": 100,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/0f/1f/4d/0f1f4df5fada7dfa62cbe69e64a68f6947b14c75-thumb-100.jpg"
+},
+"small-320": {
+"type": "small-320",
+"width": 320,
+"height": 320,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/0f/1f/4d/0f1f4df5fada7dfa62cbe69e64a68f6947b14c75-small-320.jpg"
+},
+"medium-640": {
+"type": "medium-640",
+"width": 640,
+"height": 640,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/0f/1f/4d/0f1f4df5fada7dfa62cbe69e64a68f6947b14c75-medium-640.jpg"
+}
+}
+}
+},
+"twitter": null,
+"country": null,
+"performers_number": null,
+"non_english": null,
+"festival": "Edinburgh Science Festival",
+"url": "https://api.edinburghfestivalcity.com/events/956e39b73efdc46d26aff5e764d1b3453b02cc59",
+"updated": "2019-02-13 21:45:56",
+"update_times": {
+"identity": 1550094356,
+"title": 1550081995,
+"description": 1550081995,
+"venue": 1550081995,
+"performances": 1550081995,
+"artist": 1550081995,
+"genre": 1550081995,
+"discounts": 1550081995,
+"age_category": 1550081995,
+"fringe_first": 1550081995,
+"other": 1550081995,
+"disabled": 1550081995,
+"web_links": 1550081995,
+"images": 1550081995,
+"status": 1550081995
+},
+"latitude": 55.947394,
+"longitude": -3.181877
+},
+{
+"festival_id": "science",
+"title": "Tensegrity",
+"sub_title": null,
+"status": "active",
+"code": "1626",
+"year": 2019,
+"venue": {
+"name": "Summerhall",
+"map_ref": null,
+"code": "Summerhall",
+"description": null,
+"address": "Summerhall Place\nEdinburgh",
+"post_code": "EH9 1PL",
+"phone": null,
+"fax": null,
+"email": null,
+"disabled_description": null,
+"has_booking_over_phone": true,
+"has_booking_over_card": true,
+"has_booking_over_web": true,
+"box_office_opening": null,
+"box_office_fringe": false,
+"has_bar": null,
+"has_cafe": null,
+"cafe_description": null,
+"web_address": null,
+"position": {
+"lat": 55.94,
+"lon": -3.18228
+}
+},
+"performances": [
+{
+"start": "2019-04-06 11:00:00",
+"end": "2019-04-06 18:00:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-07 11:00:00",
+"end": "2019-04-07 18:00:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-08 11:00:00",
+"end": "2019-04-08 18:00:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-09 11:00:00",
+"end": "2019-04-09 18:00:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-10 11:00:00",
+"end": "2019-04-10 18:00:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-11 11:00:00",
+"end": "2019-04-11 18:00:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-12 11:00:00",
+"end": "2019-04-12 18:00:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-13 11:00:00",
+"end": "2019-04-13 18:00:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-14 11:00:00",
+"end": "2019-04-14 18:00:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-15 11:00:00",
+"end": "2019-04-15 18:00:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-16 11:00:00",
+"end": "2019-04-16 18:00:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-17 11:00:00",
+"end": "2019-04-17 18:00:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-18 11:00:00",
+"end": "2019-04-18 18:00:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-19 11:00:00",
+"end": "2019-04-19 18:00:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-20 11:00:00",
+"end": "2019-04-20 18:00:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-21 11:00:00",
+"end": "2019-04-21 18:00:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+}
+],
+"performance_space": {
+"name": null,
+"capacity": null,
+"wheelchair_access": null,
+"age_limited": null,
+"age_limit": null
+},
+"sub_venue": null,
+"warnings": null,
+"fringe_first": null,
+"description": "<p>What is the fashion of the future? Upcoming designer <strong>Aurélie Fontan</strong> created her own 100% degradable fabric from speciality tea, Kombucha. Her Edinburgh College of Art graduate collection <em>Tensegrity</em> demonstrates the combination of craft and technology based on science imagery and disciplines.</p>",
+"description_teaser": "What is the fashion of the future?",
+"artist": null,
+"artist_type": null,
+"genre": "Exhibition",
+"genre_tags": "Environmental Frontiers,Ideas on the Edge,Art",
+"categories": {
+"strand_titles": [
+"Environmental Frontiers",
+"Ideas on the Edge"
+],
+"subjects": [
+"Art"
+],
+"keywords": [
+{
+"category": "Headings",
+"keywords": [
+"Society & Culture"
+]
+},
+{
+"category": "Topics",
+"keywords": [
+"Fashion"
+]
+}
+]
+},
+"discounts": {
+"two_for_one": null,
+"group": null,
+"friends": null,
+"passport": null,
+"schools": null
+},
+"disabled": {
+"audio": null,
+"audio_dates": null,
+"signed": null,
+"signed_dates": null,
+"captioning": null,
+"captioning_dates": null,
+"other_services": null,
+"other_services_dates": null,
+"other_services_information": null
+},
+"age_category": "All Ages",
+"website": "http://www.sciencefestival.co.uk/event-details/tensegrity",
+"images": {
+"b6db295db8c52587458bb41cfa680ac75145da67": {
+"hash": "b6db295db8c52587458bb41cfa680ac75145da67",
+"type": "hero",
+"orientation": "landscape",
+"versions": {
+"original": {
+"type": "original",
+"width": 1920,
+"height": 400,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/b6/db/29/b6db295db8c52587458bb41cfa680ac75145da67-original.jpg"
+},
+"square-75": {
+"type": "square-75",
+"width": 75,
+"height": 75,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/b6/db/29/b6db295db8c52587458bb41cfa680ac75145da67-square-75.jpg"
+},
+"square-150": {
+"type": "square-150",
+"width": 150,
+"height": 150,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/b6/db/29/b6db295db8c52587458bb41cfa680ac75145da67-square-150.jpg"
+},
+"thumb-100": {
+"type": "thumb-100",
+"width": 100,
+"height": 21,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/b6/db/29/b6db295db8c52587458bb41cfa680ac75145da67-thumb-100.jpg"
+},
+"small-320": {
+"type": "small-320",
+"width": 320,
+"height": 67,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/b6/db/29/b6db295db8c52587458bb41cfa680ac75145da67-small-320.jpg"
+},
+"medium-640": {
+"type": "medium-640",
+"width": 640,
+"height": 133,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/b6/db/29/b6db295db8c52587458bb41cfa680ac75145da67-medium-640.jpg"
+},
+"large-1024": {
+"type": "large-1024",
+"width": 1024,
+"height": 213,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/b6/db/29/b6db295db8c52587458bb41cfa680ac75145da67-large-1024.jpg"
+}
+}
+},
+"ca27c405269224e282f75826c5f0a07f307bee08": {
+"hash": "ca27c405269224e282f75826c5f0a07f307bee08",
+"type": "thumb",
+"orientation": "square",
+"versions": {
+"original": {
+"type": "original",
+"width": 800,
+"height": 800,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/ca/27/c4/ca27c405269224e282f75826c5f0a07f307bee08-original.jpg"
+},
+"square-75": {
+"type": "square-75",
+"width": 75,
+"height": 75,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/ca/27/c4/ca27c405269224e282f75826c5f0a07f307bee08-square-75.jpg"
+},
+"square-150": {
+"type": "square-150",
+"width": 150,
+"height": 150,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/ca/27/c4/ca27c405269224e282f75826c5f0a07f307bee08-square-150.jpg"
+},
+"thumb-100": {
+"type": "thumb-100",
+"width": 100,
+"height": 100,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/ca/27/c4/ca27c405269224e282f75826c5f0a07f307bee08-thumb-100.jpg"
+},
+"small-320": {
+"type": "small-320",
+"width": 320,
+"height": 320,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/ca/27/c4/ca27c405269224e282f75826c5f0a07f307bee08-small-320.jpg"
+},
+"medium-640": {
+"type": "medium-640",
+"width": 640,
+"height": 640,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/ca/27/c4/ca27c405269224e282f75826c5f0a07f307bee08-medium-640.jpg"
+}
+}
+}
+},
+"twitter": null,
+"country": null,
+"performers_number": null,
+"non_english": null,
+"festival": "Edinburgh Science Festival",
+"url": "https://api.edinburghfestivalcity.com/events/ab03741d517759c48ab37070f6fd0b628a84579e",
+"updated": "2019-02-13 21:45:59",
+"update_times": {
+"identity": 1550094359,
+"title": 1550081997,
+"description": 1550081997,
+"venue": 1550081997,
+"performances": 1550081997,
+"artist": 1550081997,
+"genre": 1550081997,
+"discounts": 1550081997,
+"age_category": 1550081997,
+"fringe_first": 1550081997,
+"other": 1550081997,
+"disabled": 1550081997,
+"web_links": 1550081997,
+"images": 1550081997,
+"status": 1550081997
+},
+"latitude": 55.94,
+"longitude": -3.18228
+},
+{
+"festival_id": "science",
+"title": "Russell Beard: Artist Talk",
+"sub_title": null,
+"status": "active",
+"code": "1634",
+"year": 2019,
+"venue": {
+"name": "Summerhall",
+"map_ref": null,
+"code": "Summerhall",
+"description": null,
+"address": "Summerhall Place\nEdinburgh",
+"post_code": "EH9 1PL",
+"phone": null,
+"fax": null,
+"email": null,
+"disabled_description": null,
+"has_booking_over_phone": true,
+"has_booking_over_card": true,
+"has_booking_over_web": true,
+"box_office_opening": null,
+"box_office_fringe": false,
+"has_bar": null,
+"has_cafe": null,
+"cafe_description": null,
+"web_address": null,
+"position": {
+"lat": 55.94,
+"lon": -3.18228
+}
+},
+"performances": [
+{
+"start": "2019-04-06 14:30:00",
+"end": "2019-04-06 15:30:00",
+"title": null,
+"price": 5,
+"concession": null,
+"concession_family": false,
+"concession_additional": false
+}
+],
+"performance_space": {
+"name": null,
+"capacity": null,
+"wheelchair_access": null,
+"age_limited": null,
+"age_limit": null
+},
+"sub_venue": null,
+"warnings": null,
+"fringe_first": null,
+"description": "<p>Join artist <strong>Russell Beard</strong> as he discusses his joint exhibition with Stephen Kavanagh presenting new sculptural works and the challenges emerging from the social geo-political and environmental uncertainty of the Anthropocene – an era of the dominant influence of human activity on the environment. <em>This venue is undergoing access improvements, contact the venue for up-to-date information.</em></p>",
+"description_teaser": "Join artist Russell Beard as he discusses his joint exhibition with Stephen Kavanagh presenting new sculptural works.",
+"artist": null,
+"artist_type": null,
+"genre": "Discussion",
+"genre_tags": "Environmental Frontiers,Environment,Art",
+"categories": {
+"strand_titles": [
+"Environmental Frontiers"
+],
+"subjects": [
+"Environment",
+"Art"
+],
+"keywords": [
+{
+"category": "Headings",
+"keywords": [
+"Our planet",
+"Society & Culture"
+]
+},
+{
+"category": "Topics",
+"keywords": [
+"Visual art"
+]
+}
+]
+},
+"discounts": {
+"two_for_one": null,
+"group": null,
+"friends": null,
+"passport": null,
+"schools": null
+},
+"disabled": {
+"audio": null,
+"audio_dates": null,
+"signed": null,
+"signed_dates": null,
+"captioning": null,
+"captioning_dates": null,
+"other_services": null,
+"other_services_dates": null,
+"other_services_information": null
+},
+"age_category": "Ages 14+",
+"website": "http://www.sciencefestival.co.uk/event-details/russell-beard-artist-talk",
+"images": {
+"7085db5b18978c1e7d61b0a8a3607b1d8347c998": {
+"hash": "7085db5b18978c1e7d61b0a8a3607b1d8347c998",
+"type": "hero",
+"orientation": "landscape",
+"versions": {
+"original": {
+"type": "original",
+"width": 1920,
+"height": 400,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/70/85/db/7085db5b18978c1e7d61b0a8a3607b1d8347c998-original.jpg"
+},
+"square-75": {
+"type": "square-75",
+"width": 75,
+"height": 75,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/70/85/db/7085db5b18978c1e7d61b0a8a3607b1d8347c998-square-75.jpg"
+},
+"square-150": {
+"type": "square-150",
+"width": 150,
+"height": 150,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/70/85/db/7085db5b18978c1e7d61b0a8a3607b1d8347c998-square-150.jpg"
+},
+"thumb-100": {
+"type": "thumb-100",
+"width": 100,
+"height": 21,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/70/85/db/7085db5b18978c1e7d61b0a8a3607b1d8347c998-thumb-100.jpg"
+},
+"small-320": {
+"type": "small-320",
+"width": 320,
+"height": 67,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/70/85/db/7085db5b18978c1e7d61b0a8a3607b1d8347c998-small-320.jpg"
+},
+"medium-640": {
+"type": "medium-640",
+"width": 640,
+"height": 133,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/70/85/db/7085db5b18978c1e7d61b0a8a3607b1d8347c998-medium-640.jpg"
+},
+"large-1024": {
+"type": "large-1024",
+"width": 1024,
+"height": 213,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/70/85/db/7085db5b18978c1e7d61b0a8a3607b1d8347c998-large-1024.jpg"
+}
+}
+},
+"ff07e3dd10da33a0fb7235763dc53bed0f982f36": {
+"hash": "ff07e3dd10da33a0fb7235763dc53bed0f982f36",
+"type": "thumb",
+"orientation": "square",
+"versions": {
+"original": {
+"type": "original",
+"width": 800,
+"height": 800,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/ff/07/e3/ff07e3dd10da33a0fb7235763dc53bed0f982f36-original.jpg"
+},
+"square-75": {
+"type": "square-75",
+"width": 75,
+"height": 75,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/ff/07/e3/ff07e3dd10da33a0fb7235763dc53bed0f982f36-square-75.jpg"
+},
+"square-150": {
+"type": "square-150",
+"width": 150,
+"height": 150,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/ff/07/e3/ff07e3dd10da33a0fb7235763dc53bed0f982f36-square-150.jpg"
+},
+"thumb-100": {
+"type": "thumb-100",
+"width": 100,
+"height": 100,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/ff/07/e3/ff07e3dd10da33a0fb7235763dc53bed0f982f36-thumb-100.jpg"
+},
+"small-320": {
+"type": "small-320",
+"width": 320,
+"height": 320,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/ff/07/e3/ff07e3dd10da33a0fb7235763dc53bed0f982f36-small-320.jpg"
+},
+"medium-640": {
+"type": "medium-640",
+"width": 640,
+"height": 640,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/ff/07/e3/ff07e3dd10da33a0fb7235763dc53bed0f982f36-medium-640.jpg"
+}
+}
+}
+},
+"twitter": null,
+"country": null,
+"performers_number": null,
+"non_english": null,
+"festival": "Edinburgh Science Festival",
+"url": "https://api.edinburghfestivalcity.com/events/afbac10390df17d5eb5bbbba7cef4d2bbb58d81e",
+"updated": "2019-02-13 21:45:59",
+"update_times": {
+"identity": 1550094359,
+"title": 1550081997,
+"description": 1550081997,
+"venue": 1550081997,
+"performances": 1550081997,
+"artist": 1550081997,
+"genre": 1550081997,
+"discounts": 1550081997,
+"age_category": 1550081997,
+"fringe_first": 1550081997,
+"other": 1550081997,
+"disabled": 1550081997,
+"web_links": 1550081997,
+"images": 1550081997,
+"status": 1550081997
+},
+"latitude": 55.94,
+"longitude": -3.18228
+},
+{
+"festival_id": "science",
+"title": "Tetracolours",
+"sub_title": null,
+"status": "active",
+"code": "1455",
+"year": 2019,
+"venue": {
+"name": "City Art Centre",
+"map_ref": null,
+"code": "City Art Centre",
+"description": null,
+"address": "2 Market Street\nEdinburgh",
+"post_code": "EH1 1DE",
+"phone": null,
+"fax": null,
+"email": null,
+"disabled_description": null,
+"has_booking_over_phone": true,
+"has_booking_over_card": true,
+"has_booking_over_web": true,
+"box_office_opening": null,
+"box_office_fringe": false,
+"has_bar": null,
+"has_cafe": null,
+"cafe_description": null,
+"web_address": null,
+"position": {
+"lat": 55.9515,
+"lon": -3.18448
+}
+},
+"performances": [
+{
+"start": "2019-04-06 01:00:00",
+"end": "2019-04-06 08:00:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-07 00:00:00",
+"end": "2019-04-07 07:00:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-08 00:00:00",
+"end": "2019-04-08 07:00:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-09 00:00:00",
+"end": "2019-04-09 07:00:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-10 00:00:00",
+"end": "2019-04-10 07:00:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-11 00:00:00",
+"end": "2019-04-11 07:00:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-12 00:00:00",
+"end": "2019-04-12 07:00:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-13 00:00:00",
+"end": "2019-04-13 07:00:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-15 00:00:00",
+"end": "2019-04-15 07:00:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-16 00:00:00",
+"end": "2019-04-16 07:00:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-17 00:00:00",
+"end": "2019-04-17 07:00:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-18 00:00:00",
+"end": "2019-04-18 07:00:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-19 00:00:00",
+"end": "2019-04-19 07:00:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-20 00:00:00",
+"end": "2019-04-20 07:00:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+}
+],
+"performance_space": {
+"name": null,
+"capacity": null,
+"wheelchair_access": null,
+"age_limited": null,
+"age_limit": null
+},
+"sub_venue": null,
+"warnings": null,
+"fringe_first": null,
+"description": "<p>Colourful creatures wanted for this fun creative shapes activity. Discover a world of new shapes, blend them together to stretch your imagination and create anything you can think of. You can even design tessellating patterns which could go on forever!</p>",
+"description_teaser": "",
+"artist": null,
+"artist_type": null,
+"genre": "Activity",
+"genre_tags": "",
+"categories": {
+"strand_titles": [],
+"subjects": [],
+"keywords": []
+},
+"discounts": {
+"two_for_one": null,
+"group": null,
+"friends": null,
+"passport": null,
+"schools": null
+},
+"disabled": {
+"audio": null,
+"audio_dates": null,
+"signed": null,
+"signed_dates": null,
+"captioning": null,
+"captioning_dates": null,
+"other_services": null,
+"other_services_dates": null,
+"other_services_information": null
+},
+"age_category": "Ages 3+",
+"website": "http://www.sciencefestival.co.uk/event-details/tetracolours",
+"images": {
+"ee1bfcfe985b5ab7a91080763244de03bf34cbc5": {
+"hash": "ee1bfcfe985b5ab7a91080763244de03bf34cbc5",
+"type": "hero",
+"orientation": "landscape",
+"versions": {
+"original": {
+"type": "original",
+"width": 1920,
+"height": 400,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/ee/1b/fc/ee1bfcfe985b5ab7a91080763244de03bf34cbc5-original.jpg"
+},
+"square-75": {
+"type": "square-75",
+"width": 75,
+"height": 75,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/ee/1b/fc/ee1bfcfe985b5ab7a91080763244de03bf34cbc5-square-75.jpg"
+},
+"square-150": {
+"type": "square-150",
+"width": 150,
+"height": 150,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/ee/1b/fc/ee1bfcfe985b5ab7a91080763244de03bf34cbc5-square-150.jpg"
+},
+"thumb-100": {
+"type": "thumb-100",
+"width": 100,
+"height": 21,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/ee/1b/fc/ee1bfcfe985b5ab7a91080763244de03bf34cbc5-thumb-100.jpg"
+},
+"small-320": {
+"type": "small-320",
+"width": 320,
+"height": 67,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/ee/1b/fc/ee1bfcfe985b5ab7a91080763244de03bf34cbc5-small-320.jpg"
+},
+"medium-640": {
+"type": "medium-640",
+"width": 640,
+"height": 133,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/ee/1b/fc/ee1bfcfe985b5ab7a91080763244de03bf34cbc5-medium-640.jpg"
+},
+"large-1024": {
+"type": "large-1024",
+"width": 1024,
+"height": 213,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/ee/1b/fc/ee1bfcfe985b5ab7a91080763244de03bf34cbc5-large-1024.jpg"
+}
+}
+},
+"470ec07692c3461499a0951e2fd25f359150af85": {
+"hash": "470ec07692c3461499a0951e2fd25f359150af85",
+"type": "thumb",
+"orientation": "square",
+"versions": {
+"original": {
+"type": "original",
+"width": 800,
+"height": 800,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/47/0e/c0/470ec07692c3461499a0951e2fd25f359150af85-original.jpg"
+},
+"square-75": {
+"type": "square-75",
+"width": 75,
+"height": 75,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/47/0e/c0/470ec07692c3461499a0951e2fd25f359150af85-square-75.jpg"
+},
+"square-150": {
+"type": "square-150",
+"width": 150,
+"height": 150,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/47/0e/c0/470ec07692c3461499a0951e2fd25f359150af85-square-150.jpg"
+},
+"thumb-100": {
+"type": "thumb-100",
+"width": 100,
+"height": 100,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/47/0e/c0/470ec07692c3461499a0951e2fd25f359150af85-thumb-100.jpg"
+},
+"small-320": {
+"type": "small-320",
+"width": 320,
+"height": 320,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/47/0e/c0/470ec07692c3461499a0951e2fd25f359150af85-small-320.jpg"
+},
+"medium-640": {
+"type": "medium-640",
+"width": 640,
+"height": 640,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/47/0e/c0/470ec07692c3461499a0951e2fd25f359150af85-medium-640.jpg"
+}
+}
+}
+},
+"twitter": null,
+"country": null,
+"performers_number": null,
+"non_english": null,
+"festival": "Edinburgh Science Festival",
+"url": "https://api.edinburghfestivalcity.com/events/b7ef2de4aac8ba75ad09ce6122711f3618217df1",
+"updated": "2019-02-13 21:45:57",
+"update_times": {
+"identity": 1550094357,
+"title": 1550081996,
+"description": 1550081996,
+"venue": 1550081996,
+"performances": 1550081996,
+"artist": 1550081996,
+"genre": 1550081996,
+"discounts": 1550081996,
+"age_category": 1550081996,
+"fringe_first": 1550081996,
+"other": 1550081996,
+"disabled": 1550081996,
+"web_links": 1550081996,
+"images": 1550081996,
+"status": 1550081996
+},
+"latitude": 55.9515,
+"longitude": -3.18448
+},
+{
+"festival_id": "science",
+"title": "Heriot-Watt Family Day",
+"sub_title": null,
+"status": "active",
+"code": "1615",
+"year": 2019,
+"venue": {
+"name": "Oriam",
+"map_ref": null,
+"code": "Oriam",
+"description": null,
+"address": "Heriot Watt University\nThird Gait\nCurrie",
+"post_code": "EH14 4AS",
+"phone": null,
+"fax": null,
+"email": null,
+"disabled_description": null,
+"has_booking_over_phone": true,
+"has_booking_over_card": true,
+"has_booking_over_web": true,
+"box_office_opening": null,
+"box_office_fringe": false,
+"has_bar": null,
+"has_cafe": null,
+"cafe_description": null,
+"web_address": null,
+"position": {
+"lat": 55.910618,
+"lon": -3.315224
+}
+},
+"performances": [
+{
+"start": "2019-04-13 10:00:00",
+"end": "2019-04-13 16:00:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+}
+],
+"performance_space": {
+"name": null,
+"capacity": null,
+"wheelchair_access": null,
+"age_limited": null,
+"age_limit": null
+},
+"sub_venue": null,
+"warnings": null,
+"fringe_first": null,
+"description": "<p>Discover the wonders of science and sport, and get hands-on with cutting edge research, spanning robots and virtual reality to bacteria and body parts. As part of Heriot-Watt's Year of Health, Oriam, Scotland's National Performance Centre for Sport, transforms into a marathon of discovery. The day will be packed with workshops and interactive activities, exploring healthy homes, bodies and minds.</p>",
+"description_teaser": "Get hands-on with cutting edge research, spanning robots and virtual reality to bacteria and body parts.",
+"artist": null,
+"artist_type": null,
+"genre": "Special Event",
+"genre_tags": "",
+"categories": {
+"strand_titles": [],
+"subjects": [],
+"keywords": []
+},
+"discounts": {
+"two_for_one": null,
+"group": null,
+"friends": null,
+"passport": null,
+"schools": null
+},
+"disabled": {
+"audio": null,
+"audio_dates": null,
+"signed": null,
+"signed_dates": null,
+"captioning": null,
+"captioning_dates": null,
+"other_services": null,
+"other_services_dates": null,
+"other_services_information": null
+},
+"age_category": "All Ages",
+"website": "http://www.sciencefestival.co.uk/event-details/heriot-watt-family-day",
+"images": {
+"cf8e9b7186c33ce3618b8a977e27c5390247ac82": {
+"hash": "cf8e9b7186c33ce3618b8a977e27c5390247ac82",
+"type": "hero",
+"orientation": "landscape",
+"versions": {
+"original": {
+"type": "original",
+"width": 1920,
+"height": 400,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/cf/8e/9b/cf8e9b7186c33ce3618b8a977e27c5390247ac82-original.jpg"
+},
+"square-75": {
+"type": "square-75",
+"width": 75,
+"height": 75,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/cf/8e/9b/cf8e9b7186c33ce3618b8a977e27c5390247ac82-square-75.jpg"
+},
+"square-150": {
+"type": "square-150",
+"width": 150,
+"height": 150,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/cf/8e/9b/cf8e9b7186c33ce3618b8a977e27c5390247ac82-square-150.jpg"
+},
+"thumb-100": {
+"type": "thumb-100",
+"width": 100,
+"height": 21,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/cf/8e/9b/cf8e9b7186c33ce3618b8a977e27c5390247ac82-thumb-100.jpg"
+},
+"small-320": {
+"type": "small-320",
+"width": 320,
+"height": 67,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/cf/8e/9b/cf8e9b7186c33ce3618b8a977e27c5390247ac82-small-320.jpg"
+},
+"medium-640": {
+"type": "medium-640",
+"width": 640,
+"height": 133,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/cf/8e/9b/cf8e9b7186c33ce3618b8a977e27c5390247ac82-medium-640.jpg"
+},
+"large-1024": {
+"type": "large-1024",
+"width": 1024,
+"height": 213,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/cf/8e/9b/cf8e9b7186c33ce3618b8a977e27c5390247ac82-large-1024.jpg"
+}
+}
+},
+"92c62d3c3e51869a0187abd31a610dba02fb268b": {
+"hash": "92c62d3c3e51869a0187abd31a610dba02fb268b",
+"type": "thumb",
+"orientation": "square",
+"versions": {
+"original": {
+"type": "original",
+"width": 800,
+"height": 800,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/92/c6/2d/92c62d3c3e51869a0187abd31a610dba02fb268b-original.jpg"
+},
+"square-75": {
+"type": "square-75",
+"width": 75,
+"height": 75,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/92/c6/2d/92c62d3c3e51869a0187abd31a610dba02fb268b-square-75.jpg"
+},
+"square-150": {
+"type": "square-150",
+"width": 150,
+"height": 150,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/92/c6/2d/92c62d3c3e51869a0187abd31a610dba02fb268b-square-150.jpg"
+},
+"thumb-100": {
+"type": "thumb-100",
+"width": 100,
+"height": 100,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/92/c6/2d/92c62d3c3e51869a0187abd31a610dba02fb268b-thumb-100.jpg"
+},
+"small-320": {
+"type": "small-320",
+"width": 320,
+"height": 320,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/92/c6/2d/92c62d3c3e51869a0187abd31a610dba02fb268b-small-320.jpg"
+},
+"medium-640": {
+"type": "medium-640",
+"width": 640,
+"height": 640,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/92/c6/2d/92c62d3c3e51869a0187abd31a610dba02fb268b-medium-640.jpg"
+}
+}
+}
+},
+"twitter": null,
+"country": null,
+"performers_number": null,
+"non_english": null,
+"festival": "Edinburgh Science Festival",
+"url": "https://api.edinburghfestivalcity.com/events/c6cfebbde7e16588b042404a02051bf84c441cf6",
+"updated": "2019-02-13 21:45:58",
+"update_times": {
+"identity": 1550094358,
+"title": 1550081997,
+"description": 1550081997,
+"venue": 1550081997,
+"performances": 1550081997,
+"artist": 1550081997,
+"genre": 1550081997,
+"discounts": 1550081997,
+"age_category": 1550081997,
+"fringe_first": 1550081997,
+"other": 1550081997,
+"disabled": 1550081997,
+"web_links": 1550081997,
+"images": 1550081997,
+"status": 1550081997
+},
+"latitude": 55.910618,
+"longitude": -3.315224
+},
+{
+"festival_id": "science",
+"title": "Shore: How We See the Sea Discussion",
+"sub_title": null,
+"status": "active",
+"code": "1592",
+"year": 2019,
+"venue": {
+"name": "Dynamic Earth",
+"map_ref": null,
+"code": "Dynamic Earth",
+"description": null,
+"address": "112-116 Holyrood Rd\nEdinburgh",
+"post_code": "EH8 8AS",
+"phone": null,
+"fax": null,
+"email": null,
+"disabled_description": null,
+"has_booking_over_phone": true,
+"has_booking_over_card": true,
+"has_booking_over_web": true,
+"box_office_opening": null,
+"box_office_fringe": false,
+"has_bar": null,
+"has_cafe": null,
+"cafe_description": null,
+"web_address": null,
+"position": {
+"lat": 55.9401,
+"lon": -3.17314
+}
+},
+"performances": [
+{
+"start": "2019-04-12 18:00:00",
+"end": "2019-04-12 20:00:00",
+"title": null,
+"price": 5,
+"concession": 3,
+"concession_family": false,
+"concession_additional": false
+}
+],
+"performance_space": {
+"name": null,
+"capacity": null,
+"wheelchair_access": null,
+"age_limited": null,
+"age_limit": null
+},
+"sub_venue": null,
+"warnings": null,
+"fringe_first": null,
+"description": "<p>Join us to watch two films by Scotland-based filmmakers <strong>Margaret Salmon</strong> and <strong>Ed Webb-Ingall</strong> that inspire, explore and share coastal communities' responses to Marine Protected Areas, as part of the <em>Shore: How We See the Sea</em> tour. There will be an audience discussion after the films with the filmmakers and scientists from project partner SAMS, the Scottish Association for Marine Science, followed by a celebratory reception. <em>Shore: How We See the Sea</em> is curated by Invisible Dust and supported by Creative Scotland and the Wellcome Trust.</p>",
+"description_teaser": "Join us to watch two films by Scotland-based filmmakers Margaret Salmon and Ed Webb-Ingall.",
+"artist": null,
+"artist_type": null,
+"genre": "Film",
+"genre_tags": "Frontiers on Film,Our Blue Dot,Oceans",
+"categories": {
+"strand_titles": [
+"Frontiers on Film",
+"Our Blue Dot"
+],
+"subjects": [
+"Oceans"
+],
+"keywords": [
+{
+"category": "Headings",
+"keywords": [
+"Our planet"
+]
+}
+]
+},
+"discounts": {
+"two_for_one": null,
+"group": null,
+"friends": null,
+"passport": null,
+"schools": null
+},
+"disabled": {
+"audio": null,
+"audio_dates": null,
+"signed": null,
+"signed_dates": null,
+"captioning": null,
+"captioning_dates": null,
+"other_services": null,
+"other_services_dates": null,
+"other_services_information": null
+},
+"age_category": "Ages 14+",
+"website": "http://www.sciencefestival.co.uk/event-details/shore-how-we-see-the-sea-discussion",
+"images": {
+"9a0868809e60216e7d91fb1e051baab1d7b71043": {
+"hash": "9a0868809e60216e7d91fb1e051baab1d7b71043",
+"type": "hero",
+"orientation": "landscape",
+"versions": {
+"original": {
+"type": "original",
+"width": 1920,
+"height": 400,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/9a/08/68/9a0868809e60216e7d91fb1e051baab1d7b71043-original.jpg"
+},
+"square-75": {
+"type": "square-75",
+"width": 75,
+"height": 75,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/9a/08/68/9a0868809e60216e7d91fb1e051baab1d7b71043-square-75.jpg"
+},
+"square-150": {
+"type": "square-150",
+"width": 150,
+"height": 150,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/9a/08/68/9a0868809e60216e7d91fb1e051baab1d7b71043-square-150.jpg"
+},
+"thumb-100": {
+"type": "thumb-100",
+"width": 100,
+"height": 21,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/9a/08/68/9a0868809e60216e7d91fb1e051baab1d7b71043-thumb-100.jpg"
+},
+"small-320": {
+"type": "small-320",
+"width": 320,
+"height": 67,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/9a/08/68/9a0868809e60216e7d91fb1e051baab1d7b71043-small-320.jpg"
+},
+"medium-640": {
+"type": "medium-640",
+"width": 640,
+"height": 133,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/9a/08/68/9a0868809e60216e7d91fb1e051baab1d7b71043-medium-640.jpg"
+},
+"large-1024": {
+"type": "large-1024",
+"width": 1024,
+"height": 213,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/9a/08/68/9a0868809e60216e7d91fb1e051baab1d7b71043-large-1024.jpg"
+}
+}
+},
+"27e7b5f76c26be3f0bb9357e7b75602a73dd6c75": {
+"hash": "27e7b5f76c26be3f0bb9357e7b75602a73dd6c75",
+"type": "thumb",
+"orientation": "square",
+"versions": {
+"original": {
+"type": "original",
+"width": 800,
+"height": 800,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/27/e7/b5/27e7b5f76c26be3f0bb9357e7b75602a73dd6c75-original.jpg"
+},
+"square-75": {
+"type": "square-75",
+"width": 75,
+"height": 75,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/27/e7/b5/27e7b5f76c26be3f0bb9357e7b75602a73dd6c75-square-75.jpg"
+},
+"square-150": {
+"type": "square-150",
+"width": 150,
+"height": 150,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/27/e7/b5/27e7b5f76c26be3f0bb9357e7b75602a73dd6c75-square-150.jpg"
+},
+"thumb-100": {
+"type": "thumb-100",
+"width": 100,
+"height": 100,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/27/e7/b5/27e7b5f76c26be3f0bb9357e7b75602a73dd6c75-thumb-100.jpg"
+},
+"small-320": {
+"type": "small-320",
+"width": 320,
+"height": 320,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/27/e7/b5/27e7b5f76c26be3f0bb9357e7b75602a73dd6c75-small-320.jpg"
+},
+"medium-640": {
+"type": "medium-640",
+"width": 640,
+"height": 640,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/27/e7/b5/27e7b5f76c26be3f0bb9357e7b75602a73dd6c75-medium-640.jpg"
+}
+}
+}
+},
+"twitter": null,
+"country": null,
+"performers_number": null,
+"non_english": null,
+"festival": "Edinburgh Science Festival",
+"url": "https://api.edinburghfestivalcity.com/events/cb3469b745a764deefd29e1c08df0bc3976e20e1",
+"updated": "2019-02-13 21:45:58",
+"update_times": {
+"identity": 1550094358,
+"title": 1550081997,
+"description": 1550081997,
+"venue": 1550081997,
+"performances": 1550081997,
+"artist": 1550081997,
+"genre": 1550081997,
+"discounts": 1550081997,
+"age_category": 1550081997,
+"fringe_first": 1550081997,
+"other": 1550081997,
+"disabled": 1550081997,
+"web_links": 1550081997,
+"images": 1550081997,
+"status": 1550081997
+},
+"latitude": 55.9401,
+"longitude": -3.17314
+},
+{
+"festival_id": "science",
+"title": "The Mirror Trap",
+"sub_title": null,
+"status": "active",
+"code": "1473",
+"year": 2019,
+"venue": {
+"name": "Pleasance",
+"map_ref": null,
+"code": "Pleasance",
+"description": null,
+"address": "60 Pleasance\nEdinburgh",
+"post_code": "EH8 9TJ",
+"phone": null,
+"fax": null,
+"email": null,
+"disabled_description": null,
+"has_booking_over_phone": true,
+"has_booking_over_card": true,
+"has_booking_over_web": true,
+"box_office_opening": null,
+"box_office_fringe": false,
+"has_bar": null,
+"has_cafe": null,
+"cafe_description": null,
+"web_address": null,
+"position": {
+"lat": 55.947394,
+"lon": -3.181877
+}
+},
+"performances": [
+{
+"start": "2019-04-06 11:00:00",
+"end": "2019-04-06 18:00:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-07 11:00:00",
+"end": "2019-04-07 18:00:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-08 11:00:00",
+"end": "2019-04-08 18:00:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-09 11:00:00",
+"end": "2019-04-09 18:00:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-10 11:00:00",
+"end": "2019-04-10 18:00:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-11 11:00:00",
+"end": "2019-04-11 18:00:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-12 11:00:00",
+"end": "2019-04-12 18:00:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-13 11:00:00",
+"end": "2019-04-13 18:00:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-14 11:00:00",
+"end": "2019-04-14 18:00:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+}
+],
+"performance_space": {
+"name": null,
+"capacity": null,
+"wheelchair_access": null,
+"age_limited": null,
+"age_limit": null
+},
+"sub_venue": null,
+"warnings": null,
+"fringe_first": null,
+"description": "<p>A short headphone horror story about psychology and quantum physics. Paul Gato locked himself in his room. When police finally battered down the door, they found a gun, two mirrors, a vial of LSD and a diary full of ramblings and Feynman diagrams, but Gato had disappeared. His diary proves that he had lost his mind but perhaps he found something else. Dare you re-enact his final experiment?</p>",
+"description_teaser": "A short headphone horror story about psychology and quantum physics.",
+"artist": null,
+"artist_type": null,
+"genre": "Activity",
+"genre_tags": "",
+"categories": {
+"strand_titles": [],
+"subjects": [],
+"keywords": []
+},
+"discounts": {
+"two_for_one": null,
+"group": null,
+"friends": null,
+"passport": null,
+"schools": null
+},
+"disabled": {
+"audio": null,
+"audio_dates": null,
+"signed": null,
+"signed_dates": null,
+"captioning": null,
+"captioning_dates": null,
+"other_services": null,
+"other_services_dates": null,
+"other_services_information": null
+},
+"age_category": "Ages 14+",
+"website": "http://www.sciencefestival.co.uk/event-details/the-mirror-trap",
+"images": {
+"787e4860913e0ee6cdc6e7ebcbb898783c5f1869": {
+"hash": "787e4860913e0ee6cdc6e7ebcbb898783c5f1869",
+"type": "hero",
+"orientation": "landscape",
+"versions": {
+"original": {
+"type": "original",
+"width": 1920,
+"height": 400,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/78/7e/48/787e4860913e0ee6cdc6e7ebcbb898783c5f1869-original.jpg"
+},
+"square-75": {
+"type": "square-75",
+"width": 75,
+"height": 75,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/78/7e/48/787e4860913e0ee6cdc6e7ebcbb898783c5f1869-square-75.jpg"
+},
+"square-150": {
+"type": "square-150",
+"width": 150,
+"height": 150,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/78/7e/48/787e4860913e0ee6cdc6e7ebcbb898783c5f1869-square-150.jpg"
+},
+"thumb-100": {
+"type": "thumb-100",
+"width": 100,
+"height": 21,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/78/7e/48/787e4860913e0ee6cdc6e7ebcbb898783c5f1869-thumb-100.jpg"
+},
+"small-320": {
+"type": "small-320",
+"width": 320,
+"height": 67,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/78/7e/48/787e4860913e0ee6cdc6e7ebcbb898783c5f1869-small-320.jpg"
+},
+"medium-640": {
+"type": "medium-640",
+"width": 640,
+"height": 133,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/78/7e/48/787e4860913e0ee6cdc6e7ebcbb898783c5f1869-medium-640.jpg"
+},
+"large-1024": {
+"type": "large-1024",
+"width": 1024,
+"height": 213,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/78/7e/48/787e4860913e0ee6cdc6e7ebcbb898783c5f1869-large-1024.jpg"
+}
+}
+},
+"c7cbdc3d0813268c0cdf447bd2c6da83e573cd25": {
+"hash": "c7cbdc3d0813268c0cdf447bd2c6da83e573cd25",
+"type": "thumb",
+"orientation": "square",
+"versions": {
+"original": {
+"type": "original",
+"width": 800,
+"height": 800,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/c7/cb/dc/c7cbdc3d0813268c0cdf447bd2c6da83e573cd25-original.jpg"
+},
+"square-75": {
+"type": "square-75",
+"width": 75,
+"height": 75,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/c7/cb/dc/c7cbdc3d0813268c0cdf447bd2c6da83e573cd25-square-75.jpg"
+},
+"square-150": {
+"type": "square-150",
+"width": 150,
+"height": 150,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/c7/cb/dc/c7cbdc3d0813268c0cdf447bd2c6da83e573cd25-square-150.jpg"
+},
+"thumb-100": {
+"type": "thumb-100",
+"width": 100,
+"height": 100,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/c7/cb/dc/c7cbdc3d0813268c0cdf447bd2c6da83e573cd25-thumb-100.jpg"
+},
+"small-320": {
+"type": "small-320",
+"width": 320,
+"height": 320,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/c7/cb/dc/c7cbdc3d0813268c0cdf447bd2c6da83e573cd25-small-320.jpg"
+},
+"medium-640": {
+"type": "medium-640",
+"width": 640,
+"height": 640,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/c7/cb/dc/c7cbdc3d0813268c0cdf447bd2c6da83e573cd25-medium-640.jpg"
+}
+}
+}
+},
+"twitter": null,
+"country": null,
+"performers_number": null,
+"non_english": null,
+"festival": "Edinburgh Science Festival",
+"url": "https://api.edinburghfestivalcity.com/events/cddc7e223a61914b81fb502ca71ec09d617aff13",
+"updated": "2019-02-13 21:45:57",
+"update_times": {
+"identity": 1550094357,
+"title": 1550081996,
+"description": 1550081996,
+"venue": 1550081996,
+"performances": 1550081996,
+"artist": 1550081996,
+"genre": 1550081996,
+"discounts": 1550081996,
+"age_category": 1550081996,
+"fringe_first": 1550081996,
+"other": 1550081996,
+"disabled": 1550081996,
+"web_links": 1550081996,
+"images": 1550081996,
+"status": 1550081996
+},
+"latitude": 55.947394,
+"longitude": -3.181877
+},
+{
+"festival_id": "science",
+"title": "Science Mini Cinema",
+"sub_title": null,
+"status": "active",
+"code": "1459",
+"year": 2019,
+"venue": {
+"name": "City Art Centre",
+"map_ref": null,
+"code": "City Art Centre",
+"description": null,
+"address": "2 Market Street\nEdinburgh",
+"post_code": "EH1 1DE",
+"phone": null,
+"fax": null,
+"email": null,
+"disabled_description": null,
+"has_booking_over_phone": true,
+"has_booking_over_card": true,
+"has_booking_over_web": true,
+"box_office_opening": null,
+"box_office_fringe": false,
+"has_bar": null,
+"has_cafe": null,
+"cafe_description": null,
+"web_address": null,
+"position": {
+"lat": 55.9515,
+"lon": -3.18448
+}
+},
+"performances": [
+{
+"start": "2019-04-06 09:30:00",
+"end": "2019-04-06 16:30:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-07 09:30:00",
+"end": "2019-04-07 16:30:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-08 09:30:00",
+"end": "2019-04-08 16:30:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-09 09:30:00",
+"end": "2019-04-09 16:30:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-10 09:30:00",
+"end": "2019-04-10 16:30:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-11 09:30:00",
+"end": "2019-04-11 16:30:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-12 09:30:00",
+"end": "2019-04-12 16:30:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-13 09:30:00",
+"end": "2019-04-13 16:30:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-15 09:30:00",
+"end": "2019-04-15 16:30:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-16 09:30:00",
+"end": "2019-04-16 16:30:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-17 09:30:00",
+"end": "2019-04-17 16:30:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-18 09:30:00",
+"end": "2019-04-18 16:30:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-19 09:30:00",
+"end": "2019-04-19 16:30:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-20 09:30:00",
+"end": "2019-04-20 16:30:00",
+"title": null,
+"price": 0,
+"concession": 0,
+"concession_family": false,
+"concession_additional": false
+}
+],
+"performance_space": {
+"name": null,
+"capacity": null,
+"wheelchair_access": null,
+"age_limited": null,
+"age_limit": null
+},
+"sub_venue": null,
+"warnings": null,
+"fringe_first": null,
+"description": "<p>Sit down, relax and enjoy our <em>Science Mini Cinema</em> where you can observe our world in a bit more detail. From slow motion to timelapse, explore the frontiers of science through a series of short films.</p>",
+"description_teaser": "",
+"artist": null,
+"artist_type": null,
+"genre": "Activity",
+"genre_tags": "",
+"categories": {
+"strand_titles": [],
+"subjects": [],
+"keywords": []
+},
+"discounts": {
+"two_for_one": null,
+"group": null,
+"friends": null,
+"passport": null,
+"schools": null
+},
+"disabled": {
+"audio": null,
+"audio_dates": null,
+"signed": null,
+"signed_dates": null,
+"captioning": null,
+"captioning_dates": null,
+"other_services": null,
+"other_services_dates": null,
+"other_services_information": null
+},
+"age_category": "All Ages",
+"website": "http://www.sciencefestival.co.uk/event-details/science-mini-cinema",
+"images": {
+"0fd417aeb9a5a97bac4fc7a636efdf5b7af3b69a": {
+"hash": "0fd417aeb9a5a97bac4fc7a636efdf5b7af3b69a",
+"type": "hero",
+"orientation": "landscape",
+"versions": {
+"original": {
+"type": "original",
+"width": 1920,
+"height": 400,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/0f/d4/17/0fd417aeb9a5a97bac4fc7a636efdf5b7af3b69a-original.jpg"
+},
+"square-75": {
+"type": "square-75",
+"width": 75,
+"height": 75,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/0f/d4/17/0fd417aeb9a5a97bac4fc7a636efdf5b7af3b69a-square-75.jpg"
+},
+"square-150": {
+"type": "square-150",
+"width": 150,
+"height": 150,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/0f/d4/17/0fd417aeb9a5a97bac4fc7a636efdf5b7af3b69a-square-150.jpg"
+},
+"thumb-100": {
+"type": "thumb-100",
+"width": 100,
+"height": 21,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/0f/d4/17/0fd417aeb9a5a97bac4fc7a636efdf5b7af3b69a-thumb-100.jpg"
+},
+"small-320": {
+"type": "small-320",
+"width": 320,
+"height": 67,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/0f/d4/17/0fd417aeb9a5a97bac4fc7a636efdf5b7af3b69a-small-320.jpg"
+},
+"medium-640": {
+"type": "medium-640",
+"width": 640,
+"height": 133,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/0f/d4/17/0fd417aeb9a5a97bac4fc7a636efdf5b7af3b69a-medium-640.jpg"
+},
+"large-1024": {
+"type": "large-1024",
+"width": 1024,
+"height": 213,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/0f/d4/17/0fd417aeb9a5a97bac4fc7a636efdf5b7af3b69a-large-1024.jpg"
+}
+}
+},
+"0d7061afdf397c5458cbd8cd71767572f075fc11": {
+"hash": "0d7061afdf397c5458cbd8cd71767572f075fc11",
+"type": "thumb",
+"orientation": "square",
+"versions": {
+"original": {
+"type": "original",
+"width": 800,
+"height": 800,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/0d/70/61/0d7061afdf397c5458cbd8cd71767572f075fc11-original.jpg"
+},
+"square-75": {
+"type": "square-75",
+"width": 75,
+"height": 75,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/0d/70/61/0d7061afdf397c5458cbd8cd71767572f075fc11-square-75.jpg"
+},
+"square-150": {
+"type": "square-150",
+"width": 150,
+"height": 150,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/0d/70/61/0d7061afdf397c5458cbd8cd71767572f075fc11-square-150.jpg"
+},
+"thumb-100": {
+"type": "thumb-100",
+"width": 100,
+"height": 100,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/0d/70/61/0d7061afdf397c5458cbd8cd71767572f075fc11-thumb-100.jpg"
+},
+"small-320": {
+"type": "small-320",
+"width": 320,
+"height": 320,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/0d/70/61/0d7061afdf397c5458cbd8cd71767572f075fc11-small-320.jpg"
+},
+"medium-640": {
+"type": "medium-640",
+"width": 640,
+"height": 640,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/0d/70/61/0d7061afdf397c5458cbd8cd71767572f075fc11-medium-640.jpg"
+}
+}
+}
+},
+"twitter": null,
+"country": null,
+"performers_number": null,
+"non_english": null,
+"festival": "Edinburgh Science Festival",
+"url": "https://api.edinburghfestivalcity.com/events/d20e2446fdf6923895477da933f5add6b744fc54",
+"updated": "2019-02-13 21:45:57",
+"update_times": {
+"identity": 1550094357,
+"title": 1550081996,
+"description": 1550081996,
+"venue": 1550081996,
+"performances": 1550081996,
+"artist": 1550081996,
+"genre": 1550081996,
+"discounts": 1550081996,
+"age_category": 1550081996,
+"fringe_first": 1550081996,
+"other": 1550081996,
+"disabled": 1550081996,
+"web_links": 1550081996,
+"images": 1550081996,
+"status": 1550081996
+},
+"latitude": 55.9515,
+"longitude": -3.18448
+},
+{
+"festival_id": "science",
+"title": "Frag'ment (Terra Non-Firma)",
+"sub_title": null,
+"status": "active",
+"code": "1624",
+"year": 2019,
+"venue": {
+"name": "Summerhall",
+"map_ref": null,
+"code": "Summerhall",
+"description": null,
+"address": "Summerhall Place\nEdinburgh",
+"post_code": "EH9 1PL",
+"phone": null,
+"fax": null,
+"email": null,
+"disabled_description": null,
+"has_booking_over_phone": true,
+"has_booking_over_card": true,
+"has_booking_over_web": true,
+"box_office_opening": null,
+"box_office_fringe": false,
+"has_bar": null,
+"has_cafe": null,
+"cafe_description": null,
+"web_address": null,
+"position": {
+"lat": 55.94,
+"lon": -3.18228
+}
+},
+"performances": [
+{
+"start": "2019-04-06 11:00:00",
+"end": "2019-04-06 18:00:00",
+"title": null,
+"price": 6,
+"concession": null,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-07 11:00:00",
+"end": "2019-04-07 18:00:00",
+"title": null,
+"price": 6,
+"concession": null,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-08 11:00:00",
+"end": "2019-04-08 18:00:00",
+"title": null,
+"price": 6,
+"concession": null,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-09 11:00:00",
+"end": "2019-04-09 18:00:00",
+"title": null,
+"price": 6,
+"concession": null,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-10 11:00:00",
+"end": "2019-04-10 18:00:00",
+"title": null,
+"price": 6,
+"concession": null,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-11 11:00:00",
+"end": "2019-04-11 18:00:00",
+"title": null,
+"price": 6,
+"concession": null,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-12 11:00:00",
+"end": "2019-04-12 18:00:00",
+"title": null,
+"price": 6,
+"concession": null,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-13 11:00:00",
+"end": "2019-04-13 18:00:00",
+"title": null,
+"price": 6,
+"concession": null,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-14 11:00:00",
+"end": "2019-04-14 18:00:00",
+"title": null,
+"price": 6,
+"concession": null,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-15 11:00:00",
+"end": "2019-04-15 18:00:00",
+"title": null,
+"price": 6,
+"concession": null,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-16 11:00:00",
+"end": "2019-04-16 18:00:00",
+"title": null,
+"price": 6,
+"concession": null,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-17 11:00:00",
+"end": "2019-04-17 18:00:00",
+"title": null,
+"price": 6,
+"concession": null,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-18 11:00:00",
+"end": "2019-04-18 18:00:00",
+"title": null,
+"price": 6,
+"concession": null,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-19 11:00:00",
+"end": "2019-04-19 18:00:00",
+"title": null,
+"price": 6,
+"concession": null,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-20 11:00:00",
+"end": "2019-04-20 18:00:00",
+"title": null,
+"price": 6,
+"concession": null,
+"concession_family": false,
+"concession_additional": false
+},
+{
+"start": "2019-04-21 11:00:00",
+"end": "2019-04-21 18:00:00",
+"title": null,
+"price": 6,
+"concession": null,
+"concession_family": false,
+"concession_additional": false
+}
+],
+"performance_space": {
+"name": null,
+"capacity": null,
+"wheelchair_access": null,
+"age_limited": null,
+"age_limit": null
+},
+"sub_venue": null,
+"warnings": null,
+"fringe_first": null,
+"description": "<p>Emerging from the social, geopolitical and environmental uncertainty of the 'Anthropocene' time period – <em>Frag'mɛnt (Terra Non-Firma)</em> brings together two recent recipients of Lateral Lab's Robert Callender International Residency for Young Artists, <strong>Russell Beard</strong> and <strong>Stephen Kavanagh</strong>. In this joint exhibition, they explore the space between order and chaos, growth and disintegration. The series of sculptural works charts the artists' ongoing experimentation with raw materiality. Image: Stephen Kavanagh</p>",
+"description_teaser": "Explore the space between order and chaos, growth and disintegration in this art exhibition",
+"artist": null,
+"artist_type": null,
+"genre": "Exhibition",
+"genre_tags": "Ideas on the Edge,Environment",
+"categories": {
+"strand_titles": [
+"Ideas on the Edge"
+],
+"subjects": [
+"Environment"
+],
+"keywords": [
+{
+"category": "Headings",
+"keywords": [
+"Our planet"
+]
+},
+{
+"category": "Topics",
+"keywords": [
+"Visual art"
+]
+}
+]
+},
+"discounts": {
+"two_for_one": null,
+"group": null,
+"friends": null,
+"passport": null,
+"schools": null
+},
+"disabled": {
+"audio": null,
+"audio_dates": null,
+"signed": null,
+"signed_dates": null,
+"captioning": null,
+"captioning_dates": null,
+"other_services": null,
+"other_services_dates": null,
+"other_services_information": null
+},
+"age_category": "All Ages",
+"website": "http://www.sciencefestival.co.uk/event-details/fragment-terra-non-firma",
+"images": {
+"6db14205a512b6159243479195cb9159b47d073a": {
+"hash": "6db14205a512b6159243479195cb9159b47d073a",
+"type": "hero",
+"orientation": "landscape",
+"versions": {
+"original": {
+"type": "original",
+"width": 1920,
+"height": 400,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/6d/b1/42/6db14205a512b6159243479195cb9159b47d073a-original.jpg"
+},
+"square-75": {
+"type": "square-75",
+"width": 75,
+"height": 75,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/6d/b1/42/6db14205a512b6159243479195cb9159b47d073a-square-75.jpg"
+},
+"square-150": {
+"type": "square-150",
+"width": 150,
+"height": 150,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/6d/b1/42/6db14205a512b6159243479195cb9159b47d073a-square-150.jpg"
+},
+"thumb-100": {
+"type": "thumb-100",
+"width": 100,
+"height": 21,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/6d/b1/42/6db14205a512b6159243479195cb9159b47d073a-thumb-100.jpg"
+},
+"small-320": {
+"type": "small-320",
+"width": 320,
+"height": 67,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/6d/b1/42/6db14205a512b6159243479195cb9159b47d073a-small-320.jpg"
+},
+"medium-640": {
+"type": "medium-640",
+"width": 640,
+"height": 133,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/6d/b1/42/6db14205a512b6159243479195cb9159b47d073a-medium-640.jpg"
+},
+"large-1024": {
+"type": "large-1024",
+"width": 1024,
+"height": 213,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/6d/b1/42/6db14205a512b6159243479195cb9159b47d073a-large-1024.jpg"
+}
+}
+},
+"092e0e21b9a48eb1e1319ffddff73e5c6038da2c": {
+"hash": "092e0e21b9a48eb1e1319ffddff73e5c6038da2c",
+"type": "thumb",
+"orientation": "square",
+"versions": {
+"original": {
+"type": "original",
+"width": 800,
+"height": 800,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/09/2e/0e/092e0e21b9a48eb1e1319ffddff73e5c6038da2c-original.jpg"
+},
+"square-75": {
+"type": "square-75",
+"width": 75,
+"height": 75,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/09/2e/0e/092e0e21b9a48eb1e1319ffddff73e5c6038da2c-square-75.jpg"
+},
+"square-150": {
+"type": "square-150",
+"width": 150,
+"height": 150,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/09/2e/0e/092e0e21b9a48eb1e1319ffddff73e5c6038da2c-square-150.jpg"
+},
+"thumb-100": {
+"type": "thumb-100",
+"width": 100,
+"height": 100,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/09/2e/0e/092e0e21b9a48eb1e1319ffddff73e5c6038da2c-thumb-100.jpg"
+},
+"small-320": {
+"type": "small-320",
+"width": 320,
+"height": 320,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/09/2e/0e/092e0e21b9a48eb1e1319ffddff73e5c6038da2c-small-320.jpg"
+},
+"medium-640": {
+"type": "medium-640",
+"width": 640,
+"height": 640,
+"mime": "image/jpeg",
+"url": "//images.api.edinburghfestivalcity.com/09/2e/0e/092e0e21b9a48eb1e1319ffddff73e5c6038da2c-medium-640.jpg"
+}
+}
+}
+},
+"twitter": null,
+"country": null,
+"performers_number": null,
+"non_english": null,
+"festival": "Edinburgh Science Festival",
+"url": "https://api.edinburghfestivalcity.com/events/d3136a7c13f963f0c72d18664ab0ad3359416ac5",
+"updated": "2019-02-13 21:45:58",
+"update_times": {
+"identity": 1550094358,
+"title": 1550081997,
+"description": 1550081997,
+"venue": 1550081997,
+"performances": 1550081997,
+"artist": 1550081997,
+"genre": 1550081997,
+"discounts": 1550081997,
+"age_category": 1550081997,
+"fringe_first": 1550081997,
+"other": 1550081997,
+"disabled": 1550081997,
+"web_links": 1550081997,
+"images": 1550081997,
+"status": 1550081997
+},
+"latitude": 55.94,
+"longitude": -3.18228
+}
+]

@@ -1,0 +1,7181 @@
+[
+{
+"genre": "Workshop",
+"fringe_first": null,
+"performers_number": null,
+"artist_type": null,
+"sub_title": null,
+"update_times": {
+"genre": 1489086016,
+"age_category": 1487417094,
+"other": 1489086016,
+"fringe_first": 1487417094,
+"status": 1487417094,
+"web_links": 1487417094,
+"venue": 1487417094,
+"identity": 1487417094,
+"title": 1487417094,
+"description": 1487669400,
+"discounts": 1487417094,
+"images": 1489583439,
+"performances": 1487417094,
+"artist": 1487417094,
+"disabled": 1487417094
+},
+"twitter": null,
+"title": "Branching Out: A Guided Botanical Drawing and Linocut Relief Printing Workshop",
+"updated": "2017-03-15 13:10:39",
+"description": "<p>A two-day masterclass with artist and educator Cecile Simonis, examining the themes and processes explored Sean Caulfield’s exhibition <em>Firedamp: Revisiting the Flood. </em>Take a guided drawing workshop at the Royal Botanic Garden Edinburgh, followed by a day of learning about and making linocut relief prints in Edinburgh Printmakers’ world-class print studio. Suitable for absolute beginners and advanced drawers alike.</p>\n\n<p>On day one, participants will be given a private tour of the exhibition to learn how this acclaimed artist references plants and biological matter in his images. They will then be transported by taxi to the Botanics, where they will learn how to use drawing as an investigative research tool whilst exploring and interpreting the striking plant life and glass houses.</p>\n\n<p>The following day, participants will make use of the world-class studio facilities at Edinburgh Printmakers as they learn a simple one-layer technique to make relief prints of their designs with beautiful results.</p>",
+"discounts": {
+"two_for_one": null,
+"friends": null,
+"schools": null,
+"passport": null,
+"group": null
+},
+"festival": "Edinburgh International Science Festival",
+"year": 2017,
+"artist": null,
+"warnings": null,
+"festival_id": "science",
+"age_category": "Ages 16+",
+"non_english": null,
+"website": "http://www.sciencefestival.co.uk/event-details/branching-out-a-guided-botanical-drawing-and-linocut-relief-printing-workshop",
+"status": "active",
+"performance_space": {
+"age_limit": null,
+"wheelchair_access": null,
+"name": null,
+"capacity": null,
+"age_limited": null
+},
+"code": "982",
+"venue": {
+"position": {
+"lon": -3.186536,
+"lat": 55.958356
+},
+"phone": null,
+"web_address": null,
+"fax": null,
+"post_code": "EH1 3LR",
+"has_cafe": null,
+"cafe_description": null,
+"map_ref": null,
+"code": "Edinburgh Printmakers",
+"disabled_description": null,
+"box_office_fringe": false,
+"has_booking_over_phone": true,
+"address": "23 Union Street\nEdinburgh",
+"email": null,
+"description": null,
+"has_booking_over_web": true,
+"name": "Edinburgh Printmakers",
+"box_office_opening": null,
+"has_booking_over_card": true,
+"has_bar": null
+},
+"sub_venue": null,
+"url": "https://api.edinburghfestivalcity.com/events/80ac851768d0bc83e83f60a6ac9286fcb429690c",
+"country": null,
+"genre_tags": "Technology and Me,Art,Entertainment & Leisure,Plants",
+"description_teaser": "A two-day masterclass in drawing and printmaking, for beginners and advanced drawers alike",
+"images": {
+"7172e8c8b30093fe2e7483d3e9c64bd0d07d9a9f": {
+"versions": {
+"large-1024": {
+"height": 214,
+"width": 1024,
+"mime": "image/png",
+"type": "large-1024",
+"url": "//edfestimages.s3.amazonaws.com/71/72/e8/7172e8c8b30093fe2e7483d3e9c64bd0d07d9a9f-large-1024.png"
+},
+"medium-640": {
+"height": 134,
+"width": 640,
+"mime": "image/png",
+"type": "medium-640",
+"url": "//edfestimages.s3.amazonaws.com/71/72/e8/7172e8c8b30093fe2e7483d3e9c64bd0d07d9a9f-medium-640.png"
+},
+"original": {
+"height": 401,
+"width": 1920,
+"mime": "image/jpeg",
+"type": "original",
+"url": "//edfestimages.s3.amazonaws.com/71/72/e8/7172e8c8b30093fe2e7483d3e9c64bd0d07d9a9f-original.jpg"
+},
+"small-320": {
+"height": 67,
+"width": 320,
+"mime": "image/png",
+"type": "small-320",
+"url": "//edfestimages.s3.amazonaws.com/71/72/e8/7172e8c8b30093fe2e7483d3e9c64bd0d07d9a9f-small-320.png"
+},
+"thumb-100": {
+"height": 21,
+"width": 100,
+"mime": "image/png",
+"type": "thumb-100",
+"url": "//edfestimages.s3.amazonaws.com/71/72/e8/7172e8c8b30093fe2e7483d3e9c64bd0d07d9a9f-thumb-100.png"
+},
+"square-75": {
+"height": 75,
+"width": 75,
+"mime": "image/png",
+"type": "square-75",
+"url": "//edfestimages.s3.amazonaws.com/71/72/e8/7172e8c8b30093fe2e7483d3e9c64bd0d07d9a9f-square-75.png"
+},
+"square-150": {
+"height": 150,
+"width": 150,
+"mime": "image/png",
+"type": "square-150",
+"url": "//edfestimages.s3.amazonaws.com/71/72/e8/7172e8c8b30093fe2e7483d3e9c64bd0d07d9a9f-square-150.png"
+}
+},
+"orientation": "landscape",
+"hash": "7172e8c8b30093fe2e7483d3e9c64bd0d07d9a9f",
+"type": "hero"
+},
+"504bd38443e6f2726f482156703191b93193505f": {
+"versions": {
+"medium-640": {
+"height": 640,
+"width": 640,
+"mime": "image/png",
+"type": "medium-640",
+"url": "//edfestimages.s3.amazonaws.com/50/4b/d3/504bd38443e6f2726f482156703191b93193505f-medium-640.png"
+},
+"original": {
+"height": 800,
+"width": 800,
+"mime": "image/jpeg",
+"type": "original",
+"url": "//edfestimages.s3.amazonaws.com/50/4b/d3/504bd38443e6f2726f482156703191b93193505f-original.jpg"
+},
+"small-320": {
+"height": 320,
+"width": 320,
+"mime": "image/png",
+"type": "small-320",
+"url": "//edfestimages.s3.amazonaws.com/50/4b/d3/504bd38443e6f2726f482156703191b93193505f-small-320.png"
+},
+"thumb-100": {
+"height": 100,
+"width": 100,
+"mime": "image/png",
+"type": "thumb-100",
+"url": "//edfestimages.s3.amazonaws.com/50/4b/d3/504bd38443e6f2726f482156703191b93193505f-thumb-100.png"
+},
+"square-75": {
+"height": 75,
+"width": 75,
+"mime": "image/png",
+"type": "square-75",
+"url": "//edfestimages.s3.amazonaws.com/50/4b/d3/504bd38443e6f2726f482156703191b93193505f-square-75.png"
+},
+"square-150": {
+"height": 150,
+"width": 150,
+"mime": "image/png",
+"type": "square-150",
+"url": "//edfestimages.s3.amazonaws.com/50/4b/d3/504bd38443e6f2726f482156703191b93193505f-square-150.png"
+}
+},
+"orientation": "square",
+"hash": "504bd38443e6f2726f482156703191b93193505f",
+"type": "thumb"
+}
+},
+"performances": [
+{
+"concession_family": false,
+"title": null,
+"concession": null,
+"price": 165,
+"concession_additional": false,
+"start": "2017-04-15 10:30:00",
+"end": "2017-04-15 18:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": null,
+"price": 165,
+"concession_additional": false,
+"start": "2017-04-16 10:30:00",
+"end": "2017-04-16 18:00:00"
+}
+],
+"categories": {
+"keywords": [
+{
+"category": "Headings",
+"keywords": [
+"Life on Earth",
+"Society & Culture"
+]
+},
+{
+"category": "Specialisations",
+"keywords": [
+"Biology",
+"Botany"
+]
+},
+{
+"category": "Topics",
+"keywords": [
+"Visual art"
+]
+},
+{
+"category": "Vibe / Atmosphere",
+"keywords": [
+"Exhibition",
+"Hands-on"
+]
+}
+],
+"subjects": [
+"Art",
+"Entertainment & Leisure",
+"Plants"
+],
+"strand_titles": [
+"Technology and Me"
+]
+},
+"disabled": {
+"signed_dates": null,
+"other_services_information": null,
+"captioning": null,
+"audio": null,
+"signed": null,
+"audio_dates": null,
+"other_services_dates": null,
+"captioning_dates": null,
+"other_services": null
+},
+"latitude": 55.958356,
+"longitude": -3.186536
+},
+{
+"genre": "Events",
+"fringe_first": false,
+"performers_number": 12,
+"artist_type": "Professional company",
+"sub_title": null,
+"update_times": {
+"genre": 1486051892,
+"age_category": 1486051892,
+"other": 1486051892,
+"fringe_first": 1486051892,
+"status": 1486051892,
+"web_links": 1486051892,
+"venue": 1486051892,
+"identity": 1486051892,
+"title": 1486051892,
+"description": 1486051892,
+"discounts": 1486051892,
+"images": 1486051892,
+"performances": 1486051892,
+"artist": 1486051892,
+"disabled": 1486051892
+},
+"twitter": "@auldreekietours",
+"title": "Haunted Underground Tour",
+"updated": "2017-02-02 16:11:32",
+"description": "Dark as the devil's heart, our haunted underground network of vaults from the 1700s will stimulate and excite your senses as the sinister history of these former slum dwellings, once inhabited by the poor and unfortunate, along with criminals and prostitutes, begins to come to life in your imagination! Your pulse starts to speed up as your mouth gets drier due to your heightened awareness of what surrounds you! Once experienced, never forgotten.",
+"discounts": {
+"two_for_one": true,
+"friends": true,
+"schools": false,
+"passport": false,
+"group": true
+},
+"festival": "Edinburgh Festival Fringe",
+"year": 2017,
+"artist": "Auld Reekie Tours",
+"warnings": "A moderate amount of walking involved",
+"festival_id": "fringe",
+"age_category": "16+",
+"non_english": false,
+"website": "https://www.edfringe.com/event/2017HAUNTEE_V8",
+"status": "active",
+"performance_space": {
+"age_limit": null,
+"wheelchair_access": false,
+"name": "Auld Reekie's Haunted Underground",
+"capacity": 50,
+"age_limited": null
+},
+"code": "2017HAUNTEE_V8",
+"venue": {
+"position": {
+"lon": -3.187806,
+"lat": 55.949831
+},
+"phone": "",
+"web_address": "http://www.auldreekietours.com",
+"fax": null,
+"post_code": "EH1 1QW",
+"has_cafe": false,
+"cafe_description": null,
+"map_ref": null,
+"code": "129",
+"disabled_description": "Limited access to some parts of venue site, Some areas not reachable by lift or level access, No wheelchair accessible toilet, No reserved accessible parking, No on street blue badge parking, Assistance dogs welcome in all areas",
+"box_office_fringe": false,
+"has_booking_over_phone": false,
+"address": "179 High Street",
+"email": null,
+"description": "Half way between Edinburgh Castle and Holyrood Palace on the Royal Mile is the Tron Kirk, the departure point for Auld Reekie's Tours in Edinburgh. Meet at the sign boards by the Tron Kirk and learn about the dark side of Edinburgh.",
+"has_booking_over_web": true,
+"name": "Meet outside Tron Kirk at Auld Reekie Tours Boards",
+"box_office_opening": null,
+"has_booking_over_card": false,
+"has_bar": false
+},
+"sub_venue": null,
+"url": "https://api.edinburghfestivalcity.com/events/359d6f49e4fc8f2e36c7108fba918f76149f2ed0",
+"country": "UNITED KINGDOM - SCOTLAND",
+"genre_tags": "Site-specific,Storytelling",
+"description_teaser": null,
+"images": {
+"1b932d71f8947df95ad95e8795dd018914f4dd71": {
+"versions": {
+"original": {
+"height": 250,
+"width": 250,
+"mime": "image/jpeg",
+"type": "original",
+"url": "//edfestimages.s3.amazonaws.com/1b/93/2d/1b932d71f8947df95ad95e8795dd018914f4dd71-original."
+},
+"thumb-100": {
+"height": 100,
+"width": 100,
+"mime": "image/png",
+"type": "thumb-100",
+"url": "//edfestimages.s3.amazonaws.com/1b/93/2d/1b932d71f8947df95ad95e8795dd018914f4dd71-thumb-100.png"
+},
+"square-75": {
+"height": 75,
+"width": 75,
+"mime": "image/png",
+"type": "square-75",
+"url": "//edfestimages.s3.amazonaws.com/1b/93/2d/1b932d71f8947df95ad95e8795dd018914f4dd71-square-75.png"
+},
+"square-150": {
+"height": 150,
+"width": 150,
+"mime": "image/png",
+"type": "square-150",
+"url": "//edfestimages.s3.amazonaws.com/1b/93/2d/1b932d71f8947df95ad95e8795dd018914f4dd71-square-150.png"
+}
+},
+"orientation": "square",
+"hash": "1b932d71f8947df95ad95e8795dd018914f4dd71",
+"type": "thumb"
+}
+},
+"performances": [
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 12,
+"concession_additional": false,
+"start": "2017-08-04 19:00:00",
+"end": "2017-08-04 20:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 12,
+"concession_additional": false,
+"start": "2017-08-04 21:00:00",
+"end": "2017-08-04 22:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 12,
+"concession_additional": false,
+"start": "2017-08-04 23:00:00",
+"end": "2017-08-05 00:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 12,
+"concession_additional": false,
+"start": "2017-08-05 19:00:00",
+"end": "2017-08-05 20:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 12,
+"concession_additional": false,
+"start": "2017-08-05 21:00:00",
+"end": "2017-08-05 22:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 12,
+"concession_additional": false,
+"start": "2017-08-05 23:00:00",
+"end": "2017-08-06 00:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 12,
+"concession_additional": false,
+"start": "2017-08-06 19:00:00",
+"end": "2017-08-06 20:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 12,
+"concession_additional": false,
+"start": "2017-08-06 21:00:00",
+"end": "2017-08-06 22:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 12,
+"concession_additional": false,
+"start": "2017-08-06 23:00:00",
+"end": "2017-08-07 00:00:00"
+},
+{
+"concession_family": false,
+"title": "2 for 1",
+"concession": false,
+"price": 12,
+"concession_additional": false,
+"start": "2017-08-07 19:00:00",
+"end": "2017-08-07 20:00:00"
+},
+{
+"concession_family": false,
+"title": "2 for 1",
+"concession": false,
+"price": 12,
+"concession_additional": false,
+"start": "2017-08-07 21:00:00",
+"end": "2017-08-07 22:00:00"
+},
+{
+"concession_family": false,
+"title": "2 for 1",
+"concession": false,
+"price": 12,
+"concession_additional": false,
+"start": "2017-08-07 23:00:00",
+"end": "2017-08-08 00:00:00"
+},
+{
+"concession_family": false,
+"title": "2 for 1",
+"concession": false,
+"price": 12,
+"concession_additional": false,
+"start": "2017-08-08 19:00:00",
+"end": "2017-08-08 20:00:00"
+},
+{
+"concession_family": false,
+"title": "2 for 1",
+"concession": false,
+"price": 12,
+"concession_additional": false,
+"start": "2017-08-08 21:00:00",
+"end": "2017-08-08 22:00:00"
+},
+{
+"concession_family": false,
+"title": "2 for 1",
+"concession": false,
+"price": 12,
+"concession_additional": false,
+"start": "2017-08-08 23:00:00",
+"end": "2017-08-09 00:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 12,
+"concession_additional": false,
+"start": "2017-08-09 19:00:00",
+"end": "2017-08-09 20:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 12,
+"concession_additional": false,
+"start": "2017-08-09 21:00:00",
+"end": "2017-08-09 22:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 12,
+"concession_additional": false,
+"start": "2017-08-09 23:00:00",
+"end": "2017-08-10 00:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 12,
+"concession_additional": false,
+"start": "2017-08-10 19:00:00",
+"end": "2017-08-10 20:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 12,
+"concession_additional": false,
+"start": "2017-08-10 21:00:00",
+"end": "2017-08-10 22:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 12,
+"concession_additional": false,
+"start": "2017-08-10 23:00:00",
+"end": "2017-08-11 00:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 12,
+"concession_additional": false,
+"start": "2017-08-11 19:00:00",
+"end": "2017-08-11 20:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 12,
+"concession_additional": false,
+"start": "2017-08-11 21:00:00",
+"end": "2017-08-11 22:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 12,
+"concession_additional": false,
+"start": "2017-08-11 23:00:00",
+"end": "2017-08-12 00:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 12,
+"concession_additional": false,
+"start": "2017-08-12 19:00:00",
+"end": "2017-08-12 20:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 12,
+"concession_additional": false,
+"start": "2017-08-12 21:00:00",
+"end": "2017-08-12 22:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 12,
+"concession_additional": false,
+"start": "2017-08-12 23:00:00",
+"end": "2017-08-13 00:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 12,
+"concession_additional": false,
+"start": "2017-08-13 19:00:00",
+"end": "2017-08-13 20:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 12,
+"concession_additional": false,
+"start": "2017-08-13 21:00:00",
+"end": "2017-08-13 22:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 12,
+"concession_additional": false,
+"start": "2017-08-13 23:00:00",
+"end": "2017-08-14 00:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 12,
+"concession_additional": false,
+"start": "2017-08-14 19:00:00",
+"end": "2017-08-14 20:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 12,
+"concession_additional": false,
+"start": "2017-08-14 21:00:00",
+"end": "2017-08-14 22:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 12,
+"concession_additional": false,
+"start": "2017-08-14 23:00:00",
+"end": "2017-08-15 00:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 12,
+"concession_additional": false,
+"start": "2017-08-15 19:00:00",
+"end": "2017-08-15 20:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 12,
+"concession_additional": false,
+"start": "2017-08-15 21:00:00",
+"end": "2017-08-15 22:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 12,
+"concession_additional": false,
+"start": "2017-08-15 23:00:00",
+"end": "2017-08-16 00:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 12,
+"concession_additional": false,
+"start": "2017-08-16 19:00:00",
+"end": "2017-08-16 20:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 12,
+"concession_additional": false,
+"start": "2017-08-16 21:00:00",
+"end": "2017-08-16 22:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 12,
+"concession_additional": false,
+"start": "2017-08-16 23:00:00",
+"end": "2017-08-17 00:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 12,
+"concession_additional": false,
+"start": "2017-08-17 19:00:00",
+"end": "2017-08-17 20:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 12,
+"concession_additional": false,
+"start": "2017-08-17 21:00:00",
+"end": "2017-08-17 22:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 12,
+"concession_additional": false,
+"start": "2017-08-17 23:00:00",
+"end": "2017-08-18 00:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 12,
+"concession_additional": false,
+"start": "2017-08-18 19:00:00",
+"end": "2017-08-18 20:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 12,
+"concession_additional": false,
+"start": "2017-08-18 21:00:00",
+"end": "2017-08-18 22:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 12,
+"concession_additional": false,
+"start": "2017-08-18 23:00:00",
+"end": "2017-08-19 00:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 12,
+"concession_additional": false,
+"start": "2017-08-19 19:00:00",
+"end": "2017-08-19 20:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 12,
+"concession_additional": false,
+"start": "2017-08-19 21:00:00",
+"end": "2017-08-19 22:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 12,
+"concession_additional": false,
+"start": "2017-08-19 23:00:00",
+"end": "2017-08-20 00:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 12,
+"concession_additional": false,
+"start": "2017-08-20 19:00:00",
+"end": "2017-08-20 20:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 12,
+"concession_additional": false,
+"start": "2017-08-20 21:00:00",
+"end": "2017-08-20 22:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 12,
+"concession_additional": false,
+"start": "2017-08-20 23:00:00",
+"end": "2017-08-21 00:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 12,
+"concession_additional": false,
+"start": "2017-08-21 19:00:00",
+"end": "2017-08-21 20:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 12,
+"concession_additional": false,
+"start": "2017-08-21 21:00:00",
+"end": "2017-08-21 22:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 12,
+"concession_additional": false,
+"start": "2017-08-21 23:00:00",
+"end": "2017-08-22 00:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 12,
+"concession_additional": false,
+"start": "2017-08-22 19:00:00",
+"end": "2017-08-22 20:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 12,
+"concession_additional": false,
+"start": "2017-08-22 21:00:00",
+"end": "2017-08-22 22:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 12,
+"concession_additional": false,
+"start": "2017-08-22 23:00:00",
+"end": "2017-08-23 00:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 12,
+"concession_additional": false,
+"start": "2017-08-23 19:00:00",
+"end": "2017-08-23 20:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 12,
+"concession_additional": false,
+"start": "2017-08-23 21:00:00",
+"end": "2017-08-23 22:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 12,
+"concession_additional": false,
+"start": "2017-08-23 23:00:00",
+"end": "2017-08-24 00:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 12,
+"concession_additional": false,
+"start": "2017-08-24 19:00:00",
+"end": "2017-08-24 20:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 12,
+"concession_additional": false,
+"start": "2017-08-24 21:00:00",
+"end": "2017-08-24 22:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 12,
+"concession_additional": false,
+"start": "2017-08-24 23:00:00",
+"end": "2017-08-25 00:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 12,
+"concession_additional": false,
+"start": "2017-08-25 19:00:00",
+"end": "2017-08-25 20:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 12,
+"concession_additional": false,
+"start": "2017-08-25 21:00:00",
+"end": "2017-08-25 22:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 12,
+"concession_additional": false,
+"start": "2017-08-25 23:00:00",
+"end": "2017-08-26 00:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 12,
+"concession_additional": false,
+"start": "2017-08-26 19:00:00",
+"end": "2017-08-26 20:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 12,
+"concession_additional": false,
+"start": "2017-08-26 21:00:00",
+"end": "2017-08-26 22:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 12,
+"concession_additional": false,
+"start": "2017-08-26 23:00:00",
+"end": "2017-08-27 00:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 12,
+"concession_additional": false,
+"start": "2017-08-27 19:00:00",
+"end": "2017-08-27 20:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 12,
+"concession_additional": false,
+"start": "2017-08-27 21:00:00",
+"end": "2017-08-27 22:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 12,
+"concession_additional": false,
+"start": "2017-08-27 23:00:00",
+"end": "2017-08-28 00:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 12,
+"concession_additional": false,
+"start": "2017-08-28 19:00:00",
+"end": "2017-08-28 20:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 12,
+"concession_additional": false,
+"start": "2017-08-28 21:00:00",
+"end": "2017-08-28 22:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 12,
+"concession_additional": false,
+"start": "2017-08-28 23:00:00",
+"end": "2017-08-29 00:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 12,
+"concession_additional": false,
+"start": "2017-08-29 19:00:00",
+"end": "2017-08-29 20:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 12,
+"concession_additional": false,
+"start": "2017-08-29 21:00:00",
+"end": "2017-08-29 22:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 12,
+"concession_additional": false,
+"start": "2017-08-29 23:00:00",
+"end": "2017-08-30 00:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 12,
+"concession_additional": false,
+"start": "2017-08-30 19:00:00",
+"end": "2017-08-30 20:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 12,
+"concession_additional": false,
+"start": "2017-08-30 21:00:00",
+"end": "2017-08-30 22:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 12,
+"concession_additional": false,
+"start": "2017-08-30 23:00:00",
+"end": "2017-08-31 00:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 12,
+"concession_additional": false,
+"start": "2017-08-31 19:00:00",
+"end": "2017-08-31 20:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 12,
+"concession_additional": false,
+"start": "2017-08-31 21:00:00",
+"end": "2017-08-31 22:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 12,
+"concession_additional": false,
+"start": "2017-08-31 23:00:00",
+"end": "2017-09-01 00:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 12,
+"concession_additional": false,
+"start": "2017-09-01 19:00:00",
+"end": "2017-09-01 20:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 12,
+"concession_additional": false,
+"start": "2017-09-01 21:00:00",
+"end": "2017-09-01 22:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 12,
+"concession_additional": false,
+"start": "2017-09-01 23:00:00",
+"end": "2017-09-02 00:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 12,
+"concession_additional": false,
+"start": "2017-09-02 19:00:00",
+"end": "2017-09-02 20:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 12,
+"concession_additional": false,
+"start": "2017-09-02 21:00:00",
+"end": "2017-09-02 22:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 12,
+"concession_additional": false,
+"start": "2017-09-02 23:00:00",
+"end": "2017-09-03 00:00:00"
+}
+],
+"categories": {
+"keywords": [],
+"subjects": [],
+"strand_titles": []
+},
+"disabled": {
+"signed_dates": null,
+"other_services_information": "",
+"captioning": false,
+"audio": false,
+"signed": false,
+"audio_dates": null,
+"other_services_dates": null,
+"captioning_dates": null,
+"other_services": false
+},
+"latitude": 55.949831,
+"longitude": -3.187806
+},
+{
+"genre": "Events",
+"fringe_first": false,
+"performers_number": 12,
+"artist_type": "Professional company",
+"sub_title": null,
+"update_times": {
+"genre": 1486051892,
+"age_category": 1486051892,
+"other": 1486051892,
+"fringe_first": 1486051892,
+"status": 1486051892,
+"web_links": 1486051892,
+"venue": 1486051892,
+"identity": 1486051892,
+"title": 1486051892,
+"description": 1486051892,
+"discounts": 1486051892,
+"images": 1486051892,
+"performances": 1486051892,
+"artist": 1486051892,
+"disabled": 1486051892
+},
+"twitter": "@auldreekietours",
+"title": "Terror Tour",
+"updated": "2017-02-02 16:11:32",
+"description": "As an appetiser, we take you around some of the Old Town's cobbled streets, giving you some very dark historical facts about some of the infamous characters that used to roam Edinburgh's wynds and closes, and left an everlasting place in history. Then you'll be taken to our medieval torture exhibition to see instruments from the Nuremberg and Bamberg Castles in Germany, dating back to the late 1500s and early 1600s. Then you'll enter our paranormally active and haunted underground vaults dating back to the 1700s. Renowned as the world's scariest place. Frightening!",
+"discounts": {
+"two_for_one": true,
+"friends": true,
+"schools": false,
+"passport": false,
+"group": true
+},
+"festival": "Edinburgh Festival Fringe",
+"year": 2017,
+"artist": "Auld Reekie Tours",
+"warnings": "A moderate amount of walking involved",
+"festival_id": "fringe",
+"age_category": "18+",
+"non_english": false,
+"website": "https://www.edfringe.com/event/2017TERRORT_V8",
+"status": "active",
+"performance_space": {
+"age_limit": null,
+"wheelchair_access": false,
+"name": "Auld Reekie's Haunted Underground",
+"capacity": 50,
+"age_limited": null
+},
+"code": "2017TERRORT_V8",
+"venue": {
+"position": {
+"lon": -3.187806,
+"lat": 55.949831
+},
+"phone": "",
+"web_address": "http://www.auldreekietours.com",
+"fax": null,
+"post_code": "EH1 1QW",
+"has_cafe": false,
+"cafe_description": null,
+"map_ref": null,
+"code": "129",
+"disabled_description": "Limited access to some parts of venue site, Some areas not reachable by lift or level access, No wheelchair accessible toilet, No reserved accessible parking, No on street blue badge parking, Assistance dogs welcome in all areas",
+"box_office_fringe": false,
+"has_booking_over_phone": false,
+"address": "179 High Street",
+"email": null,
+"description": "Half way between Edinburgh Castle and Holyrood Palace on the Royal Mile is the Tron Kirk, the departure point for Auld Reekie's Tours in Edinburgh. Meet at the sign boards by the Tron Kirk and learn about the dark side of Edinburgh.",
+"has_booking_over_web": true,
+"name": "Meet outside Tron Kirk at Auld Reekie Tours Boards",
+"box_office_opening": null,
+"has_booking_over_card": false,
+"has_bar": false
+},
+"sub_venue": null,
+"url": "https://api.edinburghfestivalcity.com/events/3f73bd2c4a3caa1104476e35b13ea3467c5bf325",
+"country": "UNITED KINGDOM - SCOTLAND",
+"genre_tags": "Site-specific,Storytelling",
+"description_teaser": null,
+"images": {
+"faa3c512268af025ffa7b37f3abaf58b76a15ea6": {
+"versions": {
+"original": {
+"height": 250,
+"width": 250,
+"mime": "image/jpeg",
+"type": "original",
+"url": "//edfestimages.s3.amazonaws.com/fa/a3/c5/faa3c512268af025ffa7b37f3abaf58b76a15ea6-original."
+},
+"thumb-100": {
+"height": 100,
+"width": 100,
+"mime": "image/png",
+"type": "thumb-100",
+"url": "//edfestimages.s3.amazonaws.com/fa/a3/c5/faa3c512268af025ffa7b37f3abaf58b76a15ea6-thumb-100.png"
+},
+"square-75": {
+"height": 75,
+"width": 75,
+"mime": "image/png",
+"type": "square-75",
+"url": "//edfestimages.s3.amazonaws.com/fa/a3/c5/faa3c512268af025ffa7b37f3abaf58b76a15ea6-square-75.png"
+},
+"square-150": {
+"height": 150,
+"width": 150,
+"mime": "image/png",
+"type": "square-150",
+"url": "//edfestimages.s3.amazonaws.com/fa/a3/c5/faa3c512268af025ffa7b37f3abaf58b76a15ea6-square-150.png"
+}
+},
+"orientation": "square",
+"hash": "faa3c512268af025ffa7b37f3abaf58b76a15ea6",
+"type": "thumb"
+}
+},
+"performances": [
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 14,
+"concession_additional": false,
+"start": "2017-08-01 22:00:00",
+"end": "2017-08-01 23:30:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 14,
+"concession_additional": false,
+"start": "2017-08-02 22:00:00",
+"end": "2017-08-02 23:30:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 14,
+"concession_additional": false,
+"start": "2017-08-03 22:00:00",
+"end": "2017-08-03 23:30:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 14,
+"concession_additional": false,
+"start": "2017-08-04 22:00:00",
+"end": "2017-08-04 23:30:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 14,
+"concession_additional": false,
+"start": "2017-08-05 22:00:00",
+"end": "2017-08-05 23:30:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 14,
+"concession_additional": false,
+"start": "2017-08-06 22:00:00",
+"end": "2017-08-06 23:30:00"
+},
+{
+"concession_family": false,
+"title": "2 for 1",
+"concession": false,
+"price": 14,
+"concession_additional": false,
+"start": "2017-08-07 22:00:00",
+"end": "2017-08-07 23:30:00"
+},
+{
+"concession_family": false,
+"title": "2 for 1",
+"concession": false,
+"price": 14,
+"concession_additional": false,
+"start": "2017-08-08 22:00:00",
+"end": "2017-08-08 23:30:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 14,
+"concession_additional": false,
+"start": "2017-08-09 22:00:00",
+"end": "2017-08-09 23:30:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 14,
+"concession_additional": false,
+"start": "2017-08-10 22:00:00",
+"end": "2017-08-10 23:30:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 14,
+"concession_additional": false,
+"start": "2017-08-11 22:00:00",
+"end": "2017-08-11 23:30:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 14,
+"concession_additional": false,
+"start": "2017-08-12 22:00:00",
+"end": "2017-08-12 23:30:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 14,
+"concession_additional": false,
+"start": "2017-08-13 22:00:00",
+"end": "2017-08-13 23:30:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 14,
+"concession_additional": false,
+"start": "2017-08-14 22:00:00",
+"end": "2017-08-14 23:30:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 14,
+"concession_additional": false,
+"start": "2017-08-15 22:00:00",
+"end": "2017-08-15 23:30:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 14,
+"concession_additional": false,
+"start": "2017-08-16 22:00:00",
+"end": "2017-08-16 23:30:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 14,
+"concession_additional": false,
+"start": "2017-08-17 22:00:00",
+"end": "2017-08-17 23:30:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 14,
+"concession_additional": false,
+"start": "2017-08-18 22:00:00",
+"end": "2017-08-18 23:30:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 14,
+"concession_additional": false,
+"start": "2017-08-19 22:00:00",
+"end": "2017-08-19 23:30:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 14,
+"concession_additional": false,
+"start": "2017-08-20 22:00:00",
+"end": "2017-08-20 23:30:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 14,
+"concession_additional": false,
+"start": "2017-08-21 22:00:00",
+"end": "2017-08-21 23:30:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 14,
+"concession_additional": false,
+"start": "2017-08-22 22:00:00",
+"end": "2017-08-22 23:30:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 14,
+"concession_additional": false,
+"start": "2017-08-23 22:00:00",
+"end": "2017-08-23 23:30:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 14,
+"concession_additional": false,
+"start": "2017-08-24 22:00:00",
+"end": "2017-08-24 23:30:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 14,
+"concession_additional": false,
+"start": "2017-08-25 22:00:00",
+"end": "2017-08-25 23:30:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 14,
+"concession_additional": false,
+"start": "2017-08-26 22:00:00",
+"end": "2017-08-26 23:30:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 14,
+"concession_additional": false,
+"start": "2017-08-27 22:00:00",
+"end": "2017-08-27 23:30:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 14,
+"concession_additional": false,
+"start": "2017-08-28 22:00:00",
+"end": "2017-08-28 23:30:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 14,
+"concession_additional": false,
+"start": "2017-08-29 22:00:00",
+"end": "2017-08-29 23:30:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 14,
+"concession_additional": false,
+"start": "2017-08-30 22:00:00",
+"end": "2017-08-30 23:30:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 14,
+"concession_additional": false,
+"start": "2017-08-31 22:00:00",
+"end": "2017-08-31 23:30:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 14,
+"concession_additional": false,
+"start": "2017-09-01 22:00:00",
+"end": "2017-09-01 23:30:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 14,
+"concession_additional": false,
+"start": "2017-09-02 22:00:00",
+"end": "2017-09-02 23:30:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 14,
+"concession_additional": false,
+"start": "2017-09-03 22:00:00",
+"end": "2017-09-03 23:30:00"
+}
+],
+"categories": {
+"keywords": [],
+"subjects": [],
+"strand_titles": []
+},
+"disabled": {
+"signed_dates": null,
+"other_services_information": "",
+"captioning": false,
+"audio": false,
+"signed": false,
+"audio_dates": null,
+"other_services_dates": null,
+"captioning_dates": null,
+"other_services": false
+},
+"latitude": 55.949831,
+"longitude": -3.187806
+},
+{
+"genre": "Discussion",
+"fringe_first": null,
+"performers_number": null,
+"artist_type": null,
+"sub_title": null,
+"update_times": {
+"genre": 1487242440,
+"age_category": 1487242440,
+"other": 1487242440,
+"fringe_first": 1487242440,
+"status": 1487242440,
+"web_links": 1487242440,
+"venue": 1487242440,
+"identity": 1487242440,
+"title": 1487242440,
+"description": 1489604416,
+"discounts": 1487242440,
+"images": 1489583439,
+"performances": 1487242440,
+"artist": 1487242440,
+"disabled": 1487242440
+},
+"twitter": null,
+"title": "The Right to be Forgotten",
+"updated": "2017-03-15 19:00:16",
+"description": "<p>Is anything ever forgotten online? As we increasingly live our lives online for from an early age, we create more and more material that we may want to remove at a later date. While there currently are some means to do that now if material is an invasion of privacy or unjustly damaging your reputation - what about some misguided youthful tweets that made their way on to a buzzfeed article? Or a photo of you turned into a meme and shared worldwide?</p>\n\n<p>Join a panel including digital memory specialist <strong>Prof Andrew Hoskins, </strong>Editor-in-Chief, <em>Journal of Memory Studies </em>and <strong>Prof George Brock</strong>, author of <em>The Right To Be Forgotten: Privacy and Media in the Digital Age</em> for an exploration of the legal, technical and personal issues and a special guest appearance from someone with a good reason for wanting to be forgotten.</p>",
+"discounts": {
+"two_for_one": null,
+"friends": null,
+"schools": null,
+"passport": null,
+"group": null
+},
+"festival": "Edinburgh International Science Festival",
+"year": 2017,
+"artist": null,
+"warnings": null,
+"festival_id": "science",
+"age_category": "Ages 14+",
+"non_english": null,
+"website": "http://www.sciencefestival.co.uk/event-details/the-right-to-be-forgotten",
+"status": "active",
+"performance_space": {
+"age_limit": null,
+"wheelchair_access": null,
+"name": null,
+"capacity": null,
+"age_limited": null
+},
+"code": "788",
+"venue": {
+"position": {
+"lon": -3.18228,
+"lat": 55.94
+},
+"phone": null,
+"web_address": null,
+"fax": null,
+"post_code": "EH9 1PL",
+"has_cafe": null,
+"cafe_description": null,
+"map_ref": null,
+"code": "Summerhall",
+"disabled_description": null,
+"box_office_fringe": false,
+"has_booking_over_phone": true,
+"address": "Summerhall Place\nEdinburgh",
+"email": null,
+"description": null,
+"has_booking_over_web": true,
+"name": "Summerhall",
+"box_office_opening": null,
+"has_booking_over_card": true,
+"has_bar": null
+},
+"sub_venue": null,
+"url": "https://api.edinburghfestivalcity.com/events/399cd11b58ca2ad5d1e3eeef458a8be3fd5d143e",
+"country": null,
+"genre_tags": "Techno Tribes,Mind,Computing",
+"description_teaser": "Is anything ever forgotten online? Join us to explore the legal, technical and personal issues",
+"images": {
+"ec014612c593385f8d1b16ac8e2df51319ea5fda": {
+"versions": {
+"large-1024": {
+"height": 213,
+"width": 1024,
+"mime": "image/png",
+"type": "large-1024",
+"url": "//edfestimages.s3.amazonaws.com/ec/01/46/ec014612c593385f8d1b16ac8e2df51319ea5fda-large-1024.png"
+},
+"medium-640": {
+"height": 133,
+"width": 640,
+"mime": "image/png",
+"type": "medium-640",
+"url": "//edfestimages.s3.amazonaws.com/ec/01/46/ec014612c593385f8d1b16ac8e2df51319ea5fda-medium-640.png"
+},
+"original": {
+"height": 400,
+"width": 1920,
+"mime": "image/jpeg",
+"type": "original",
+"url": "//edfestimages.s3.amazonaws.com/ec/01/46/ec014612c593385f8d1b16ac8e2df51319ea5fda-original.jpg"
+},
+"small-320": {
+"height": 67,
+"width": 320,
+"mime": "image/png",
+"type": "small-320",
+"url": "//edfestimages.s3.amazonaws.com/ec/01/46/ec014612c593385f8d1b16ac8e2df51319ea5fda-small-320.png"
+},
+"thumb-100": {
+"height": 21,
+"width": 100,
+"mime": "image/png",
+"type": "thumb-100",
+"url": "//edfestimages.s3.amazonaws.com/ec/01/46/ec014612c593385f8d1b16ac8e2df51319ea5fda-thumb-100.png"
+},
+"square-75": {
+"height": 75,
+"width": 75,
+"mime": "image/png",
+"type": "square-75",
+"url": "//edfestimages.s3.amazonaws.com/ec/01/46/ec014612c593385f8d1b16ac8e2df51319ea5fda-square-75.png"
+},
+"square-150": {
+"height": 150,
+"width": 150,
+"mime": "image/png",
+"type": "square-150",
+"url": "//edfestimages.s3.amazonaws.com/ec/01/46/ec014612c593385f8d1b16ac8e2df51319ea5fda-square-150.png"
+}
+},
+"orientation": "landscape",
+"hash": "ec014612c593385f8d1b16ac8e2df51319ea5fda",
+"type": "hero"
+},
+"1e6c882290b9689b0b7acdfa0c5d104b5a19ef26": {
+"versions": {
+"medium-640": {
+"height": 640,
+"width": 640,
+"mime": "image/png",
+"type": "medium-640",
+"url": "//edfestimages.s3.amazonaws.com/1e/6c/88/1e6c882290b9689b0b7acdfa0c5d104b5a19ef26-medium-640.png"
+},
+"original": {
+"height": 800,
+"width": 800,
+"mime": "image/jpeg",
+"type": "original",
+"url": "//edfestimages.s3.amazonaws.com/1e/6c/88/1e6c882290b9689b0b7acdfa0c5d104b5a19ef26-original.jpg"
+},
+"small-320": {
+"height": 320,
+"width": 320,
+"mime": "image/png",
+"type": "small-320",
+"url": "//edfestimages.s3.amazonaws.com/1e/6c/88/1e6c882290b9689b0b7acdfa0c5d104b5a19ef26-small-320.png"
+},
+"thumb-100": {
+"height": 100,
+"width": 100,
+"mime": "image/png",
+"type": "thumb-100",
+"url": "//edfestimages.s3.amazonaws.com/1e/6c/88/1e6c882290b9689b0b7acdfa0c5d104b5a19ef26-thumb-100.png"
+},
+"square-75": {
+"height": 75,
+"width": 75,
+"mime": "image/png",
+"type": "square-75",
+"url": "//edfestimages.s3.amazonaws.com/1e/6c/88/1e6c882290b9689b0b7acdfa0c5d104b5a19ef26-square-75.png"
+},
+"square-150": {
+"height": 150,
+"width": 150,
+"mime": "image/png",
+"type": "square-150",
+"url": "//edfestimages.s3.amazonaws.com/1e/6c/88/1e6c882290b9689b0b7acdfa0c5d104b5a19ef26-square-150.png"
+}
+},
+"orientation": "square",
+"hash": "1e6c882290b9689b0b7acdfa0c5d104b5a19ef26",
+"type": "thumb"
+}
+},
+"performances": [
+{
+"concession_family": false,
+"title": null,
+"concession": 6.5,
+"price": 8.5,
+"concession_additional": false,
+"start": "2017-04-08 15:00:00",
+"end": "2017-04-08 16:30:00"
+}
+],
+"categories": {
+"keywords": [
+{
+"category": "Headings",
+"keywords": [
+"Mind & Body",
+"Technology & Engineering"
+]
+},
+{
+"category": "Topics",
+"keywords": [
+"Big data",
+"Ethics",
+"Internet",
+"Politics",
+"Population",
+"Wellbeing"
+]
+}
+],
+"subjects": [
+"Mind",
+"Computing"
+],
+"strand_titles": [
+"Techno Tribes"
+]
+},
+"disabled": {
+"signed_dates": null,
+"other_services_information": null,
+"captioning": null,
+"audio": null,
+"signed": null,
+"audio_dates": null,
+"other_services_dates": null,
+"captioning_dates": null,
+"other_services": null
+},
+"latitude": 55.94,
+"longitude": -3.18228
+},
+{
+"genre": "Discussion",
+"fringe_first": null,
+"performers_number": null,
+"artist_type": null,
+"sub_title": null,
+"update_times": {
+"genre": 1487242440,
+"age_category": 1487242440,
+"other": 1487242440,
+"fringe_first": 1487242440,
+"status": 1487242440,
+"web_links": 1487242440,
+"venue": 1487242440,
+"identity": 1487242440,
+"title": 1487242440,
+"description": 1487242440,
+"discounts": 1487242440,
+"images": 1489583440,
+"performances": 1487242440,
+"artist": 1487242440,
+"disabled": 1487242440
+},
+"twitter": null,
+"title": "A Very Short introduction to…Viruses",
+"updated": "2017-03-15 13:10:40",
+"description": "<p>Our struggle against viruses is constant - from modern pandemics such as HIV, swine flu and SARS to a whole variety of less well know viruses there is always something new to fight. Outlining their origins, structure, and method of infection, <strong>Prof Dorothy Crawford</strong> will explore the vast variety of viruses, asking if we can live in harmony with them in the future.</p>",
+"discounts": {
+"two_for_one": null,
+"friends": null,
+"schools": null,
+"passport": null,
+"group": null
+},
+"festival": "Edinburgh International Science Festival",
+"year": 2017,
+"artist": null,
+"warnings": null,
+"festival_id": "science",
+"age_category": "Ages 14+",
+"non_english": null,
+"website": "http://www.sciencefestival.co.uk/event-details/a-very-short-introduction-toviruses",
+"status": "active",
+"performance_space": {
+"age_limit": null,
+"wheelchair_access": null,
+"name": null,
+"capacity": null,
+"age_limited": null
+},
+"code": "1016",
+"venue": {
+"position": {
+"lon": -3.18228,
+"lat": 55.94
+},
+"phone": null,
+"web_address": null,
+"fax": null,
+"post_code": "EH9 1PL",
+"has_cafe": null,
+"cafe_description": null,
+"map_ref": null,
+"code": "Summerhall",
+"disabled_description": null,
+"box_office_fringe": false,
+"has_booking_over_phone": true,
+"address": "Summerhall Place\nEdinburgh",
+"email": null,
+"description": null,
+"has_booking_over_web": true,
+"name": "Summerhall",
+"box_office_opening": null,
+"has_booking_over_card": true,
+"has_bar": null
+},
+"sub_venue": null,
+"url": "https://api.edinburghfestivalcity.com/events/e321ec39cd92f59515073ea44126e1e1ad800979",
+"country": null,
+"genre_tags": "Human Biology,Health & Diseases",
+"description_teaser": "Explore the vast variety of viruses and consider if we can live in harmony with them in the future",
+"images": {
+"543771a147cc725eebf9564f20687691bcf1a512": {
+"versions": {
+"medium-640": {
+"height": 640,
+"width": 640,
+"mime": "image/png",
+"type": "medium-640",
+"url": "//edfestimages.s3.amazonaws.com/54/37/71/543771a147cc725eebf9564f20687691bcf1a512-medium-640.png"
+},
+"original": {
+"height": 800,
+"width": 800,
+"mime": "image/jpeg",
+"type": "original",
+"url": "//edfestimages.s3.amazonaws.com/54/37/71/543771a147cc725eebf9564f20687691bcf1a512-original.jpg"
+},
+"small-320": {
+"height": 320,
+"width": 320,
+"mime": "image/png",
+"type": "small-320",
+"url": "//edfestimages.s3.amazonaws.com/54/37/71/543771a147cc725eebf9564f20687691bcf1a512-small-320.png"
+},
+"thumb-100": {
+"height": 100,
+"width": 100,
+"mime": "image/png",
+"type": "thumb-100",
+"url": "//edfestimages.s3.amazonaws.com/54/37/71/543771a147cc725eebf9564f20687691bcf1a512-thumb-100.png"
+},
+"square-75": {
+"height": 75,
+"width": 75,
+"mime": "image/png",
+"type": "square-75",
+"url": "//edfestimages.s3.amazonaws.com/54/37/71/543771a147cc725eebf9564f20687691bcf1a512-square-75.png"
+},
+"square-150": {
+"height": 150,
+"width": 150,
+"mime": "image/png",
+"type": "square-150",
+"url": "//edfestimages.s3.amazonaws.com/54/37/71/543771a147cc725eebf9564f20687691bcf1a512-square-150.png"
+}
+},
+"orientation": "square",
+"hash": "543771a147cc725eebf9564f20687691bcf1a512",
+"type": "thumb"
+},
+"8660530ec1ef8e922d7b4b98c2dfe855897ec9b6": {
+"versions": {
+"large-1024": {
+"height": 213,
+"width": 1024,
+"mime": "image/png",
+"type": "large-1024",
+"url": "//edfestimages.s3.amazonaws.com/86/60/53/8660530ec1ef8e922d7b4b98c2dfe855897ec9b6-large-1024.png"
+},
+"medium-640": {
+"height": 133,
+"width": 640,
+"mime": "image/png",
+"type": "medium-640",
+"url": "//edfestimages.s3.amazonaws.com/86/60/53/8660530ec1ef8e922d7b4b98c2dfe855897ec9b6-medium-640.png"
+},
+"original": {
+"height": 399,
+"width": 1920,
+"mime": "image/jpeg",
+"type": "original",
+"url": "//edfestimages.s3.amazonaws.com/86/60/53/8660530ec1ef8e922d7b4b98c2dfe855897ec9b6-original.jpg"
+},
+"small-320": {
+"height": 67,
+"width": 320,
+"mime": "image/png",
+"type": "small-320",
+"url": "//edfestimages.s3.amazonaws.com/86/60/53/8660530ec1ef8e922d7b4b98c2dfe855897ec9b6-small-320.png"
+},
+"thumb-100": {
+"height": 21,
+"width": 100,
+"mime": "image/png",
+"type": "thumb-100",
+"url": "//edfestimages.s3.amazonaws.com/86/60/53/8660530ec1ef8e922d7b4b98c2dfe855897ec9b6-thumb-100.png"
+},
+"square-75": {
+"height": 75,
+"width": 75,
+"mime": "image/png",
+"type": "square-75",
+"url": "//edfestimages.s3.amazonaws.com/86/60/53/8660530ec1ef8e922d7b4b98c2dfe855897ec9b6-square-75.png"
+},
+"square-150": {
+"height": 150,
+"width": 150,
+"mime": "image/png",
+"type": "square-150",
+"url": "//edfestimages.s3.amazonaws.com/86/60/53/8660530ec1ef8e922d7b4b98c2dfe855897ec9b6-square-150.png"
+}
+},
+"orientation": "landscape",
+"hash": "8660530ec1ef8e922d7b4b98c2dfe855897ec9b6",
+"type": "hero"
+}
+},
+"performances": [
+{
+"concession_family": false,
+"title": null,
+"concession": null,
+"price": 6,
+"concession_additional": false,
+"start": "2017-04-13 13:00:00",
+"end": "2017-04-13 14:00:00"
+}
+],
+"categories": {
+"keywords": [
+{
+"category": "Headings",
+"keywords": [
+"Mind & Body"
+]
+},
+{
+"category": "Phenomena",
+"keywords": [
+"Infection"
+]
+},
+{
+"category": "Specialisations",
+"keywords": [
+"Anatomy",
+"Biology",
+"Medicine",
+"Pharmacology"
+]
+},
+{
+"category": "Topics",
+"keywords": [
+"Future",
+"Meditation",
+"Nutrition",
+"Public health",
+"Wellbeing"
+]
+}
+],
+"subjects": [
+"Human Biology",
+"Health & Diseases"
+],
+"strand_titles": []
+},
+"disabled": {
+"signed_dates": null,
+"other_services_information": null,
+"captioning": null,
+"audio": null,
+"signed": null,
+"audio_dates": null,
+"other_services_dates": null,
+"captioning_dates": null,
+"other_services": null
+},
+"latitude": 55.94,
+"longitude": -3.18228
+},
+{
+"genre": "Events",
+"fringe_first": false,
+"performers_number": 12,
+"artist_type": "Professional company",
+"sub_title": null,
+"update_times": {
+"genre": 1486051892,
+"age_category": 1486051892,
+"other": 1486051892,
+"fringe_first": 1486051892,
+"status": 1486051892,
+"web_links": 1486051892,
+"venue": 1486051892,
+"identity": 1486051892,
+"title": 1486051892,
+"description": 1486051892,
+"discounts": 1486051892,
+"images": 1486051892,
+"performances": 1486051892,
+"artist": 1486051892,
+"disabled": 1486051892
+},
+"twitter": "@AuldReekieTours",
+"title": "Ghost and Torture Tour",
+"updated": "2017-02-02 16:11:32",
+"description": "A bone-chilling tour as our costumed guide takes you around some of the Old Town's cobbled streets dispensing the history of the dark characters that used to roam them and why their names became immortalised. Then you'll enter our medieval torture exhibition with instruments from Nuremberg and Bamberg castles in Germany dating back to the late 1500s and early 1600s. Finally, you'll enter our paranormally active and haunted underground vaults to see our cursed old stone-circled Pagan temple, our infamous legendary haunted vault, and a recently working witchcraft temple. Be afraid, be very afraid!",
+"discounts": {
+"two_for_one": true,
+"friends": true,
+"schools": false,
+"passport": false,
+"group": true
+},
+"festival": "Edinburgh Festival Fringe",
+"year": 2017,
+"artist": "Auld Reekie Tours",
+"warnings": "A moderate amount of walking involved",
+"festival_id": "fringe",
+"age_category": "12+",
+"non_english": false,
+"website": "https://www.edfringe.com/event/2017GHOSTAN_V8",
+"status": "active",
+"performance_space": {
+"age_limit": null,
+"wheelchair_access": false,
+"name": "Auld Reekie's Haunted Underground",
+"capacity": 50,
+"age_limited": null
+},
+"code": "2017GHOSTAN_V8",
+"venue": {
+"position": {
+"lon": -3.187806,
+"lat": 55.949831
+},
+"phone": "",
+"web_address": "http://www.auldreekietours.com",
+"fax": null,
+"post_code": "EH1 1QW",
+"has_cafe": false,
+"cafe_description": null,
+"map_ref": null,
+"code": "129",
+"disabled_description": "Limited access to some parts of venue site, Some areas not reachable by lift or level access, No wheelchair accessible toilet, No reserved accessible parking, No on street blue badge parking, Assistance dogs welcome in all areas",
+"box_office_fringe": false,
+"has_booking_over_phone": false,
+"address": "179 High Street",
+"email": null,
+"description": "Half way between Edinburgh Castle and Holyrood Palace on the Royal Mile is the Tron Kirk, the departure point for Auld Reekie's Tours in Edinburgh. Meet at the sign boards by the Tron Kirk and learn about the dark side of Edinburgh.",
+"has_booking_over_web": true,
+"name": "Meet outside Tron Kirk at Auld Reekie Tours Boards",
+"box_office_opening": null,
+"has_booking_over_card": false,
+"has_bar": false
+},
+"sub_venue": null,
+"url": "https://api.edinburghfestivalcity.com/events/93a24edac0de0f29802903fcb3dd362760753b62",
+"country": "UNITED KINGDOM - SCOTLAND",
+"genre_tags": "Site-specific,Storytelling",
+"description_teaser": null,
+"images": {
+"3fa5647728d51b0547c51d5c7a876cc7c5930220": {
+"versions": {
+"original": {
+"height": 250,
+"width": 250,
+"mime": "image/jpeg",
+"type": "original",
+"url": "//edfestimages.s3.amazonaws.com/3f/a5/64/3fa5647728d51b0547c51d5c7a876cc7c5930220-original."
+},
+"thumb-100": {
+"height": 100,
+"width": 100,
+"mime": "image/png",
+"type": "thumb-100",
+"url": "//edfestimages.s3.amazonaws.com/3f/a5/64/3fa5647728d51b0547c51d5c7a876cc7c5930220-thumb-100.png"
+},
+"square-75": {
+"height": 75,
+"width": 75,
+"mime": "image/png",
+"type": "square-75",
+"url": "//edfestimages.s3.amazonaws.com/3f/a5/64/3fa5647728d51b0547c51d5c7a876cc7c5930220-square-75.png"
+},
+"square-150": {
+"height": 150,
+"width": 150,
+"mime": "image/png",
+"type": "square-150",
+"url": "//edfestimages.s3.amazonaws.com/3f/a5/64/3fa5647728d51b0547c51d5c7a876cc7c5930220-square-150.png"
+}
+},
+"orientation": "square",
+"hash": "3fa5647728d51b0547c51d5c7a876cc7c5930220",
+"type": "thumb"
+}
+},
+"performances": [
+{
+"concession_family": false,
+"title": null,
+"concession": 10,
+"price": 12,
+"concession_additional": false,
+"start": "2017-08-01 18:00:00",
+"end": "2017-08-01 19:15:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 10,
+"price": 12,
+"concession_additional": false,
+"start": "2017-08-02 18:00:00",
+"end": "2017-08-02 19:15:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 10,
+"price": 12,
+"concession_additional": false,
+"start": "2017-08-03 18:00:00",
+"end": "2017-08-03 19:15:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 10,
+"price": 12,
+"concession_additional": false,
+"start": "2017-08-04 18:00:00",
+"end": "2017-08-04 19:15:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 10,
+"price": 12,
+"concession_additional": false,
+"start": "2017-08-05 18:00:00",
+"end": "2017-08-05 19:15:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 10,
+"price": 12,
+"concession_additional": false,
+"start": "2017-08-06 18:00:00",
+"end": "2017-08-06 19:15:00"
+},
+{
+"concession_family": false,
+"title": "2 for 1",
+"concession": 10,
+"price": 12,
+"concession_additional": false,
+"start": "2017-08-07 18:00:00",
+"end": "2017-08-07 19:15:00"
+},
+{
+"concession_family": false,
+"title": "2 for 1",
+"concession": 10,
+"price": 12,
+"concession_additional": false,
+"start": "2017-08-08 18:00:00",
+"end": "2017-08-08 19:15:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 10,
+"price": 12,
+"concession_additional": false,
+"start": "2017-08-09 18:00:00",
+"end": "2017-08-09 19:15:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 10,
+"price": 12,
+"concession_additional": false,
+"start": "2017-08-10 18:00:00",
+"end": "2017-08-10 19:15:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 10,
+"price": 12,
+"concession_additional": false,
+"start": "2017-08-11 18:00:00",
+"end": "2017-08-11 19:15:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 10,
+"price": 12,
+"concession_additional": false,
+"start": "2017-08-12 18:00:00",
+"end": "2017-08-12 19:15:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 10,
+"price": 12,
+"concession_additional": false,
+"start": "2017-08-13 18:00:00",
+"end": "2017-08-13 19:15:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 10,
+"price": 12,
+"concession_additional": false,
+"start": "2017-08-14 18:00:00",
+"end": "2017-08-14 19:15:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 10,
+"price": 12,
+"concession_additional": false,
+"start": "2017-08-15 18:00:00",
+"end": "2017-08-15 19:15:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 10,
+"price": 12,
+"concession_additional": false,
+"start": "2017-08-16 18:00:00",
+"end": "2017-08-16 19:15:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 10,
+"price": 12,
+"concession_additional": false,
+"start": "2017-08-17 18:00:00",
+"end": "2017-08-17 19:15:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 10,
+"price": 12,
+"concession_additional": false,
+"start": "2017-08-18 18:00:00",
+"end": "2017-08-18 19:15:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 10,
+"price": 12,
+"concession_additional": false,
+"start": "2017-08-19 18:00:00",
+"end": "2017-08-19 19:15:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 10,
+"price": 12,
+"concession_additional": false,
+"start": "2017-08-20 18:00:00",
+"end": "2017-08-20 19:15:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 10,
+"price": 12,
+"concession_additional": false,
+"start": "2017-08-21 18:00:00",
+"end": "2017-08-21 19:15:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 10,
+"price": 12,
+"concession_additional": false,
+"start": "2017-08-22 18:00:00",
+"end": "2017-08-22 19:15:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 10,
+"price": 12,
+"concession_additional": false,
+"start": "2017-08-23 18:00:00",
+"end": "2017-08-23 19:15:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 10,
+"price": 12,
+"concession_additional": false,
+"start": "2017-08-24 18:00:00",
+"end": "2017-08-24 19:15:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 10,
+"price": 12,
+"concession_additional": false,
+"start": "2017-08-25 18:00:00",
+"end": "2017-08-25 19:15:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 10,
+"price": 12,
+"concession_additional": false,
+"start": "2017-08-26 18:00:00",
+"end": "2017-08-26 19:15:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 10,
+"price": 12,
+"concession_additional": false,
+"start": "2017-08-27 18:00:00",
+"end": "2017-08-27 19:15:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 10,
+"price": 12,
+"concession_additional": false,
+"start": "2017-08-28 18:00:00",
+"end": "2017-08-28 19:15:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 10,
+"price": 12,
+"concession_additional": false,
+"start": "2017-08-29 18:00:00",
+"end": "2017-08-29 19:15:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 10,
+"price": 12,
+"concession_additional": false,
+"start": "2017-08-30 18:00:00",
+"end": "2017-08-30 19:15:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 10,
+"price": 12,
+"concession_additional": false,
+"start": "2017-08-31 18:00:00",
+"end": "2017-08-31 19:15:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 10,
+"price": 12,
+"concession_additional": false,
+"start": "2017-09-01 18:00:00",
+"end": "2017-09-01 19:15:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 10,
+"price": 12,
+"concession_additional": false,
+"start": "2017-09-02 18:00:00",
+"end": "2017-09-02 19:15:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 10,
+"price": 12,
+"concession_additional": false,
+"start": "2017-09-03 18:00:00",
+"end": "2017-09-03 19:15:00"
+}
+],
+"categories": {
+"keywords": [],
+"subjects": [],
+"strand_titles": []
+},
+"disabled": {
+"signed_dates": null,
+"other_services_information": "",
+"captioning": false,
+"audio": false,
+"signed": false,
+"audio_dates": null,
+"other_services_dates": null,
+"captioning_dates": null,
+"other_services": false
+},
+"latitude": 55.949831,
+"longitude": -3.187806
+},
+{
+"genre": "Activity",
+"fringe_first": null,
+"performers_number": null,
+"artist_type": null,
+"sub_title": null,
+"update_times": {
+"genre": 1487595616,
+"age_category": 1487355554,
+"other": 1487595616,
+"fringe_first": 1487355554,
+"status": 1487355554,
+"web_links": 1487355554,
+"venue": 1487355554,
+"identity": 1487355554,
+"title": 1487355554,
+"description": 1487669400,
+"discounts": 1487355554,
+"images": 1487355554,
+"performances": 1487355554,
+"artist": 1487355554,
+"disabled": 1487355554
+},
+"twitter": null,
+"title": "Pop-up Science: Expand Your Senses",
+"updated": "2017-02-21 09:30:00",
+"description": "<p>As human modification technology develops, new devices are being created which can expand our senses and push the boundaries of our perceptions. Freelance artist <strong>Lesley-Ann Daly</strong> has created this unique interactive exhibition which allows you to experience how a sensory organ device affects the life of a user. Step up to explore how this amazing technology can change your heart, stomach and liver.</p>",
+"discounts": {
+"two_for_one": null,
+"friends": null,
+"schools": null,
+"passport": null,
+"group": null
+},
+"festival": "Edinburgh International Science Festival",
+"year": 2017,
+"artist": null,
+"warnings": null,
+"festival_id": "science",
+"age_category": "All Ages",
+"non_english": null,
+"website": "http://www.sciencefestival.co.uk/event-details/pop-up-science-expand-your-senses",
+"status": "active",
+"performance_space": {
+"age_limit": null,
+"wheelchair_access": null,
+"name": null,
+"capacity": null,
+"age_limited": null
+},
+"code": "854",
+"venue": {
+"position": {
+"lon": -3.18767,
+"lat": 55.9478
+},
+"phone": null,
+"web_address": null,
+"fax": null,
+"post_code": "EH1 1JF",
+"has_cafe": null,
+"cafe_description": null,
+"map_ref": null,
+"code": "National Museum of Scotland",
+"disabled_description": null,
+"box_office_fringe": false,
+"has_booking_over_phone": true,
+"address": "Chambers Street\nEdinburgh",
+"email": null,
+"description": null,
+"has_booking_over_web": true,
+"name": "National Museum of Scotland",
+"box_office_opening": null,
+"has_booking_over_card": true,
+"has_bar": null
+},
+"sub_venue": null,
+"url": "https://api.edinburghfestivalcity.com/events/21fd5b670c1c04cfb260a6490b4c6de7c563f24b",
+"country": null,
+"genre_tags": "Technology and Me,Human Biology,Health & Diseases,Innovation",
+"description_teaser": "Step up to explore the potential affects of humany modification technology through sensory organ devices",
+"images": {
+"8548137f8bf2e2aecc9b7bf251d4bbe4164a8a85": {
+"versions": {
+"original": {
+"height": 402,
+"width": 402,
+"mime": "image/jpeg",
+"type": "original",
+"url": "//edfestimages.s3.amazonaws.com/85/48/13/8548137f8bf2e2aecc9b7bf251d4bbe4164a8a85-original.jpg"
+},
+"small-320": {
+"height": 320,
+"width": 320,
+"mime": "image/png",
+"type": "small-320",
+"url": "//edfestimages.s3.amazonaws.com/85/48/13/8548137f8bf2e2aecc9b7bf251d4bbe4164a8a85-small-320.png"
+},
+"thumb-100": {
+"height": 100,
+"width": 100,
+"mime": "image/png",
+"type": "thumb-100",
+"url": "//edfestimages.s3.amazonaws.com/85/48/13/8548137f8bf2e2aecc9b7bf251d4bbe4164a8a85-thumb-100.png"
+},
+"square-75": {
+"height": 75,
+"width": 75,
+"mime": "image/png",
+"type": "square-75",
+"url": "//edfestimages.s3.amazonaws.com/85/48/13/8548137f8bf2e2aecc9b7bf251d4bbe4164a8a85-square-75.png"
+},
+"square-150": {
+"height": 150,
+"width": 150,
+"mime": "image/png",
+"type": "square-150",
+"url": "//edfestimages.s3.amazonaws.com/85/48/13/8548137f8bf2e2aecc9b7bf251d4bbe4164a8a85-square-150.png"
+}
+},
+"orientation": "square",
+"hash": "8548137f8bf2e2aecc9b7bf251d4bbe4164a8a85",
+"type": "thumb"
+},
+"945dd623b8bc83ba4de70b63946cf935366a2b84": {
+"versions": {
+"large-1024": {
+"height": 214,
+"width": 1024,
+"mime": "image/png",
+"type": "large-1024",
+"url": "//edfestimages.s3.amazonaws.com/94/5d/d6/945dd623b8bc83ba4de70b63946cf935366a2b84-large-1024.png"
+},
+"medium-640": {
+"height": 134,
+"width": 640,
+"mime": "image/png",
+"type": "medium-640",
+"url": "//edfestimages.s3.amazonaws.com/94/5d/d6/945dd623b8bc83ba4de70b63946cf935366a2b84-medium-640.png"
+},
+"original": {
+"height": 402,
+"width": 1921,
+"mime": "image/jpeg",
+"type": "original",
+"url": "//edfestimages.s3.amazonaws.com/94/5d/d6/945dd623b8bc83ba4de70b63946cf935366a2b84-original.jpg"
+},
+"small-320": {
+"height": 67,
+"width": 320,
+"mime": "image/png",
+"type": "small-320",
+"url": "//edfestimages.s3.amazonaws.com/94/5d/d6/945dd623b8bc83ba4de70b63946cf935366a2b84-small-320.png"
+},
+"thumb-100": {
+"height": 21,
+"width": 100,
+"mime": "image/png",
+"type": "thumb-100",
+"url": "//edfestimages.s3.amazonaws.com/94/5d/d6/945dd623b8bc83ba4de70b63946cf935366a2b84-thumb-100.png"
+},
+"square-75": {
+"height": 75,
+"width": 75,
+"mime": "image/png",
+"type": "square-75",
+"url": "//edfestimages.s3.amazonaws.com/94/5d/d6/945dd623b8bc83ba4de70b63946cf935366a2b84-square-75.png"
+},
+"square-150": {
+"height": 150,
+"width": 150,
+"mime": "image/png",
+"type": "square-150",
+"url": "//edfestimages.s3.amazonaws.com/94/5d/d6/945dd623b8bc83ba4de70b63946cf935366a2b84-square-150.png"
+}
+},
+"orientation": "landscape",
+"hash": "945dd623b8bc83ba4de70b63946cf935366a2b84",
+"type": "hero"
+}
+},
+"performances": [
+{
+"concession_family": false,
+"title": null,
+"concession": 0,
+"price": 0,
+"concession_additional": false,
+"start": "2017-04-13 10:00:00",
+"end": "2017-04-13 17:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 0,
+"price": 0,
+"concession_additional": false,
+"start": "2017-04-14 10:00:00",
+"end": "2017-04-14 17:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 0,
+"price": 0,
+"concession_additional": false,
+"start": "2017-04-15 10:00:00",
+"end": "2017-04-15 17:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 0,
+"price": 0,
+"concession_additional": false,
+"start": "2017-04-16 10:00:00",
+"end": "2017-04-16 17:00:00"
+}
+],
+"categories": {
+"keywords": [
+{
+"category": "Headings",
+"keywords": [
+"Mind & Body",
+"Technology & Engineering"
+]
+},
+{
+"category": "Phenomena",
+"keywords": [
+"The senses"
+]
+},
+{
+"category": "Specialisations",
+"keywords": [
+"Anatomy",
+"Biology"
+]
+},
+{
+"category": "Topics",
+"keywords": [
+"Nutrition"
+]
+}
+],
+"subjects": [
+"Human Biology",
+"Health & Diseases",
+"Innovation"
+],
+"strand_titles": [
+"Technology and Me"
+]
+},
+"disabled": {
+"signed_dates": null,
+"other_services_information": null,
+"captioning": null,
+"audio": null,
+"signed": null,
+"audio_dates": null,
+"other_services_dates": null,
+"captioning_dates": null,
+"other_services": null
+},
+"latitude": 55.9478,
+"longitude": -3.18767
+},
+{
+"genre": "Activity",
+"fringe_first": null,
+"performers_number": null,
+"artist_type": null,
+"sub_title": null,
+"update_times": {
+"genre": 1487595616,
+"age_category": 1487355554,
+"other": 1487595616,
+"fringe_first": 1487355554,
+"status": 1487355554,
+"web_links": 1487355554,
+"venue": 1487355554,
+"identity": 1487355554,
+"title": 1487355554,
+"description": 1487355554,
+"discounts": 1487355554,
+"images": 1489583439,
+"performances": 1490014820,
+"artist": 1487355554,
+"disabled": 1487355554
+},
+"twitter": null,
+"title": "Pop-up Science: Adventures in Virtual Land",
+"updated": "2017-03-20 13:00:20",
+"description": "<p>Meet the Mata-Mutts - cuddly space-fairing dogs who are desperate to be played with. But watch out! They have a surprise in store. Experience first-hand how it feels to be grown and shrunk by influencing of perception in virtual reality in this exhibition created by researchers at Edinburgh Napier University’s Graphics and Simulation Group.</p>",
+"discounts": {
+"two_for_one": null,
+"friends": null,
+"schools": null,
+"passport": null,
+"group": null
+},
+"festival": "Edinburgh International Science Festival",
+"year": 2017,
+"artist": null,
+"warnings": null,
+"festival_id": "science",
+"age_category": "Ages 8+",
+"non_english": null,
+"website": "http://www.sciencefestival.co.uk/event-details/pop-up-science-adventures-in-virtual-land",
+"status": "active",
+"performance_space": {
+"age_limit": null,
+"wheelchair_access": null,
+"name": null,
+"capacity": null,
+"age_limited": null
+},
+"code": "862",
+"venue": {
+"position": {
+"lon": -3.18767,
+"lat": 55.9478
+},
+"phone": null,
+"web_address": null,
+"fax": null,
+"post_code": "EH1 1JF",
+"has_cafe": null,
+"cafe_description": null,
+"map_ref": null,
+"code": "National Museum of Scotland",
+"disabled_description": null,
+"box_office_fringe": false,
+"has_booking_over_phone": true,
+"address": "Chambers Street\nEdinburgh",
+"email": null,
+"description": null,
+"has_booking_over_web": true,
+"name": "National Museum of Scotland",
+"box_office_opening": null,
+"has_booking_over_card": true,
+"has_bar": null
+},
+"sub_venue": null,
+"url": "https://api.edinburghfestivalcity.com/events/103553e59d152b6ddc9f5c02e733d1150d8f8bf2",
+"country": null,
+"genre_tags": "Our Wired World,Mind,Computing",
+"description_teaser": "Experience virtual reality like never before when your perception of size is manipulated to make you feel very tall or very small",
+"images": {
+"12ea8d937221039938361e265d7d22700d136998": {
+"versions": {
+"large-1024": {
+"height": 213,
+"width": 1024,
+"mime": "image/png",
+"type": "large-1024",
+"url": "//edfestimages.s3.amazonaws.com/12/ea/8d/12ea8d937221039938361e265d7d22700d136998-large-1024.png"
+},
+"medium-640": {
+"height": 133,
+"width": 640,
+"mime": "image/png",
+"type": "medium-640",
+"url": "//edfestimages.s3.amazonaws.com/12/ea/8d/12ea8d937221039938361e265d7d22700d136998-medium-640.png"
+},
+"original": {
+"height": 400,
+"width": 1920,
+"mime": "image/jpeg",
+"type": "original",
+"url": "//edfestimages.s3.amazonaws.com/12/ea/8d/12ea8d937221039938361e265d7d22700d136998-original.jpg"
+},
+"small-320": {
+"height": 67,
+"width": 320,
+"mime": "image/png",
+"type": "small-320",
+"url": "//edfestimages.s3.amazonaws.com/12/ea/8d/12ea8d937221039938361e265d7d22700d136998-small-320.png"
+},
+"thumb-100": {
+"height": 21,
+"width": 100,
+"mime": "image/png",
+"type": "thumb-100",
+"url": "//edfestimages.s3.amazonaws.com/12/ea/8d/12ea8d937221039938361e265d7d22700d136998-thumb-100.png"
+},
+"square-75": {
+"height": 75,
+"width": 75,
+"mime": "image/png",
+"type": "square-75",
+"url": "//edfestimages.s3.amazonaws.com/12/ea/8d/12ea8d937221039938361e265d7d22700d136998-square-75.png"
+},
+"square-150": {
+"height": 150,
+"width": 150,
+"mime": "image/png",
+"type": "square-150",
+"url": "//edfestimages.s3.amazonaws.com/12/ea/8d/12ea8d937221039938361e265d7d22700d136998-square-150.png"
+}
+},
+"orientation": "landscape",
+"hash": "12ea8d937221039938361e265d7d22700d136998",
+"type": "hero"
+},
+"ab5f452f8efa0f191dce990f736883b336a94d05": {
+"versions": {
+"medium-640": {
+"height": 640,
+"width": 640,
+"mime": "image/png",
+"type": "medium-640",
+"url": "//edfestimages.s3.amazonaws.com/ab/5f/45/ab5f452f8efa0f191dce990f736883b336a94d05-medium-640.png"
+},
+"original": {
+"height": 800,
+"width": 800,
+"mime": "image/jpeg",
+"type": "original",
+"url": "//edfestimages.s3.amazonaws.com/ab/5f/45/ab5f452f8efa0f191dce990f736883b336a94d05-original.jpg"
+},
+"small-320": {
+"height": 320,
+"width": 320,
+"mime": "image/png",
+"type": "small-320",
+"url": "//edfestimages.s3.amazonaws.com/ab/5f/45/ab5f452f8efa0f191dce990f736883b336a94d05-small-320.png"
+},
+"thumb-100": {
+"height": 100,
+"width": 100,
+"mime": "image/png",
+"type": "thumb-100",
+"url": "//edfestimages.s3.amazonaws.com/ab/5f/45/ab5f452f8efa0f191dce990f736883b336a94d05-thumb-100.png"
+},
+"square-75": {
+"height": 75,
+"width": 75,
+"mime": "image/png",
+"type": "square-75",
+"url": "//edfestimages.s3.amazonaws.com/ab/5f/45/ab5f452f8efa0f191dce990f736883b336a94d05-square-75.png"
+},
+"square-150": {
+"height": 150,
+"width": 150,
+"mime": "image/png",
+"type": "square-150",
+"url": "//edfestimages.s3.amazonaws.com/ab/5f/45/ab5f452f8efa0f191dce990f736883b336a94d05-square-150.png"
+}
+},
+"orientation": "square",
+"hash": "ab5f452f8efa0f191dce990f736883b336a94d05",
+"type": "thumb"
+}
+},
+"performances": [
+{
+"concession_family": false,
+"title": null,
+"concession": 0,
+"price": 0,
+"concession_additional": false,
+"start": "2017-04-15 10:00:00",
+"end": "2017-04-15 17:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 0,
+"price": 0,
+"concession_additional": false,
+"start": "2017-04-16 10:00:00",
+"end": "2017-04-16 17:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 0,
+"price": 0,
+"concession_additional": false,
+"start": "2017-04-13 10:00:00",
+"end": "2017-04-13 17:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 0,
+"price": 0,
+"concession_additional": false,
+"start": "2017-04-14 10:00:00",
+"end": "2017-04-14 17:00:00"
+}
+],
+"categories": {
+"keywords": [
+{
+"category": "Headings",
+"keywords": [
+"Mind & Body",
+"Technology & Engineering"
+]
+},
+{
+"category": "Phenomena",
+"keywords": [
+"Illusions",
+"The senses"
+]
+},
+{
+"category": "Topics",
+"keywords": [
+"Animals",
+"Computing"
+]
+}
+],
+"subjects": [
+"Mind",
+"Computing"
+],
+"strand_titles": [
+"Our Wired World"
+]
+},
+"disabled": {
+"signed_dates": null,
+"other_services_information": null,
+"captioning": null,
+"audio": null,
+"signed": null,
+"audio_dates": null,
+"other_services_dates": null,
+"captioning_dates": null,
+"other_services": null
+},
+"latitude": 55.9478,
+"longitude": -3.18767
+},
+{
+"genre": "Discussion",
+"fringe_first": null,
+"performers_number": null,
+"artist_type": null,
+"sub_title": null,
+"update_times": {
+"genre": 1487255891,
+"age_category": 1487242440,
+"other": 1487255891,
+"fringe_first": 1487242440,
+"status": 1487242440,
+"web_links": 1487242440,
+"venue": 1487242440,
+"identity": 1487242440,
+"title": 1487242440,
+"description": 1490014820,
+"discounts": 1487242440,
+"images": 1489583439,
+"performances": 1487242440,
+"artist": 1487242440,
+"disabled": 1487242440
+},
+"twitter": null,
+"title": "The Bleeding Edge",
+"updated": "2017-03-20 13:00:20",
+"description": "<p>Does technology turn toxic in an unequal world? Capitalism likes us to believe in the steady, inevitable march of progress but the historical record tells of innumerable roads not taken, all of which could have led to better worlds. Join author of <em>The Bleeding Edge</em> <strong>Bob Hughes</strong> as he explores the latest discoveries about the effects of social inequality on human health and our environmental impact, and traces today's ecological crisis back to the rise of the world's first elites, 5,000 years ago.</p>",
+"discounts": {
+"two_for_one": null,
+"friends": null,
+"schools": null,
+"passport": null,
+"group": null
+},
+"festival": "Edinburgh International Science Festival",
+"year": 2017,
+"artist": null,
+"warnings": null,
+"festival_id": "science",
+"age_category": "Ages 14+",
+"non_english": null,
+"website": "http://www.sciencefestival.co.uk/event-details/the-bleeding-edge",
+"status": "active",
+"performance_space": {
+"age_limit": null,
+"wheelchair_access": null,
+"name": null,
+"capacity": null,
+"age_limited": null
+},
+"code": "884",
+"venue": {
+"position": {
+"lon": -3.18228,
+"lat": 55.94
+},
+"phone": null,
+"web_address": null,
+"fax": null,
+"post_code": "EH9 1PL",
+"has_cafe": null,
+"cafe_description": null,
+"map_ref": null,
+"code": "Summerhall",
+"disabled_description": null,
+"box_office_fringe": false,
+"has_booking_over_phone": true,
+"address": "Summerhall Place\nEdinburgh",
+"email": null,
+"description": null,
+"has_booking_over_web": true,
+"name": "Summerhall",
+"box_office_opening": null,
+"has_booking_over_card": true,
+"has_bar": null
+},
+"sub_venue": null,
+"url": "https://api.edinburghfestivalcity.com/events/91158c025ceb66e48874578f9de9595b32ee9bb8",
+"country": null,
+"genre_tags": "Global Village,Health & Diseases,Innovation,Global Issues,Philosophy",
+"description_teaser": "Does technology turn toxic in an unequal world?",
+"images": {
+"94214a99a5bfa7a14254896c6ef06e54d175198e": {
+"versions": {
+"medium-640": {
+"height": 640,
+"width": 640,
+"mime": "image/png",
+"type": "medium-640",
+"url": "//edfestimages.s3.amazonaws.com/94/21/4a/94214a99a5bfa7a14254896c6ef06e54d175198e-medium-640.png"
+},
+"original": {
+"height": 800,
+"width": 800,
+"mime": "image/jpeg",
+"type": "original",
+"url": "//edfestimages.s3.amazonaws.com/94/21/4a/94214a99a5bfa7a14254896c6ef06e54d175198e-original.jpg"
+},
+"small-320": {
+"height": 320,
+"width": 320,
+"mime": "image/png",
+"type": "small-320",
+"url": "//edfestimages.s3.amazonaws.com/94/21/4a/94214a99a5bfa7a14254896c6ef06e54d175198e-small-320.png"
+},
+"thumb-100": {
+"height": 100,
+"width": 100,
+"mime": "image/png",
+"type": "thumb-100",
+"url": "//edfestimages.s3.amazonaws.com/94/21/4a/94214a99a5bfa7a14254896c6ef06e54d175198e-thumb-100.png"
+},
+"square-75": {
+"height": 75,
+"width": 75,
+"mime": "image/png",
+"type": "square-75",
+"url": "//edfestimages.s3.amazonaws.com/94/21/4a/94214a99a5bfa7a14254896c6ef06e54d175198e-square-75.png"
+},
+"square-150": {
+"height": 150,
+"width": 150,
+"mime": "image/png",
+"type": "square-150",
+"url": "//edfestimages.s3.amazonaws.com/94/21/4a/94214a99a5bfa7a14254896c6ef06e54d175198e-square-150.png"
+}
+},
+"orientation": "square",
+"hash": "94214a99a5bfa7a14254896c6ef06e54d175198e",
+"type": "thumb"
+},
+"34803cc11e06195c6f5600068f5dc6b1ae94f73f": {
+"versions": {
+"large-1024": {
+"height": 213,
+"width": 1024,
+"mime": "image/png",
+"type": "large-1024",
+"url": "//edfestimages.s3.amazonaws.com/34/80/3c/34803cc11e06195c6f5600068f5dc6b1ae94f73f-large-1024.png"
+},
+"medium-640": {
+"height": 133,
+"width": 640,
+"mime": "image/png",
+"type": "medium-640",
+"url": "//edfestimages.s3.amazonaws.com/34/80/3c/34803cc11e06195c6f5600068f5dc6b1ae94f73f-medium-640.png"
+},
+"original": {
+"height": 400,
+"width": 1920,
+"mime": "image/jpeg",
+"type": "original",
+"url": "//edfestimages.s3.amazonaws.com/34/80/3c/34803cc11e06195c6f5600068f5dc6b1ae94f73f-original.jpg"
+},
+"small-320": {
+"height": 67,
+"width": 320,
+"mime": "image/png",
+"type": "small-320",
+"url": "//edfestimages.s3.amazonaws.com/34/80/3c/34803cc11e06195c6f5600068f5dc6b1ae94f73f-small-320.png"
+},
+"thumb-100": {
+"height": 21,
+"width": 100,
+"mime": "image/png",
+"type": "thumb-100",
+"url": "//edfestimages.s3.amazonaws.com/34/80/3c/34803cc11e06195c6f5600068f5dc6b1ae94f73f-thumb-100.png"
+},
+"square-75": {
+"height": 75,
+"width": 75,
+"mime": "image/png",
+"type": "square-75",
+"url": "//edfestimages.s3.amazonaws.com/34/80/3c/34803cc11e06195c6f5600068f5dc6b1ae94f73f-square-75.png"
+},
+"square-150": {
+"height": 150,
+"width": 150,
+"mime": "image/png",
+"type": "square-150",
+"url": "//edfestimages.s3.amazonaws.com/34/80/3c/34803cc11e06195c6f5600068f5dc6b1ae94f73f-square-150.png"
+}
+},
+"orientation": "landscape",
+"hash": "34803cc11e06195c6f5600068f5dc6b1ae94f73f",
+"type": "hero"
+}
+},
+"performances": [
+{
+"concession_family": false,
+"title": null,
+"concession": 6.5,
+"price": 8.5,
+"concession_additional": false,
+"start": "2017-04-12 17:30:00",
+"end": "2017-04-12 18:30:00"
+}
+],
+"categories": {
+"keywords": [
+{
+"category": "Headings",
+"keywords": [
+"Mind & Body",
+"Society & Culture",
+"Technology & Engineering"
+]
+},
+{
+"category": "Specialisations",
+"keywords": [
+"Anthropology",
+"Ecology",
+"Mental health",
+"Sociology"
+]
+},
+{
+"category": "Topics",
+"keywords": [
+"Current research",
+"Ethics"
+]
+}
+],
+"subjects": [
+"Health & Diseases",
+"Innovation",
+"Global Issues",
+"Philosophy"
+],
+"strand_titles": [
+"Global Village"
+]
+},
+"disabled": {
+"signed_dates": null,
+"other_services_information": null,
+"captioning": null,
+"audio": null,
+"signed": null,
+"audio_dates": null,
+"other_services_dates": null,
+"captioning_dates": null,
+"other_services": null
+},
+"latitude": 55.94,
+"longitude": -3.18228
+},
+{
+"genre": "Cabaret and Variety",
+"fringe_first": false,
+"performers_number": 6,
+"artist_type": "Professional company",
+"sub_title": null,
+"update_times": {
+"genre": 1490271390,
+"age_category": 1490271390,
+"other": 1490271390,
+"fringe_first": 1490271390,
+"status": 1490271390,
+"web_links": 1490271390,
+"venue": 1490271390,
+"identity": 1490271390,
+"title": 1490271390,
+"description": 1490271390,
+"discounts": 1490271390,
+"images": 1490271390,
+"performances": 1490271390,
+"artist": 1490271390,
+"disabled": 1490271390
+},
+"twitter": "@illicitthrill",
+"title": "Illicit Thrill: Tits, Tease and Ten Pound Notes",
+"updated": "2017-03-23 12:16:30",
+"description": "The Fringe’s shadiest nightspot, the Illicit Thrill is back in the stripteasing business. Housemistress Gypsy 'Fur Coat No Knickers' Charms and trusty sidekick Savannah 'Best Butt in the Business' Duvall will guide punters through the bump'n'grindy world of tits, tease and ten pound notes. Leave your inhibitions at the door and pledge to perv responsibly as you meet the teasers who prowl the aisles plying their trade. From the Girl-Next-Door to the Bootlickers peeler of choice they have found their gimmicks – and when you flash the cash they’ll flash the...",
+"discounts": {
+"two_for_one": false,
+"friends": true,
+"schools": false,
+"passport": false,
+"group": true
+},
+"festival": "Edinburgh Festival Fringe",
+"year": 2017,
+"artist": "Gypsy Charms",
+"warnings": "contains nudity ",
+"festival_id": "fringe",
+"age_category": "18+",
+"non_english": true,
+"website": "https://www.edfringe.com/event/2017ILLICIT_VR",
+"status": "active",
+"performance_space": {
+"age_limit": "Strictly Over 18s",
+"wheelchair_access": false,
+"name": "The Ballroom",
+"capacity": 120,
+"age_limited": true
+},
+"code": "2017ILLICIT_VR",
+"venue": {
+"position": {
+"lon": -3.190629,
+"lat": 55.95367
+},
+"phone": "0131 556 7060",
+"web_address": "http://www.thevoodoorooms.com",
+"fax": null,
+"post_code": "EH2 2AA",
+"has_cafe": true,
+"cafe_description": "Award-winning cocktail bar. Contemporary Scottish cuisine.",
+"map_ref": null,
+"code": "68a",
+"disabled_description": "Limited access to some parts of venue site, Some areas not reachable by lift or level access, No wheelchair accessible toilet, No reserved accessible parking, No on street blue badge parking",
+"box_office_fringe": false,
+"has_booking_over_phone": true,
+"address": "19a West Register Street",
+"email": null,
+"description": "The Voodoo Rooms is a multi-purpose, award-winning entertainment venue, bar and restaurant with three performance spaces and five bars.",
+"has_booking_over_web": true,
+"name": "The Voodoo Rooms",
+"box_office_opening": null,
+"has_booking_over_card": true,
+"has_bar": true
+},
+"sub_venue": null,
+"url": "https://api.edinburghfestivalcity.com/events/06d543f5c35948144c03a6a7227d8c9a9687a732",
+"country": "UNITED KINGDOM - SCOTLAND",
+"genre_tags": "Burlesque,Comedy",
+"description_teaser": null,
+"images": {
+"d839bc7d361e16603ea760eb7123cef76263c4f8": {
+"versions": {
+"original": {
+"height": 250,
+"width": 250,
+"mime": "image/jpeg",
+"type": "original",
+"url": "//edfestimages.s3.amazonaws.com/d8/39/bc/d839bc7d361e16603ea760eb7123cef76263c4f8-original."
+},
+"thumb-100": {
+"height": 100,
+"width": 100,
+"mime": "image/png",
+"type": "thumb-100",
+"url": "//edfestimages.s3.amazonaws.com/d8/39/bc/d839bc7d361e16603ea760eb7123cef76263c4f8-thumb-100.png"
+},
+"square-75": {
+"height": 75,
+"width": 75,
+"mime": "image/png",
+"type": "square-75",
+"url": "//edfestimages.s3.amazonaws.com/d8/39/bc/d839bc7d361e16603ea760eb7123cef76263c4f8-square-75.png"
+},
+"square-150": {
+"height": 150,
+"width": 150,
+"mime": "image/png",
+"type": "square-150",
+"url": "//edfestimages.s3.amazonaws.com/d8/39/bc/d839bc7d361e16603ea760eb7123cef76263c4f8-square-150.png"
+}
+},
+"orientation": "square",
+"hash": "d839bc7d361e16603ea760eb7123cef76263c4f8",
+"type": "thumb"
+}
+},
+"performances": [
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 10,
+"concession_additional": false,
+"start": "2017-08-04 23:55:00",
+"end": "2017-08-05 00:55:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 10,
+"concession_additional": false,
+"start": "2017-08-05 23:55:00",
+"end": "2017-08-06 00:55:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 10,
+"concession_additional": false,
+"start": "2017-08-06 23:55:00",
+"end": "2017-08-07 00:55:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 10,
+"concession_additional": false,
+"start": "2017-08-10 23:55:00",
+"end": "2017-08-11 00:55:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 10,
+"concession_additional": false,
+"start": "2017-08-11 23:55:00",
+"end": "2017-08-12 00:55:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 10,
+"concession_additional": false,
+"start": "2017-08-12 23:55:00",
+"end": "2017-08-13 00:55:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 10,
+"concession_additional": false,
+"start": "2017-08-13 23:55:00",
+"end": "2017-08-14 00:55:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 10,
+"concession_additional": false,
+"start": "2017-08-17 23:55:00",
+"end": "2017-08-18 00:55:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 10,
+"concession_additional": false,
+"start": "2017-08-18 23:55:00",
+"end": "2017-08-19 00:55:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 10,
+"concession_additional": false,
+"start": "2017-08-19 23:55:00",
+"end": "2017-08-20 00:55:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 10,
+"concession_additional": false,
+"start": "2017-08-20 23:55:00",
+"end": "2017-08-21 00:55:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 10,
+"concession_additional": false,
+"start": "2017-08-24 23:55:00",
+"end": "2017-08-25 00:55:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 10,
+"concession_additional": false,
+"start": "2017-08-25 23:55:00",
+"end": "2017-08-26 00:55:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 10,
+"concession_additional": false,
+"start": "2017-08-26 23:55:00",
+"end": "2017-08-27 00:55:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 10,
+"concession_additional": false,
+"start": "2017-08-27 23:55:00",
+"end": "2017-08-28 00:55:00"
+}
+],
+"categories": {
+"keywords": [],
+"subjects": [],
+"strand_titles": []
+},
+"disabled": {
+"signed_dates": null,
+"other_services_information": "",
+"captioning": false,
+"audio": false,
+"signed": false,
+"audio_dates": null,
+"other_services_dates": null,
+"captioning_dates": null,
+"other_services": false
+},
+"latitude": 55.95367,
+"longitude": -3.190629
+},
+{
+"genre": "Cabaret and Variety",
+"fringe_first": false,
+"performers_number": 3,
+"artist_type": "Professional company",
+"sub_title": null,
+"update_times": {
+"genre": 1490271390,
+"age_category": 1490271390,
+"other": 1490271390,
+"fringe_first": 1490271390,
+"status": 1490271390,
+"web_links": 1490271390,
+"venue": 1490271390,
+"identity": 1490271390,
+"title": 1490271390,
+"description": 1490271390,
+"discounts": 1490271390,
+"images": 1490271390,
+"performances": 1490271390,
+"artist": 1490271390,
+"disabled": 1490271390
+},
+"twitter": "@FrankSanazi",
+"title": "Stuck in ze Bunker With You",
+"updated": "2017-03-23 12:16:30",
+"description": "The Ubermeister of Swing and charismatic leader of The Iraq Pack brings his one-man show to Edinburgh. With only his partner Diva Braun for company, he sets about winning the hearts of Western audiences with comedy classic songs like Third Reich and You've Got Me Under Berlin, as well as recently-penned extreme renditions like One for Poor Eva, and One for the Road. Frank is convinced that after so many failed world domination attempts this could finally be his year. 'Brilliantly stupid, fantastically wrong and ridiculously funny' (<i>Scotsman</i>).\r\n",
+"discounts": {
+"two_for_one": false,
+"friends": true,
+"schools": false,
+"passport": false,
+"group": true
+},
+"festival": "Edinburgh Festival Fringe",
+"year": 2017,
+"artist": "Frank Sanazi",
+"warnings": "not for the easily offended",
+"festival_id": "fringe",
+"age_category": "18+",
+"non_english": false,
+"website": "https://www.edfringe.com/event/2017STUCKIN_VR",
+"status": "active",
+"performance_space": {
+"age_limit": "Strictly Over 18s",
+"wheelchair_access": false,
+"name": "The Ballroom",
+"capacity": 120,
+"age_limited": true
+},
+"code": "2017STUCKIN_VR",
+"venue": {
+"position": {
+"lon": -3.190629,
+"lat": 55.95367
+},
+"phone": "0131 556 7060",
+"web_address": "http://www.thevoodoorooms.com",
+"fax": null,
+"post_code": "EH2 2AA",
+"has_cafe": true,
+"cafe_description": "Award-winning cocktail bar. Contemporary Scottish cuisine.",
+"map_ref": null,
+"code": "68a",
+"disabled_description": "Limited access to some parts of venue site, Some areas not reachable by lift or level access, No wheelchair accessible toilet, No reserved accessible parking, No on street blue badge parking",
+"box_office_fringe": false,
+"has_booking_over_phone": true,
+"address": "19a West Register Street",
+"email": null,
+"description": "The Voodoo Rooms is a multi-purpose, award-winning entertainment venue, bar and restaurant with three performance spaces and five bars.",
+"has_booking_over_web": true,
+"name": "The Voodoo Rooms",
+"box_office_opening": null,
+"has_booking_over_card": true,
+"has_bar": true
+},
+"sub_venue": null,
+"url": "https://api.edinburghfestivalcity.com/events/2325408c074b1ce6c0e08b794b321797289d2d11",
+"country": "UNITED KINGDOM - SCOTLAND",
+"genre_tags": "Comedy,Music",
+"description_teaser": null,
+"images": {
+"c995e248c2c82b7d8210c498ba597f87f0f14414": {
+"versions": {
+"original": {
+"height": 250,
+"width": 250,
+"mime": "image/jpeg",
+"type": "original",
+"url": "//edfestimages.s3.amazonaws.com/c9/95/e2/c995e248c2c82b7d8210c498ba597f87f0f14414-original."
+},
+"thumb-100": {
+"height": 100,
+"width": 100,
+"mime": "image/png",
+"type": "thumb-100",
+"url": "//edfestimages.s3.amazonaws.com/c9/95/e2/c995e248c2c82b7d8210c498ba597f87f0f14414-thumb-100.png"
+},
+"square-75": {
+"height": 75,
+"width": 75,
+"mime": "image/png",
+"type": "square-75",
+"url": "//edfestimages.s3.amazonaws.com/c9/95/e2/c995e248c2c82b7d8210c498ba597f87f0f14414-square-75.png"
+},
+"square-150": {
+"height": 150,
+"width": 150,
+"mime": "image/png",
+"type": "square-150",
+"url": "//edfestimages.s3.amazonaws.com/c9/95/e2/c995e248c2c82b7d8210c498ba597f87f0f14414-square-150.png"
+}
+},
+"orientation": "square",
+"hash": "c995e248c2c82b7d8210c498ba597f87f0f14414",
+"type": "thumb"
+}
+},
+"performances": [
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 12,
+"concession_additional": false,
+"start": "2017-08-04 22:30:00",
+"end": "2017-08-04 23:30:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 12,
+"concession_additional": false,
+"start": "2017-08-05 22:30:00",
+"end": "2017-08-05 23:30:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 10,
+"concession_additional": false,
+"start": "2017-08-06 22:30:00",
+"end": "2017-08-06 23:30:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 10,
+"concession_additional": false,
+"start": "2017-08-09 22:30:00",
+"end": "2017-08-09 23:30:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 10,
+"concession_additional": false,
+"start": "2017-08-10 22:30:00",
+"end": "2017-08-10 23:30:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 12,
+"concession_additional": false,
+"start": "2017-08-11 22:30:00",
+"end": "2017-08-11 23:30:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 12,
+"concession_additional": false,
+"start": "2017-08-12 22:30:00",
+"end": "2017-08-12 23:30:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 10,
+"concession_additional": false,
+"start": "2017-08-13 22:30:00",
+"end": "2017-08-13 23:30:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 12,
+"concession_additional": false,
+"start": "2017-08-18 22:30:00",
+"end": "2017-08-18 23:30:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 12,
+"concession_additional": false,
+"start": "2017-08-19 22:30:00",
+"end": "2017-08-19 23:30:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 10,
+"concession_additional": false,
+"start": "2017-08-20 22:30:00",
+"end": "2017-08-20 23:30:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 10,
+"concession_additional": false,
+"start": "2017-08-23 22:30:00",
+"end": "2017-08-23 23:30:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 10,
+"concession_additional": false,
+"start": "2017-08-24 22:30:00",
+"end": "2017-08-24 23:30:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 12,
+"concession_additional": false,
+"start": "2017-08-25 22:30:00",
+"end": "2017-08-25 23:30:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 12,
+"concession_additional": false,
+"start": "2017-08-26 22:30:00",
+"end": "2017-08-26 23:30:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 10,
+"concession_additional": false,
+"start": "2017-08-27 22:30:00",
+"end": "2017-08-27 23:30:00"
+}
+],
+"categories": {
+"keywords": [],
+"subjects": [],
+"strand_titles": []
+},
+"disabled": {
+"signed_dates": null,
+"other_services_information": "",
+"captioning": false,
+"audio": false,
+"signed": false,
+"audio_dates": null,
+"other_services_dates": null,
+"captioning_dates": null,
+"other_services": false
+},
+"latitude": 55.95367,
+"longitude": -3.190629
+},
+{
+"genre": "Theatre",
+"fringe_first": false,
+"performers_number": 15,
+"artist_type": "Amateur Company",
+"sub_title": null,
+"update_times": {
+"genre": 1490271390,
+"age_category": 1490271390,
+"other": 1490271390,
+"fringe_first": 1490271390,
+"status": 1490271390,
+"web_links": 1490271390,
+"venue": 1490271390,
+"identity": 1490271390,
+"title": 1490271390,
+"description": 1490271390,
+"discounts": 1490271390,
+"images": 1490271390,
+"performances": 1490271390,
+"artist": 1490271390,
+"disabled": 1490271390
+},
+"twitter": "@edinTheatArts",
+"title": "Improbable Fiction",
+"updated": "2017-03-23 12:16:30",
+"description": "A sharp, zany, imaginative comedy from the pen of the prolific award-winning playwright Alan Ayckbourn. Six aspiring members of the Pendon Writers’ Circle gather at the home of their chairman, Arnold, on a winter’s evening to discuss their work. While clearing up after the meeting, there is a clap of thunder, and Arnold is astounded when characters from the collective members’ fertile imagination appear before his very eyes. Quickly, he finds himself become the central character in a series of strange, mad-cap events that pitch him headlong into the realms of Victorian melodrama, detective stories and science fiction!",
+"discounts": {
+"two_for_one": true,
+"friends": true,
+"schools": false,
+"passport": false,
+"group": false
+},
+"festival": "Edinburgh Festival Fringe",
+"year": 2017,
+"artist": "Edinburgh Theatre Arts",
+"warnings": null,
+"festival_id": "fringe",
+"age_category": "12+",
+"non_english": false,
+"website": "https://www.edfringe.com/event/2017IMPROBA_SN",
+"status": "active",
+"performance_space": {
+"age_limit": null,
+"wheelchair_access": true,
+"name": "Theatre",
+"capacity": 65,
+"age_limited": false
+},
+"code": "2017IMPROBA_SN",
+"venue": {
+"position": {
+"lon": -3.22497,
+"lat": 55.958762
+},
+"phone": "07599 928 440",
+"web_address": "http://www.edinburghtheatrearts.com",
+"fax": null,
+"post_code": "EH4 1AG",
+"has_cafe": false,
+"cafe_description": "Bar refreshments served in garden during performances.",
+"map_ref": null,
+"code": "230",
+"disabled_description": "Full venue site is accessible, Lift level access to all areas, Wheelchair accessible toilet, No reserved accessible parking, On street blue badge parking",
+"box_office_fringe": false,
+"has_booking_over_phone": false,
+"address": "40 Comely Bank",
+"email": null,
+"description": "St Ninian's Hall hosts the Edinburgh Theatre Arts group and creates a uniquely intimate theatre venue. Find us only one mile north-west of the city centre. 50 yards to the east of the junction of Comely Bank Road, Orchard Brae and Crewe Road South, opposite Flora Stevenson Primary School.",
+"has_booking_over_web": true,
+"name": "St Ninian's Hall",
+"box_office_opening": null,
+"has_booking_over_card": false,
+"has_bar": true
+},
+"sub_venue": null,
+"url": "https://api.edinburghfestivalcity.com/events/2afc3acb547dce92f774248360186575e3720dba",
+"country": "UNITED KINGDOM - SCOTLAND",
+"genre_tags": "Comedy",
+"description_teaser": null,
+"images": {
+"09d843c8d5ae8b276d3b40ac81cd8f714e2c64a6": {
+"versions": {
+"original": {
+"height": 250,
+"width": 250,
+"mime": "image/jpeg",
+"type": "original",
+"url": "//edfestimages.s3.amazonaws.com/09/d8/43/09d843c8d5ae8b276d3b40ac81cd8f714e2c64a6-original."
+},
+"thumb-100": {
+"height": 100,
+"width": 100,
+"mime": "image/png",
+"type": "thumb-100",
+"url": "//edfestimages.s3.amazonaws.com/09/d8/43/09d843c8d5ae8b276d3b40ac81cd8f714e2c64a6-thumb-100.png"
+},
+"square-75": {
+"height": 75,
+"width": 75,
+"mime": "image/png",
+"type": "square-75",
+"url": "//edfestimages.s3.amazonaws.com/09/d8/43/09d843c8d5ae8b276d3b40ac81cd8f714e2c64a6-square-75.png"
+},
+"square-150": {
+"height": 150,
+"width": 150,
+"mime": "image/png",
+"type": "square-150",
+"url": "//edfestimages.s3.amazonaws.com/09/d8/43/09d843c8d5ae8b276d3b40ac81cd8f714e2c64a6-square-150.png"
+}
+},
+"orientation": "square",
+"hash": "09d843c8d5ae8b276d3b40ac81cd8f714e2c64a6",
+"type": "thumb"
+}
+},
+"performances": [
+{
+"concession_family": false,
+"title": "2 for 1",
+"concession": 10,
+"price": 12,
+"concession_additional": false,
+"start": "2017-08-07 19:30:00",
+"end": "2017-08-07 22:00:00"
+},
+{
+"concession_family": false,
+"title": "2 for 1",
+"concession": 10,
+"price": 12,
+"concession_additional": false,
+"start": "2017-08-08 19:30:00",
+"end": "2017-08-08 22:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 10,
+"price": 12,
+"concession_additional": false,
+"start": "2017-08-09 19:30:00",
+"end": "2017-08-09 22:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 10,
+"price": 12,
+"concession_additional": false,
+"start": "2017-08-10 19:30:00",
+"end": "2017-08-10 22:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 10,
+"price": 12,
+"concession_additional": false,
+"start": "2017-08-11 19:30:00",
+"end": "2017-08-11 22:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 10,
+"price": 12,
+"concession_additional": false,
+"start": "2017-08-12 14:30:00",
+"end": "2017-08-12 17:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 10,
+"price": 12,
+"concession_additional": false,
+"start": "2017-08-12 19:30:00",
+"end": "2017-08-12 22:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 10,
+"price": 12,
+"concession_additional": false,
+"start": "2017-08-14 19:30:00",
+"end": "2017-08-14 22:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 10,
+"price": 12,
+"concession_additional": false,
+"start": "2017-08-15 19:30:00",
+"end": "2017-08-15 22:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 10,
+"price": 12,
+"concession_additional": false,
+"start": "2017-08-16 19:30:00",
+"end": "2017-08-16 22:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 10,
+"price": 12,
+"concession_additional": false,
+"start": "2017-08-18 19:30:00",
+"end": "2017-08-18 22:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 10,
+"price": 12,
+"concession_additional": false,
+"start": "2017-08-19 14:30:00",
+"end": "2017-08-19 17:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 10,
+"price": 12,
+"concession_additional": false,
+"start": "2017-08-19 19:30:00",
+"end": "2017-08-19 22:00:00"
+}
+],
+"categories": {
+"keywords": [],
+"subjects": [],
+"strand_titles": []
+},
+"disabled": {
+"signed_dates": null,
+"other_services_information": "",
+"captioning": false,
+"audio": false,
+"signed": false,
+"audio_dates": null,
+"other_services_dates": null,
+"captioning_dates": null,
+"other_services": false
+},
+"latitude": 55.958762,
+"longitude": -3.22497
+},
+{
+"genre": "Music",
+"fringe_first": false,
+"performers_number": 1,
+"artist_type": "Professional company",
+"sub_title": null,
+"update_times": {
+"genre": 1490271390,
+"age_category": 1490271390,
+"other": 1490271390,
+"fringe_first": 1490271390,
+"status": 1490271390,
+"web_links": 1490271390,
+"venue": 1490271390,
+"identity": 1490271390,
+"title": 1490271390,
+"description": 1490271390,
+"discounts": 1490271390,
+"images": 1490271390,
+"performances": 1490271390,
+"artist": 1490271390,
+"disabled": 1490271390
+},
+"twitter": null,
+"title": "Piano Masterworks 2017",
+"updated": "2017-03-23 12:16:30",
+"description": "New Zealand pianist Charles Whitehead returns to the Fringe with a compelling programme of classical masterworks from Schumann's Fantasie, Op.17, to Stravinsky's Petrouchka Suite. \r\n",
+"discounts": {
+"two_for_one": false,
+"friends": false,
+"schools": false,
+"passport": false,
+"group": false
+},
+"festival": "Edinburgh Festival Fringe",
+"year": 2017,
+"artist": "Charles Whitehead",
+"warnings": null,
+"festival_id": "fringe",
+"age_category": "U",
+"non_english": true,
+"website": "https://www.edfringe.com/event/2017PIANOMA_SE",
+"status": "active",
+"performance_space": {
+"age_limit": null,
+"wheelchair_access": true,
+"name": "St Andrew's and St George's West",
+"capacity": 350,
+"age_limited": false
+},
+"code": "2017PIANOMA_SE",
+"venue": {
+"position": {
+"lon": -3.195866,
+"lat": 55.954402
+},
+"phone": "0131 225 3847",
+"web_address": "http://www.stagw.org.uk",
+"fax": null,
+"post_code": "EH2 2PA",
+"has_cafe": true,
+"cafe_description": "Snacks and light lunches available 10:00 to 16:00, Monday to Saturday. Refreshments available during performance intervals.",
+"map_ref": null,
+"code": "111",
+"disabled_description": "Limited access to some parts of venue site, Some areas not reachable by lift or level access, Wheelchair accessible toilet, No reserved accessible parking, On street blue badge parking, Assistance dogs welcome in all areas. Lift access to cafe and toilets",
+"box_office_fringe": false,
+"has_booking_over_phone": true,
+"address": "13 George Street",
+"email": null,
+"description": "A beautiful, easily accessible 18th century New Town church, which hosts a variety of musical performances - from soloists to choirs, instrumentalists to small orchestras and bands in all musical genres: classical, folk, jazz, songs from the shows, opera, world music.  Enjoy light lunches and snacks in the Undercroft cafe, or sit and admire the newly refurbished building.",
+"has_booking_over_web": true,
+"name": "St Andrew's and St George's West, George St",
+"box_office_opening": null,
+"has_booking_over_card": true,
+"has_bar": false
+},
+"sub_venue": null,
+"url": "https://api.edinburghfestivalcity.com/events/67a0280ecac15629eb433aadf0b69f4d627390b7",
+"country": "UNITED STATES",
+"genre_tags": "Classical",
+"description_teaser": null,
+"images": {
+"4143909f9c0f6b5f4a3f5a1f5dc3f86cad834fac": {
+"versions": {
+"original": {
+"height": 250,
+"width": 250,
+"mime": "image/jpeg",
+"type": "original",
+"url": "//edfestimages.s3.amazonaws.com/41/43/90/4143909f9c0f6b5f4a3f5a1f5dc3f86cad834fac-original."
+},
+"thumb-100": {
+"height": 100,
+"width": 100,
+"mime": "image/png",
+"type": "thumb-100",
+"url": "//edfestimages.s3.amazonaws.com/41/43/90/4143909f9c0f6b5f4a3f5a1f5dc3f86cad834fac-thumb-100.png"
+},
+"square-75": {
+"height": 75,
+"width": 75,
+"mime": "image/png",
+"type": "square-75",
+"url": "//edfestimages.s3.amazonaws.com/41/43/90/4143909f9c0f6b5f4a3f5a1f5dc3f86cad834fac-square-75.png"
+},
+"square-150": {
+"height": 150,
+"width": 150,
+"mime": "image/png",
+"type": "square-150",
+"url": "//edfestimages.s3.amazonaws.com/41/43/90/4143909f9c0f6b5f4a3f5a1f5dc3f86cad834fac-square-150.png"
+}
+},
+"orientation": "square",
+"hash": "4143909f9c0f6b5f4a3f5a1f5dc3f86cad834fac",
+"type": "thumb"
+}
+},
+"performances": [
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 9,
+"concession_additional": false,
+"start": "2017-08-14 19:30:00",
+"end": "2017-08-14 21:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 9,
+"concession_additional": false,
+"start": "2017-08-16 19:30:00",
+"end": "2017-08-16 21:00:00"
+}
+],
+"categories": {
+"keywords": [],
+"subjects": [],
+"strand_titles": []
+},
+"disabled": {
+"signed_dates": null,
+"other_services_information": "",
+"captioning": false,
+"audio": false,
+"signed": false,
+"audio_dates": null,
+"other_services_dates": null,
+"captioning_dates": null,
+"other_services": false
+},
+"latitude": 55.954402,
+"longitude": -3.195866
+},
+{
+"genre": "Cabaret and Variety",
+"fringe_first": false,
+"performers_number": 15,
+"artist_type": "Professional company",
+"sub_title": null,
+"update_times": {
+"genre": 1490271390,
+"age_category": 1490271390,
+"other": 1490271390,
+"fringe_first": 1490271390,
+"status": 1490271390,
+"web_links": 1490271390,
+"venue": 1490271390,
+"identity": 1490271390,
+"title": 1490271390,
+"description": 1490271390,
+"discounts": 1490271390,
+"images": 1490271390,
+"performances": 1490271390,
+"artist": 1490271390,
+"disabled": 1490271390
+},
+"twitter": "@vivelecabaret",
+"title": "Vive La Variete",
+"updated": "2017-03-23 12:16:30",
+"description": "Vaudeville, comedy and cabaret are all on the menu in a five-star feast of first-rate fun. Vive La Variete gathers performers from all around the world to create a dazzling spectacle that is guaranteed to entertain and never fails to please. No smoke. No mirrors. A rip-roaring show with thrilling new guests every night. ‘Endlessly enjoyable’ (<i>Scotsman</i>), 'Vive La Variete is still the original – and still the best' ***** (EdinburghSpotlight.com).",
+"discounts": {
+"two_for_one": true,
+"friends": true,
+"schools": false,
+"passport": false,
+"group": true
+},
+"festival": "Edinburgh Festival Fringe",
+"year": 2017,
+"artist": "Blond Ambition Productions",
+"warnings": null,
+"festival_id": "fringe",
+"age_category": "18+",
+"non_english": false,
+"website": "https://www.edfringe.com/event/2017VIVELAV_VR",
+"status": "active",
+"performance_space": {
+"age_limit": "Strictly Over 18s",
+"wheelchair_access": false,
+"name": "The Ballroom",
+"capacity": 120,
+"age_limited": true
+},
+"code": "2017VIVELAV_VR",
+"venue": {
+"position": {
+"lon": -3.190629,
+"lat": 55.95367
+},
+"phone": "0131 556 7060",
+"web_address": "http://www.thevoodoorooms.com",
+"fax": null,
+"post_code": "EH2 2AA",
+"has_cafe": true,
+"cafe_description": "Award-winning cocktail bar. Contemporary Scottish cuisine.",
+"map_ref": null,
+"code": "68a",
+"disabled_description": "Limited access to some parts of venue site, Some areas not reachable by lift or level access, No wheelchair accessible toilet, No reserved accessible parking, No on street blue badge parking",
+"box_office_fringe": false,
+"has_booking_over_phone": true,
+"address": "19a West Register Street",
+"email": null,
+"description": "The Voodoo Rooms is a multi-purpose, award-winning entertainment venue, bar and restaurant with three performance spaces and five bars.",
+"has_booking_over_web": true,
+"name": "The Voodoo Rooms",
+"box_office_opening": null,
+"has_booking_over_card": true,
+"has_bar": true
+},
+"sub_venue": null,
+"url": "https://api.edinburghfestivalcity.com/events/7571b0629c4435f9a8a52ac0732b4d4d0155b90b",
+"country": "UNITED KINGDOM - SCOTLAND",
+"genre_tags": "Comedy,Revue",
+"description_teaser": null,
+"images": {
+"ab682dfb109a2d8cf155cd29639ce9bb421fa6c4": {
+"versions": {
+"original": {
+"height": 250,
+"width": 250,
+"mime": "image/jpeg",
+"type": "original",
+"url": "//edfestimages.s3.amazonaws.com/ab/68/2d/ab682dfb109a2d8cf155cd29639ce9bb421fa6c4-original."
+},
+"thumb-100": {
+"height": 100,
+"width": 100,
+"mime": "image/png",
+"type": "thumb-100",
+"url": "//edfestimages.s3.amazonaws.com/ab/68/2d/ab682dfb109a2d8cf155cd29639ce9bb421fa6c4-thumb-100.png"
+},
+"square-75": {
+"height": 75,
+"width": 75,
+"mime": "image/png",
+"type": "square-75",
+"url": "//edfestimages.s3.amazonaws.com/ab/68/2d/ab682dfb109a2d8cf155cd29639ce9bb421fa6c4-square-75.png"
+},
+"square-150": {
+"height": 150,
+"width": 150,
+"mime": "image/png",
+"type": "square-150",
+"url": "//edfestimages.s3.amazonaws.com/ab/68/2d/ab682dfb109a2d8cf155cd29639ce9bb421fa6c4-square-150.png"
+}
+},
+"orientation": "square",
+"hash": "ab682dfb109a2d8cf155cd29639ce9bb421fa6c4",
+"type": "thumb"
+}
+},
+"performances": [
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 10,
+"concession_additional": false,
+"start": "2017-08-04 19:50:00",
+"end": "2017-08-04 20:50:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 10,
+"concession_additional": false,
+"start": "2017-08-05 19:50:00",
+"end": "2017-08-05 20:50:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 10,
+"concession_additional": false,
+"start": "2017-08-06 19:50:00",
+"end": "2017-08-06 20:50:00"
+},
+{
+"concession_family": false,
+"title": "2 for 1",
+"concession": false,
+"price": 10,
+"concession_additional": false,
+"start": "2017-08-08 19:50:00",
+"end": "2017-08-08 20:50:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 10,
+"concession_additional": false,
+"start": "2017-08-09 19:50:00",
+"end": "2017-08-09 20:50:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 10,
+"concession_additional": false,
+"start": "2017-08-10 19:50:00",
+"end": "2017-08-10 20:50:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 10,
+"concession_additional": false,
+"start": "2017-08-11 19:50:00",
+"end": "2017-08-11 20:50:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 10,
+"concession_additional": false,
+"start": "2017-08-12 19:50:00",
+"end": "2017-08-12 20:50:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 10,
+"concession_additional": false,
+"start": "2017-08-13 19:50:00",
+"end": "2017-08-13 20:50:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 10,
+"concession_additional": false,
+"start": "2017-08-15 19:50:00",
+"end": "2017-08-15 20:50:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 10,
+"concession_additional": false,
+"start": "2017-08-16 19:50:00",
+"end": "2017-08-16 20:50:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 10,
+"concession_additional": false,
+"start": "2017-08-17 19:50:00",
+"end": "2017-08-17 20:50:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 10,
+"concession_additional": false,
+"start": "2017-08-18 19:50:00",
+"end": "2017-08-18 20:50:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 10,
+"concession_additional": false,
+"start": "2017-08-19 19:50:00",
+"end": "2017-08-19 20:50:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 10,
+"concession_additional": false,
+"start": "2017-08-20 19:50:00",
+"end": "2017-08-20 20:50:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 10,
+"concession_additional": false,
+"start": "2017-08-22 19:50:00",
+"end": "2017-08-22 20:50:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 10,
+"concession_additional": false,
+"start": "2017-08-23 19:50:00",
+"end": "2017-08-23 20:50:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 10,
+"concession_additional": false,
+"start": "2017-08-24 19:50:00",
+"end": "2017-08-24 20:50:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 10,
+"concession_additional": false,
+"start": "2017-08-25 19:50:00",
+"end": "2017-08-25 20:50:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 10,
+"concession_additional": false,
+"start": "2017-08-26 19:50:00",
+"end": "2017-08-26 20:50:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 10,
+"concession_additional": false,
+"start": "2017-08-27 19:50:00",
+"end": "2017-08-27 20:50:00"
+}
+],
+"categories": {
+"keywords": [],
+"subjects": [],
+"strand_titles": []
+},
+"disabled": {
+"signed_dates": null,
+"other_services_information": "",
+"captioning": false,
+"audio": false,
+"signed": false,
+"audio_dates": null,
+"other_services_dates": null,
+"captioning_dates": null,
+"other_services": false
+},
+"latitude": 55.95367,
+"longitude": -3.190629
+},
+{
+"genre": "Children's Shows",
+"fringe_first": false,
+"performers_number": 10,
+"artist_type": "Professional company",
+"sub_title": null,
+"update_times": {
+"genre": 1490271390,
+"age_category": 1490271390,
+"other": 1490271390,
+"fringe_first": 1490271390,
+"status": 1490271390,
+"web_links": 1490271390,
+"venue": 1490271390,
+"identity": 1490271390,
+"title": 1490271390,
+"description": 1490271390,
+"discounts": 1490271390,
+"images": 1490271390,
+"performances": 1490271390,
+"artist": 1490271390,
+"disabled": 1490271390
+},
+"twitter": null,
+"title": "Kids Do Forth on the Fringe",
+"updated": "2017-03-23 12:16:30",
+"description": "Returning for a fifth year, Kids Do Forth on the Fringe presents some of the best names in children's entertainment. Hosted by Bec Hill, full line up at forthone.com",
+"discounts": {
+"two_for_one": false,
+"friends": false,
+"schools": false,
+"passport": false,
+"group": false
+},
+"festival": "Edinburgh Festival Fringe",
+"year": 2017,
+"artist": "Radio Forth Ltd",
+"warnings": null,
+"festival_id": "fringe",
+"age_category": "U",
+"non_english": false,
+"website": "https://www.edfringe.com/event/2017KIDSDOF_GC",
+"status": "active",
+"performance_space": {
+"age_limit": "Children (up to age of 15 years) are permitted in the building  until midnight with a valid ticket to an age appropriate show. Young People (aged 16 & 17 years) are permitted in the building  until 3am with a valid ticket to an age appropriate show. Children and Young People will be allowed access to all public parts of the premises but not at or immediately adjacent to the bar. ",
+"wheelchair_access": true,
+"name": "Debating Hall",
+"capacity": 355,
+"age_limited": true
+},
+"code": "2017KIDSDOF_GC",
+"venue": {
+"position": {
+"lon": -3.188612,
+"lat": 55.945121
+},
+"phone": "0131 622 6552",
+"web_address": "http://www.gildedballoon.co.uk",
+"fax": null,
+"post_code": "EH8 9AJ",
+"has_cafe": true,
+"cafe_description": "Bars and cafe open all day serving wide selection of food and drink. Relax in the beer garden including juice bar and food area.",
+"map_ref": null,
+"code": "14",
+"disabled_description": "Limited access to some parts of venue site, Some areas not reachable by lift or level access, Wheelchair accessible toilet, No reserved accessible parking, On street blue badge parking, Assistance dogs welcome in all areas. The building is accessed by 8 steps or an external wheelchair lift",
+"box_office_fringe": true,
+"has_booking_over_phone": true,
+"address": "Teviot Row House",
+"email": null,
+"description": "An exciting, vibrant, neo-gothic mini-castle housing nine performance spaces and seven bars including the exclusive roof top bar, The Loft. A must for all Fringe-goers. A massive mini-Fringe under one roof, this iconic venue has spawned the best of the best on the Fringe! All spaces, the café and all seven bars are wheelchair accessible, with the exception of the Balcony and Billiard Rooms. Tickets available 24-hours online!",
+"has_booking_over_web": true,
+"name": "Gilded Balloon Teviot",
+"box_office_opening": null,
+"has_booking_over_card": true,
+"has_bar": true
+},
+"sub_venue": null,
+"url": "https://api.edinburghfestivalcity.com/events/9b59b21bb7c32c93ae38bd9f23d07f9d91b39c06",
+"country": "UNITED KINGDOM - SCOTLAND",
+"genre_tags": "Children's,Family",
+"description_teaser": null,
+"images": {
+"739e8f124e86dbd95cc42618fb1f765fc377feb6": {
+"versions": {
+"original": {
+"height": 250,
+"width": 250,
+"mime": "image/jpeg",
+"type": "original",
+"url": "//edfestimages.s3.amazonaws.com/73/9e/8f/739e8f124e86dbd95cc42618fb1f765fc377feb6-original."
+},
+"thumb-100": {
+"height": 100,
+"width": 100,
+"mime": "image/png",
+"type": "thumb-100",
+"url": "//edfestimages.s3.amazonaws.com/73/9e/8f/739e8f124e86dbd95cc42618fb1f765fc377feb6-thumb-100.png"
+},
+"square-75": {
+"height": 75,
+"width": 75,
+"mime": "image/png",
+"type": "square-75",
+"url": "//edfestimages.s3.amazonaws.com/73/9e/8f/739e8f124e86dbd95cc42618fb1f765fc377feb6-square-75.png"
+},
+"square-150": {
+"height": 150,
+"width": 150,
+"mime": "image/png",
+"type": "square-150",
+"url": "//edfestimages.s3.amazonaws.com/73/9e/8f/739e8f124e86dbd95cc42618fb1f765fc377feb6-square-150.png"
+}
+},
+"orientation": "square",
+"hash": "739e8f124e86dbd95cc42618fb1f765fc377feb6",
+"type": "thumb"
+}
+},
+"performances": [
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 10,
+"concession_additional": false,
+"start": "2017-08-11 10:00:00",
+"end": "2017-08-11 11:15:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 10,
+"concession_additional": false,
+"start": "2017-08-12 10:00:00",
+"end": "2017-08-12 11:15:00"
+}
+],
+"categories": {
+"keywords": [],
+"subjects": [],
+"strand_titles": []
+},
+"disabled": {
+"signed_dates": null,
+"other_services_information": "",
+"captioning": false,
+"audio": false,
+"signed": false,
+"audio_dates": null,
+"other_services_dates": null,
+"captioning_dates": null,
+"other_services": false
+},
+"latitude": 55.945121,
+"longitude": -3.188612
+},
+{
+"genre": "Music",
+"fringe_first": false,
+"performers_number": 2,
+"artist_type": "Professional company",
+"sub_title": null,
+"update_times": {
+"genre": 1490271390,
+"age_category": 1490271390,
+"other": 1490271390,
+"fringe_first": 1490271390,
+"status": 1490271390,
+"web_links": 1490271390,
+"venue": 1490271390,
+"identity": 1490271390,
+"title": 1490271390,
+"description": 1490271390,
+"discounts": 1490271390,
+"images": 1490271390,
+"performances": 1490271390,
+"artist": 1490271390,
+"disabled": 1490271390
+},
+"twitter": null,
+"title": "Glenbervie Folk Duo",
+"updated": "2017-03-23 12:16:30",
+"description": "Neil and Kathryn offer a unique blending of Scottish smallpipes, clarinet, vocals, guitar, whistles and maybe Highland pipes. We play traditional material dating from the 15th century to the present day. Clarinet and smallpipes are a combination seldom heard, but the sound is mellow and haunting. The acoustics at St Marks afford an opportunity to hear this blend at its very finest.",
+"discounts": {
+"two_for_one": false,
+"friends": true,
+"schools": false,
+"passport": false,
+"group": true
+},
+"festival": "Edinburgh Festival Fringe",
+"year": 2017,
+"artist": "Glenbervie Folk Duo",
+"warnings": null,
+"festival_id": "fringe",
+"age_category": "U",
+"non_english": true,
+"website": "https://www.edfringe.com/event/2017GLENBER_AAQ",
+"status": "active",
+"performance_space": {
+"age_limit": null,
+"wheelchair_access": null,
+"name": "Church",
+"capacity": 200,
+"age_limited": false
+},
+"code": "2017GLENBER_AAQ",
+"venue": {
+"position": {
+"lon": -3.203677,
+"lat": 55.948046
+},
+"phone": "0131 226 0000",
+"web_address": null,
+"fax": null,
+"post_code": "EH1 2DP",
+"has_cafe": false,
+"cafe_description": null,
+"map_ref": null,
+"code": "125",
+"disabled_description": "Full venue site is accessible, Lift level access to all areas, Wheelchair accessible toilet, No reserved accessible parking, On street blue badge parking, Assistance dogs welcome in all areas",
+"box_office_fringe": false,
+"has_booking_over_phone": false,
+"address": "7 Castle Terrace",
+"email": null,
+"description": "Great central setting and performer friendly atmosphere.",
+"has_booking_over_web": false,
+"name": "artSpace@StMarks",
+"box_office_opening": null,
+"has_booking_over_card": false,
+"has_bar": false
+},
+"sub_venue": null,
+"url": "https://api.edinburghfestivalcity.com/events/bc632cff51061720d7623be7b420b9abf3fac571",
+"country": "UNITED KINGDOM - SCOTLAND",
+"genre_tags": "Folk,Acoustic",
+"description_teaser": null,
+"images": {
+"a7aa6d6f0036475e4131e48a5432e3a6db877f0b": {
+"versions": {
+"original": {
+"height": 250,
+"width": 250,
+"mime": "image/jpeg",
+"type": "original",
+"url": "//edfestimages.s3.amazonaws.com/a7/aa/6d/a7aa6d6f0036475e4131e48a5432e3a6db877f0b-original."
+},
+"thumb-100": {
+"height": 100,
+"width": 100,
+"mime": "image/png",
+"type": "thumb-100",
+"url": "//edfestimages.s3.amazonaws.com/a7/aa/6d/a7aa6d6f0036475e4131e48a5432e3a6db877f0b-thumb-100.png"
+},
+"square-75": {
+"height": 75,
+"width": 75,
+"mime": "image/png",
+"type": "square-75",
+"url": "//edfestimages.s3.amazonaws.com/a7/aa/6d/a7aa6d6f0036475e4131e48a5432e3a6db877f0b-square-75.png"
+},
+"square-150": {
+"height": 150,
+"width": 150,
+"mime": "image/png",
+"type": "square-150",
+"url": "//edfestimages.s3.amazonaws.com/a7/aa/6d/a7aa6d6f0036475e4131e48a5432e3a6db877f0b-square-150.png"
+}
+},
+"orientation": "square",
+"hash": "a7aa6d6f0036475e4131e48a5432e3a6db877f0b",
+"type": "thumb"
+}
+},
+"performances": [
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 10,
+"concession_additional": 8,
+"start": "2017-08-07 18:30:00",
+"end": "2017-08-07 19:30:00"
+}
+],
+"categories": {
+"keywords": [],
+"subjects": [],
+"strand_titles": []
+},
+"disabled": {
+"signed_dates": null,
+"other_services_information": "",
+"captioning": false,
+"audio": false,
+"signed": false,
+"audio_dates": null,
+"other_services_dates": null,
+"captioning_dates": null,
+"other_services": false
+},
+"latitude": 55.948046,
+"longitude": -3.203677
+},
+{
+"genre": "Musicals and Opera",
+"fringe_first": false,
+"performers_number": 25,
+"artist_type": "Amateur Company",
+"sub_title": null,
+"update_times": {
+"genre": 1490271390,
+"age_category": 1490271390,
+"other": 1490271390,
+"fringe_first": 1490271390,
+"status": 1490271390,
+"web_links": 1490271390,
+"venue": 1490271390,
+"identity": 1490271390,
+"title": 1490271390,
+"description": 1490271390,
+"discounts": 1490271390,
+"images": 1490271390,
+"performances": 1490271390,
+"artist": 1490271390,
+"disabled": 1490271390
+},
+"twitter": "@carcrashprod",
+"title": "American Idiot",
+"updated": "2017-03-23 12:16:30",
+"description": "The sell-out 2016 production based on the music of Green Day returns to the Edinburgh Fringe for 2017. Featuring a cast from all over Scotland, the show follows three boys in their struggle to start an adult life in a post 9/11 world. With hit songs such as Holiday, When September Ends, Boulevard of Broken Dreams, 21 Guns and of course American Idiot, the high energy show keeps you singing along to its dark story. This show is not to be missed!",
+"discounts": {
+"two_for_one": false,
+"friends": false,
+"schools": false,
+"passport": false,
+"group": false
+},
+"festival": "Edinburgh Festival Fringe",
+"year": 2017,
+"artist": "Car Crash Productions",
+"warnings": "This show contains adult themes & strong language.",
+"festival_id": "fringe",
+"age_category": "14+",
+"non_english": false,
+"website": "https://www.edfringe.com/event/2017AMERICA_M7",
+"status": "active",
+"performance_space": {
+"age_limit": null,
+"wheelchair_access": false,
+"name": "Jade Studio",
+"capacity": 60,
+"age_limited": false
+},
+"code": "2017AMERICA_M7",
+"venue": {
+"position": {
+"lon": -3.181947,
+"lat": 55.957158
+},
+"phone": "0131 557 2124",
+"web_address": "http://www.greensidevenue.co.uk",
+"fax": null,
+"post_code": "EH7 5AB",
+"has_cafe": true,
+"cafe_description": "Take a seat and relax in our courtyard cafe bar serving fantastic value drinks and snacks!",
+"map_ref": null,
+"code": "231",
+"disabled_description": "Access to main Studio is down 16 stone steps. Staff are trained and more than happy to assist audience down steps where appropriate. Limited access to some parts of venue site, Some areas not reachable by lift or level access, No wheelchair accessible toilet, No reserved accessible parking, On street blue badge parking, Assistance dogs welcome in all areas",
+"box_office_fringe": true,
+"has_booking_over_phone": true,
+"address": "1b Royal Terrace",
+"email": null,
+"description": "Royal Terrace is special. It is a hidden gem – it’s '...one of the most charming venues at the Fringe...' so Lyn Gardner said and we like to think it is too.",
+"has_booking_over_web": true,
+"name": "Greenside @ Royal Terrace",
+"box_office_opening": null,
+"has_booking_over_card": false,
+"has_bar": true
+},
+"sub_venue": null,
+"url": "https://api.edinburghfestivalcity.com/events/d1db6ce7eeb63f39c53d5f8bba4f3562b06ab5c3",
+"country": "UNITED KINGDOM - SCOTLAND",
+"genre_tags": "Musical theatre,Rock",
+"description_teaser": null,
+"images": {
+"c44ca1d91f84f8108b8ece43bf964a90ff4940a8": {
+"versions": {
+"original": {
+"height": 250,
+"width": 250,
+"mime": "image/jpeg",
+"type": "original",
+"url": "//edfestimages.s3.amazonaws.com/c4/4c/a1/c44ca1d91f84f8108b8ece43bf964a90ff4940a8-original."
+},
+"thumb-100": {
+"height": 100,
+"width": 100,
+"mime": "image/png",
+"type": "thumb-100",
+"url": "//edfestimages.s3.amazonaws.com/c4/4c/a1/c44ca1d91f84f8108b8ece43bf964a90ff4940a8-thumb-100.png"
+},
+"square-75": {
+"height": 75,
+"width": 75,
+"mime": "image/png",
+"type": "square-75",
+"url": "//edfestimages.s3.amazonaws.com/c4/4c/a1/c44ca1d91f84f8108b8ece43bf964a90ff4940a8-square-75.png"
+},
+"square-150": {
+"height": 150,
+"width": 150,
+"mime": "image/png",
+"type": "square-150",
+"url": "//edfestimages.s3.amazonaws.com/c4/4c/a1/c44ca1d91f84f8108b8ece43bf964a90ff4940a8-square-150.png"
+}
+},
+"orientation": "square",
+"hash": "c44ca1d91f84f8108b8ece43bf964a90ff4940a8",
+"type": "thumb"
+}
+},
+"performances": [
+{
+"concession_family": false,
+"title": "PREVIEW",
+"concession": false,
+"price": 10,
+"concession_additional": false,
+"start": "2017-08-04 19:45:00",
+"end": "2017-08-04 21:30:00"
+},
+{
+"concession_family": false,
+"title": "PREVIEW",
+"concession": false,
+"price": 10,
+"concession_additional": false,
+"start": "2017-08-05 19:45:00",
+"end": "2017-08-05 21:30:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 14,
+"concession_additional": false,
+"start": "2017-08-07 19:45:00",
+"end": "2017-08-07 21:30:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 14,
+"concession_additional": false,
+"start": "2017-08-08 19:45:00",
+"end": "2017-08-08 21:30:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 14,
+"concession_additional": false,
+"start": "2017-08-09 19:45:00",
+"end": "2017-08-09 21:30:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 14,
+"concession_additional": false,
+"start": "2017-08-10 19:45:00",
+"end": "2017-08-10 21:30:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 14,
+"concession_additional": false,
+"start": "2017-08-11 19:45:00",
+"end": "2017-08-11 21:30:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 14,
+"concession_additional": false,
+"start": "2017-08-12 19:45:00",
+"end": "2017-08-12 21:30:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 14,
+"concession_additional": false,
+"start": "2017-08-14 19:45:00",
+"end": "2017-08-14 21:30:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 14,
+"concession_additional": false,
+"start": "2017-08-15 19:45:00",
+"end": "2017-08-15 21:30:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 14,
+"concession_additional": false,
+"start": "2017-08-16 19:45:00",
+"end": "2017-08-16 21:30:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 14,
+"concession_additional": false,
+"start": "2017-08-17 19:45:00",
+"end": "2017-08-17 21:30:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 14,
+"concession_additional": false,
+"start": "2017-08-18 19:45:00",
+"end": "2017-08-18 21:30:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 14,
+"concession_additional": false,
+"start": "2017-08-19 19:45:00",
+"end": "2017-08-19 21:30:00"
+}
+],
+"categories": {
+"keywords": [],
+"subjects": [],
+"strand_titles": []
+},
+"disabled": {
+"signed_dates": null,
+"other_services_information": "",
+"captioning": false,
+"audio": false,
+"signed": false,
+"audio_dates": null,
+"other_services_dates": null,
+"captioning_dates": null,
+"other_services": false
+},
+"latitude": 55.957158,
+"longitude": -3.181947
+},
+{
+"genre": "Musicals and Opera",
+"fringe_first": false,
+"performers_number": 40,
+"artist_type": "Semi-professional company",
+"sub_title": null,
+"update_times": {
+"genre": 1488456933,
+"age_category": 1488456933,
+"other": 1488456933,
+"fringe_first": 1488456933,
+"status": 1488456933,
+"web_links": 1488456933,
+"venue": 1488456933,
+"identity": 1488456933,
+"title": 1488456933,
+"description": 1488456933,
+"discounts": 1488456933,
+"images": 1488456933,
+"performances": 1488456933,
+"artist": 1488456933,
+"disabled": 1488456933
+},
+"twitter": "@PindarTP",
+"title": "Spring Awakening ",
+"updated": "2017-03-02 12:15:33",
+"description": "Set in 1800 Germany where the Bible and the word of God ruled, Spring Awakening tells the beautiful and tragic stories of young adolescents exploring their desires, coming to terms with sexuality and living in a society which condemns freedom of speech. Told through a stunning score, and powerful rock songs; Spring Awakening is gritty, dark and intense. After numerous four and five star reviews from their West London run in 2016, Pindar Theatre Performers production of Spring Awakening is not one to be missed this year in Edinburgh.\r\n",
+"discounts": {
+"two_for_one": false,
+"friends": true,
+"schools": false,
+"passport": false,
+"group": true
+},
+"festival": "Edinburgh Festival Fringe",
+"year": 2017,
+"artist": "Pindar Theatre Performers",
+"warnings": "Contains themes of suicide, sex and abortion as well as strong language. ",
+"festival_id": "fringe",
+"age_category": "14+",
+"non_english": true,
+"website": "https://www.edfringe.com/event/2017SPRINGA_M7",
+"status": "active",
+"performance_space": {
+"age_limit": null,
+"wheelchair_access": false,
+"name": "Jade Studio",
+"capacity": 60,
+"age_limited": false
+},
+"code": "2017SPRINGA_M7",
+"venue": {
+"position": {
+"lon": -3.181947,
+"lat": 55.957158
+},
+"phone": "0131 557 2124",
+"web_address": "http://www.greensidevenue.co.uk",
+"fax": null,
+"post_code": "EH7 5AB",
+"has_cafe": true,
+"cafe_description": "Take a seat and relax in our courtyard cafe bar serving fantastic value drinks and snacks!",
+"map_ref": null,
+"code": "231",
+"disabled_description": "Access to main Studio is down 16 stone steps. Staff are trained and more than happy to assist audience down steps where appropriate. Limited access to some parts of venue site, Some areas not reachable by lift or level access, No wheelchair accessible toilet, No reserved accessible parking, On street blue badge parking, Assistance dogs welcome in all areas",
+"box_office_fringe": true,
+"has_booking_over_phone": true,
+"address": "1b Royal Terrace",
+"email": null,
+"description": "Royal Terrace is special. It is a hidden gem – it’s '...one of the most charming venues at the Fringe...' so Lyn Gardner said and we like to think it is too.",
+"has_booking_over_web": true,
+"name": "Greenside @ Royal Terrace",
+"box_office_opening": null,
+"has_booking_over_card": false,
+"has_bar": true
+},
+"sub_venue": null,
+"url": "https://api.edinburghfestivalcity.com/events/d4f4541c453e6cc16a219adca9d6f5384136ebeb",
+"country": "UNITED KINGDOM - ENGLAND",
+"genre_tags": "Musical theatre,Theatre",
+"description_teaser": null,
+"images": {
+"bf0ab7ff8ccf4fe308088471c167991b11196cc0": {
+"versions": {
+"original": {
+"height": 250,
+"width": 250,
+"mime": "image/jpeg",
+"type": "original",
+"url": "//edfestimages.s3.amazonaws.com/bf/0a/b7/bf0ab7ff8ccf4fe308088471c167991b11196cc0-original."
+},
+"thumb-100": {
+"height": 100,
+"width": 100,
+"mime": "image/png",
+"type": "thumb-100",
+"url": "//edfestimages.s3.amazonaws.com/bf/0a/b7/bf0ab7ff8ccf4fe308088471c167991b11196cc0-thumb-100.png"
+},
+"square-75": {
+"height": 75,
+"width": 75,
+"mime": "image/png",
+"type": "square-75",
+"url": "//edfestimages.s3.amazonaws.com/bf/0a/b7/bf0ab7ff8ccf4fe308088471c167991b11196cc0-square-75.png"
+},
+"square-150": {
+"height": 150,
+"width": 150,
+"mime": "image/png",
+"type": "square-150",
+"url": "//edfestimages.s3.amazonaws.com/bf/0a/b7/bf0ab7ff8ccf4fe308088471c167991b11196cc0-square-150.png"
+}
+},
+"orientation": "square",
+"hash": "bf0ab7ff8ccf4fe308088471c167991b11196cc0",
+"type": "thumb"
+}
+},
+"performances": [
+{
+"concession_family": false,
+"title": null,
+"concession": 10,
+"price": 12,
+"concession_additional": false,
+"start": "2017-08-21 19:40:00",
+"end": "2017-08-21 21:40:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 10,
+"price": 12,
+"concession_additional": false,
+"start": "2017-08-22 19:40:00",
+"end": "2017-08-22 21:40:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 10,
+"price": 12,
+"concession_additional": false,
+"start": "2017-08-23 19:40:00",
+"end": "2017-08-23 21:40:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 10,
+"price": 12,
+"concession_additional": false,
+"start": "2017-08-24 19:40:00",
+"end": "2017-08-24 21:40:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 10,
+"price": 12,
+"concession_additional": false,
+"start": "2017-08-25 19:40:00",
+"end": "2017-08-25 21:40:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 10,
+"price": 12,
+"concession_additional": false,
+"start": "2017-08-26 19:40:00",
+"end": "2017-08-26 21:40:00"
+}
+],
+"categories": {
+"keywords": [],
+"subjects": [],
+"strand_titles": []
+},
+"disabled": {
+"signed_dates": null,
+"other_services_information": "",
+"captioning": false,
+"audio": false,
+"signed": false,
+"audio_dates": null,
+"other_services_dates": null,
+"captioning_dates": null,
+"other_services": false
+},
+"latitude": 55.957158,
+"longitude": -3.181947
+},
+{
+"genre": "Workshop",
+"fringe_first": null,
+"performers_number": null,
+"artist_type": null,
+"sub_title": null,
+"update_times": {
+"genre": 1487355554,
+"age_category": 1487255891,
+"other": 1487355554,
+"fringe_first": 1487255891,
+"status": 1487255891,
+"web_links": 1487255891,
+"venue": 1487255891,
+"identity": 1487255891,
+"title": 1487255891,
+"description": 1487669400,
+"discounts": 1487255891,
+"images": 1489583439,
+"performances": 1487255891,
+"artist": 1487255891,
+"disabled": 1487255891
+},
+"twitter": null,
+"title": "Light Drawing",
+"updated": "2017-03-15 13:10:39",
+"description": "<p>Returning after sell-out success at Science Festival 2016, this hands-on workshop for all artistic abilities brings the worlds of science and art together. Photography is one of the best examples of where science and art merge and this workshop with <strong>Dr Kathryn Harkup</strong> will teach you how to paint, sketch and doodle with light to create beautiful images, using long exposure photography and a bit of science along the way.</p>",
+"discounts": {
+"two_for_one": null,
+"friends": null,
+"schools": null,
+"passport": null,
+"group": null
+},
+"festival": "Edinburgh International Science Festival",
+"year": 2017,
+"artist": null,
+"warnings": null,
+"festival_id": "science",
+"age_category": "Ages 8+",
+"non_english": null,
+"website": "http://www.sciencefestival.co.uk/event-details/light-drawing",
+"status": "active",
+"performance_space": {
+"age_limit": null,
+"wheelchair_access": null,
+"name": null,
+"capacity": null,
+"age_limited": null
+},
+"code": "832",
+"venue": {
+"position": {
+"lon": -3.18767,
+"lat": 55.9478
+},
+"phone": null,
+"web_address": null,
+"fax": null,
+"post_code": "EH1 1JF",
+"has_cafe": null,
+"cafe_description": null,
+"map_ref": null,
+"code": "National Museum of Scotland",
+"disabled_description": null,
+"box_office_fringe": false,
+"has_booking_over_phone": true,
+"address": "Chambers Street\nEdinburgh",
+"email": null,
+"description": null,
+"has_booking_over_web": true,
+"name": "National Museum of Scotland",
+"box_office_opening": null,
+"has_booking_over_card": true,
+"has_bar": null
+},
+"sub_venue": null,
+"url": "https://api.edinburghfestivalcity.com/events/3c934b8ab92a6e1c5afeea7e27178198795bd3c6",
+"country": null,
+"genre_tags": "Technology and Me,Earth,Art",
+"description_teaser": "Using science and art to sketch with photons in a creative workshop for all artistic abilities",
+"images": {
+"53f5c5e3a07628d264f68a7a2972a4af33ac69d2": {
+"versions": {
+"large-1024": {
+"height": 213,
+"width": 1024,
+"mime": "image/png",
+"type": "large-1024",
+"url": "//edfestimages.s3.amazonaws.com/53/f5/c5/53f5c5e3a07628d264f68a7a2972a4af33ac69d2-large-1024.png"
+},
+"medium-640": {
+"height": 133,
+"width": 640,
+"mime": "image/png",
+"type": "medium-640",
+"url": "//edfestimages.s3.amazonaws.com/53/f5/c5/53f5c5e3a07628d264f68a7a2972a4af33ac69d2-medium-640.png"
+},
+"original": {
+"height": 400,
+"width": 1920,
+"mime": "image/jpeg",
+"type": "original",
+"url": "//edfestimages.s3.amazonaws.com/53/f5/c5/53f5c5e3a07628d264f68a7a2972a4af33ac69d2-original.jpg"
+},
+"small-320": {
+"height": 67,
+"width": 320,
+"mime": "image/png",
+"type": "small-320",
+"url": "//edfestimages.s3.amazonaws.com/53/f5/c5/53f5c5e3a07628d264f68a7a2972a4af33ac69d2-small-320.png"
+},
+"thumb-100": {
+"height": 21,
+"width": 100,
+"mime": "image/png",
+"type": "thumb-100",
+"url": "//edfestimages.s3.amazonaws.com/53/f5/c5/53f5c5e3a07628d264f68a7a2972a4af33ac69d2-thumb-100.png"
+},
+"square-75": {
+"height": 75,
+"width": 75,
+"mime": "image/png",
+"type": "square-75",
+"url": "//edfestimages.s3.amazonaws.com/53/f5/c5/53f5c5e3a07628d264f68a7a2972a4af33ac69d2-square-75.png"
+},
+"square-150": {
+"height": 150,
+"width": 150,
+"mime": "image/png",
+"type": "square-150",
+"url": "//edfestimages.s3.amazonaws.com/53/f5/c5/53f5c5e3a07628d264f68a7a2972a4af33ac69d2-square-150.png"
+}
+},
+"orientation": "landscape",
+"hash": "53f5c5e3a07628d264f68a7a2972a4af33ac69d2",
+"type": "hero"
+},
+"32414c0affbfe6a3640f063f9552554717803131": {
+"versions": {
+"medium-640": {
+"height": 640,
+"width": 640,
+"mime": "image/png",
+"type": "medium-640",
+"url": "//edfestimages.s3.amazonaws.com/32/41/4c/32414c0affbfe6a3640f063f9552554717803131-medium-640.png"
+},
+"original": {
+"height": 800,
+"width": 800,
+"mime": "image/jpeg",
+"type": "original",
+"url": "//edfestimages.s3.amazonaws.com/32/41/4c/32414c0affbfe6a3640f063f9552554717803131-original.jpg"
+},
+"small-320": {
+"height": 320,
+"width": 320,
+"mime": "image/png",
+"type": "small-320",
+"url": "//edfestimages.s3.amazonaws.com/32/41/4c/32414c0affbfe6a3640f063f9552554717803131-small-320.png"
+},
+"thumb-100": {
+"height": 100,
+"width": 100,
+"mime": "image/png",
+"type": "thumb-100",
+"url": "//edfestimages.s3.amazonaws.com/32/41/4c/32414c0affbfe6a3640f063f9552554717803131-thumb-100.png"
+},
+"square-75": {
+"height": 75,
+"width": 75,
+"mime": "image/png",
+"type": "square-75",
+"url": "//edfestimages.s3.amazonaws.com/32/41/4c/32414c0affbfe6a3640f063f9552554717803131-square-75.png"
+},
+"square-150": {
+"height": 150,
+"width": 150,
+"mime": "image/png",
+"type": "square-150",
+"url": "//edfestimages.s3.amazonaws.com/32/41/4c/32414c0affbfe6a3640f063f9552554717803131-square-150.png"
+}
+},
+"orientation": "square",
+"hash": "32414c0affbfe6a3640f063f9552554717803131",
+"type": "thumb"
+}
+},
+"performances": [
+{
+"concession_family": false,
+"title": null,
+"concession": null,
+"price": 10,
+"concession_additional": false,
+"start": "2017-04-12 11:00:00",
+"end": "2017-04-12 12:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": null,
+"price": 10,
+"concession_additional": false,
+"start": "2017-04-12 14:00:00",
+"end": "2017-04-12 15:00:00"
+}
+],
+"categories": {
+"keywords": [
+{
+"category": "Headings",
+"keywords": [
+"Our planet",
+"Society & Culture"
+]
+},
+{
+"category": "Phenomena",
+"keywords": [
+"Illusions",
+"Light"
+]
+},
+{
+"category": "Topics",
+"keywords": [
+"Photography",
+"Visual art"
+]
+}
+],
+"subjects": [
+"Earth",
+"Art"
+],
+"strand_titles": [
+"Technology and Me"
+]
+},
+"disabled": {
+"signed_dates": null,
+"other_services_information": null,
+"captioning": null,
+"audio": null,
+"signed": null,
+"audio_dates": null,
+"other_services_dates": null,
+"captioning_dates": null,
+"other_services": null
+},
+"latitude": 55.9478,
+"longitude": -3.18767
+},
+{
+"genre": "Activity",
+"fringe_first": null,
+"performers_number": null,
+"artist_type": null,
+"sub_title": null,
+"update_times": {
+"genre": 1487595616,
+"age_category": 1487355554,
+"other": 1487595616,
+"fringe_first": 1487355554,
+"status": 1487355554,
+"web_links": 1487355554,
+"venue": 1487355554,
+"identity": 1487355554,
+"title": 1487355554,
+"description": 1487669400,
+"discounts": 1487355554,
+"images": 1489583439,
+"performances": 1487355554,
+"artist": 1487355554,
+"disabled": 1487355554
+},
+"twitter": null,
+"title": "Seeing Speech, Hearing Tongues",
+"updated": "2017-03-15 13:10:39",
+"description": "<p>Speaking is a highly complex and uniquely human skill that we study with ultrasound scanners. Join us in <em>The Experimetarium </em>for this interactive activity to find out how your tongue (and the rest of your vocal tract) move and change to produce the sounds of speech; it’s like having a whole orchestra inside your mouth!</p>\n\n<p>This event is part of <a href=\"http://www.sciencefestival.co.uk/event-details/the-experimentarium\"><em>The Experimentarium</em></a> - a brand new space for Science Festival 2017 that's packed full of weird, wonderful and cutting edge science.</p>",
+"discounts": {
+"two_for_one": null,
+"friends": null,
+"schools": null,
+"passport": null,
+"group": null
+},
+"festival": "Edinburgh International Science Festival",
+"year": 2017,
+"artist": null,
+"warnings": null,
+"festival_id": "science",
+"age_category": "All Ages",
+"non_english": null,
+"website": "http://www.sciencefestival.co.uk/event-details/seeing-speech-hearing-tongues",
+"status": "active",
+"performance_space": {
+"age_limit": null,
+"wheelchair_access": null,
+"name": null,
+"capacity": null,
+"age_limited": null
+},
+"code": "861",
+"venue": {
+"position": {
+"lon": -3.18228,
+"lat": 55.94
+},
+"phone": null,
+"web_address": null,
+"fax": null,
+"post_code": "EH9 1PL",
+"has_cafe": null,
+"cafe_description": null,
+"map_ref": null,
+"code": "Summerhall",
+"disabled_description": null,
+"box_office_fringe": false,
+"has_booking_over_phone": true,
+"address": "Summerhall Place\nEdinburgh",
+"email": null,
+"description": null,
+"has_booking_over_web": true,
+"name": "Summerhall",
+"box_office_opening": null,
+"has_booking_over_card": true,
+"has_bar": null
+},
+"sub_venue": null,
+"url": "https://api.edinburghfestivalcity.com/events/5746db98c29f51f3398b6c19ccbe57b2b83b2a3b",
+"country": null,
+"genre_tags": "Our Wired World,Mind,Philosophy",
+"description_teaser": "A phonetic science interactive workshop to let you see how your own tongue moves inside your mouth when you speak, using ultrasound scanners",
+"images": {
+"1fb23c16de67053d4cea227ec1c11f3545feeaf6": {
+"versions": {
+"large-1024": {
+"height": 213,
+"width": 1024,
+"mime": "image/png",
+"type": "large-1024",
+"url": "//edfestimages.s3.amazonaws.com/1f/b2/3c/1fb23c16de67053d4cea227ec1c11f3545feeaf6-large-1024.png"
+},
+"medium-640": {
+"height": 133,
+"width": 640,
+"mime": "image/png",
+"type": "medium-640",
+"url": "//edfestimages.s3.amazonaws.com/1f/b2/3c/1fb23c16de67053d4cea227ec1c11f3545feeaf6-medium-640.png"
+},
+"original": {
+"height": 400,
+"width": 1920,
+"mime": "image/jpeg",
+"type": "original",
+"url": "//edfestimages.s3.amazonaws.com/1f/b2/3c/1fb23c16de67053d4cea227ec1c11f3545feeaf6-original.jpg"
+},
+"small-320": {
+"height": 67,
+"width": 320,
+"mime": "image/png",
+"type": "small-320",
+"url": "//edfestimages.s3.amazonaws.com/1f/b2/3c/1fb23c16de67053d4cea227ec1c11f3545feeaf6-small-320.png"
+},
+"thumb-100": {
+"height": 21,
+"width": 100,
+"mime": "image/png",
+"type": "thumb-100",
+"url": "//edfestimages.s3.amazonaws.com/1f/b2/3c/1fb23c16de67053d4cea227ec1c11f3545feeaf6-thumb-100.png"
+},
+"square-75": {
+"height": 75,
+"width": 75,
+"mime": "image/png",
+"type": "square-75",
+"url": "//edfestimages.s3.amazonaws.com/1f/b2/3c/1fb23c16de67053d4cea227ec1c11f3545feeaf6-square-75.png"
+},
+"square-150": {
+"height": 150,
+"width": 150,
+"mime": "image/png",
+"type": "square-150",
+"url": "//edfestimages.s3.amazonaws.com/1f/b2/3c/1fb23c16de67053d4cea227ec1c11f3545feeaf6-square-150.png"
+}
+},
+"orientation": "landscape",
+"hash": "1fb23c16de67053d4cea227ec1c11f3545feeaf6",
+"type": "hero"
+},
+"65c6a33a05a3ce4644054ec8c375b015f1819086": {
+"versions": {
+"medium-640": {
+"height": 640,
+"width": 640,
+"mime": "image/png",
+"type": "medium-640",
+"url": "//edfestimages.s3.amazonaws.com/65/c6/a3/65c6a33a05a3ce4644054ec8c375b015f1819086-medium-640.png"
+},
+"original": {
+"height": 800,
+"width": 800,
+"mime": "image/jpeg",
+"type": "original",
+"url": "//edfestimages.s3.amazonaws.com/65/c6/a3/65c6a33a05a3ce4644054ec8c375b015f1819086-original.jpg"
+},
+"small-320": {
+"height": 320,
+"width": 320,
+"mime": "image/png",
+"type": "small-320",
+"url": "//edfestimages.s3.amazonaws.com/65/c6/a3/65c6a33a05a3ce4644054ec8c375b015f1819086-small-320.png"
+},
+"thumb-100": {
+"height": 100,
+"width": 100,
+"mime": "image/png",
+"type": "thumb-100",
+"url": "//edfestimages.s3.amazonaws.com/65/c6/a3/65c6a33a05a3ce4644054ec8c375b015f1819086-thumb-100.png"
+},
+"square-75": {
+"height": 75,
+"width": 75,
+"mime": "image/png",
+"type": "square-75",
+"url": "//edfestimages.s3.amazonaws.com/65/c6/a3/65c6a33a05a3ce4644054ec8c375b015f1819086-square-75.png"
+},
+"square-150": {
+"height": 150,
+"width": 150,
+"mime": "image/png",
+"type": "square-150",
+"url": "//edfestimages.s3.amazonaws.com/65/c6/a3/65c6a33a05a3ce4644054ec8c375b015f1819086-square-150.png"
+}
+},
+"orientation": "square",
+"hash": "65c6a33a05a3ce4644054ec8c375b015f1819086",
+"type": "thumb"
+}
+},
+"performances": [
+{
+"concession_family": false,
+"title": null,
+"concession": 0,
+"price": 0,
+"concession_additional": false,
+"start": "2017-04-10 11:00:00",
+"end": "2017-04-10 16:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 0,
+"price": 0,
+"concession_additional": false,
+"start": "2017-04-11 11:00:00",
+"end": "2017-04-11 16:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 0,
+"price": 0,
+"concession_additional": false,
+"start": "2017-04-12 11:00:00",
+"end": "2017-04-12 16:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 0,
+"price": 0,
+"concession_additional": false,
+"start": "2017-04-13 11:00:00",
+"end": "2017-04-13 16:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 0,
+"price": 0,
+"concession_additional": false,
+"start": "2017-04-14 11:00:00",
+"end": "2017-04-14 16:00:00"
+}
+],
+"categories": {
+"keywords": [
+{
+"category": "Headings",
+"keywords": [
+"Mind & Body",
+"Society & Culture"
+]
+},
+{
+"category": "Phenomena",
+"keywords": [
+"Language",
+"Sound"
+]
+},
+{
+"category": "Specialisations",
+"keywords": [
+"Linguistics"
+]
+}
+],
+"subjects": [
+"Mind",
+"Philosophy"
+],
+"strand_titles": [
+"Our Wired World"
+]
+},
+"disabled": {
+"signed_dates": null,
+"other_services_information": null,
+"captioning": null,
+"audio": null,
+"signed": null,
+"audio_dates": null,
+"other_services_dates": null,
+"captioning_dates": null,
+"other_services": null
+},
+"latitude": 55.94,
+"longitude": -3.18228
+},
+{
+"genre": "Discussion",
+"fringe_first": null,
+"performers_number": null,
+"artist_type": null,
+"sub_title": null,
+"update_times": {
+"genre": 1487355554,
+"age_category": 1487242440,
+"other": 1487355554,
+"fringe_first": 1487242440,
+"status": 1487242440,
+"web_links": 1487242440,
+"venue": 1487242440,
+"identity": 1487242440,
+"title": 1487242440,
+"description": 1487242440,
+"discounts": 1487242440,
+"images": 1489583439,
+"performances": 1487242440,
+"artist": 1487242440,
+"disabled": 1487242440
+},
+"twitter": null,
+"title": "The Internet of Everything: Friend or Foe?",
+"updated": "2017-03-15 13:10:39",
+"description": "<p>Food ordering fridges, automated lighting and smart energy meters are all becoming part of our everyday lives. But as the world around us becomes increasingly ‘smart’, what are the associated challenges and risks? This event brings together computer scientists, geographers and sociologists to discuss and demonstrate what communities really want from the Internet of Things and how people can come to trust these technologies and the data they produce. </p>",
+"discounts": {
+"two_for_one": null,
+"friends": null,
+"schools": null,
+"passport": null,
+"group": null
+},
+"festival": "Edinburgh International Science Festival",
+"year": 2017,
+"artist": null,
+"warnings": null,
+"festival_id": "science",
+"age_category": "Ages 14+",
+"non_english": null,
+"website": "http://www.sciencefestival.co.uk/event-details/the-internet-of-everything-friend-or-foe",
+"status": "active",
+"performance_space": {
+"age_limit": null,
+"wheelchair_access": null,
+"name": null,
+"capacity": null,
+"age_limited": null
+},
+"code": "822",
+"venue": {
+"position": {
+"lon": -3.18228,
+"lat": 55.94
+},
+"phone": null,
+"web_address": null,
+"fax": null,
+"post_code": "EH9 1PL",
+"has_cafe": null,
+"cafe_description": null,
+"map_ref": null,
+"code": "Summerhall",
+"disabled_description": null,
+"box_office_fringe": false,
+"has_booking_over_phone": true,
+"address": "Summerhall Place\nEdinburgh",
+"email": null,
+"description": null,
+"has_booking_over_web": true,
+"name": "Summerhall",
+"box_office_opening": null,
+"has_booking_over_card": true,
+"has_bar": null
+},
+"sub_venue": null,
+"url": "https://api.edinburghfestivalcity.com/events/747296eed0f3d1bb36bc9e61e3f7110648ec428a",
+"country": null,
+"genre_tags": "Our Wired World,Design",
+"description_teaser": "As the world around us becomes increasingly ‘smart’ what are the associated challenges and risks?",
+"images": {
+"70fe94bb61467d0d0b651aba7bff4993d1c6cb5c": {
+"versions": {
+"medium-640": {
+"height": 640,
+"width": 640,
+"mime": "image/png",
+"type": "medium-640",
+"url": "//edfestimages.s3.amazonaws.com/70/fe/94/70fe94bb61467d0d0b651aba7bff4993d1c6cb5c-medium-640.png"
+},
+"original": {
+"height": 800,
+"width": 800,
+"mime": "image/jpeg",
+"type": "original",
+"url": "//edfestimages.s3.amazonaws.com/70/fe/94/70fe94bb61467d0d0b651aba7bff4993d1c6cb5c-original.jpg"
+},
+"small-320": {
+"height": 320,
+"width": 320,
+"mime": "image/png",
+"type": "small-320",
+"url": "//edfestimages.s3.amazonaws.com/70/fe/94/70fe94bb61467d0d0b651aba7bff4993d1c6cb5c-small-320.png"
+},
+"thumb-100": {
+"height": 100,
+"width": 100,
+"mime": "image/png",
+"type": "thumb-100",
+"url": "//edfestimages.s3.amazonaws.com/70/fe/94/70fe94bb61467d0d0b651aba7bff4993d1c6cb5c-thumb-100.png"
+},
+"square-75": {
+"height": 75,
+"width": 75,
+"mime": "image/png",
+"type": "square-75",
+"url": "//edfestimages.s3.amazonaws.com/70/fe/94/70fe94bb61467d0d0b651aba7bff4993d1c6cb5c-square-75.png"
+},
+"square-150": {
+"height": 150,
+"width": 150,
+"mime": "image/png",
+"type": "square-150",
+"url": "//edfestimages.s3.amazonaws.com/70/fe/94/70fe94bb61467d0d0b651aba7bff4993d1c6cb5c-square-150.png"
+}
+},
+"orientation": "square",
+"hash": "70fe94bb61467d0d0b651aba7bff4993d1c6cb5c",
+"type": "thumb"
+},
+"2437c20b67d62a027f42b60e3f4c9b2b5140b734": {
+"versions": {
+"large-1024": {
+"height": 213,
+"width": 1024,
+"mime": "image/png",
+"type": "large-1024",
+"url": "//edfestimages.s3.amazonaws.com/24/37/c2/2437c20b67d62a027f42b60e3f4c9b2b5140b734-large-1024.png"
+},
+"medium-640": {
+"height": 133,
+"width": 640,
+"mime": "image/png",
+"type": "medium-640",
+"url": "//edfestimages.s3.amazonaws.com/24/37/c2/2437c20b67d62a027f42b60e3f4c9b2b5140b734-medium-640.png"
+},
+"original": {
+"height": 400,
+"width": 1920,
+"mime": "image/jpeg",
+"type": "original",
+"url": "//edfestimages.s3.amazonaws.com/24/37/c2/2437c20b67d62a027f42b60e3f4c9b2b5140b734-original.jpg"
+},
+"small-320": {
+"height": 67,
+"width": 320,
+"mime": "image/png",
+"type": "small-320",
+"url": "//edfestimages.s3.amazonaws.com/24/37/c2/2437c20b67d62a027f42b60e3f4c9b2b5140b734-small-320.png"
+},
+"thumb-100": {
+"height": 21,
+"width": 100,
+"mime": "image/png",
+"type": "thumb-100",
+"url": "//edfestimages.s3.amazonaws.com/24/37/c2/2437c20b67d62a027f42b60e3f4c9b2b5140b734-thumb-100.png"
+},
+"square-75": {
+"height": 75,
+"width": 75,
+"mime": "image/png",
+"type": "square-75",
+"url": "//edfestimages.s3.amazonaws.com/24/37/c2/2437c20b67d62a027f42b60e3f4c9b2b5140b734-square-75.png"
+},
+"square-150": {
+"height": 150,
+"width": 150,
+"mime": "image/png",
+"type": "square-150",
+"url": "//edfestimages.s3.amazonaws.com/24/37/c2/2437c20b67d62a027f42b60e3f4c9b2b5140b734-square-150.png"
+}
+},
+"orientation": "landscape",
+"hash": "2437c20b67d62a027f42b60e3f4c9b2b5140b734",
+"type": "hero"
+}
+},
+"performances": [
+{
+"concession_family": false,
+"title": null,
+"concession": 6.5,
+"price": 8.5,
+"concession_additional": false,
+"start": "2017-04-13 20:00:00",
+"end": "2017-04-13 21:30:00"
+}
+],
+"categories": {
+"keywords": [
+{
+"category": "Headings",
+"keywords": [
+"Society & Culture"
+]
+},
+{
+"category": "Specialisations",
+"keywords": [
+"Sociology"
+]
+},
+{
+"category": "Topics",
+"keywords": [
+"Internet",
+"Smart materials"
+]
+}
+],
+"subjects": [
+"Design"
+],
+"strand_titles": [
+"Our Wired World"
+]
+},
+"disabled": {
+"signed_dates": null,
+"other_services_information": null,
+"captioning": null,
+"audio": null,
+"signed": null,
+"audio_dates": null,
+"other_services_dates": null,
+"captioning_dates": null,
+"other_services": null
+},
+"latitude": 55.94,
+"longitude": -3.18228
+},
+{
+"genre": "Special Event",
+"fringe_first": null,
+"performers_number": null,
+"artist_type": null,
+"sub_title": null,
+"update_times": {
+"genre": 1487876415,
+"age_category": 1487242440,
+"other": 1487876415,
+"fringe_first": 1487242440,
+"status": 1487242440,
+"web_links": 1487242440,
+"venue": 1487242440,
+"identity": 1487242440,
+"title": 1487242440,
+"description": 1487669400,
+"discounts": 1487242440,
+"images": 1489583439,
+"performances": 1487242440,
+"artist": 1487242440,
+"disabled": 1487242440
+},
+"twitter": null,
+"title": "Death of the Paperback",
+"updated": "2017-03-15 13:10:39",
+"description": "<p>E-books have been a force for good for authors, libraries and publishers, broadening the market worldwide and leading to a golden age of reading in the UK.</p>\n\n<p>As technology advances, the way we consume and experience books is changing. But do we get the same joy from an e-book as a physical copy? And will the paperback die out?</p>\n\n<p>Director of Literary Dundee<strong> Peggy Hughes</strong>, writer and director of <em>The Secret Experiment </em><strong>Simon Meek</strong>, Director of the Centre for the History of the Book <strong>Tom Mole</strong>, and <strong>Ann Landman</strong> from Blackwell’s Bookshop Edinburgh take a look, sniff and feel of our literary futures in this interactive event.</p>",
+"discounts": {
+"two_for_one": null,
+"friends": null,
+"schools": null,
+"passport": null,
+"group": null
+},
+"festival": "Edinburgh International Science Festival",
+"year": 2017,
+"artist": null,
+"warnings": null,
+"festival_id": "science",
+"age_category": "Ages 14+",
+"non_english": null,
+"website": "http://www.sciencefestival.co.uk/event-details/death-of-the-paperback",
+"status": "active",
+"performance_space": {
+"age_limit": null,
+"wheelchair_access": null,
+"name": null,
+"capacity": null,
+"age_limited": null
+},
+"code": "760",
+"venue": {
+"position": {
+"lon": -3.18228,
+"lat": 55.94
+},
+"phone": null,
+"web_address": null,
+"fax": null,
+"post_code": "EH9 1PL",
+"has_cafe": null,
+"cafe_description": null,
+"map_ref": null,
+"code": "Summerhall",
+"disabled_description": null,
+"box_office_fringe": false,
+"has_booking_over_phone": true,
+"address": "Summerhall Place\nEdinburgh",
+"email": null,
+"description": null,
+"has_booking_over_web": true,
+"name": "Summerhall",
+"box_office_opening": null,
+"has_booking_over_card": true,
+"has_bar": null
+},
+"sub_venue": null,
+"url": "https://api.edinburghfestivalcity.com/events/7829ce6a5e4d2d6f518d6cb71f88e31c152f28b4",
+"country": null,
+"genre_tags": "Play On,Technology and Me,Entertainment & Leisure,Gadgets,Philosophy",
+"description_teaser": "Take a look, sniff and feel of our literary futures in this interactive event",
+"images": {
+"83e1a300b7f9ca52c2e22b398d2b89e7c19227a6": {
+"versions": {
+"large-1024": {
+"height": 213,
+"width": 1024,
+"mime": "image/png",
+"type": "large-1024",
+"url": "//edfestimages.s3.amazonaws.com/83/e1/a3/83e1a300b7f9ca52c2e22b398d2b89e7c19227a6-large-1024.png"
+},
+"medium-640": {
+"height": 133,
+"width": 640,
+"mime": "image/png",
+"type": "medium-640",
+"url": "//edfestimages.s3.amazonaws.com/83/e1/a3/83e1a300b7f9ca52c2e22b398d2b89e7c19227a6-medium-640.png"
+},
+"original": {
+"height": 400,
+"width": 1920,
+"mime": "image/jpeg",
+"type": "original",
+"url": "//edfestimages.s3.amazonaws.com/83/e1/a3/83e1a300b7f9ca52c2e22b398d2b89e7c19227a6-original.jpg"
+},
+"small-320": {
+"height": 67,
+"width": 320,
+"mime": "image/png",
+"type": "small-320",
+"url": "//edfestimages.s3.amazonaws.com/83/e1/a3/83e1a300b7f9ca52c2e22b398d2b89e7c19227a6-small-320.png"
+},
+"thumb-100": {
+"height": 21,
+"width": 100,
+"mime": "image/png",
+"type": "thumb-100",
+"url": "//edfestimages.s3.amazonaws.com/83/e1/a3/83e1a300b7f9ca52c2e22b398d2b89e7c19227a6-thumb-100.png"
+},
+"square-75": {
+"height": 75,
+"width": 75,
+"mime": "image/png",
+"type": "square-75",
+"url": "//edfestimages.s3.amazonaws.com/83/e1/a3/83e1a300b7f9ca52c2e22b398d2b89e7c19227a6-square-75.png"
+},
+"square-150": {
+"height": 150,
+"width": 150,
+"mime": "image/png",
+"type": "square-150",
+"url": "//edfestimages.s3.amazonaws.com/83/e1/a3/83e1a300b7f9ca52c2e22b398d2b89e7c19227a6-square-150.png"
+}
+},
+"orientation": "landscape",
+"hash": "83e1a300b7f9ca52c2e22b398d2b89e7c19227a6",
+"type": "hero"
+},
+"44402894e691a421d4fc2f87a7ff08cdbaecdab1": {
+"versions": {
+"medium-640": {
+"height": 640,
+"width": 640,
+"mime": "image/png",
+"type": "medium-640",
+"url": "//edfestimages.s3.amazonaws.com/44/40/28/44402894e691a421d4fc2f87a7ff08cdbaecdab1-medium-640.png"
+},
+"original": {
+"height": 800,
+"width": 800,
+"mime": "image/jpeg",
+"type": "original",
+"url": "//edfestimages.s3.amazonaws.com/44/40/28/44402894e691a421d4fc2f87a7ff08cdbaecdab1-original.jpg"
+},
+"small-320": {
+"height": 320,
+"width": 320,
+"mime": "image/png",
+"type": "small-320",
+"url": "//edfestimages.s3.amazonaws.com/44/40/28/44402894e691a421d4fc2f87a7ff08cdbaecdab1-small-320.png"
+},
+"thumb-100": {
+"height": 100,
+"width": 100,
+"mime": "image/png",
+"type": "thumb-100",
+"url": "//edfestimages.s3.amazonaws.com/44/40/28/44402894e691a421d4fc2f87a7ff08cdbaecdab1-thumb-100.png"
+},
+"square-75": {
+"height": 75,
+"width": 75,
+"mime": "image/png",
+"type": "square-75",
+"url": "//edfestimages.s3.amazonaws.com/44/40/28/44402894e691a421d4fc2f87a7ff08cdbaecdab1-square-75.png"
+},
+"square-150": {
+"height": 150,
+"width": 150,
+"mime": "image/png",
+"type": "square-150",
+"url": "//edfestimages.s3.amazonaws.com/44/40/28/44402894e691a421d4fc2f87a7ff08cdbaecdab1-square-150.png"
+}
+},
+"orientation": "square",
+"hash": "44402894e691a421d4fc2f87a7ff08cdbaecdab1",
+"type": "thumb"
+}
+},
+"performances": [
+{
+"concession_family": false,
+"title": null,
+"concession": 6.5,
+"price": 8.5,
+"concession_additional": false,
+"start": "2017-04-08 17:30:00",
+"end": "2017-04-08 19:00:00"
+}
+],
+"categories": {
+"keywords": [
+{
+"category": "Headings",
+"keywords": [
+"Society & Culture",
+"Technology & Engineering"
+]
+},
+{
+"category": "Specialisations",
+"keywords": [
+"Anthropology",
+"Literature",
+"Philosophy"
+]
+},
+{
+"category": "Topics",
+"keywords": [
+"Communications",
+"Current research",
+"Future",
+"Science fiction"
+]
+}
+],
+"subjects": [
+"Entertainment & Leisure",
+"Gadgets",
+"Philosophy"
+],
+"strand_titles": [
+"Play On",
+"Technology and Me"
+]
+},
+"disabled": {
+"signed_dates": null,
+"other_services_information": null,
+"captioning": null,
+"audio": null,
+"signed": null,
+"audio_dates": null,
+"other_services_dates": null,
+"captioning_dates": null,
+"other_services": null
+},
+"latitude": 55.94,
+"longitude": -3.18228
+},
+{
+"genre": "Activity",
+"fringe_first": null,
+"performers_number": null,
+"artist_type": null,
+"sub_title": null,
+"update_times": {
+"genre": 1487355554,
+"age_category": 1487355554,
+"other": 1487355554,
+"fringe_first": 1487355554,
+"status": 1487355554,
+"web_links": 1487355554,
+"venue": 1487355554,
+"identity": 1487355554,
+"title": 1487355554,
+"description": 1487355554,
+"discounts": 1487355554,
+"images": 1489583439,
+"performances": 1487355554,
+"artist": 1487355554,
+"disabled": 1487355554
+},
+"twitter": null,
+"title": "Where does beeswax come from?",
+"updated": "2017-03-15 13:10:39",
+"description": "<p>Meet RZSS Beekeeper in Residence <strong>Brian Pool</strong> to learn all about bees. Find out where beeswax comes from and what it's used for, see a wild honey bee colony's nest and have a go at making your own beeswax candle.</p>",
+"discounts": {
+"two_for_one": null,
+"friends": null,
+"schools": null,
+"passport": null,
+"group": null
+},
+"festival": "Edinburgh International Science Festival",
+"year": 2017,
+"artist": null,
+"warnings": null,
+"festival_id": "science",
+"age_category": "Ages 5+",
+"non_english": null,
+"website": "http://www.sciencefestival.co.uk/event-details/where-does-beeswax-come-from",
+"status": "active",
+"performance_space": {
+"age_limit": null,
+"wheelchair_access": null,
+"name": null,
+"capacity": null,
+"age_limited": null
+},
+"code": "840",
+"venue": {
+"position": {
+"lon": -3.26934,
+"lat": 55.942
+},
+"phone": null,
+"web_address": null,
+"fax": null,
+"post_code": "EH12 6TS",
+"has_cafe": null,
+"cafe_description": null,
+"map_ref": null,
+"code": "RZSS Edinburgh Zoo",
+"disabled_description": null,
+"box_office_fringe": false,
+"has_booking_over_phone": true,
+"address": "134 Corstorphine Road\nEdinburgh",
+"email": null,
+"description": null,
+"has_booking_over_web": true,
+"name": "RZSS Edinburgh Zoo",
+"box_office_opening": null,
+"has_booking_over_card": true,
+"has_bar": null
+},
+"sub_venue": null,
+"url": "https://api.edinburghfestivalcity.com/events/c4da6687c68bb64d95d07933d64d39c7515bbfac",
+"country": null,
+"genre_tags": "",
+"description_teaser": "Take a trail around the Zoo this Easter",
+"images": {
+"11c57e77113ace6d2aab2091b62c198ad59020fd": {
+"versions": {
+"medium-640": {
+"height": 640,
+"width": 640,
+"mime": "image/png",
+"type": "medium-640",
+"url": "//edfestimages.s3.amazonaws.com/11/c5/7e/11c57e77113ace6d2aab2091b62c198ad59020fd-medium-640.png"
+},
+"original": {
+"height": 800,
+"width": 800,
+"mime": "image/jpeg",
+"type": "original",
+"url": "//edfestimages.s3.amazonaws.com/11/c5/7e/11c57e77113ace6d2aab2091b62c198ad59020fd-original.jpg"
+},
+"small-320": {
+"height": 320,
+"width": 320,
+"mime": "image/png",
+"type": "small-320",
+"url": "//edfestimages.s3.amazonaws.com/11/c5/7e/11c57e77113ace6d2aab2091b62c198ad59020fd-small-320.png"
+},
+"thumb-100": {
+"height": 100,
+"width": 100,
+"mime": "image/png",
+"type": "thumb-100",
+"url": "//edfestimages.s3.amazonaws.com/11/c5/7e/11c57e77113ace6d2aab2091b62c198ad59020fd-thumb-100.png"
+},
+"square-75": {
+"height": 75,
+"width": 75,
+"mime": "image/png",
+"type": "square-75",
+"url": "//edfestimages.s3.amazonaws.com/11/c5/7e/11c57e77113ace6d2aab2091b62c198ad59020fd-square-75.png"
+},
+"square-150": {
+"height": 150,
+"width": 150,
+"mime": "image/png",
+"type": "square-150",
+"url": "//edfestimages.s3.amazonaws.com/11/c5/7e/11c57e77113ace6d2aab2091b62c198ad59020fd-square-150.png"
+}
+},
+"orientation": "square",
+"hash": "11c57e77113ace6d2aab2091b62c198ad59020fd",
+"type": "thumb"
+},
+"887f6f8b6ba686135a600d2a31c598571065468d": {
+"versions": {
+"large-1024": {
+"height": 213,
+"width": 1024,
+"mime": "image/png",
+"type": "large-1024",
+"url": "//edfestimages.s3.amazonaws.com/88/7f/6f/887f6f8b6ba686135a600d2a31c598571065468d-large-1024.png"
+},
+"medium-640": {
+"height": 133,
+"width": 640,
+"mime": "image/png",
+"type": "medium-640",
+"url": "//edfestimages.s3.amazonaws.com/88/7f/6f/887f6f8b6ba686135a600d2a31c598571065468d-medium-640.png"
+},
+"original": {
+"height": 400,
+"width": 1920,
+"mime": "image/jpeg",
+"type": "original",
+"url": "//edfestimages.s3.amazonaws.com/88/7f/6f/887f6f8b6ba686135a600d2a31c598571065468d-original.jpg"
+},
+"small-320": {
+"height": 67,
+"width": 320,
+"mime": "image/png",
+"type": "small-320",
+"url": "//edfestimages.s3.amazonaws.com/88/7f/6f/887f6f8b6ba686135a600d2a31c598571065468d-small-320.png"
+},
+"thumb-100": {
+"height": 21,
+"width": 100,
+"mime": "image/png",
+"type": "thumb-100",
+"url": "//edfestimages.s3.amazonaws.com/88/7f/6f/887f6f8b6ba686135a600d2a31c598571065468d-thumb-100.png"
+},
+"square-75": {
+"height": 75,
+"width": 75,
+"mime": "image/png",
+"type": "square-75",
+"url": "//edfestimages.s3.amazonaws.com/88/7f/6f/887f6f8b6ba686135a600d2a31c598571065468d-square-75.png"
+},
+"square-150": {
+"height": 150,
+"width": 150,
+"mime": "image/png",
+"type": "square-150",
+"url": "//edfestimages.s3.amazonaws.com/88/7f/6f/887f6f8b6ba686135a600d2a31c598571065468d-square-150.png"
+}
+},
+"orientation": "landscape",
+"hash": "887f6f8b6ba686135a600d2a31c598571065468d",
+"type": "hero"
+}
+},
+"performances": [
+{
+"concession_family": false,
+"title": null,
+"concession": 0,
+"price": 0,
+"concession_additional": false,
+"start": "2017-04-05 11:00:00",
+"end": "2017-04-05 15:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 0,
+"price": 0,
+"concession_additional": false,
+"start": "2017-04-12 11:00:00",
+"end": "2017-04-12 15:00:00"
+}
+],
+"categories": {
+"keywords": [],
+"subjects": [],
+"strand_titles": []
+},
+"disabled": {
+"signed_dates": null,
+"other_services_information": null,
+"captioning": null,
+"audio": null,
+"signed": null,
+"audio_dates": null,
+"other_services_dates": null,
+"captioning_dates": null,
+"other_services": null
+},
+"latitude": 55.942,
+"longitude": -3.26934
+},
+{
+"genre": "Special Event",
+"fringe_first": null,
+"performers_number": null,
+"artist_type": null,
+"sub_title": null,
+"update_times": {
+"genre": 1488373215,
+"age_category": 1487266149,
+"other": 1488373215,
+"fringe_first": 1487266149,
+"status": 1487266149,
+"web_links": 1487266149,
+"venue": 1487266149,
+"identity": 1487266149,
+"title": 1487266149,
+"description": 1488394815,
+"discounts": 1487266149,
+"images": 1489583439,
+"performances": 1487266149,
+"artist": 1487266149,
+"disabled": 1487266149
+},
+"twitter": null,
+"title": "Tea-Lightful! The Origins, Science and Traditions of Tea",
+"updated": "2017-03-15 13:10:39",
+"description": "<p>British people love tea, consuming tens of billions of cups every year. Join us for a tasting trip through the world of tea, sampling brews from Edinburgh's Pekoe Tea. Dietician <strong>Dr Carrie Ruxton</strong> of the Tea Advisory Panel will share some of her research on the health benefits of tea and <strong>Jon Cooper</strong> of Pekoe Tea will share stories of sourcing teas in India. Hosted by <strong>Dr Stuart Farrimond</strong>, author of the forthcoming <em>The Science of Food and Cooking,</em> who has conducted important culinary research on topics such as the science of biscuit dunking and how to make the perfect cream tea.</p>",
+"discounts": {
+"two_for_one": null,
+"friends": null,
+"schools": null,
+"passport": null,
+"group": null
+},
+"festival": "Edinburgh International Science Festival",
+"year": 2017,
+"artist": null,
+"warnings": null,
+"festival_id": "science",
+"age_category": "Ages 14+",
+"non_english": null,
+"website": "http://www.sciencefestival.co.uk/event-details/tea-lightful-the-origins-science-and-traditions-of-tea",
+"status": "active",
+"performance_space": {
+"age_limit": null,
+"wheelchair_access": null,
+"name": null,
+"capacity": null,
+"age_limited": null
+},
+"code": "770",
+"venue": {
+"position": {
+"lon": -3.18228,
+"lat": 55.94
+},
+"phone": null,
+"web_address": null,
+"fax": null,
+"post_code": "EH9 1PL",
+"has_cafe": null,
+"cafe_description": null,
+"map_ref": null,
+"code": "Summerhall",
+"disabled_description": null,
+"box_office_fringe": false,
+"has_booking_over_phone": true,
+"address": "Summerhall Place\nEdinburgh",
+"email": null,
+"description": null,
+"has_booking_over_web": true,
+"name": "Summerhall",
+"box_office_opening": null,
+"has_booking_over_card": true,
+"has_bar": null
+},
+"sub_venue": null,
+"url": "https://api.edinburghfestivalcity.com/events/ca24b090d80bc4a7bfccbaea370bf9a198b5b27a",
+"country": null,
+"genre_tags": "GastroFest,Our Wired World,Ecosystems,Entertainment & Leisure,Plants",
+"description_teaser": "Join us as we explore the origins, science and traditions of tea, from plant to cup",
+"images": {
+"f88bc038181972d810ed1edda9ef71c4d6bc0cfc": {
+"versions": {
+"medium-640": {
+"height": 640,
+"width": 640,
+"mime": "image/png",
+"type": "medium-640",
+"url": "//edfestimages.s3.amazonaws.com/f8/8b/c0/f88bc038181972d810ed1edda9ef71c4d6bc0cfc-medium-640.png"
+},
+"original": {
+"height": 800,
+"width": 800,
+"mime": "image/jpeg",
+"type": "original",
+"url": "//edfestimages.s3.amazonaws.com/f8/8b/c0/f88bc038181972d810ed1edda9ef71c4d6bc0cfc-original.jpg"
+},
+"small-320": {
+"height": 320,
+"width": 320,
+"mime": "image/png",
+"type": "small-320",
+"url": "//edfestimages.s3.amazonaws.com/f8/8b/c0/f88bc038181972d810ed1edda9ef71c4d6bc0cfc-small-320.png"
+},
+"thumb-100": {
+"height": 100,
+"width": 100,
+"mime": "image/png",
+"type": "thumb-100",
+"url": "//edfestimages.s3.amazonaws.com/f8/8b/c0/f88bc038181972d810ed1edda9ef71c4d6bc0cfc-thumb-100.png"
+},
+"square-75": {
+"height": 75,
+"width": 75,
+"mime": "image/png",
+"type": "square-75",
+"url": "//edfestimages.s3.amazonaws.com/f8/8b/c0/f88bc038181972d810ed1edda9ef71c4d6bc0cfc-square-75.png"
+},
+"square-150": {
+"height": 150,
+"width": 150,
+"mime": "image/png",
+"type": "square-150",
+"url": "//edfestimages.s3.amazonaws.com/f8/8b/c0/f88bc038181972d810ed1edda9ef71c4d6bc0cfc-square-150.png"
+}
+},
+"orientation": "square",
+"hash": "f88bc038181972d810ed1edda9ef71c4d6bc0cfc",
+"type": "thumb"
+},
+"a80590caba3312b662290fa504ce181b241291bf": {
+"versions": {
+"large-1024": {
+"height": 213,
+"width": 1024,
+"mime": "image/png",
+"type": "large-1024",
+"url": "//edfestimages.s3.amazonaws.com/a8/05/90/a80590caba3312b662290fa504ce181b241291bf-large-1024.png"
+},
+"medium-640": {
+"height": 133,
+"width": 640,
+"mime": "image/png",
+"type": "medium-640",
+"url": "//edfestimages.s3.amazonaws.com/a8/05/90/a80590caba3312b662290fa504ce181b241291bf-medium-640.png"
+},
+"original": {
+"height": 399,
+"width": 1920,
+"mime": "image/jpeg",
+"type": "original",
+"url": "//edfestimages.s3.amazonaws.com/a8/05/90/a80590caba3312b662290fa504ce181b241291bf-original.jpg"
+},
+"small-320": {
+"height": 67,
+"width": 320,
+"mime": "image/png",
+"type": "small-320",
+"url": "//edfestimages.s3.amazonaws.com/a8/05/90/a80590caba3312b662290fa504ce181b241291bf-small-320.png"
+},
+"thumb-100": {
+"height": 21,
+"width": 100,
+"mime": "image/png",
+"type": "thumb-100",
+"url": "//edfestimages.s3.amazonaws.com/a8/05/90/a80590caba3312b662290fa504ce181b241291bf-thumb-100.png"
+},
+"square-75": {
+"height": 75,
+"width": 75,
+"mime": "image/png",
+"type": "square-75",
+"url": "//edfestimages.s3.amazonaws.com/a8/05/90/a80590caba3312b662290fa504ce181b241291bf-square-75.png"
+},
+"square-150": {
+"height": 150,
+"width": 150,
+"mime": "image/png",
+"type": "square-150",
+"url": "//edfestimages.s3.amazonaws.com/a8/05/90/a80590caba3312b662290fa504ce181b241291bf-square-150.png"
+}
+},
+"orientation": "landscape",
+"hash": "a80590caba3312b662290fa504ce181b241291bf",
+"type": "hero"
+}
+},
+"performances": [
+{
+"concession_family": false,
+"title": null,
+"concession": null,
+"price": 12,
+"concession_additional": false,
+"start": "2017-04-02 15:00:00",
+"end": "2017-04-02 16:30:00"
+}
+],
+"categories": {
+"keywords": [
+{
+"category": "Headings",
+"keywords": [
+"Life on Earth",
+"Society & Culture"
+]
+},
+{
+"category": "Specialisations",
+"keywords": [
+"Botany",
+"Medicine",
+"Mental health",
+"Philosophy"
+]
+},
+{
+"category": "Topics",
+"keywords": [
+"Food&drink",
+"Nutrition",
+"Wellbeing"
+]
+}
+],
+"subjects": [
+"Ecosystems",
+"Entertainment & Leisure",
+"Plants"
+],
+"strand_titles": [
+"GastroFest",
+"Our Wired World"
+]
+},
+"disabled": {
+"signed_dates": null,
+"other_services_information": null,
+"captioning": null,
+"audio": null,
+"signed": null,
+"audio_dates": null,
+"other_services_dates": null,
+"captioning_dates": null,
+"other_services": null
+},
+"latitude": 55.94,
+"longitude": -3.18228
+},
+{
+"genre": "Discussion",
+"fringe_first": null,
+"performers_number": null,
+"artist_type": null,
+"sub_title": null,
+"update_times": {
+"genre": 1487255891,
+"age_category": 1487255891,
+"other": 1487255891,
+"fringe_first": 1487255891,
+"status": 1487255891,
+"web_links": 1487255891,
+"venue": 1487255891,
+"identity": 1487255891,
+"title": 1487255891,
+"description": 1487669400,
+"discounts": 1487255891,
+"images": 1489583439,
+"performances": 1487255891,
+"artist": 1487255891,
+"disabled": 1487255891
+},
+"twitter": null,
+"title": "Fashionable Diseases: Syphilis, Consumption and Gout",
+"updated": "2017-03-15 13:10:39",
+"description": "<p>Take a behind-the-scenes tour of the Royal College of Physicians of Edinburgh and discover how  fashionable behaviour and the breaking of taboos over things like heavy drinking, overeating and sexual promiscuity gave rise to the prevalence of diseases like syphilis, lethargy, gout and consumption. The College’s fascinating early medical texts and illustrations will show how these previously shameful diseases became the height of fashion.</p>",
+"discounts": {
+"two_for_one": null,
+"friends": null,
+"schools": null,
+"passport": null,
+"group": null
+},
+"festival": "Edinburgh International Science Festival",
+"year": 2017,
+"artist": null,
+"warnings": null,
+"festival_id": "science",
+"age_category": "Ages 14+",
+"non_english": null,
+"website": "http://www.sciencefestival.co.uk/event-details/fashionable-diseases-syphilis-consumption-and-gout",
+"status": "active",
+"performance_space": {
+"age_limit": null,
+"wheelchair_access": null,
+"name": null,
+"capacity": null,
+"age_limited": null
+},
+"code": "836",
+"venue": {
+"position": {
+"lon": -3.196332,
+"lat": 55.955235
+},
+"phone": null,
+"web_address": null,
+"fax": null,
+"post_code": "EH2 1JQ",
+"has_cafe": null,
+"cafe_description": null,
+"map_ref": null,
+"code": "Royal College of Physicians of Edinburgh",
+"disabled_description": null,
+"box_office_fringe": false,
+"has_booking_over_phone": true,
+"address": "9 Queen Street\nEdinburgh",
+"email": null,
+"description": null,
+"has_booking_over_web": true,
+"name": "Royal College of Physicians of Edinburgh",
+"box_office_opening": null,
+"has_booking_over_card": true,
+"has_bar": null
+},
+"sub_venue": null,
+"url": "https://api.edinburghfestivalcity.com/events/eda3aa2001ad056d14cff4999f68a5296dd08998",
+"country": null,
+"genre_tags": "",
+"description_teaser": "Take a behind-the-scenes tour of the Royal College of Physicians of Edinburgh and discover the fascinating history of fashionable diseases.",
+"images": {
+"1c1b1fd368bcd7d2930b3dc3983c7e76b1b7c456": {
+"versions": {
+"large-1024": {
+"height": 214,
+"width": 1024,
+"mime": "image/png",
+"type": "large-1024",
+"url": "//edfestimages.s3.amazonaws.com/1c/1b/1f/1c1b1fd368bcd7d2930b3dc3983c7e76b1b7c456-large-1024.png"
+},
+"medium-640": {
+"height": 134,
+"width": 640,
+"mime": "image/png",
+"type": "medium-640",
+"url": "//edfestimages.s3.amazonaws.com/1c/1b/1f/1c1b1fd368bcd7d2930b3dc3983c7e76b1b7c456-medium-640.png"
+},
+"original": {
+"height": 401,
+"width": 1920,
+"mime": "image/jpeg",
+"type": "original",
+"url": "//edfestimages.s3.amazonaws.com/1c/1b/1f/1c1b1fd368bcd7d2930b3dc3983c7e76b1b7c456-original.jpg"
+},
+"small-320": {
+"height": 67,
+"width": 320,
+"mime": "image/png",
+"type": "small-320",
+"url": "//edfestimages.s3.amazonaws.com/1c/1b/1f/1c1b1fd368bcd7d2930b3dc3983c7e76b1b7c456-small-320.png"
+},
+"thumb-100": {
+"height": 21,
+"width": 100,
+"mime": "image/png",
+"type": "thumb-100",
+"url": "//edfestimages.s3.amazonaws.com/1c/1b/1f/1c1b1fd368bcd7d2930b3dc3983c7e76b1b7c456-thumb-100.png"
+},
+"square-75": {
+"height": 75,
+"width": 75,
+"mime": "image/png",
+"type": "square-75",
+"url": "//edfestimages.s3.amazonaws.com/1c/1b/1f/1c1b1fd368bcd7d2930b3dc3983c7e76b1b7c456-square-75.png"
+},
+"square-150": {
+"height": 150,
+"width": 150,
+"mime": "image/png",
+"type": "square-150",
+"url": "//edfestimages.s3.amazonaws.com/1c/1b/1f/1c1b1fd368bcd7d2930b3dc3983c7e76b1b7c456-square-150.png"
+}
+},
+"orientation": "landscape",
+"hash": "1c1b1fd368bcd7d2930b3dc3983c7e76b1b7c456",
+"type": "hero"
+},
+"624510d8ca243f8512c3634d2988322a08c51b43": {
+"versions": {
+"medium-640": {
+"height": 640,
+"width": 640,
+"mime": "image/png",
+"type": "medium-640",
+"url": "//edfestimages.s3.amazonaws.com/62/45/10/624510d8ca243f8512c3634d2988322a08c51b43-medium-640.png"
+},
+"original": {
+"height": 800,
+"width": 800,
+"mime": "image/jpeg",
+"type": "original",
+"url": "//edfestimages.s3.amazonaws.com/62/45/10/624510d8ca243f8512c3634d2988322a08c51b43-original.jpg"
+},
+"small-320": {
+"height": 320,
+"width": 320,
+"mime": "image/png",
+"type": "small-320",
+"url": "//edfestimages.s3.amazonaws.com/62/45/10/624510d8ca243f8512c3634d2988322a08c51b43-small-320.png"
+},
+"thumb-100": {
+"height": 100,
+"width": 100,
+"mime": "image/png",
+"type": "thumb-100",
+"url": "//edfestimages.s3.amazonaws.com/62/45/10/624510d8ca243f8512c3634d2988322a08c51b43-thumb-100.png"
+},
+"square-75": {
+"height": 75,
+"width": 75,
+"mime": "image/png",
+"type": "square-75",
+"url": "//edfestimages.s3.amazonaws.com/62/45/10/624510d8ca243f8512c3634d2988322a08c51b43-square-75.png"
+},
+"square-150": {
+"height": 150,
+"width": 150,
+"mime": "image/png",
+"type": "square-150",
+"url": "//edfestimages.s3.amazonaws.com/62/45/10/624510d8ca243f8512c3634d2988322a08c51b43-square-150.png"
+}
+},
+"orientation": "square",
+"hash": "624510d8ca243f8512c3634d2988322a08c51b43",
+"type": "thumb"
+}
+},
+"performances": [
+{
+"concession_family": false,
+"title": null,
+"concession": 6,
+"price": 8,
+"concession_additional": false,
+"start": "2017-04-06 18:30:00",
+"end": "2017-04-06 19:30:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 6,
+"price": 8,
+"concession_additional": false,
+"start": "2017-04-08 14:30:00",
+"end": "2017-04-08 15:30:00"
+}
+],
+"categories": {
+"keywords": [],
+"subjects": [],
+"strand_titles": []
+},
+"disabled": {
+"signed_dates": null,
+"other_services_information": null,
+"captioning": null,
+"audio": null,
+"signed": null,
+"audio_dates": null,
+"other_services_dates": null,
+"captioning_dates": null,
+"other_services": null
+},
+"latitude": 55.955235,
+"longitude": -3.196332
+}
+]

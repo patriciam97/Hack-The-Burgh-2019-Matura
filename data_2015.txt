@@ -1,0 +1,5788 @@
+[
+{
+"genre": "Theatre",
+"fringe_first": true,
+"performers_number": 4,
+"artist_type": "Student/Youth company",
+"sub_title": null,
+"update_times": {
+"genre": 1437380464,
+"age_category": 1437380464,
+"other": 1437380464,
+"fringe_first": 1437380464,
+"status": 1437380464,
+"web_links": 1437380464,
+"venue": 1437380464,
+"identity": 1437380464,
+"title": 1437380464,
+"description": 1437380464,
+"discounts": 1437380464,
+"images": 1437380464,
+"performances": 1437380464,
+"artist": 1437380464,
+"disabled": 1437380464
+},
+"twitter": "",
+"title": "That Sickness Unto Death",
+"updated": "2015-07-20 09:21:04",
+"description": "That Sickness Unto Death is an original piece that deals with mental illness, loss and the effects of these on the family unit. ",
+"discounts": {
+"two_for_one": false,
+"friends": false,
+"schools": false,
+"passport": false,
+"group": false
+},
+"festival": "Edinburgh Festival Fringe",
+"year": "2015",
+"artist": "Radley Drama",
+"warnings": null,
+"festival_id": "fringe",
+"age_category": "14+",
+"non_english": false,
+"website": "https://www.edfringe.com/event/2015THATSIC_AMQ",
+"status": "active",
+"performance_space": {
+"age_limit": null,
+"wheelchair_access": true,
+"name": "SpaceTriplex 'Studio'",
+"capacity": 60,
+"age_limited": false
+},
+"code": "2015THATSIC_AMQ",
+"venue": {
+"position": {
+"lon": -3.185061,
+"lat": 55.946073
+},
+"phone": "0131 510 2395",
+"web_address": "http://www.thespaceuk.com",
+"fax": null,
+"post_code": "EH8 9DP",
+"has_cafe": true,
+"cafe_description": "Fully faciliated Bars on site",
+"map_ref": null,
+"code": "38",
+"disabled_description": "Full venue site is accessible, Lift level access to all areas, Wheelchair accessible toilet, Reserved accessible parking, On street blue badge parking, Assistance dogs welcome in all areas. It on a flat road, corner of Hill Square and Nicholson Street. The venue has 3 floors all easily accessible via a lift",
+"box_office_fringe": true,
+"has_booking_over_phone": true,
+"address": "The Prince Phillip Building",
+"email": null,
+"description": "theSpaceUK presents this brand new state of the art facility over 3 floors. Located next door to theSpace @ Surgeons Hall and  theSpace @ Symposium Hall we  present an unrivalled and diverse programme in seven performance spaces. Dance, Drumming, Circus, Physical,  Music, Theatre, Choral, Interactive, Immersive, Sketch, Cabaret and Spoken Word makes this a unique central hub at the very heart of the modern Edinburgh Festival Fringe.",
+"has_booking_over_web": true,
+"name": "SpaceTriplex",
+"box_office_opening": null,
+"has_booking_over_card": true,
+"has_bar": true
+},
+"sub_venue": null,
+"url": "https://api.edinburghfestivalcity.com/events/a1884ae9b4f7bdf64106f6dfb10ffd546e408864",
+"country": "UNITED KINGDOM - ENGLAND",
+"genre_tags": "",
+"description_teaser": null,
+"images": [],
+"performances": [
+{
+"concession_family": false,
+"title": null,
+"concession": 3,
+"price": 4,
+"concession_additional": false,
+"start": "2015-08-17 18:20:00",
+"end": "2015-08-17 19:05:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 3,
+"price": 4,
+"concession_additional": false,
+"start": "2015-08-18 18:20:00",
+"end": "2015-08-18 19:05:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 3,
+"price": 4,
+"concession_additional": false,
+"start": "2015-08-19 18:20:00",
+"end": "2015-08-19 19:05:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 3,
+"price": 4,
+"concession_additional": false,
+"start": "2015-08-20 18:20:00",
+"end": "2015-08-20 19:05:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 3,
+"price": 4,
+"concession_additional": false,
+"start": "2015-08-21 18:20:00",
+"end": "2015-08-21 19:05:00"
+}
+],
+"categories": {
+"keywords": [],
+"subjects": [],
+"strand_titles": []
+},
+"disabled": {
+"signed_dates": null,
+"other_services_information": "",
+"captioning": false,
+"audio": false,
+"signed": false,
+"audio_dates": null,
+"other_services_dates": null,
+"captioning_dates": null,
+"other_services": false
+},
+"latitude": 55.946073,
+"longitude": -3.185061
+},
+{
+"genre": "Music",
+"fringe_first": false,
+"performers_number": 1,
+"artist_type": "Professional company",
+"sub_title": null,
+"update_times": {
+"genre": 1433406169,
+"age_category": 1433406169,
+"other": 1433406169,
+"fringe_first": 1433406169,
+"status": 1433406169,
+"web_links": 1433406169,
+"venue": 1434442764,
+"identity": 1433406169,
+"title": 1433406169,
+"description": 1433406169,
+"discounts": 1433406169,
+"images": 1433406169,
+"performances": 1433406169,
+"artist": 1433406169,
+"disabled": 1433406169
+},
+"twitter": "",
+"title": "Piano Music of Erik Satie",
+"updated": "2015-06-16 09:19:24",
+"description": "Prélude de la Porte Héroïque du Ciel, 6 Gnossiennes, 3 Sarabandes, Dances Gothiques.",
+"discounts": {
+"two_for_one": false,
+"friends": false,
+"schools": false,
+"passport": false,
+"group": false
+},
+"festival": "Edinburgh Festival Fringe",
+"year": "2015",
+"artist": "Peter Bream",
+"warnings": null,
+"festival_id": "fringe",
+"age_category": "U",
+"non_english": true,
+"website": "https://www.edfringe.com/event/2015PIANOMU_AMT",
+"status": "active",
+"performance_space": {
+"age_limit": null,
+"wheelchair_access": null,
+"name": "St Vincent's ",
+"capacity": 125,
+"age_limited": null
+},
+"code": "2015PIANOMU_AMT",
+"venue": {
+"position": {
+"lon": -3.203529,
+"lat": 55.958222
+},
+"phone": "0131 557 8028",
+"web_address": "http://www.stvincentschapel.org.uk",
+"fax": null,
+"post_code": "EH3 6SW",
+"has_cafe": false,
+"cafe_description": null,
+"map_ref": null,
+"code": "197",
+"disabled_description": "",
+"box_office_fringe": false,
+"has_booking_over_phone": false,
+"address": "St Vincent Street",
+"email": null,
+"description": "Fringe Venue 197.",
+"has_booking_over_web": true,
+"name": "St Vincent's",
+"box_office_opening": null,
+"has_booking_over_card": false,
+"has_bar": false
+},
+"sub_venue": null,
+"url": "https://api.edinburghfestivalcity.com/events/72660ccd930030f19c6c2a5d80479cf2116e0880",
+"country": "UNITED KINGDOM - SCOTLAND",
+"genre_tags": "Classical",
+"description_teaser": null,
+"images": [],
+"performances": [
+{
+"concession_family": false,
+"title": null,
+"concession": 10,
+"price": 15,
+"concession_additional": false,
+"start": "2015-08-29 16:00:00",
+"end": "2015-08-29 17:00:00"
+}
+],
+"categories": {
+"keywords": [],
+"subjects": [],
+"strand_titles": []
+},
+"disabled": {
+"signed_dates": null,
+"other_services_information": "",
+"captioning": false,
+"audio": false,
+"signed": false,
+"audio_dates": null,
+"other_services_dates": null,
+"captioning_dates": null,
+"other_services": false
+},
+"latitude": 55.958222,
+"longitude": -3.203529
+},
+{
+"genre": "Jazz",
+"fringe_first": null,
+"performers_number": null,
+"artist_type": null,
+"sub_title": null,
+"update_times": {
+"genre": 1437482648,
+"age_category": 1437482648,
+"other": 1437482648,
+"fringe_first": 1437482648,
+"status": 1437482648,
+"web_links": 1437482648,
+"venue": 1437482648,
+"identity": 1437482648,
+"title": 1437482648,
+"description": 1437482648,
+"discounts": 1437482648,
+"images": 1437482648,
+"performances": 1437482648,
+"artist": 1437482648,
+"disabled": 1437482648
+},
+"twitter": null,
+"title": "Jazzpospolita",
+"updated": "2015-07-21 13:44:08",
+"description": "<p>They&rsquo;ve played over 150 shows all over Europe, but this will be the Polish band&rsquo;s first Scottish show &ndash; cutting edge music from the edge of jazz, where it collides with post rock and electronics. Guitar, keys, bass, drums playing music influenced by EST, Magnus Ostrom etc. but taking a life of its own.&nbsp;</p>",
+"discounts": {
+"two_for_one": null,
+"friends": null,
+"schools": null,
+"passport": null,
+"group": null
+},
+"festival": "Edinburgh Jazz & Blues Festival",
+"year": "2015",
+"artist": "Jazzpospolita",
+"warnings": null,
+"festival_id": "jazz",
+"age_category": null,
+"non_english": null,
+"website": "http://www.edinburghjazzfestival.com/programme/artists/jazzpospolita.html",
+"status": "active",
+"performance_space": {
+"age_limit": null,
+"wheelchair_access": null,
+"name": null,
+"capacity": null,
+"age_limited": null
+},
+"code": "167",
+"venue": {
+"position": {
+"lon": 0,
+"lat": 0
+},
+"phone": "",
+"web_address": "",
+"fax": null,
+"post_code": "EH1 1HR",
+"has_cafe": null,
+"cafe_description": null,
+"map_ref": null,
+"code": "The Jazz Bar",
+"disabled_description": null,
+"box_office_fringe": null,
+"has_booking_over_phone": null,
+"address": "1A Chambers Street, Edinburgh ",
+"email": null,
+"description": "<p>The internal ambience of this fabulously atmospheric basement venue is modern, upbeat, and attractive, with natural stone walls, polished wood floor, cande-lit tables, comfy alcove seating, smart, unobtrusive lighting and designer furniture, enhanced by art and photography exhibitions. It&rsquo;s often described as &lsquo;A real New York vibe &ndash; right here in Edinburgh&lsquo;. And with a a capacity of 140, it&rsquo;s a nice size, not too small, not too big.</p>\n<p>Limited unreserved seating and standing.</p>\n<p>Over 14/18s Only - Please check individual gig listings.</p>\n<p>Basement venue, no wheelchair access.</p>",
+"has_booking_over_web": null,
+"name": "The Jazz Bar",
+"box_office_opening": null,
+"has_booking_over_card": null,
+"has_bar": null
+},
+"sub_venue": null,
+"url": "https://api.edinburghfestivalcity.com/events/14827ecc6933426775765f458095d14c2de1c7d6",
+"country": null,
+"genre_tags": "",
+"description_teaser": null,
+"images": {
+"62ab472032a99d89c0e48fb70ad7b5bf60f22710": {
+"versions": {
+"original": {
+"height": 200,
+"width": 200,
+"mime": "image/jpeg",
+"type": "original",
+"url": "//edfestimages.s3.amazonaws.com/62/ab/47/62ab472032a99d89c0e48fb70ad7b5bf60f22710-original.jpg"
+},
+"thumb-100": {
+"height": 100,
+"width": 100,
+"mime": "image/png",
+"type": "thumb-100",
+"url": "//edfestimages.s3.amazonaws.com/62/ab/47/62ab472032a99d89c0e48fb70ad7b5bf60f22710-thumb-100.png"
+},
+"square-75": {
+"height": 75,
+"width": 75,
+"mime": "image/png",
+"type": "square-75",
+"url": "//edfestimages.s3.amazonaws.com/62/ab/47/62ab472032a99d89c0e48fb70ad7b5bf60f22710-square-75.png"
+},
+"square-150": {
+"height": 150,
+"width": 150,
+"mime": "image/png",
+"type": "square-150",
+"url": "//edfestimages.s3.amazonaws.com/62/ab/47/62ab472032a99d89c0e48fb70ad7b5bf60f22710-square-150.png"
+}
+},
+"orientation": "square",
+"hash": "62ab472032a99d89c0e48fb70ad7b5bf60f22710",
+"type": "thumb"
+}
+},
+"performances": [
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 10,
+"concession_additional": false,
+"start": "2015-07-26 20:00:00",
+"end": "2015-07-26 21:30:00"
+}
+],
+"categories": {
+"keywords": [],
+"subjects": [],
+"strand_titles": []
+},
+"disabled": {
+"signed_dates": null,
+"other_services_information": null,
+"captioning": null,
+"audio": null,
+"signed": null,
+"audio_dates": null,
+"other_services_dates": null,
+"captioning_dates": null,
+"other_services": null
+},
+"latitude": 0,
+"longitude": 0
+},
+{
+"genre": "Comedy",
+"fringe_first": false,
+"performers_number": 1,
+"artist_type": "Professional company",
+"sub_title": null,
+"update_times": {
+"genre": 1433406168,
+"age_category": 1433406168,
+"other": 1433406168,
+"fringe_first": 1433406168,
+"status": 1433406168,
+"web_links": 1433406168,
+"venue": 1433406168,
+"identity": 1433406168,
+"title": 1433406168,
+"description": 1433406168,
+"discounts": 1433406168,
+"images": 1433406168,
+"performances": 1433406168,
+"artist": 1433406168,
+"disabled": 1433406168
+},
+"twitter": "@julietmeyers",
+"title": "Juliet Meyers: Through the Pigeonhole",
+"updated": "2015-06-04 09:22:48",
+"description": "Juliet Meyers, comedian, comedy writer (Sarah Millican Television Programme, Mock the Week, News Quiz) and natural outsider doesn’t belong. Do you? Are you sure? Hilarious exploration of labels we assign ourselves. Join her as she discusses people we idolise, class, Mumsnetters, immigrants (her father is an Iraqi Jew) vs UKIP, regionalism, music snobbery and group rivalries. 'Devilish…on the edge' **** (<i>Scotsman</i>). ‘Laugh out loud show that resonates’ **** (Chortle.co.uk). ‘Quirky and original’ **** (BroadwayBaby.com). ‘Smart and very funny’ (<i>Independent</i>). Featured twice in Edinburgh Festival’s top 100 jokes. Richard Herring’s comedy podcast. Sell-out Melbourne 2014.",
+"discounts": {
+"two_for_one": null,
+"friends": null,
+"schools": false,
+"passport": false,
+"group": null
+},
+"festival": "Edinburgh Festival Fringe",
+"year": "2015",
+"artist": "Juliet Meyers / Free Festival",
+"warnings": null,
+"festival_id": "fringe",
+"age_category": "14+",
+"non_english": false,
+"website": "https://www.edfringe.com/event/2015THROUGI_Z2",
+"status": "active",
+"performance_space": {
+"age_limit": null,
+"wheelchair_access": null,
+"name": "The Loft",
+"capacity": 35,
+"age_limited": null
+},
+"code": "2015THROUGI_Z2",
+"venue": {
+"position": {
+"lon": -3.185275,
+"lat": 55.944542
+},
+"phone": "0131 667 7533",
+"web_address": "http://www.freefestival.co.uk",
+"fax": null,
+"post_code": "EH8 9DD",
+"has_cafe": true,
+"cafe_description": "Two bars, wide range of beers, wines and spirits. Open 12.00-02.00 daily. Free Wi-Fi, large outdoor seating area.",
+"map_ref": null,
+"code": "170",
+"disabled_description": "Limited access to some parts of venue site, Some areas not reachable by lift or level access, No wheelchair accessible toilet, No reserved accessible parking",
+"box_office_fringe": false,
+"has_booking_over_phone": false,
+"address": "38 West Nicolson Street",
+"email": null,
+"description": "One of the largest free venues in Edinburgh, The Counting House offers six rooms of free Fringe shows every day from 10:00 to 02:00, plus an outdoor stage at the Pear Tree next door packed with performers and bands, a large walled beer garden, regular barbecues, and two well-stocked bars.",
+"has_booking_over_web": true,
+"name": "Laughing Horse @ The Counting House",
+"box_office_opening": null,
+"has_booking_over_card": false,
+"has_bar": true
+},
+"sub_venue": null,
+"url": "https://api.edinburghfestivalcity.com/events/149385f4bba10822137382529462a6065d25d923",
+"country": "UNITED KINGDOM - ENGLAND",
+"genre_tags": "Stand-up,Storytelling",
+"description_teaser": null,
+"images": {
+"a835bdbb43630978e35e17239667fdd7bc97813d": {
+"versions": {
+"original": {
+"height": 250,
+"width": 250,
+"mime": "image/jpeg",
+"type": "original",
+"url": "//edfestimages.s3.amazonaws.com/a8/35/bd/a835bdbb43630978e35e17239667fdd7bc97813d-original."
+},
+"thumb-100": {
+"height": 100,
+"width": 100,
+"mime": "image/png",
+"type": "thumb-100",
+"url": "//edfestimages.s3.amazonaws.com/a8/35/bd/a835bdbb43630978e35e17239667fdd7bc97813d-thumb-100.png"
+},
+"square-75": {
+"height": 75,
+"width": 75,
+"mime": "image/png",
+"type": "square-75",
+"url": "//edfestimages.s3.amazonaws.com/a8/35/bd/a835bdbb43630978e35e17239667fdd7bc97813d-square-75.png"
+},
+"square-150": {
+"height": 150,
+"width": 150,
+"mime": "image/png",
+"type": "square-150",
+"url": "//edfestimages.s3.amazonaws.com/a8/35/bd/a835bdbb43630978e35e17239667fdd7bc97813d-square-150.png"
+}
+},
+"orientation": "square",
+"hash": "a835bdbb43630978e35e17239667fdd7bc97813d",
+"type": "thumb"
+}
+},
+"performances": [
+{
+"concession_family": false,
+"title": "Free Non Ticketed",
+"concession": false,
+"price": 0,
+"concession_additional": false,
+"start": "2015-08-06 13:15:00",
+"end": "2015-08-06 14:15:00"
+},
+{
+"concession_family": false,
+"title": "Free Non Ticketed",
+"concession": false,
+"price": 0,
+"concession_additional": false,
+"start": "2015-08-07 13:15:00",
+"end": "2015-08-07 14:15:00"
+},
+{
+"concession_family": false,
+"title": "Free Non Ticketed",
+"concession": false,
+"price": 0,
+"concession_additional": false,
+"start": "2015-08-08 13:15:00",
+"end": "2015-08-08 14:15:00"
+},
+{
+"concession_family": false,
+"title": "Free Non Ticketed",
+"concession": false,
+"price": 0,
+"concession_additional": false,
+"start": "2015-08-09 13:15:00",
+"end": "2015-08-09 14:15:00"
+},
+{
+"concession_family": false,
+"title": "Free Non Ticketed",
+"concession": false,
+"price": 0,
+"concession_additional": false,
+"start": "2015-08-10 13:15:00",
+"end": "2015-08-10 14:15:00"
+},
+{
+"concession_family": false,
+"title": "Free Non Ticketed",
+"concession": false,
+"price": 0,
+"concession_additional": false,
+"start": "2015-08-11 13:15:00",
+"end": "2015-08-11 14:15:00"
+},
+{
+"concession_family": false,
+"title": "Free Non Ticketed",
+"concession": false,
+"price": 0,
+"concession_additional": false,
+"start": "2015-08-12 13:15:00",
+"end": "2015-08-12 14:15:00"
+},
+{
+"concession_family": false,
+"title": "Free Non Ticketed",
+"concession": false,
+"price": 0,
+"concession_additional": false,
+"start": "2015-08-13 13:15:00",
+"end": "2015-08-13 14:15:00"
+},
+{
+"concession_family": false,
+"title": "Free Non Ticketed",
+"concession": false,
+"price": 0,
+"concession_additional": false,
+"start": "2015-08-14 13:15:00",
+"end": "2015-08-14 14:15:00"
+},
+{
+"concession_family": false,
+"title": "Free Non Ticketed",
+"concession": false,
+"price": 0,
+"concession_additional": false,
+"start": "2015-08-15 13:15:00",
+"end": "2015-08-15 14:15:00"
+},
+{
+"concession_family": false,
+"title": "Free Non Ticketed",
+"concession": false,
+"price": 0,
+"concession_additional": false,
+"start": "2015-08-16 13:15:00",
+"end": "2015-08-16 14:15:00"
+},
+{
+"concession_family": false,
+"title": "Free Non Ticketed",
+"concession": false,
+"price": 0,
+"concession_additional": false,
+"start": "2015-08-17 13:15:00",
+"end": "2015-08-17 14:15:00"
+},
+{
+"concession_family": false,
+"title": "Free Non Ticketed",
+"concession": false,
+"price": 0,
+"concession_additional": false,
+"start": "2015-08-19 13:15:00",
+"end": "2015-08-19 14:15:00"
+},
+{
+"concession_family": false,
+"title": "Free Non Ticketed",
+"concession": false,
+"price": 0,
+"concession_additional": false,
+"start": "2015-08-20 13:15:00",
+"end": "2015-08-20 14:15:00"
+},
+{
+"concession_family": false,
+"title": "Free Non Ticketed",
+"concession": false,
+"price": 0,
+"concession_additional": false,
+"start": "2015-08-21 13:15:00",
+"end": "2015-08-21 14:15:00"
+},
+{
+"concession_family": false,
+"title": "Free Non Ticketed",
+"concession": false,
+"price": 0,
+"concession_additional": false,
+"start": "2015-08-22 13:15:00",
+"end": "2015-08-22 14:15:00"
+},
+{
+"concession_family": false,
+"title": "Free Non Ticketed",
+"concession": false,
+"price": 0,
+"concession_additional": false,
+"start": "2015-08-23 13:15:00",
+"end": "2015-08-23 14:15:00"
+},
+{
+"concession_family": false,
+"title": "Free Non Ticketed",
+"concession": false,
+"price": 0,
+"concession_additional": false,
+"start": "2015-08-24 13:15:00",
+"end": "2015-08-24 14:15:00"
+},
+{
+"concession_family": false,
+"title": "Free Non Ticketed",
+"concession": false,
+"price": 0,
+"concession_additional": false,
+"start": "2015-08-25 13:15:00",
+"end": "2015-08-25 14:15:00"
+},
+{
+"concession_family": false,
+"title": "Free Non Ticketed",
+"concession": false,
+"price": 0,
+"concession_additional": false,
+"start": "2015-08-26 13:15:00",
+"end": "2015-08-26 14:15:00"
+},
+{
+"concession_family": false,
+"title": "Free Non Ticketed",
+"concession": false,
+"price": 0,
+"concession_additional": false,
+"start": "2015-08-27 13:15:00",
+"end": "2015-08-27 14:15:00"
+},
+{
+"concession_family": false,
+"title": "Free Non Ticketed",
+"concession": false,
+"price": 0,
+"concession_additional": false,
+"start": "2015-08-28 13:15:00",
+"end": "2015-08-28 14:15:00"
+},
+{
+"concession_family": false,
+"title": "Free Non Ticketed",
+"concession": false,
+"price": 0,
+"concession_additional": false,
+"start": "2015-08-29 13:15:00",
+"end": "2015-08-29 14:15:00"
+},
+{
+"concession_family": false,
+"title": "Free Non Ticketed",
+"concession": false,
+"price": 0,
+"concession_additional": false,
+"start": "2015-08-30 13:15:00",
+"end": "2015-08-30 14:15:00"
+}
+],
+"categories": {
+"keywords": [],
+"subjects": [],
+"strand_titles": []
+},
+"disabled": {
+"signed_dates": null,
+"other_services_information": "",
+"captioning": false,
+"audio": false,
+"signed": false,
+"audio_dates": null,
+"other_services_dates": null,
+"captioning_dates": null,
+"other_services": false
+},
+"latitude": 55.944542,
+"longitude": -3.185275
+},
+{
+"genre": "Literature",
+"fringe_first": null,
+"performers_number": null,
+"artist_type": null,
+"sub_title": "New Country, New Life",
+"update_times": {
+"genre": 1433940932,
+"age_category": 1433940932,
+"other": 1433940932,
+"fringe_first": 1433940932,
+"status": 1433940932,
+"web_links": 1433940932,
+"venue": 1433940932,
+"identity": 1433940932,
+"title": 1433940932,
+"description": 1434627907,
+"discounts": 1433940932,
+"images": 1433940932,
+"performances": 1433940932,
+"artist": 1433940932,
+"disabled": 1433940932
+},
+"twitter": null,
+"title": "Monica Cantieni & Sunjeev Sahota",
+"updated": "2015-06-18 12:45:07",
+"description": "<p>\n\tThe immigrant experience is powerfully explored in two unforgettable new novels. Monica Cantieni&rsquo;s The Encyclopaedia of Good Reasons, translated by Donal McLaughlin, tells the deeply moving story of a young girl&rsquo;s long wait for adoption into a Swiss family, and into a German-speaking community. Sunjeev Sahota&rsquo;s much-anticipated second novel, The Year of the Runaways, describes the dreams and struggles of a group of young Indian men searching for a new life in Sheffield.</p>",
+"discounts": {
+"two_for_one": null,
+"friends": null,
+"schools": null,
+"passport": null,
+"group": null
+},
+"festival": "Edinburgh International Book Festival",
+"year": "2015",
+"artist": "Sunjeev Sahota",
+"warnings": null,
+"festival_id": "book",
+"age_category": "",
+"non_english": null,
+"website": "https://www.edbookfest.co.uk/the-festival/whats-on/monica-cantieni-sunjeev-sahota",
+"status": "active",
+"performance_space": {
+"age_limit": null,
+"wheelchair_access": null,
+"name": "Writers' Retreat",
+"capacity": null,
+"age_limited": null
+},
+"code": "6134",
+"venue": {
+"position": {
+"lon": -3.206913,
+"lat": 55.951903
+},
+"phone": null,
+"web_address": null,
+"fax": null,
+"post_code": "EH2 4DR",
+"has_cafe": null,
+"cafe_description": null,
+"map_ref": null,
+"code": "Charlotte Square Gardens",
+"disabled_description": null,
+"box_office_fringe": null,
+"has_booking_over_phone": null,
+"address": "Charlotte Square Gardens, Edinburgh",
+"email": null,
+"description": null,
+"has_booking_over_web": null,
+"name": "Charlotte Square Gardens",
+"box_office_opening": null,
+"has_booking_over_card": null,
+"has_bar": null
+},
+"sub_venue": null,
+"url": "https://api.edinburghfestivalcity.com/events/1b29e573a69b0905233fb351a517b219b0068fbc",
+"country": null,
+"genre_tags": null,
+"description_teaser": null,
+"images": {
+"1865a2c85c77839e3226dde869f95e59ec42704e": {
+"versions": {
+"original": {
+"height": 283,
+"width": 369,
+"mime": "image/png",
+"type": "original",
+"url": "//edfestimages.s3.amazonaws.com/18/65/a2/1865a2c85c77839e3226dde869f95e59ec42704e-original.png"
+},
+"small-320": {
+"height": 245,
+"width": 320,
+"mime": "image/png",
+"type": "small-320",
+"url": "//edfestimages.s3.amazonaws.com/18/65/a2/1865a2c85c77839e3226dde869f95e59ec42704e-small-320.png"
+},
+"thumb-100": {
+"height": 77,
+"width": 100,
+"mime": "image/png",
+"type": "thumb-100",
+"url": "//edfestimages.s3.amazonaws.com/18/65/a2/1865a2c85c77839e3226dde869f95e59ec42704e-thumb-100.png"
+},
+"square-75": {
+"height": 75,
+"width": 75,
+"mime": "image/png",
+"type": "square-75",
+"url": "//edfestimages.s3.amazonaws.com/18/65/a2/1865a2c85c77839e3226dde869f95e59ec42704e-square-75.png"
+},
+"square-150": {
+"height": 150,
+"width": 150,
+"mime": "image/png",
+"type": "square-150",
+"url": "//edfestimages.s3.amazonaws.com/18/65/a2/1865a2c85c77839e3226dde869f95e59ec42704e-square-150.png"
+}
+},
+"orientation": "landscape",
+"hash": "1865a2c85c77839e3226dde869f95e59ec42704e",
+"type": "thumb"
+}
+},
+"performances": [
+{
+"concession_family": false,
+"title": null,
+"concession": 5,
+"price": 7,
+"concession_additional": false,
+"start": "2015-08-25 15:30:00",
+"end": "2015-08-25 16:30:00"
+}
+],
+"categories": {
+"keywords": [],
+"subjects": [],
+"strand_titles": []
+},
+"disabled": {
+"signed_dates": null,
+"other_services_information": null,
+"captioning": null,
+"audio": null,
+"signed": null,
+"audio_dates": null,
+"other_services_dates": null,
+"captioning_dates": null,
+"other_services": null
+},
+"latitude": 55.951903,
+"longitude": -3.206913
+},
+{
+"genre": "Comedy",
+"fringe_first": false,
+"performers_number": 7,
+"artist_type": "Professional company",
+"sub_title": null,
+"update_times": {
+"genre": 1438701641,
+"age_category": 1438701641,
+"other": 1438701641,
+"fringe_first": 1438701641,
+"status": 1438701641,
+"web_links": 1438701641,
+"venue": 1438701641,
+"identity": 1438701641,
+"title": 1438701641,
+"description": 1438701641,
+"discounts": 1438701641,
+"images": 1438701641,
+"performances": 1438762858,
+"artist": 1438701641,
+"disabled": 1438701641
+},
+"twitter": "",
+"title": "Space Carrots Present: Where's Keith?",
+"updated": "2015-08-05 09:20:58",
+"description": "Join Gaulier-trained clowns, Space Carrots, on their intergalactic quest to find the mythical legend that is Keith. Combining clown, physical theatre and fantasy, follow this group on a joyful trip into the unknown. Other Gaulier alumni include: Sacha Baron Cohen, Dr Brown, Trygve Wakenshaw and Plague of Idiots.",
+"discounts": {
+"two_for_one": null,
+"friends": null,
+"schools": false,
+"passport": false,
+"group": null
+},
+"festival": "Edinburgh Festival Fringe",
+"year": "2015",
+"artist": "Space Carrots / PBH's Free Fringe",
+"warnings": null,
+"festival_id": "fringe",
+"age_category": "U",
+"non_english": true,
+"website": "https://www.edfringe.com/event/2015SPACECB_AQO",
+"status": "active",
+"performance_space": {
+"age_limit": null,
+"wheelchair_access": null,
+"name": "Down",
+"capacity": 60,
+"age_limited": null
+},
+"code": "2015SPACECB_AQO",
+"venue": {
+"position": {
+"lon": -3.201034,
+"lat": 55.947299
+},
+"phone": "",
+"web_address": null,
+"fax": null,
+"post_code": "EH1 2JY",
+"has_cafe": false,
+"cafe_description": "3 bars open every day during August from 11am-5am",
+"map_ref": null,
+"code": "444",
+"disabled_description": "",
+"box_office_fringe": false,
+"has_booking_over_phone": false,
+"address": "King's Stables Rd 28a",
+"email": null,
+"description": "Silk promises to be opulent, stylish and comfortable. Table service, VIP, beautiful bar staff and friendly stewards, premium brands and excellent drinks prices whether it's a cocktail for the ladies or beers for the gents, Silk promises to be the complete late night experience.....are you experienced? 18+ only. More info at www.silknightclub.co.uk",
+"has_booking_over_web": false,
+"name": "Silk",
+"box_office_opening": null,
+"has_booking_over_card": false,
+"has_bar": false
+},
+"sub_venue": null,
+"url": "https://api.edinburghfestivalcity.com/events/1b41c395b0289e5558c5652cef143cd58fd08a18",
+"country": "FRANCE",
+"genre_tags": "Clown,Absurdist",
+"description_teaser": null,
+"images": {
+"4ef22c74a286765da7f8d036b9f180d550baac71": {
+"versions": {
+"original": {
+"height": 250,
+"width": 250,
+"mime": "image/jpeg",
+"type": "original",
+"url": "//edfestimages.s3.amazonaws.com/4e/f2/2c/4ef22c74a286765da7f8d036b9f180d550baac71-original."
+},
+"thumb-100": {
+"height": 100,
+"width": 100,
+"mime": "image/png",
+"type": "thumb-100",
+"url": "//edfestimages.s3.amazonaws.com/4e/f2/2c/4ef22c74a286765da7f8d036b9f180d550baac71-thumb-100.png"
+},
+"square-75": {
+"height": 75,
+"width": 75,
+"mime": "image/png",
+"type": "square-75",
+"url": "//edfestimages.s3.amazonaws.com/4e/f2/2c/4ef22c74a286765da7f8d036b9f180d550baac71-square-75.png"
+},
+"square-150": {
+"height": 150,
+"width": 150,
+"mime": "image/png",
+"type": "square-150",
+"url": "//edfestimages.s3.amazonaws.com/4e/f2/2c/4ef22c74a286765da7f8d036b9f180d550baac71-square-150.png"
+}
+},
+"orientation": "square",
+"hash": "4ef22c74a286765da7f8d036b9f180d550baac71",
+"type": "thumb"
+}
+},
+"performances": [
+{
+"concession_family": false,
+"title": "Free Non Ticketed",
+"concession": false,
+"price": 0,
+"concession_additional": false,
+"start": "2015-08-08 19:10:00",
+"end": "2015-08-08 20:10:00"
+},
+{
+"concession_family": false,
+"title": "Free Non Ticketed",
+"concession": false,
+"price": 0,
+"concession_additional": false,
+"start": "2015-08-09 19:10:00",
+"end": "2015-08-09 20:10:00"
+},
+{
+"concession_family": false,
+"title": "Free Non Ticketed",
+"concession": false,
+"price": 0,
+"concession_additional": false,
+"start": "2015-08-10 19:10:00",
+"end": "2015-08-10 20:10:00"
+},
+{
+"concession_family": false,
+"title": "Free Non Ticketed",
+"concession": false,
+"price": 0,
+"concession_additional": false,
+"start": "2015-08-11 19:10:00",
+"end": "2015-08-11 20:10:00"
+},
+{
+"concession_family": false,
+"title": "Free Non Ticketed",
+"concession": false,
+"price": 0,
+"concession_additional": false,
+"start": "2015-08-12 19:10:00",
+"end": "2015-08-12 20:10:00"
+},
+{
+"concession_family": false,
+"title": "Free Non Ticketed",
+"concession": false,
+"price": 0,
+"concession_additional": false,
+"start": "2015-08-13 19:10:00",
+"end": "2015-08-13 20:10:00"
+},
+{
+"concession_family": false,
+"title": "Free Non Ticketed",
+"concession": false,
+"price": 0,
+"concession_additional": false,
+"start": "2015-08-14 19:10:00",
+"end": "2015-08-14 20:10:00"
+},
+{
+"concession_family": false,
+"title": "Free Non Ticketed",
+"concession": false,
+"price": 0,
+"concession_additional": false,
+"start": "2015-08-15 19:10:00",
+"end": "2015-08-15 20:10:00"
+},
+{
+"concession_family": false,
+"title": "Free Non Ticketed",
+"concession": false,
+"price": 0,
+"concession_additional": false,
+"start": "2015-08-16 19:10:00",
+"end": "2015-08-16 20:10:00"
+},
+{
+"concession_family": false,
+"title": "Free Non Ticketed",
+"concession": false,
+"price": 0,
+"concession_additional": false,
+"start": "2015-08-17 19:10:00",
+"end": "2015-08-17 20:10:00"
+},
+{
+"concession_family": false,
+"title": "Free Non Ticketed",
+"concession": false,
+"price": 0,
+"concession_additional": false,
+"start": "2015-08-18 19:10:00",
+"end": "2015-08-18 20:10:00"
+},
+{
+"concession_family": false,
+"title": "Free Non Ticketed",
+"concession": false,
+"price": 0,
+"concession_additional": false,
+"start": "2015-08-19 19:10:00",
+"end": "2015-08-19 20:10:00"
+},
+{
+"concession_family": false,
+"title": "Free Non Ticketed",
+"concession": false,
+"price": 0,
+"concession_additional": false,
+"start": "2015-08-20 19:10:00",
+"end": "2015-08-20 20:10:00"
+},
+{
+"concession_family": false,
+"title": "Free Non Ticketed",
+"concession": false,
+"price": 0,
+"concession_additional": false,
+"start": "2015-08-21 19:10:00",
+"end": "2015-08-21 20:10:00"
+},
+{
+"concession_family": false,
+"title": "Free Non Ticketed",
+"concession": false,
+"price": 0,
+"concession_additional": false,
+"start": "2015-08-22 19:10:00",
+"end": "2015-08-22 20:10:00"
+},
+{
+"concession_family": false,
+"title": "Free Non Ticketed",
+"concession": false,
+"price": 0,
+"concession_additional": false,
+"start": "2015-08-23 19:10:00",
+"end": "2015-08-23 20:10:00"
+},
+{
+"concession_family": false,
+"title": "Free Non Ticketed",
+"concession": false,
+"price": 0,
+"concession_additional": false,
+"start": "2015-08-24 19:10:00",
+"end": "2015-08-24 20:10:00"
+},
+{
+"concession_family": false,
+"title": "Free Non Ticketed",
+"concession": false,
+"price": 0,
+"concession_additional": false,
+"start": "2015-08-25 19:10:00",
+"end": "2015-08-25 20:10:00"
+},
+{
+"concession_family": false,
+"title": "Free Non Ticketed",
+"concession": false,
+"price": 0,
+"concession_additional": false,
+"start": "2015-08-26 19:10:00",
+"end": "2015-08-26 20:10:00"
+},
+{
+"concession_family": false,
+"title": "Free Non Ticketed",
+"concession": false,
+"price": 0,
+"concession_additional": false,
+"start": "2015-08-27 19:10:00",
+"end": "2015-08-27 20:10:00"
+},
+{
+"concession_family": false,
+"title": "Free Non Ticketed",
+"concession": false,
+"price": 0,
+"concession_additional": false,
+"start": "2015-08-28 19:10:00",
+"end": "2015-08-28 20:10:00"
+},
+{
+"concession_family": false,
+"title": "Free Non Ticketed",
+"concession": false,
+"price": 0,
+"concession_additional": false,
+"start": "2015-08-29 19:10:00",
+"end": "2015-08-29 20:10:00"
+}
+],
+"categories": {
+"keywords": [],
+"subjects": [],
+"strand_titles": []
+},
+"disabled": {
+"signed_dates": null,
+"other_services_information": "",
+"captioning": false,
+"audio": false,
+"signed": false,
+"audio_dates": null,
+"other_services_dates": null,
+"captioning_dates": null,
+"other_services": false
+},
+"latitude": 55.947299,
+"longitude": -3.201034
+},
+{
+"genre": "Theatre",
+"fringe_first": true,
+"performers_number": 3,
+"artist_type": "Amateur Company",
+"sub_title": null,
+"update_times": {
+"genre": 1428405657,
+"age_category": 1428405657,
+"other": 1428405657,
+"fringe_first": 1428405657,
+"status": 1428405657,
+"web_links": 1428405657,
+"venue": 1439281257,
+"identity": 1428405657,
+"title": 1428405657,
+"description": 1428405657,
+"discounts": 1428405657,
+"images": 1428405657,
+"performances": 1428405657,
+"artist": 1428405657,
+"disabled": 1428405657
+},
+"twitter": "@ButtonTheatre",
+"title": "An Illuminating Yarn",
+"updated": "2015-08-11 09:20:57",
+"description": "Clare wants to cheer Nina up, and thinks the knitted figures that have been appearing along the pier in Saltburn-on-Sea will do the job. But when Clare accuses Nina of stealing Tom Daley, a storm starts to brew. Will lairy Clare be able to calm neurotic Nina, or will the locals have something other than the strange knitting to talk about after tonight? Inspired by the real Saltburn yarn bombers, An Illuminating Yarn combines comedy and tragedy (and a bit of Buck’s Fizz), and puts friendship, mental health and the recession under the moonlight.",
+"discounts": {
+"two_for_one": true,
+"friends": true,
+"schools": false,
+"passport": false,
+"group": true
+},
+"festival": "Edinburgh Festival Fringe",
+"year": "2015",
+"artist": "Button Box Theatre Company",
+"warnings": null,
+"festival_id": "fringe",
+"age_category": "12+",
+"non_english": false,
+"website": "https://www.edfringe.com/event/2015ILLUMIN_AMW",
+"status": "active",
+"performance_space": {
+"age_limit": null,
+"wheelchair_access": null,
+"name": "Space 3",
+"capacity": 60,
+"age_limited": false
+},
+"code": "2015ILLUMIN_AMW",
+"venue": {
+"position": {
+"lon": -3.186636,
+"lat": 55.949632
+},
+"phone": "0131 510 2382",
+"web_address": "http://www.thespaceuk.com",
+"fax": null,
+"post_code": "EH1 1TH",
+"has_cafe": true,
+"cafe_description": "The venue has a fully licensed bar and restaurant 11:00-23:00 daily.",
+"map_ref": null,
+"code": "39",
+"disabled_description": "Limited access to some parts of venue site, Some areas not reachable by lift or level access, Wheelchair accessible toilet, No reserved accessible parking, No on street blue badge parking, Assistance dogs welcome in all areas",
+"box_office_fringe": true,
+"has_booking_over_phone": true,
+"address": "80 High Street",
+"email": null,
+"description": "Located right in the middle of the Mile, seconds from the Fringe stages, a real fringe hub, three theatres offer a diverse programme of new and established work, from theatre to improv, spoken word, music, comedy, monologue, sketch and spoken word, a global feast for all. Show info: www.thespaceuk.com.",
+"has_booking_over_web": true,
+"name": "theSpace on the Mile",
+"box_office_opening": null,
+"has_booking_over_card": false,
+"has_bar": true
+},
+"sub_venue": null,
+"url": "https://api.edinburghfestivalcity.com/events/1b8f6c3e8d3e7e84db39459d03abba2cacaef21b",
+"country": "UNITED KINGDOM - ENGLAND",
+"genre_tags": "Comedy,New writing",
+"description_teaser": null,
+"images": {
+"f105ce15c07498eb97edfa94cedf950eec41d530": {
+"versions": {
+"original": {
+"height": 250,
+"width": 250,
+"mime": "image/jpeg",
+"type": "original",
+"url": "//edfestimages.s3.amazonaws.com/f1/05/ce/f105ce15c07498eb97edfa94cedf950eec41d530-original."
+},
+"thumb-100": {
+"height": 100,
+"width": 100,
+"mime": "image/png",
+"type": "thumb-100",
+"url": "//edfestimages.s3.amazonaws.com/f1/05/ce/f105ce15c07498eb97edfa94cedf950eec41d530-thumb-100.png"
+},
+"square-75": {
+"height": 75,
+"width": 75,
+"mime": "image/png",
+"type": "square-75",
+"url": "//edfestimages.s3.amazonaws.com/f1/05/ce/f105ce15c07498eb97edfa94cedf950eec41d530-square-75.png"
+},
+"square-150": {
+"height": 150,
+"width": 150,
+"mime": "image/png",
+"type": "square-150",
+"url": "//edfestimages.s3.amazonaws.com/f1/05/ce/f105ce15c07498eb97edfa94cedf950eec41d530-square-150.png"
+}
+},
+"orientation": "square",
+"hash": "f105ce15c07498eb97edfa94cedf950eec41d530",
+"type": "thumb"
+}
+},
+"performances": [
+{
+"concession_family": false,
+"title": "PREVIEW",
+"concession": 4,
+"price": 6,
+"concession_additional": false,
+"start": "2015-08-07 13:20:00",
+"end": "2015-08-07 14:10:00"
+},
+{
+"concession_family": false,
+"title": "PREVIEW",
+"concession": 4,
+"price": 6,
+"concession_additional": false,
+"start": "2015-08-08 13:20:00",
+"end": "2015-08-08 14:10:00"
+},
+{
+"concession_family": false,
+"title": "2 for 1",
+"concession": 5,
+"price": 7,
+"concession_additional": false,
+"start": "2015-08-10 13:20:00",
+"end": "2015-08-10 14:10:00"
+},
+{
+"concession_family": false,
+"title": "2 for 1",
+"concession": 5,
+"price": 7,
+"concession_additional": false,
+"start": "2015-08-11 13:20:00",
+"end": "2015-08-11 14:10:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 5,
+"price": 7,
+"concession_additional": false,
+"start": "2015-08-12 13:20:00",
+"end": "2015-08-12 14:10:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 5,
+"price": 7,
+"concession_additional": false,
+"start": "2015-08-13 13:20:00",
+"end": "2015-08-13 14:10:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 5,
+"price": 7,
+"concession_additional": false,
+"start": "2015-08-14 13:20:00",
+"end": "2015-08-14 14:10:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 5,
+"price": 7,
+"concession_additional": false,
+"start": "2015-08-15 13:20:00",
+"end": "2015-08-15 14:10:00"
+}
+],
+"categories": {
+"keywords": [],
+"subjects": [],
+"strand_titles": []
+},
+"disabled": {
+"signed_dates": null,
+"other_services_information": "",
+"captioning": false,
+"audio": false,
+"signed": false,
+"audio_dates": null,
+"other_services_dates": null,
+"captioning_dates": null,
+"other_services": false
+},
+"latitude": 55.949632,
+"longitude": -3.186636
+},
+{
+"genre": "Discussion",
+"fringe_first": null,
+"performers_number": null,
+"artist_type": null,
+"sub_title": null,
+"update_times": {
+"genre": 1425317655,
+"age_category": 1425317655,
+"other": 1425317655,
+"fringe_first": 1425317655,
+"status": 1425317655,
+"web_links": 1425317655,
+"venue": 1426014011,
+"identity": 1425317655,
+"title": 1425317655,
+"description": 1425317655,
+"discounts": 1425317655,
+"images": 1425317655,
+"performances": 1425317655,
+"artist": 1425317655,
+"disabled": 1425317655
+},
+"twitter": null,
+"title": "Highlight Arctic",
+"updated": "2015-03-10 19:00:11",
+"description": "<p><strong>Highlight Arts</strong> present an evening of films, slides, stories and discussion on the landscape, ecology and culture of the High North, at a time when the Arctic region is experiencing enormous and rapid transition. Join award-winning author <strong>Gavin Francis</strong>, geographic-architects <strong>Lateral North</strong> and the Highlight Arctic team to uncover some of the unique peoples, events, research and artworks shaping and defining this fascinating region today.</p>",
+"discounts": {
+"two_for_one": null,
+"friends": null,
+"schools": null,
+"passport": null,
+"group": null
+},
+"festival": "Edinburgh International Science Festival",
+"year": "2015",
+"artist": null,
+"warnings": null,
+"festival_id": "science",
+"age_category": "Ages 14+",
+"non_english": null,
+"website": "http://www.sciencefestival.co.uk/event-details/highlight-arctic",
+"status": "active",
+"performance_space": {
+"age_limit": null,
+"wheelchair_access": null,
+"name": null,
+"capacity": null,
+"age_limited": null
+},
+"code": "279",
+"venue": {
+"position": {
+"lon": -3.18228,
+"lat": 55.94
+},
+"phone": null,
+"web_address": null,
+"fax": null,
+"post_code": "EH9 1PL",
+"has_cafe": null,
+"cafe_description": null,
+"map_ref": null,
+"code": "Summerhall",
+"disabled_description": null,
+"box_office_fringe": false,
+"has_booking_over_phone": true,
+"address": "Summerhall Place\nEdinburgh",
+"email": null,
+"description": null,
+"has_booking_over_web": true,
+"name": "Summerhall",
+"box_office_opening": null,
+"has_booking_over_card": true,
+"has_bar": null
+},
+"sub_venue": null,
+"url": "https://api.edinburghfestivalcity.com/events/200f160d522a8b18cea8835bdaa85f92537dfa5b",
+"country": null,
+"genre_tags": "Art,Environment",
+"description_teaser": "Highlight Arts present an evening of films, slides, stories and discussion on the landscape, ecology and culture of the High North.",
+"images": {
+"a3ce813b0c5c099119b0ea65d5986ce3754a9cee": {
+"versions": {
+"large-1024": {
+"height": 213,
+"width": 1024,
+"mime": "image/png",
+"type": "large-1024",
+"url": "//edfestimages.s3.amazonaws.com/a3/ce/81/a3ce813b0c5c099119b0ea65d5986ce3754a9cee-large-1024.png"
+},
+"original": {
+"height": 400,
+"width": 1920,
+"mime": "image/jpeg",
+"type": "original",
+"url": "//edfestimages.s3.amazonaws.com/a3/ce/81/a3ce813b0c5c099119b0ea65d5986ce3754a9cee-original.jpg"
+},
+"medium-640": {
+"height": 133,
+"width": 640,
+"mime": "image/png",
+"type": "medium-640",
+"url": "//edfestimages.s3.amazonaws.com/a3/ce/81/a3ce813b0c5c099119b0ea65d5986ce3754a9cee-medium-640.png"
+},
+"small-320": {
+"height": 67,
+"width": 320,
+"mime": "image/png",
+"type": "small-320",
+"url": "//edfestimages.s3.amazonaws.com/a3/ce/81/a3ce813b0c5c099119b0ea65d5986ce3754a9cee-small-320.png"
+},
+"thumb-100": {
+"height": 21,
+"width": 100,
+"mime": "image/png",
+"type": "thumb-100",
+"url": "//edfestimages.s3.amazonaws.com/a3/ce/81/a3ce813b0c5c099119b0ea65d5986ce3754a9cee-thumb-100.png"
+},
+"square-75": {
+"height": 75,
+"width": 75,
+"mime": "image/png",
+"type": "square-75",
+"url": "//edfestimages.s3.amazonaws.com/a3/ce/81/a3ce813b0c5c099119b0ea65d5986ce3754a9cee-square-75.png"
+},
+"square-150": {
+"height": 150,
+"width": 150,
+"mime": "image/png",
+"type": "square-150",
+"url": "//edfestimages.s3.amazonaws.com/a3/ce/81/a3ce813b0c5c099119b0ea65d5986ce3754a9cee-square-150.png"
+}
+},
+"orientation": "landscape",
+"hash": "a3ce813b0c5c099119b0ea65d5986ce3754a9cee",
+"type": "hero"
+},
+"e5bf5265755da7d6ecc14e484f5efce476047b43": {
+"versions": {
+"original": {
+"height": 800,
+"width": 800,
+"mime": "image/jpeg",
+"type": "original",
+"url": "//edfestimages.s3.amazonaws.com/e5/bf/52/e5bf5265755da7d6ecc14e484f5efce476047b43-original.jpg"
+},
+"medium-640": {
+"height": 640,
+"width": 640,
+"mime": "image/png",
+"type": "medium-640",
+"url": "//edfestimages.s3.amazonaws.com/e5/bf/52/e5bf5265755da7d6ecc14e484f5efce476047b43-medium-640.png"
+},
+"small-320": {
+"height": 320,
+"width": 320,
+"mime": "image/png",
+"type": "small-320",
+"url": "//edfestimages.s3.amazonaws.com/e5/bf/52/e5bf5265755da7d6ecc14e484f5efce476047b43-small-320.png"
+},
+"thumb-100": {
+"height": 100,
+"width": 100,
+"mime": "image/png",
+"type": "thumb-100",
+"url": "//edfestimages.s3.amazonaws.com/e5/bf/52/e5bf5265755da7d6ecc14e484f5efce476047b43-thumb-100.png"
+},
+"square-75": {
+"height": 75,
+"width": 75,
+"mime": "image/png",
+"type": "square-75",
+"url": "//edfestimages.s3.amazonaws.com/e5/bf/52/e5bf5265755da7d6ecc14e484f5efce476047b43-square-75.png"
+},
+"square-150": {
+"height": 150,
+"width": 150,
+"mime": "image/png",
+"type": "square-150",
+"url": "//edfestimages.s3.amazonaws.com/e5/bf/52/e5bf5265755da7d6ecc14e484f5efce476047b43-square-150.png"
+}
+},
+"orientation": "square",
+"hash": "e5bf5265755da7d6ecc14e484f5efce476047b43",
+"type": "thumb"
+}
+},
+"performances": [
+{
+"concession_family": false,
+"title": null,
+"concession": 6,
+"price": 8,
+"concession_additional": false,
+"start": "2015-04-14 20:00:00",
+"end": "2015-04-14 21:30:00"
+}
+],
+"categories": {
+"keywords": [
+{
+"category": "Headings",
+"keywords": [
+"Our planet",
+"Society & Culture"
+]
+},
+{
+"category": "Specialisations",
+"keywords": [
+"Architecture",
+"Ecology"
+]
+},
+{
+"category": "Topics",
+"keywords": [
+"Climate change",
+"Conservation"
+]
+}
+],
+"subjects": [
+"Art",
+"Environment"
+],
+"strand_titles": []
+},
+"disabled": {
+"signed_dates": null,
+"other_services_information": null,
+"captioning": null,
+"audio": null,
+"signed": null,
+"audio_dates": null,
+"other_services_dates": null,
+"captioning_dates": null,
+"other_services": null
+},
+"latitude": 55.94,
+"longitude": -3.18228
+},
+{
+"genre": "Theatre",
+"fringe_first": true,
+"performers_number": 4,
+"artist_type": "Professional company",
+"sub_title": null,
+"update_times": {
+"genre": 1431332800,
+"age_category": 1431332800,
+"other": 1431332800,
+"fringe_first": 1431332800,
+"status": 1431332800,
+"web_links": 1431332800,
+"venue": 1438762855,
+"identity": 1431332800,
+"title": 1431332800,
+"description": 1431332800,
+"discounts": 1431332800,
+"images": 1431332800,
+"performances": 1440577303,
+"artist": 1431332800,
+"disabled": 1431332800
+},
+"twitter": "@ANTLERtheatre",
+"title": "If I Were Me",
+"updated": "2015-08-26 09:21:43",
+"description": "It’s spring. The world is blossoming. Phillip’s potted daffodil is dying. A copywriter at an advertising agency, fading into the background of a pale office wall, he rearranges words until they work. But life isn't so easily edited. Phillip doesn't want to be Phillip. But what if he never really has been? What if Phillip is yet to become Phillip? And then there’s Person, who isn’t anybody... yet. Previous IdeasTap Underbelly Award winners Antler return to Edinburgh with If I Were Me, a playfully surreal portrayal of the performance of identity.",
+"discounts": {
+"two_for_one": true,
+"friends": true,
+"schools": false,
+"passport": false,
+"group": true
+},
+"festival": "Edinburgh Festival Fringe",
+"year": "2015",
+"artist": "Antler",
+"warnings": null,
+"festival_id": "fringe",
+"age_category": "U",
+"non_english": true,
+"website": "https://www.edfringe.com/event/2015IFIWERE_UD",
+"status": "active",
+"performance_space": {
+"age_limit": null,
+"wheelchair_access": false,
+"name": "Big Belly",
+"capacity": 60,
+"age_limited": false
+},
+"code": "2015IFIWERE_UD",
+"venue": {
+"position": {
+"lon": -3.192293,
+"lat": 55.948164
+},
+"phone": "0844 545 8252",
+"web_address": "http://www.underbellyedinburgh.co.uk",
+"fax": null,
+"post_code": "EH1 1EG",
+"has_cafe": true,
+"cafe_description": "Three buzzing licensed bars. Cafe with food and excellent coffee available and free late night entertainment.",
+"map_ref": null,
+"code": "61",
+"disabled_description": "Limited access to some parts of venue site, Some areas not reachable by lift or level access, Wheelchair accessible toilet, No reserved accessible parking, No on street blue badge parking, Assistance dogs welcome in all areas. The lane entrance to Belly Dancer is level but is also cobbled stone",
+"box_office_fringe": true,
+"has_booking_over_phone": true,
+"address": "56 Cowgate",
+"email": null,
+"description": "Now in its 16th year, Underbelly Cowgate is home to some of the best talent and the best bars you can find at the Fringe. Complete with a Cow Cafe (serving up coffee, snacks and free late-night entertainment), three licensed bars and seven vivacious venues open til 5am.",
+"has_booking_over_web": true,
+"name": "Underbelly, Cowgate",
+"box_office_opening": null,
+"has_booking_over_card": true,
+"has_bar": true
+},
+"sub_venue": null,
+"url": "https://api.edinburghfestivalcity.com/events/14ec826e5d8eea549d6e9de1b317a0ed577defa5",
+"country": "UNITED KINGDOM - ENGLAND",
+"genre_tags": "Devised,New writing",
+"description_teaser": null,
+"images": {
+"5d04204eff78650023314b692b08c732b7580653": {
+"versions": {
+"original": {
+"height": 250,
+"width": 250,
+"mime": "image/jpeg",
+"type": "original",
+"url": "//edfestimages.s3.amazonaws.com/5d/04/20/5d04204eff78650023314b692b08c732b7580653-original."
+},
+"thumb-100": {
+"height": 100,
+"width": 100,
+"mime": "image/png",
+"type": "thumb-100",
+"url": "//edfestimages.s3.amazonaws.com/5d/04/20/5d04204eff78650023314b692b08c732b7580653-thumb-100.png"
+},
+"square-75": {
+"height": 75,
+"width": 75,
+"mime": "image/png",
+"type": "square-75",
+"url": "//edfestimages.s3.amazonaws.com/5d/04/20/5d04204eff78650023314b692b08c732b7580653-square-75.png"
+},
+"square-150": {
+"height": 150,
+"width": 150,
+"mime": "image/png",
+"type": "square-150",
+"url": "//edfestimages.s3.amazonaws.com/5d/04/20/5d04204eff78650023314b692b08c732b7580653-square-150.png"
+}
+},
+"orientation": "square",
+"hash": "5d04204eff78650023314b692b08c732b7580653",
+"type": "thumb"
+}
+},
+"performances": [
+{
+"concession_family": false,
+"title": "PREVIEW",
+"concession": false,
+"price": 6,
+"concession_additional": false,
+"start": "2015-08-06 18:05:00",
+"end": "2015-08-06 19:05:00"
+},
+{
+"concession_family": false,
+"title": "PREVIEW",
+"concession": false,
+"price": 6,
+"concession_additional": false,
+"start": "2015-08-07 18:05:00",
+"end": "2015-08-07 19:05:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 8,
+"price": 9,
+"concession_additional": false,
+"start": "2015-08-08 18:05:00",
+"end": "2015-08-08 19:05:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 8,
+"price": 9,
+"concession_additional": false,
+"start": "2015-08-09 18:05:00",
+"end": "2015-08-09 19:05:00"
+},
+{
+"concession_family": false,
+"title": "2 for 1",
+"concession": 9.5,
+"price": 10.5,
+"concession_additional": false,
+"start": "2015-08-10 18:05:00",
+"end": "2015-08-10 19:05:00"
+},
+{
+"concession_family": false,
+"title": "2 for 1",
+"concession": 9.5,
+"price": 10.5,
+"concession_additional": false,
+"start": "2015-08-11 18:05:00",
+"end": "2015-08-11 19:05:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 8,
+"price": 9,
+"concession_additional": false,
+"start": "2015-08-12 18:05:00",
+"end": "2015-08-12 19:05:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 8,
+"price": 9,
+"concession_additional": false,
+"start": "2015-08-13 18:05:00",
+"end": "2015-08-13 19:05:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 9.5,
+"price": 10.5,
+"concession_additional": false,
+"start": "2015-08-14 18:05:00",
+"end": "2015-08-14 19:05:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 9.5,
+"price": 10.5,
+"concession_additional": false,
+"start": "2015-08-15 18:05:00",
+"end": "2015-08-15 19:05:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 9.5,
+"price": 10.5,
+"concession_additional": false,
+"start": "2015-08-16 18:05:00",
+"end": "2015-08-16 19:05:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 8,
+"price": 9,
+"concession_additional": false,
+"start": "2015-08-18 18:05:00",
+"end": "2015-08-18 19:05:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 8,
+"price": 9,
+"concession_additional": false,
+"start": "2015-08-19 18:05:00",
+"end": "2015-08-19 19:05:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 8,
+"price": 9,
+"concession_additional": false,
+"start": "2015-08-20 18:05:00",
+"end": "2015-08-20 19:05:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 9.5,
+"price": 10.5,
+"concession_additional": false,
+"start": "2015-08-21 18:05:00",
+"end": "2015-08-21 19:05:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 9.5,
+"price": 10.5,
+"concession_additional": false,
+"start": "2015-08-22 18:05:00",
+"end": "2015-08-22 19:05:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 9.5,
+"price": 10.5,
+"concession_additional": false,
+"start": "2015-08-23 18:05:00",
+"end": "2015-08-23 19:05:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 8,
+"price": 9,
+"concession_additional": false,
+"start": "2015-08-24 18:05:00",
+"end": "2015-08-24 19:05:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 8,
+"price": 9,
+"concession_additional": false,
+"start": "2015-08-26 18:05:00",
+"end": "2015-08-26 19:05:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 8,
+"price": 9,
+"concession_additional": false,
+"start": "2015-08-27 18:05:00",
+"end": "2015-08-27 19:05:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 9.5,
+"price": 10.5,
+"concession_additional": false,
+"start": "2015-08-28 18:05:00",
+"end": "2015-08-28 19:05:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 9.5,
+"price": 10.5,
+"concession_additional": false,
+"start": "2015-08-29 18:05:00",
+"end": "2015-08-29 19:05:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 9.5,
+"price": 10.5,
+"concession_additional": false,
+"start": "2015-08-30 18:05:00",
+"end": "2015-08-30 19:05:00"
+}
+],
+"categories": {
+"keywords": [],
+"subjects": [],
+"strand_titles": []
+},
+"disabled": {
+"signed_dates": null,
+"other_services_information": "",
+"captioning": false,
+"audio": false,
+"signed": false,
+"audio_dates": null,
+"other_services_dates": null,
+"captioning_dates": null,
+"other_services": false
+},
+"latitude": 55.948164,
+"longitude": -3.192293
+},
+{
+"genre": "Events",
+"fringe_first": false,
+"performers_number": 12,
+"artist_type": "Amateur Company",
+"sub_title": null,
+"update_times": {
+"genre": 1433406169,
+"age_category": 1433406169,
+"other": 1433406169,
+"fringe_first": 1433406169,
+"status": 1433406169,
+"web_links": 1433406169,
+"venue": 1433406169,
+"identity": 1433406169,
+"title": 1433406169,
+"description": 1433406169,
+"discounts": 1433406169,
+"images": 1433406169,
+"performances": 1433406169,
+"artist": 1433406169,
+"disabled": 1433406169
+},
+"twitter": "@YescafeEdSouth",
+"title": "Spirit of Yes",
+"updated": "2015-06-04 09:22:49",
+"description": "All artists were inspired by the referendum of 2014 and the potential for the creation of a healthier, wealthier and fairer Scotland. ",
+"discounts": {
+"two_for_one": true,
+"friends": true,
+"schools": false,
+"passport": false,
+"group": true
+},
+"festival": "Edinburgh Festival Fringe",
+"year": "2015",
+"artist": "Various Artists, All Inspired by the Referendum of 2014",
+"warnings": null,
+"festival_id": "fringe",
+"age_category": "U",
+"non_english": true,
+"website": "https://www.edfringe.com/event/2015SPIRITO_ANH",
+"status": "active",
+"performance_space": {
+"age_limit": null,
+"wheelchair_access": true,
+"name": "Cafe area",
+"capacity": 30,
+"age_limited": false
+},
+"code": "2015SPIRITO_ANH",
+"venue": {
+"position": {
+"lon": -3.16763,
+"lat": 55.919775
+},
+"phone": "0131 672 2778",
+"web_address": "http://www.yescafeedinburghsouth.weebly.com",
+"fax": null,
+"post_code": "EH16 6AJ",
+"has_cafe": true,
+"cafe_description": "Homemade soups, hot filled rolls and home baking. Hot and soft drinks.",
+"map_ref": null,
+"code": "325",
+"disabled_description": "Full venue site is accessible, Lift level access to all areas, Wheelchair accessible toilet, No reserved accessible parking, On street blue badge parking, Assistance dogs welcome in all areas",
+"box_office_fringe": false,
+"has_booking_over_phone": false,
+"address": "1-2 Liberton Dams",
+"email": null,
+"description": "A fabulous meeting place and cafe, with space for small exhibition also available. Formed after the Scottish Referendum by volunteers who still want to see a fairer, healthier and more prosperous Scotland.",
+"has_booking_over_web": true,
+"name": "Yes Cafe Edinburgh South",
+"box_office_opening": null,
+"has_booking_over_card": false,
+"has_bar": false
+},
+"sub_venue": null,
+"url": "https://api.edinburghfestivalcity.com/events/204941ca0a16017849ebe30b1d2be9a03c842e76",
+"country": "UNITED KINGDOM - SCOTLAND",
+"genre_tags": "Music,Folk",
+"description_teaser": null,
+"images": {
+"7896b9d37c99375cb542480cade0f490fc09bb00": {
+"versions": {
+"original": {
+"height": 250,
+"width": 250,
+"mime": "image/jpeg",
+"type": "original",
+"url": "//edfestimages.s3.amazonaws.com/78/96/b9/7896b9d37c99375cb542480cade0f490fc09bb00-original."
+},
+"thumb-100": {
+"height": 100,
+"width": 100,
+"mime": "image/png",
+"type": "thumb-100",
+"url": "//edfestimages.s3.amazonaws.com/78/96/b9/7896b9d37c99375cb542480cade0f490fc09bb00-thumb-100.png"
+},
+"square-75": {
+"height": 75,
+"width": 75,
+"mime": "image/png",
+"type": "square-75",
+"url": "//edfestimages.s3.amazonaws.com/78/96/b9/7896b9d37c99375cb542480cade0f490fc09bb00-square-75.png"
+},
+"square-150": {
+"height": 150,
+"width": 150,
+"mime": "image/png",
+"type": "square-150",
+"url": "//edfestimages.s3.amazonaws.com/78/96/b9/7896b9d37c99375cb542480cade0f490fc09bb00-square-150.png"
+}
+},
+"orientation": "square",
+"hash": "7896b9d37c99375cb542480cade0f490fc09bb00",
+"type": "thumb"
+}
+},
+"performances": [
+{
+"concession_family": false,
+"title": null,
+"concession": 4,
+"price": 6,
+"concession_additional": false,
+"start": "2015-08-05 00:00:00",
+"end": "2015-08-06 00:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 4,
+"price": 6,
+"concession_additional": false,
+"start": "2015-08-06 00:00:00",
+"end": "2015-08-07 00:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 4,
+"price": 6,
+"concession_additional": false,
+"start": "2015-08-07 00:00:00",
+"end": "2015-08-08 00:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 4,
+"price": 6,
+"concession_additional": false,
+"start": "2015-08-08 00:00:00",
+"end": "2015-08-09 00:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 4,
+"price": 6,
+"concession_additional": false,
+"start": "2015-08-09 00:00:00",
+"end": "2015-08-10 00:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 4,
+"price": 6,
+"concession_additional": false,
+"start": "2015-08-10 00:00:00",
+"end": "2015-08-11 00:00:00"
+},
+{
+"concession_family": false,
+"title": "2 for 1",
+"concession": 4,
+"price": 6,
+"concession_additional": false,
+"start": "2015-08-11 00:00:00",
+"end": "2015-08-12 00:00:00"
+},
+{
+"concession_family": false,
+"title": "2 for 1",
+"concession": 4,
+"price": 6,
+"concession_additional": false,
+"start": "2015-08-12 00:00:00",
+"end": "2015-08-13 00:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 4,
+"price": 6,
+"concession_additional": false,
+"start": "2015-08-13 00:00:00",
+"end": "2015-08-14 00:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 4,
+"price": 6,
+"concession_additional": false,
+"start": "2015-08-14 00:00:00",
+"end": "2015-08-15 00:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 4,
+"price": 6,
+"concession_additional": false,
+"start": "2015-08-15 00:00:00",
+"end": "2015-08-16 00:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 4,
+"price": 6,
+"concession_additional": false,
+"start": "2015-08-16 00:00:00",
+"end": "2015-08-17 00:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 4,
+"price": 6,
+"concession_additional": false,
+"start": "2015-08-17 00:00:00",
+"end": "2015-08-18 00:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 4,
+"price": 6,
+"concession_additional": false,
+"start": "2015-08-18 00:00:00",
+"end": "2015-08-19 00:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 4,
+"price": 6,
+"concession_additional": false,
+"start": "2015-08-19 00:00:00",
+"end": "2015-08-20 00:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 4,
+"price": 6,
+"concession_additional": false,
+"start": "2015-08-20 00:00:00",
+"end": "2015-08-21 00:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 4,
+"price": 6,
+"concession_additional": false,
+"start": "2015-08-21 00:00:00",
+"end": "2015-08-22 00:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 4,
+"price": 6,
+"concession_additional": false,
+"start": "2015-08-22 00:00:00",
+"end": "2015-08-23 00:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 4,
+"price": 6,
+"concession_additional": false,
+"start": "2015-08-23 00:00:00",
+"end": "2015-08-24 00:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 4,
+"price": 6,
+"concession_additional": false,
+"start": "2015-08-24 00:00:00",
+"end": "2015-08-25 00:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 4,
+"price": 6,
+"concession_additional": false,
+"start": "2015-08-25 00:00:00",
+"end": "2015-08-26 00:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 4,
+"price": 6,
+"concession_additional": false,
+"start": "2015-08-26 00:00:00",
+"end": "2015-08-27 00:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 4,
+"price": 6,
+"concession_additional": false,
+"start": "2015-08-27 00:00:00",
+"end": "2015-08-28 00:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 4,
+"price": 6,
+"concession_additional": false,
+"start": "2015-08-28 00:00:00",
+"end": "2015-08-29 00:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 4,
+"price": 6,
+"concession_additional": false,
+"start": "2015-08-29 00:00:00",
+"end": "2015-08-30 00:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 4,
+"price": 6,
+"concession_additional": false,
+"start": "2015-08-30 00:00:00",
+"end": "2015-08-31 00:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 4,
+"price": 6,
+"concession_additional": false,
+"start": "2015-08-31 00:00:00",
+"end": "2015-09-01 00:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 4,
+"price": 6,
+"concession_additional": false,
+"start": "2015-09-01 00:00:00",
+"end": "2015-09-02 00:00:00"
+}
+],
+"categories": {
+"keywords": [],
+"subjects": [],
+"strand_titles": []
+},
+"disabled": {
+"signed_dates": null,
+"other_services_information": "",
+"captioning": false,
+"audio": false,
+"signed": false,
+"audio_dates": null,
+"other_services_dates": null,
+"captioning_dates": null,
+"other_services": false
+},
+"latitude": 55.919775,
+"longitude": -3.16763
+},
+{
+"genre": "Comedy",
+"fringe_first": false,
+"performers_number": 1,
+"artist_type": "Professional company",
+"sub_title": null,
+"update_times": {
+"genre": 1428405659,
+"age_category": 1428405659,
+"other": 1428405659,
+"fringe_first": 1428405659,
+"status": 1428405659,
+"web_links": 1428405659,
+"venue": 1428923817,
+"identity": 1428405659,
+"title": 1428405659,
+"description": 1428405659,
+"discounts": 1428405659,
+"images": 1429874266,
+"performances": 1428405659,
+"artist": 1428405659,
+"disabled": 1428405659
+},
+"twitter": "@standcomedyclub",
+"title": "Alun Cochrane: A Show with a Man in It",
+"updated": "2015-04-24 12:17:46",
+"description": "A man who has jokes. Jokes about manliness, womanliness, hobbies, ageing, fighting, perfume, beards, snoods, feminism, fundamentalism, and hopefully some profound understanding about life itself. 'Brilliant no-frills stand-up comedy’ (<i>List</i>). Alun has been doing solo stand-up shows at the festival since 2004. He is heard on Radio 4 in Alun Cochrane's Fun House, Just a Minute and has performed his observational autobiographical comedy on various stand-up and panel shows on TV. He is affectionately known as the Cockerel on Absolute Radio's Frank Skinner Show and podcast.",
+"discounts": {
+"two_for_one": true,
+"friends": false,
+"schools": false,
+"passport": false,
+"group": false
+},
+"festival": "Edinburgh Festival Fringe",
+"year": "2015",
+"artist": "Alun Cochrane",
+"warnings": "Mixed seating and standing room. Latecomers may not be admitted.",
+"festival_id": "fringe",
+"age_category": "16+",
+"non_english": false,
+"website": "https://www.edfringe.com/event/2015ALUNCOC_ST",
+"status": "active",
+"performance_space": {
+"age_limit": "General Rule of thumb - No under 18s after 19:00. ",
+"wheelchair_access": false,
+"name": "Stand 1",
+"capacity": 150,
+"age_limited": true
+},
+"code": "2015ALUNCOC_ST",
+"venue": {
+"position": {
+"lon": -3.192146,
+"lat": 55.955873
+},
+"phone": "0131 558 7272",
+"web_address": "http://www.thestand.co.uk",
+"fax": null,
+"post_code": "EH1 3EB",
+"has_cafe": false,
+"cafe_description": "Fully licensed bar, soft drinks, teas and coffees available.",
+"map_ref": null,
+"code": "5a",
+"disabled_description": "Limited access to some parts of venue site, Some areas not reachable by lift or level access, Wheelchair accessible toilet, No reserved accessible parking, On street blue badge parking, Assistance dogs welcome in all areas",
+"box_office_fringe": false,
+"has_booking_over_phone": true,
+"address": "5 York Place",
+"email": null,
+"description": "Edinburgh's year-round comedy club is housed in an intimate basement bar just off St. Andrew Square. The atmosphere is relaxed and informal with cabaret-style seating and standing room. All seating is unreserved.",
+"has_booking_over_web": true,
+"name": "The Stand Comedy Club",
+"box_office_opening": null,
+"has_booking_over_card": true,
+"has_bar": true
+},
+"sub_venue": null,
+"url": "https://api.edinburghfestivalcity.com/events/154cf79ba7363e0c88a9da556f98f9cb37345fb0",
+"country": "UNITED KINGDOM - ENGLAND",
+"genre_tags": "Stand-up,Solo show",
+"description_teaser": null,
+"images": {
+"ec2815382378b1d9f7d0a5d5a55b8fefb96961c0": {
+"versions": {
+"original": {
+"height": 250,
+"width": 250,
+"mime": "image/jpeg",
+"type": "original",
+"url": "//edfestimages.s3.amazonaws.com/ec/28/15/ec2815382378b1d9f7d0a5d5a55b8fefb96961c0-original."
+},
+"thumb-100": {
+"height": 100,
+"width": 100,
+"mime": "image/png",
+"type": "thumb-100",
+"url": "//edfestimages.s3.amazonaws.com/ec/28/15/ec2815382378b1d9f7d0a5d5a55b8fefb96961c0-thumb-100.png"
+},
+"square-75": {
+"height": 75,
+"width": 75,
+"mime": "image/png",
+"type": "square-75",
+"url": "//edfestimages.s3.amazonaws.com/ec/28/15/ec2815382378b1d9f7d0a5d5a55b8fefb96961c0-square-75.png"
+},
+"square-150": {
+"height": 150,
+"width": 150,
+"mime": "image/png",
+"type": "square-150",
+"url": "//edfestimages.s3.amazonaws.com/ec/28/15/ec2815382378b1d9f7d0a5d5a55b8fefb96961c0-square-150.png"
+}
+},
+"orientation": "square",
+"hash": "ec2815382378b1d9f7d0a5d5a55b8fefb96961c0",
+"type": "thumb"
+}
+},
+"performances": [
+{
+"concession_family": false,
+"title": "PREVIEW",
+"concession": 8,
+"price": 9,
+"concession_additional": false,
+"start": "2015-08-06 18:30:00",
+"end": "2015-08-06 19:30:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 9,
+"price": 10,
+"concession_additional": false,
+"start": "2015-08-07 18:30:00",
+"end": "2015-08-07 19:30:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 9,
+"price": 10,
+"concession_additional": false,
+"start": "2015-08-08 18:30:00",
+"end": "2015-08-08 19:30:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 9,
+"price": 10,
+"concession_additional": false,
+"start": "2015-08-09 18:30:00",
+"end": "2015-08-09 19:30:00"
+},
+{
+"concession_family": false,
+"title": "2 for 1",
+"concession": 9,
+"price": 10,
+"concession_additional": false,
+"start": "2015-08-10 18:30:00",
+"end": "2015-08-10 19:30:00"
+},
+{
+"concession_family": false,
+"title": "2 for 1",
+"concession": 9,
+"price": 10,
+"concession_additional": false,
+"start": "2015-08-11 18:30:00",
+"end": "2015-08-11 19:30:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 9,
+"price": 10,
+"concession_additional": false,
+"start": "2015-08-12 18:30:00",
+"end": "2015-08-12 19:30:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 9,
+"price": 10,
+"concession_additional": false,
+"start": "2015-08-13 18:30:00",
+"end": "2015-08-13 19:30:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 9,
+"price": 10,
+"concession_additional": false,
+"start": "2015-08-14 18:30:00",
+"end": "2015-08-14 19:30:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 9,
+"price": 10,
+"concession_additional": false,
+"start": "2015-08-15 18:30:00",
+"end": "2015-08-15 19:30:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 9,
+"price": 10,
+"concession_additional": false,
+"start": "2015-08-16 18:30:00",
+"end": "2015-08-16 19:30:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 9,
+"price": 10,
+"concession_additional": false,
+"start": "2015-08-18 18:30:00",
+"end": "2015-08-18 19:30:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 9,
+"price": 10,
+"concession_additional": false,
+"start": "2015-08-19 18:30:00",
+"end": "2015-08-19 19:30:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 9,
+"price": 10,
+"concession_additional": false,
+"start": "2015-08-20 18:30:00",
+"end": "2015-08-20 19:30:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 9,
+"price": 10,
+"concession_additional": false,
+"start": "2015-08-21 18:30:00",
+"end": "2015-08-21 19:30:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 9,
+"price": 10,
+"concession_additional": false,
+"start": "2015-08-22 18:30:00",
+"end": "2015-08-22 19:30:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 9,
+"price": 10,
+"concession_additional": false,
+"start": "2015-08-23 18:30:00",
+"end": "2015-08-23 19:30:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 9,
+"price": 10,
+"concession_additional": false,
+"start": "2015-08-24 18:30:00",
+"end": "2015-08-24 19:30:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 9,
+"price": 10,
+"concession_additional": false,
+"start": "2015-08-25 18:30:00",
+"end": "2015-08-25 19:30:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 9,
+"price": 10,
+"concession_additional": false,
+"start": "2015-08-26 18:30:00",
+"end": "2015-08-26 19:30:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 9,
+"price": 10,
+"concession_additional": false,
+"start": "2015-08-27 18:30:00",
+"end": "2015-08-27 19:30:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 9,
+"price": 10,
+"concession_additional": false,
+"start": "2015-08-28 18:30:00",
+"end": "2015-08-28 19:30:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 9,
+"price": 10,
+"concession_additional": false,
+"start": "2015-08-29 18:30:00",
+"end": "2015-08-29 19:30:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 9,
+"price": 10,
+"concession_additional": false,
+"start": "2015-08-30 18:30:00",
+"end": "2015-08-30 19:30:00"
+}
+],
+"categories": {
+"keywords": [],
+"subjects": [],
+"strand_titles": []
+},
+"disabled": {
+"signed_dates": null,
+"other_services_information": "",
+"captioning": false,
+"audio": false,
+"signed": false,
+"audio_dates": null,
+"other_services_dates": null,
+"captioning_dates": null,
+"other_services": false
+},
+"latitude": 55.955873,
+"longitude": -3.192146
+},
+{
+"genre": "Theatre",
+"fringe_first": true,
+"performers_number": 1,
+"artist_type": "Professional company",
+"sub_title": null,
+"update_times": {
+"genre": 1431332802,
+"age_category": 1431332802,
+"other": 1431332802,
+"fringe_first": 1431332802,
+"status": 1431332802,
+"web_links": 1431332802,
+"venue": 1450282994,
+"identity": 1431332802,
+"title": 1431332802,
+"description": 1431332802,
+"discounts": 1431332802,
+"images": 1431332802,
+"performances": 1431332802,
+"artist": 1431332802,
+"disabled": 1431332802
+},
+"twitter": "@bababrinkman",
+"title": "Rap Guide to Climate Chaos",
+"updated": "2015-12-16 16:23:14",
+"description": "Global warming, how bad can it really be? That depends on who's asking. Some species will do pretty well (algae, cockroaches, jellyfish), others are facing certain extinction. Likewise, some people are in a better position to capitalize on climate chaos than others. Fringe First winner Baba Brinkman (Rap Guide to Evolution) explores the science of climate chaos, whether it's avoidable, and how we can expect primates such as ourselves to behave when it all goes down. 'Astonishing and brilliant' (<i>New York Times</i>). 'Funny and fascinating' ***** (Chortle.co.uk). ***** (<i>Scotsman</i>). ***** (<i>ThreeWeeks</i>). ***** (EdinburghReporter.co.uk).",
+"discounts": {
+"two_for_one": true,
+"friends": true,
+"schools": false,
+"passport": false,
+"group": true
+},
+"festival": "Edinburgh Festival Fringe",
+"year": "2015",
+"artist": "Soho Playhouse Inc",
+"warnings": null,
+"festival_id": "fringe",
+"age_category": "PG",
+"non_english": false,
+"website": "https://www.edfringe.com/event/2015RAPGUID_GH",
+"status": "active",
+"performance_space": {
+"age_limit": "Children (up to age of 15 years) are permitted in the building  until midnight with a valid ticket to an age appropriate show. Young People (aged 16 & 17 years) are permitted in the building  until 3am with a valid ticket to an age appropriate show. Children and Young People will be allowed access to all public parts of the premises but not at or immediately adjacent to the bar. ",
+"wheelchair_access": true,
+"name": "Wine Bar",
+"capacity": 150,
+"age_limited": true
+},
+"code": "2015RAPGUID_GH",
+"venue": {
+"position": {
+"lon": -3.188612,
+"lat": 55.945121
+},
+"phone": "0131 622 6552",
+"web_address": "http://www.gildedballoon.co.uk",
+"fax": null,
+"post_code": "EH8 9AJ",
+"has_cafe": true,
+"cafe_description": "Bars and cafe open all day serving wide selection of food and drink. Relax in the beer garden including juice bar and food area.",
+"map_ref": null,
+"code": "14",
+"disabled_description": "Limited access to some parts of venue site, Some areas not reachable by lift or level access, Wheelchair accessible toilet, No reserved accessible parking, On street blue badge parking, Assistance dogs welcome in all areas. The building is accessed by 8 steps or an external wheelchair lift",
+"box_office_fringe": true,
+"has_booking_over_phone": true,
+"address": "Teviot Row House",
+"email": null,
+"description": "An exciting, vibrant, neo-gothic mini-castle housing nine performance spaces and seven bars including the exclusive roof top bar, The Loft. A must for all Fringe-goers. A massive mini-Fringe under one roof, this iconic venue has spawned the best of the best on the Fringe! All spaces, the café and all seven bars are wheelchair accessible, with the exception of the Balcony and Billiard Rooms. Tickets available 24-hours online!",
+"has_booking_over_web": true,
+"name": "Gilded Balloon",
+"box_office_opening": null,
+"has_booking_over_card": true,
+"has_bar": true
+},
+"sub_venue": null,
+"url": "https://api.edinburghfestivalcity.com/events/1be5f2383e4459a9a9977697362a32ec7d38db14",
+"country": "UNITED STATES",
+"genre_tags": "Comedy,Storytelling",
+"description_teaser": null,
+"images": {
+"ef2d5b7b024aee295816c7fa79df694777161d94": {
+"versions": {
+"original": {
+"height": 250,
+"width": 250,
+"mime": "image/jpeg",
+"type": "original",
+"url": "//edfestimages.s3.amazonaws.com/ef/2d/5b/ef2d5b7b024aee295816c7fa79df694777161d94-original."
+},
+"thumb-100": {
+"height": 100,
+"width": 100,
+"mime": "image/png",
+"type": "thumb-100",
+"url": "//edfestimages.s3.amazonaws.com/ef/2d/5b/ef2d5b7b024aee295816c7fa79df694777161d94-thumb-100.png"
+},
+"square-75": {
+"height": 75,
+"width": 75,
+"mime": "image/png",
+"type": "square-75",
+"url": "//edfestimages.s3.amazonaws.com/ef/2d/5b/ef2d5b7b024aee295816c7fa79df694777161d94-square-75.png"
+},
+"square-150": {
+"height": 150,
+"width": 150,
+"mime": "image/png",
+"type": "square-150",
+"url": "//edfestimages.s3.amazonaws.com/ef/2d/5b/ef2d5b7b024aee295816c7fa79df694777161d94-square-150.png"
+}
+},
+"orientation": "square",
+"hash": "ef2d5b7b024aee295816c7fa79df694777161d94",
+"type": "thumb"
+}
+},
+"performances": [
+{
+"concession_family": false,
+"title": "PREVIEW",
+"concession": false,
+"price": 7,
+"concession_additional": false,
+"start": "2015-08-05 19:00:00",
+"end": "2015-08-05 20:00:00"
+},
+{
+"concession_family": false,
+"title": "PREVIEW",
+"concession": false,
+"price": 7,
+"concession_additional": false,
+"start": "2015-08-06 19:00:00",
+"end": "2015-08-06 20:00:00"
+},
+{
+"concession_family": false,
+"title": "PREVIEW",
+"concession": false,
+"price": 7,
+"concession_additional": false,
+"start": "2015-08-07 19:00:00",
+"end": "2015-08-07 20:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 8,
+"price": 10,
+"concession_additional": false,
+"start": "2015-08-08 19:00:00",
+"end": "2015-08-08 20:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 8,
+"price": 10,
+"concession_additional": false,
+"start": "2015-08-09 19:00:00",
+"end": "2015-08-09 20:00:00"
+},
+{
+"concession_family": false,
+"title": "2 for 1",
+"concession": 10,
+"price": 12,
+"concession_additional": false,
+"start": "2015-08-10 19:00:00",
+"end": "2015-08-10 20:00:00"
+},
+{
+"concession_family": false,
+"title": "2 for 1",
+"concession": 10,
+"price": 12,
+"concession_additional": false,
+"start": "2015-08-11 19:00:00",
+"end": "2015-08-11 20:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 8,
+"price": 10,
+"concession_additional": false,
+"start": "2015-08-12 19:00:00",
+"end": "2015-08-12 20:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 8,
+"price": 10,
+"concession_additional": false,
+"start": "2015-08-13 19:00:00",
+"end": "2015-08-13 20:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 10,
+"price": 12,
+"concession_additional": false,
+"start": "2015-08-14 19:00:00",
+"end": "2015-08-14 20:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 10,
+"price": 12,
+"concession_additional": false,
+"start": "2015-08-15 19:00:00",
+"end": "2015-08-15 20:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 10,
+"price": 12,
+"concession_additional": false,
+"start": "2015-08-16 19:00:00",
+"end": "2015-08-16 20:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 8,
+"price": 10,
+"concession_additional": false,
+"start": "2015-08-17 19:00:00",
+"end": "2015-08-17 20:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 8,
+"price": 10,
+"concession_additional": false,
+"start": "2015-08-19 19:00:00",
+"end": "2015-08-19 20:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 8,
+"price": 10,
+"concession_additional": false,
+"start": "2015-08-20 19:00:00",
+"end": "2015-08-20 20:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 10,
+"price": 12,
+"concession_additional": false,
+"start": "2015-08-21 19:00:00",
+"end": "2015-08-21 20:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 10,
+"price": 12,
+"concession_additional": false,
+"start": "2015-08-22 19:00:00",
+"end": "2015-08-22 20:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 10,
+"price": 12,
+"concession_additional": false,
+"start": "2015-08-23 19:00:00",
+"end": "2015-08-23 20:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 8,
+"price": 10,
+"concession_additional": false,
+"start": "2015-08-24 19:00:00",
+"end": "2015-08-24 20:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 8,
+"price": 10,
+"concession_additional": false,
+"start": "2015-08-25 19:00:00",
+"end": "2015-08-25 20:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 8,
+"price": 10,
+"concession_additional": false,
+"start": "2015-08-26 19:00:00",
+"end": "2015-08-26 20:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 8,
+"price": 10,
+"concession_additional": false,
+"start": "2015-08-27 19:00:00",
+"end": "2015-08-27 20:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 10,
+"price": 12,
+"concession_additional": false,
+"start": "2015-08-28 19:00:00",
+"end": "2015-08-28 20:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 10,
+"price": 12,
+"concession_additional": false,
+"start": "2015-08-29 19:00:00",
+"end": "2015-08-29 20:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 10,
+"price": 12,
+"concession_additional": false,
+"start": "2015-08-30 19:00:00",
+"end": "2015-08-30 20:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 8,
+"price": 10,
+"concession_additional": false,
+"start": "2015-08-31 19:00:00",
+"end": "2015-08-31 20:00:00"
+}
+],
+"categories": {
+"keywords": [],
+"subjects": [],
+"strand_titles": []
+},
+"disabled": {
+"signed_dates": null,
+"other_services_information": "",
+"captioning": false,
+"audio": false,
+"signed": false,
+"audio_dates": null,
+"other_services_dates": null,
+"captioning_dates": null,
+"other_services": false
+},
+"latitude": 55.945121,
+"longitude": -3.188612
+},
+{
+"genre": "Theatre",
+"fringe_first": false,
+"performers_number": 6,
+"artist_type": "Student/Youth company",
+"sub_title": null,
+"update_times": {
+"genre": 1433406164,
+"age_category": 1433406164,
+"other": 1433406164,
+"fringe_first": 1433406164,
+"status": 1433406164,
+"web_links": 1433406164,
+"venue": 1433406164,
+"identity": 1433406164,
+"title": 1433406164,
+"description": 1433406164,
+"discounts": 1433406164,
+"images": 1433406164,
+"performances": 1433406164,
+"artist": 1433406164,
+"disabled": 1433406164
+},
+"twitter": "",
+"title": "Antigone Now",
+"updated": "2015-06-04 09:22:44",
+"description": "A powerful, modern adaptation of Sophocles' Antigone that captures the themes of free will and law versus justice through beautifully written modern prose. Set in a bombed-out city-which unfortunately could be any city- suffering the after effects of war, Melissa Cooper shows how one young woman, Antigone, is willing to die rather than surrender her humanity and free will. Defying her uncle Creon's decree that no one is to touch the body of Polynices, Antigone boldly personifies justice over law by giving him a proper burial. Her rebellion forces the other citizens to question blind obedience.",
+"discounts": {
+"two_for_one": false,
+"friends": false,
+"schools": false,
+"passport": false,
+"group": false
+},
+"festival": "Edinburgh Festival Fringe",
+"year": "2015",
+"artist": "American High School Theatre Festival ",
+"warnings": "May be a small, slow strobe light used",
+"festival_id": "fringe",
+"age_category": "12+",
+"non_english": true,
+"website": "https://www.edfringe.com/event/2015ANTIGOO_C2",
+"status": "active",
+"performance_space": {
+"age_limit": null,
+"wheelchair_access": null,
+"name": "Studio",
+"capacity": 100,
+"age_limited": null
+},
+"code": "2015ANTIGOO_C2",
+"venue": {
+"position": {
+"lon": -3.210001,
+"lat": 55.932343
+},
+"phone": "",
+"web_address": null,
+"fax": null,
+"post_code": "EH10 4DR",
+"has_cafe": false,
+"cafe_description": null,
+"map_ref": null,
+"code": "137",
+"disabled_description": "Full venue site is accessible, Some areas not reachable by lift or level access, Wheelchair accessible toilet, Reserved accessible parking, Assistance dogs welcome in all areas",
+"box_office_fringe": false,
+"has_booking_over_phone": false,
+"address": "33 Morningside Road",
+"email": null,
+"description": "Church Hill Theatre was originally built as a church in 1892.  Purchased in 1960 by the Council, it has served as a theatre for community and Fringe performers since 1965. It has been home to the AHSTF shows for twelve years.",
+"has_booking_over_web": false,
+"name": "Church Hill Theatre",
+"box_office_opening": null,
+"has_booking_over_card": false,
+"has_bar": false
+},
+"sub_venue": null,
+"url": "https://api.edinburghfestivalcity.com/events/20679c7443388f1747edb1f5e58c29da20be7705",
+"country": "UNITED STATES",
+"genre_tags": "Adaptation,Tragedy",
+"description_teaser": null,
+"images": {
+"f3ab1d66f39768a704232e4a3c0b70f521c9673a": {
+"versions": {
+"original": {
+"height": 250,
+"width": 250,
+"mime": "image/jpeg",
+"type": "original",
+"url": "//edfestimages.s3.amazonaws.com/f3/ab/1d/f3ab1d66f39768a704232e4a3c0b70f521c9673a-original."
+},
+"thumb-100": {
+"height": 100,
+"width": 100,
+"mime": "image/png",
+"type": "thumb-100",
+"url": "//edfestimages.s3.amazonaws.com/f3/ab/1d/f3ab1d66f39768a704232e4a3c0b70f521c9673a-thumb-100.png"
+},
+"square-75": {
+"height": 75,
+"width": 75,
+"mime": "image/png",
+"type": "square-75",
+"url": "//edfestimages.s3.amazonaws.com/f3/ab/1d/f3ab1d66f39768a704232e4a3c0b70f521c9673a-square-75.png"
+},
+"square-150": {
+"height": 150,
+"width": 150,
+"mime": "image/png",
+"type": "square-150",
+"url": "//edfestimages.s3.amazonaws.com/f3/ab/1d/f3ab1d66f39768a704232e4a3c0b70f521c9673a-square-150.png"
+}
+},
+"orientation": "square",
+"hash": "f3ab1d66f39768a704232e4a3c0b70f521c9673a",
+"type": "thumb"
+}
+},
+"performances": [
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 5,
+"concession_additional": false,
+"start": "2015-08-07 21:25:00",
+"end": "2015-08-07 22:35:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 5,
+"concession_additional": false,
+"start": "2015-08-08 15:25:00",
+"end": "2015-08-08 16:35:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 5,
+"concession_additional": false,
+"start": "2015-08-09 19:25:00",
+"end": "2015-08-09 20:35:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 5,
+"concession_additional": false,
+"start": "2015-08-11 19:25:00",
+"end": "2015-08-11 20:35:00"
+}
+],
+"categories": {
+"keywords": [],
+"subjects": [],
+"strand_titles": []
+},
+"disabled": {
+"signed_dates": null,
+"other_services_information": "",
+"captioning": false,
+"audio": false,
+"signed": false,
+"audio_dates": null,
+"other_services_dates": null,
+"captioning_dates": null,
+"other_services": false
+},
+"latitude": 55.932343,
+"longitude": -3.210001
+},
+{
+"genre": "Cabaret and Variety",
+"fringe_first": false,
+"performers_number": 1,
+"artist_type": "Professional company",
+"sub_title": null,
+"update_times": {
+"genre": 1436887230,
+"age_category": 1436887230,
+"other": 1436887230,
+"fringe_first": 1436887230,
+"status": 1436887230,
+"web_links": 1436887230,
+"venue": 1436887230,
+"identity": 1436887230,
+"title": 1436887230,
+"description": 1436887230,
+"discounts": 1436887230,
+"images": 1436887230,
+"performances": 1436948476,
+"artist": 1436887230,
+"disabled": 1436887230
+},
+"twitter": "@KeithJack",
+"title": "Keith Jack: An Afternoon at the Musicals",
+"updated": "2015-07-15 09:21:16",
+"description": "For one afternoon only, be whisked away by the delightfully dreamy Keith Jack with songs from his latest album A Little Bit More of Me and many other well know Musical Theatre classics. Best known for his appearance in the BBC1 show Any Dream Will Do, Keith has spent more time treading the boards, and rubbing shoulders with the likes of her Majesty the Queen, John Barrowman and Ruthie Henshaw, than one can imagine. So sit back, relax and enjoy an afternoon of the very best in musical theatre.",
+"discounts": {
+"two_for_one": false,
+"friends": true,
+"schools": false,
+"passport": false,
+"group": false
+},
+"festival": "Edinburgh Festival Fringe",
+"year": "2015",
+"artist": "Keith Jack",
+"warnings": null,
+"festival_id": "fringe",
+"age_category": "PG",
+"non_english": true,
+"website": "https://www.edfringe.com/event/2015KEITHJA_AMY",
+"status": "active",
+"performance_space": {
+"age_limit": null,
+"wheelchair_access": false,
+"name": "Momentum Grand @ St Stephens",
+"capacity": 450,
+"age_limited": null
+},
+"code": "2015KEITHJA_AMY",
+"venue": {
+"position": {
+"lon": -3.203403,
+"lat": 55.958315
+},
+"phone": "0131 516 2880",
+"web_address": "http://www.momentumvenues.com",
+"fax": null,
+"post_code": "EH3 5AB",
+"has_cafe": true,
+"cafe_description": "Serving delicious local food, drink and bar snacks daily from 10am until late.",
+"map_ref": null,
+"code": "166",
+"disabled_description": "Limited access to some parts of venue site, Some areas not reachable by lift or level access, No wheelchair accessible toilet, No reserved accessible parking, No on street blue badge parking, Assistance dogs welcome in all areas",
+"box_office_fringe": false,
+"has_booking_over_phone": false,
+"address": "St Stephen's Centre",
+"email": null,
+"description": "An exciting and dynamic venue new for the 2015 Fringe. Specialising in new writing and musical theatre.",
+"has_booking_over_web": true,
+"name": "Momentum Venues @ St Stephens",
+"box_office_opening": null,
+"has_booking_over_card": true,
+"has_bar": true
+},
+"sub_venue": null,
+"url": "https://api.edinburghfestivalcity.com/events/1c095b8c7d043284de0e6fa114a288cad808b18b",
+"country": "UNITED KINGDOM - SCOTLAND",
+"genre_tags": "Musical theatre,Solo show",
+"description_teaser": null,
+"images": {
+"6dfd3c5f3172e7b89334a276dac118258796764e": {
+"versions": {
+"original": {
+"height": 250,
+"width": 250,
+"mime": "image/jpeg",
+"type": "original",
+"url": "//edfestimages.s3.amazonaws.com/6d/fd/3c/6dfd3c5f3172e7b89334a276dac118258796764e-original."
+},
+"thumb-100": {
+"height": 100,
+"width": 100,
+"mime": "image/png",
+"type": "thumb-100",
+"url": "//edfestimages.s3.amazonaws.com/6d/fd/3c/6dfd3c5f3172e7b89334a276dac118258796764e-thumb-100.png"
+},
+"square-75": {
+"height": 75,
+"width": 75,
+"mime": "image/png",
+"type": "square-75",
+"url": "//edfestimages.s3.amazonaws.com/6d/fd/3c/6dfd3c5f3172e7b89334a276dac118258796764e-square-75.png"
+},
+"square-150": {
+"height": 150,
+"width": 150,
+"mime": "image/png",
+"type": "square-150",
+"url": "//edfestimages.s3.amazonaws.com/6d/fd/3c/6dfd3c5f3172e7b89334a276dac118258796764e-square-150.png"
+}
+},
+"orientation": "square",
+"hash": "6dfd3c5f3172e7b89334a276dac118258796764e",
+"type": "thumb"
+}
+},
+"performances": [
+{
+"concession_family": false,
+"title": null,
+"concession": 10,
+"price": 12,
+"concession_additional": false,
+"start": "2015-08-29 13:00:00",
+"end": "2015-08-29 14:00:00"
+}
+],
+"categories": {
+"keywords": [],
+"subjects": [],
+"strand_titles": []
+},
+"disabled": {
+"signed_dates": null,
+"other_services_information": "",
+"captioning": false,
+"audio": false,
+"signed": false,
+"audio_dates": null,
+"other_services_dates": null,
+"captioning_dates": null,
+"other_services": false
+},
+"latitude": 55.958315,
+"longitude": -3.203403
+},
+{
+"genre": "Discussion",
+"fringe_first": null,
+"performers_number": null,
+"artist_type": null,
+"sub_title": null,
+"update_times": {
+"genre": 1425317654,
+"age_category": 1425317654,
+"other": 1425317654,
+"fringe_first": 1425317654,
+"status": 1425317654,
+"web_links": 1425317654,
+"venue": 1425317654,
+"identity": 1425317654,
+"title": 1425317654,
+"description": 1425317654,
+"discounts": 1425317654,
+"images": 1425317654,
+"performances": 1425317654,
+"artist": 1425317654,
+"disabled": 1425317654
+},
+"twitter": null,
+"title": "The Price of Nature",
+"updated": "2015-03-02 17:34:14",
+"description": "<p>‘Nature capital’ describes the Earth’s stock of natural assets in financial terms, implying that wise management of our ecosystems, soil, air, water and biodiversity can generate dividends and returns. Is this a helpful approach to considering our resources that should inform economic and environmental policy, or does it obscure the fact that nature is priceless? Join environmentalist <strong>Tony Juniper</strong>, author of <em>What Nature Does for Britain,</em> for a passionate discussion about natural capital with <strong>Prof Alison Hester</strong> from the James Hutton Institute, <strong>Jonny Hughes</strong> from the World Forum on Natural Capital,and <strong>Prof John O’Neill</strong> from University of Manchester.</p>",
+"discounts": {
+"two_for_one": null,
+"friends": null,
+"schools": null,
+"passport": null,
+"group": null
+},
+"festival": "Edinburgh International Science Festival",
+"year": "2015",
+"artist": null,
+"warnings": null,
+"festival_id": "science",
+"age_category": "Ages 14+",
+"non_english": null,
+"website": "http://www.sciencefestival.co.uk/event-details/the-price-of-nature",
+"status": "active",
+"performance_space": {
+"age_limit": null,
+"wheelchair_access": null,
+"name": null,
+"capacity": null,
+"age_limited": null
+},
+"code": "136",
+"venue": {
+"position": {
+"lon": -3.18767,
+"lat": 55.9478
+},
+"phone": null,
+"web_address": null,
+"fax": null,
+"post_code": "EH1 1JF",
+"has_cafe": null,
+"cafe_description": null,
+"map_ref": null,
+"code": "National Museum of Scotland",
+"disabled_description": null,
+"box_office_fringe": false,
+"has_booking_over_phone": true,
+"address": "Chambers Street\nEdinburgh",
+"email": null,
+"description": null,
+"has_booking_over_web": true,
+"name": "National Museum of Scotland",
+"box_office_opening": null,
+"has_booking_over_card": true,
+"has_bar": null
+},
+"sub_venue": null,
+"url": "https://api.edinburghfestivalcity.com/events/1c188cd2d273c610fc8c9d433199cb56d91542a0",
+"country": null,
+"genre_tags": "Energy,Earth,Ecosystems,Environment,Plants",
+"description_teaser": "Is the idea of &#39;nature capital&#39; a helpful approach to considering our resources that should inform economic and environmental policy, or does it obscure the fact that nature is priceless?",
+"images": {
+"7e893041f7ec0658afdd401c42001eceb67b2931": {
+"versions": {
+"large-1024": {
+"height": 213,
+"width": 1024,
+"mime": "image/png",
+"type": "large-1024",
+"url": "//edfestimages.s3.amazonaws.com/7e/89/30/7e893041f7ec0658afdd401c42001eceb67b2931-large-1024.png"
+},
+"original": {
+"height": 400,
+"width": 1920,
+"mime": "image/jpeg",
+"type": "original",
+"url": "//edfestimages.s3.amazonaws.com/7e/89/30/7e893041f7ec0658afdd401c42001eceb67b2931-original.jpg"
+},
+"medium-640": {
+"height": 133,
+"width": 640,
+"mime": "image/png",
+"type": "medium-640",
+"url": "//edfestimages.s3.amazonaws.com/7e/89/30/7e893041f7ec0658afdd401c42001eceb67b2931-medium-640.png"
+},
+"small-320": {
+"height": 67,
+"width": 320,
+"mime": "image/png",
+"type": "small-320",
+"url": "//edfestimages.s3.amazonaws.com/7e/89/30/7e893041f7ec0658afdd401c42001eceb67b2931-small-320.png"
+},
+"thumb-100": {
+"height": 21,
+"width": 100,
+"mime": "image/png",
+"type": "thumb-100",
+"url": "//edfestimages.s3.amazonaws.com/7e/89/30/7e893041f7ec0658afdd401c42001eceb67b2931-thumb-100.png"
+},
+"square-75": {
+"height": 75,
+"width": 75,
+"mime": "image/png",
+"type": "square-75",
+"url": "//edfestimages.s3.amazonaws.com/7e/89/30/7e893041f7ec0658afdd401c42001eceb67b2931-square-75.png"
+},
+"square-150": {
+"height": 150,
+"width": 150,
+"mime": "image/png",
+"type": "square-150",
+"url": "//edfestimages.s3.amazonaws.com/7e/89/30/7e893041f7ec0658afdd401c42001eceb67b2931-square-150.png"
+}
+},
+"orientation": "landscape",
+"hash": "7e893041f7ec0658afdd401c42001eceb67b2931",
+"type": "hero"
+},
+"a395cf296953ee1d18ee289c97408e58723f0538": {
+"versions": {
+"original": {
+"height": 800,
+"width": 800,
+"mime": "image/jpeg",
+"type": "original",
+"url": "//edfestimages.s3.amazonaws.com/a3/95/cf/a395cf296953ee1d18ee289c97408e58723f0538-original.jpg"
+},
+"medium-640": {
+"height": 640,
+"width": 640,
+"mime": "image/png",
+"type": "medium-640",
+"url": "//edfestimages.s3.amazonaws.com/a3/95/cf/a395cf296953ee1d18ee289c97408e58723f0538-medium-640.png"
+},
+"small-320": {
+"height": 320,
+"width": 320,
+"mime": "image/png",
+"type": "small-320",
+"url": "//edfestimages.s3.amazonaws.com/a3/95/cf/a395cf296953ee1d18ee289c97408e58723f0538-small-320.png"
+},
+"thumb-100": {
+"height": 100,
+"width": 100,
+"mime": "image/png",
+"type": "thumb-100",
+"url": "//edfestimages.s3.amazonaws.com/a3/95/cf/a395cf296953ee1d18ee289c97408e58723f0538-thumb-100.png"
+},
+"square-75": {
+"height": 75,
+"width": 75,
+"mime": "image/png",
+"type": "square-75",
+"url": "//edfestimages.s3.amazonaws.com/a3/95/cf/a395cf296953ee1d18ee289c97408e58723f0538-square-75.png"
+},
+"square-150": {
+"height": 150,
+"width": 150,
+"mime": "image/png",
+"type": "square-150",
+"url": "//edfestimages.s3.amazonaws.com/a3/95/cf/a395cf296953ee1d18ee289c97408e58723f0538-square-150.png"
+}
+},
+"orientation": "square",
+"hash": "a395cf296953ee1d18ee289c97408e58723f0538",
+"type": "thumb"
+}
+},
+"performances": [
+{
+"concession_family": false,
+"title": null,
+"concession": 6,
+"price": 8,
+"concession_additional": false,
+"start": "2015-04-09 17:30:00",
+"end": "2015-04-09 19:00:00"
+}
+],
+"categories": {
+"keywords": [
+{
+"category": "Headings",
+"keywords": [
+"Life on Earth",
+"Our planet"
+]
+}
+],
+"subjects": [
+"Earth",
+"Ecosystems",
+"Environment",
+"Plants"
+],
+"strand_titles": [
+"Energy"
+]
+},
+"disabled": {
+"signed_dates": null,
+"other_services_information": null,
+"captioning": null,
+"audio": null,
+"signed": null,
+"audio_dates": null,
+"other_services_dates": null,
+"captioning_dates": null,
+"other_services": null
+},
+"latitude": 55.9478,
+"longitude": -3.18767
+},
+{
+"genre": "Film",
+"fringe_first": null,
+"performers_number": null,
+"artist_type": null,
+"sub_title": null,
+"update_times": {
+"genre": 1432727602,
+"age_category": 1432727602,
+"other": 1432727602,
+"fringe_first": 1432727602,
+"status": 1432727602,
+"web_links": 1432727602,
+"venue": 1432727602,
+"identity": 1432727602,
+"title": 1432727602,
+"description": 1433760605,
+"discounts": 1432727602,
+"images": 1432727602,
+"performances": 1432727602,
+"artist": 1432727602,
+"disabled": 1432727602
+},
+"twitter": null,
+"title": "Kafka’s The Burrow (Kafka’s Der Bau)",
+"updated": "2015-06-08 11:50:05",
+"description": "<p>Adapted from Kafka's 1923 short story&nbsp;<em>Der Bau</em>, and using much of the author's original language, this is a film about loneliness, paranoia and abject isolation. A seemingly successful business man moves with his beautiful family into a shiny, new apartment block, but as the building starts to disintegrate around him and the terrifying dangers of the outside world threaten to encroach, it soon becomes clear that with this family, all is not as it first appeared.</p>\n<p><img src=\"/uploads/germanfilms.jpg\" width=\"200\" height=\"62\" alt=\"\" /></p>",
+"discounts": {
+"two_for_one": null,
+"friends": null,
+"schools": null,
+"passport": null,
+"group": null
+},
+"festival": "Edinburgh International Film Festival",
+"year": "2015",
+"artist": null,
+"warnings": null,
+"festival_id": "film",
+"age_category": null,
+"non_english": null,
+"website": "http://www.edfilmfest.org.uk/films/2015/kafkas-the-burrow",
+"status": "active",
+"performance_space": {
+"age_limit": null,
+"wheelchair_access": null,
+"name": null,
+"capacity": null,
+"age_limited": null
+},
+"code": "2104",
+"venue": {
+"position": {
+"lon": -3.205726,
+"lat": 55.946539
+},
+"phone": null,
+"web_address": null,
+"fax": null,
+"post_code": "EH3 9BZ",
+"has_cafe": null,
+"cafe_description": null,
+"map_ref": null,
+"code": "Filmhouse",
+"disabled_description": null,
+"box_office_fringe": null,
+"has_booking_over_phone": null,
+"address": "88 Lothian Road, Edinburgh",
+"email": null,
+"description": null,
+"has_booking_over_web": null,
+"name": "Filmhouse",
+"box_office_opening": null,
+"has_booking_over_card": null,
+"has_bar": null
+},
+"sub_venue": null,
+"url": "https://api.edinburghfestivalcity.com/events/209591f581b9a098ff9e356278b41f2a23a43320",
+"country": null,
+"genre_tags": "Feature, New Perspectives",
+"description_teaser": null,
+"images": {
+"3c510480057151a1180c9af9f7664ee80cf57ab2": {
+"versions": {
+"original": {
+"height": 239,
+"width": 355,
+"mime": "image/jpeg",
+"type": "original",
+"url": "//edfestimages.s3.amazonaws.com/3c/51/04/3c510480057151a1180c9af9f7664ee80cf57ab2-original.jpg"
+},
+"small-320": {
+"height": 215,
+"width": 320,
+"mime": "image/png",
+"type": "small-320",
+"url": "//edfestimages.s3.amazonaws.com/3c/51/04/3c510480057151a1180c9af9f7664ee80cf57ab2-small-320.png"
+},
+"thumb-100": {
+"height": 67,
+"width": 100,
+"mime": "image/png",
+"type": "thumb-100",
+"url": "//edfestimages.s3.amazonaws.com/3c/51/04/3c510480057151a1180c9af9f7664ee80cf57ab2-thumb-100.png"
+},
+"square-75": {
+"height": 75,
+"width": 75,
+"mime": "image/png",
+"type": "square-75",
+"url": "//edfestimages.s3.amazonaws.com/3c/51/04/3c510480057151a1180c9af9f7664ee80cf57ab2-square-75.png"
+},
+"square-150": {
+"height": 150,
+"width": 150,
+"mime": "image/png",
+"type": "square-150",
+"url": "//edfestimages.s3.amazonaws.com/3c/51/04/3c510480057151a1180c9af9f7664ee80cf57ab2-square-150.png"
+}
+},
+"orientation": "landscape",
+"hash": "3c510480057151a1180c9af9f7664ee80cf57ab2",
+"type": "thumb"
+}
+},
+"performances": [
+{
+"concession_family": false,
+"title": null,
+"concession": 8,
+"price": 10,
+"concession_additional": false,
+"start": "2015-06-19 20:35:00",
+"end": "2015-06-19 22:25:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 8,
+"price": 10,
+"concession_additional": false,
+"start": "2015-06-23 18:05:00",
+"end": "2015-06-23 19:55:00"
+}
+],
+"categories": {
+"keywords": [],
+"subjects": [],
+"strand_titles": []
+},
+"disabled": {
+"signed_dates": null,
+"other_services_information": null,
+"captioning": null,
+"audio": null,
+"signed": null,
+"audio_dates": null,
+"other_services_dates": null,
+"captioning_dates": null,
+"other_services": null
+},
+"latitude": 55.946539,
+"longitude": -3.205726
+},
+{
+"genre": "Literature",
+"fringe_first": null,
+"performers_number": null,
+"artist_type": null,
+"sub_title": "Families and Their Discontents",
+"update_times": {
+"genre": 1433940931,
+"age_category": 1433940931,
+"other": 1433940931,
+"fringe_first": 1433940931,
+"status": 1433940931,
+"web_links": 1433940931,
+"venue": 1433940931,
+"identity": 1433940931,
+"title": 1433940931,
+"description": 1433940931,
+"discounts": 1433940931,
+"images": 1433940931,
+"performances": 1433940931,
+"artist": 1433940931,
+"disabled": 1433940931
+},
+"twitter": null,
+"title": "Anne Enright",
+"updated": "2015-06-10 13:55:31",
+"description": "<p>\n\tEvery sentence in an Anne Enright novel feels finely crafted and for her 2007 book The Gathering Enright was awarded the Man Booker Prize. Today she discusses a new novel, The Green Road, about a woman living on the west coast of Ireland whose children have dispersed to various international locations. She decides to sell the house and divide the proceeds, and the children return for one last, fraught Christmas. Chaired by Viv Groskop.</p>",
+"discounts": {
+"two_for_one": null,
+"friends": null,
+"schools": null,
+"passport": null,
+"group": null
+},
+"festival": "Edinburgh International Book Festival",
+"year": "2015",
+"artist": "Anne Enright",
+"warnings": null,
+"festival_id": "book",
+"age_category": "",
+"non_english": null,
+"website": "https://www.edbookfest.co.uk/the-festival/whats-on/anne-enright-1",
+"status": "active",
+"performance_space": {
+"age_limit": null,
+"wheelchair_access": null,
+"name": "Baillie Gifford Main Theatre",
+"capacity": null,
+"age_limited": null
+},
+"code": "5896",
+"venue": {
+"position": {
+"lon": -3.206913,
+"lat": 55.951903
+},
+"phone": null,
+"web_address": null,
+"fax": null,
+"post_code": "EH2 4DR",
+"has_cafe": null,
+"cafe_description": null,
+"map_ref": null,
+"code": "Charlotte Square Gardens",
+"disabled_description": null,
+"box_office_fringe": null,
+"has_booking_over_phone": null,
+"address": "Charlotte Square Gardens, Edinburgh",
+"email": null,
+"description": null,
+"has_booking_over_web": null,
+"name": "Charlotte Square Gardens",
+"box_office_opening": null,
+"has_booking_over_card": null,
+"has_bar": null
+},
+"sub_venue": null,
+"url": "https://api.edinburghfestivalcity.com/events/2625ecc334b14994ef8a18a48f80c87b3fe7daaa",
+"country": null,
+"genre_tags": null,
+"description_teaser": null,
+"images": {
+"38cc266aa099509a5cd5317d99f4396c5098ed01": {
+"versions": {
+"original": {
+"height": 283,
+"width": 369,
+"mime": "image/png",
+"type": "original",
+"url": "//edfestimages.s3.amazonaws.com/38/cc/26/38cc266aa099509a5cd5317d99f4396c5098ed01-original.png"
+},
+"small-320": {
+"height": 245,
+"width": 320,
+"mime": "image/png",
+"type": "small-320",
+"url": "//edfestimages.s3.amazonaws.com/38/cc/26/38cc266aa099509a5cd5317d99f4396c5098ed01-small-320.png"
+},
+"thumb-100": {
+"height": 77,
+"width": 100,
+"mime": "image/png",
+"type": "thumb-100",
+"url": "//edfestimages.s3.amazonaws.com/38/cc/26/38cc266aa099509a5cd5317d99f4396c5098ed01-thumb-100.png"
+},
+"square-75": {
+"height": 75,
+"width": 75,
+"mime": "image/png",
+"type": "square-75",
+"url": "//edfestimages.s3.amazonaws.com/38/cc/26/38cc266aa099509a5cd5317d99f4396c5098ed01-square-75.png"
+},
+"square-150": {
+"height": 150,
+"width": 150,
+"mime": "image/png",
+"type": "square-150",
+"url": "//edfestimages.s3.amazonaws.com/38/cc/26/38cc266aa099509a5cd5317d99f4396c5098ed01-square-150.png"
+}
+},
+"orientation": "landscape",
+"hash": "38cc266aa099509a5cd5317d99f4396c5098ed01",
+"type": "thumb"
+}
+},
+"performances": [
+{
+"concession_family": false,
+"title": null,
+"concession": 8,
+"price": 10,
+"concession_additional": false,
+"start": "2015-08-29 11:45:00",
+"end": "2015-08-29 12:45:00"
+}
+],
+"categories": {
+"keywords": [],
+"subjects": [],
+"strand_titles": []
+},
+"disabled": {
+"signed_dates": null,
+"other_services_information": null,
+"captioning": null,
+"audio": null,
+"signed": null,
+"audio_dates": null,
+"other_services_dates": null,
+"captioning_dates": null,
+"other_services": null
+},
+"latitude": 55.951903,
+"longitude": -3.206913
+},
+{
+"genre": "Comedy",
+"fringe_first": false,
+"performers_number": 1,
+"artist_type": "Professional company",
+"sub_title": null,
+"update_times": {
+"genre": 1431332799,
+"age_category": 1431332799,
+"other": 1431332799,
+"fringe_first": 1431332799,
+"status": 1431332799,
+"web_links": 1431332799,
+"venue": 1431332799,
+"identity": 1431332799,
+"title": 1431332799,
+"description": 1431332799,
+"discounts": 1431332799,
+"images": 1431332799,
+"performances": 1431332799,
+"artist": 1431332799,
+"disabled": 1431332799
+},
+"twitter": "@glennwool",
+"title": "Glenn Wool: Creator, I am but a Pawn",
+"updated": "2015-05-11 09:26:39",
+"description": "Is Glenn alone in his escapades around the world or is there an unseen companion travelling with him during these adventures? Is it an inner monologue or a heckling demigod? 'Wool’s new show is a masterpiece of comedy, which has the audience helpless with laughter. I genuinely think this is one of the best hours of comedy I have ever seen' *****  (Kate Copstick, <i>Scotsman</i>).",
+"discounts": {
+"two_for_one": true,
+"friends": false,
+"schools": false,
+"passport": false,
+"group": true
+},
+"festival": "Edinburgh Festival Fringe",
+"year": "2015",
+"artist": "Brett Vincent for Get Comedy",
+"warnings": null,
+"festival_id": "fringe",
+"age_category": "16+",
+"non_english": false,
+"website": "https://www.edfringe.com/event/2015GLENNWO_ADJ",
+"status": "active",
+"performance_space": {
+"age_limit": "Ticket holders can always pass through our bars, whatever their age or time of day. After 10pm all our bars have an age restriction of 18+ for non-ticket holders.",
+"wheelchair_access": true,
+"name": "Three",
+"capacity": 256,
+"age_limited": true
+},
+"code": "2015GLENNWO_ADJ",
+"venue": {
+"position": {
+"lon": -3.188397,
+"lat": 55.943903
+},
+"phone": "0131 623 3030",
+"web_address": "http://www.assemblyfestival.com#",
+"fax": null,
+"post_code": "EH8 9LH",
+"has_cafe": true,
+"cafe_description": "The Studios Bar serves a wide range of hot and cold drinks as well as freshly prepared meals.",
+"map_ref": null,
+"code": "17",
+"disabled_description": "Limited access to some parts of venue site, Some areas not reachable by lift or level access, Wheelchair accessible toilet, No reserved accessible parking, No on street blue badge parking, Assistance dogs welcome in all areas",
+"box_office_fringe": true,
+"has_booking_over_phone": true,
+"address": "George Square",
+"email": null,
+"description": "Assembly George Square Studios are located opposite the entrance to Assembly George Square Gardens and next to Assembly George Square Theatre. The Studios have some of the best audience facilities on the Fringe. All five Studios have comfortable modern seating, and the modern indoor Studios Bar has plenty of sofas, a much used piano and serves freshly prepared hot and cold meals.",
+"has_booking_over_web": true,
+"name": "Assembly George Square Studios",
+"box_office_opening": null,
+"has_booking_over_card": true,
+"has_bar": true
+},
+"sub_venue": null,
+"url": "https://api.edinburghfestivalcity.com/events/264b10519b33dd4ee0f55311d0b30ab2e4992c6e",
+"country": "UNITED KINGDOM - ENGLAND",
+"genre_tags": "Stand-up",
+"description_teaser": null,
+"images": {
+"66221e164ca4de45ed628065bfcc7261e5520503": {
+"versions": {
+"original": {
+"height": 250,
+"width": 250,
+"mime": "image/jpeg",
+"type": "original",
+"url": "//edfestimages.s3.amazonaws.com/66/22/1e/66221e164ca4de45ed628065bfcc7261e5520503-original."
+},
+"thumb-100": {
+"height": 100,
+"width": 100,
+"mime": "image/png",
+"type": "thumb-100",
+"url": "//edfestimages.s3.amazonaws.com/66/22/1e/66221e164ca4de45ed628065bfcc7261e5520503-thumb-100.png"
+},
+"square-75": {
+"height": 75,
+"width": 75,
+"mime": "image/png",
+"type": "square-75",
+"url": "//edfestimages.s3.amazonaws.com/66/22/1e/66221e164ca4de45ed628065bfcc7261e5520503-square-75.png"
+},
+"square-150": {
+"height": 150,
+"width": 150,
+"mime": "image/png",
+"type": "square-150",
+"url": "//edfestimages.s3.amazonaws.com/66/22/1e/66221e164ca4de45ed628065bfcc7261e5520503-square-150.png"
+}
+},
+"orientation": "square",
+"hash": "66221e164ca4de45ed628065bfcc7261e5520503",
+"type": "thumb"
+}
+},
+"performances": [
+{
+"concession_family": false,
+"title": "PREVIEW",
+"concession": false,
+"price": 6.5,
+"concession_additional": false,
+"start": "2015-08-05 21:20:00",
+"end": "2015-08-05 22:20:00"
+},
+{
+"concession_family": false,
+"title": "PREVIEW",
+"concession": false,
+"price": 6.5,
+"concession_additional": false,
+"start": "2015-08-06 21:20:00",
+"end": "2015-08-06 22:20:00"
+},
+{
+"concession_family": false,
+"title": "PREVIEW",
+"concession": false,
+"price": 6.5,
+"concession_additional": false,
+"start": "2015-08-07 21:20:00",
+"end": "2015-08-07 22:20:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 9,
+"price": 10,
+"concession_additional": false,
+"start": "2015-08-08 21:20:00",
+"end": "2015-08-08 22:20:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 9,
+"price": 10,
+"concession_additional": false,
+"start": "2015-08-09 21:20:00",
+"end": "2015-08-09 22:20:00"
+},
+{
+"concession_family": false,
+"title": "2 for 1",
+"concession": 11.5,
+"price": 12.5,
+"concession_additional": false,
+"start": "2015-08-10 21:20:00",
+"end": "2015-08-10 22:20:00"
+},
+{
+"concession_family": false,
+"title": "2 for 1",
+"concession": 11.5,
+"price": 12.5,
+"concession_additional": false,
+"start": "2015-08-11 21:20:00",
+"end": "2015-08-11 22:20:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 9,
+"price": 10,
+"concession_additional": false,
+"start": "2015-08-12 21:20:00",
+"end": "2015-08-12 22:20:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 9,
+"price": 10,
+"concession_additional": false,
+"start": "2015-08-13 21:20:00",
+"end": "2015-08-13 22:20:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 11.5,
+"price": 12.5,
+"concession_additional": false,
+"start": "2015-08-14 21:20:00",
+"end": "2015-08-14 22:20:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 11.5,
+"price": 12.5,
+"concession_additional": false,
+"start": "2015-08-15 21:20:00",
+"end": "2015-08-15 22:20:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 11.5,
+"price": 12.5,
+"concession_additional": false,
+"start": "2015-08-16 21:20:00",
+"end": "2015-08-16 22:20:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 9,
+"price": 10,
+"concession_additional": false,
+"start": "2015-08-18 21:20:00",
+"end": "2015-08-18 22:20:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 9,
+"price": 10,
+"concession_additional": false,
+"start": "2015-08-19 21:20:00",
+"end": "2015-08-19 22:20:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 9,
+"price": 10,
+"concession_additional": false,
+"start": "2015-08-20 21:20:00",
+"end": "2015-08-20 22:20:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 11.5,
+"price": 12.5,
+"concession_additional": false,
+"start": "2015-08-21 21:20:00",
+"end": "2015-08-21 22:20:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 11.5,
+"price": 12.5,
+"concession_additional": false,
+"start": "2015-08-22 21:20:00",
+"end": "2015-08-22 22:20:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 11.5,
+"price": 12.5,
+"concession_additional": false,
+"start": "2015-08-23 21:20:00",
+"end": "2015-08-23 22:20:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 9,
+"price": 10,
+"concession_additional": false,
+"start": "2015-08-25 21:20:00",
+"end": "2015-08-25 22:20:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 9,
+"price": 10,
+"concession_additional": false,
+"start": "2015-08-26 21:20:00",
+"end": "2015-08-26 22:20:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 9,
+"price": 10,
+"concession_additional": false,
+"start": "2015-08-27 21:20:00",
+"end": "2015-08-27 22:20:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 11.5,
+"price": 12.5,
+"concession_additional": false,
+"start": "2015-08-28 21:20:00",
+"end": "2015-08-28 22:20:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 11.5,
+"price": 12.5,
+"concession_additional": false,
+"start": "2015-08-29 21:20:00",
+"end": "2015-08-29 22:20:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 11.5,
+"price": 12.5,
+"concession_additional": false,
+"start": "2015-08-30 21:20:00",
+"end": "2015-08-30 22:20:00"
+}
+],
+"categories": {
+"keywords": [],
+"subjects": [],
+"strand_titles": []
+},
+"disabled": {
+"signed_dates": null,
+"other_services_information": "",
+"captioning": false,
+"audio": false,
+"signed": false,
+"audio_dates": null,
+"other_services_dates": null,
+"captioning_dates": null,
+"other_services": false
+},
+"latitude": 55.943903,
+"longitude": -3.188397
+},
+{
+"genre": "Comedy",
+"fringe_first": false,
+"performers_number": 1,
+"artist_type": "Professional company",
+"sub_title": null,
+"update_times": {
+"genre": 1425989780,
+"age_category": 1425989780,
+"other": 1425989780,
+"fringe_first": 1425989780,
+"status": 1425989780,
+"web_links": 1425989780,
+"venue": 1427472980,
+"identity": 1425989780,
+"title": 1425989780,
+"description": 1425989780,
+"discounts": 1425989780,
+"images": 1425989780,
+"performances": 1425989780,
+"artist": 1425989780,
+"disabled": 1425989780
+},
+"twitter": "@luisaomielan",
+"title": "Luisa Omielan: Am I Right Ladies?!",
+"updated": "2015-03-27 16:16:20",
+"description": "Fresh, hilarious and brilliant! Another signature party with jokes from Luisa Omielan, following her unprecedentedly successful debut stand-up show, What Would Beyoncé Do?! An empowering manifesto regarding sex, mental health and body image. It's back for a second year for three nights only. Come and see why Luisa keeps getting sell-out runs, you'll have the time of your life. #AmIRightLadies. ***** (Chortle.co.uk). 'Omielan is a refreshing comic voice, doing something that no one else is doing... there's no doubt that she will become the megastar she already acts like one day very soon' (<i>Independent</i>).",
+"discounts": {
+"two_for_one": false,
+"friends": true,
+"schools": false,
+"passport": false,
+"group": false
+},
+"festival": "Edinburgh Festival Fringe",
+"year": "2015",
+"artist": "Live Nation in association with DAA Management",
+"warnings": null,
+"festival_id": "fringe",
+"age_category": "16+",
+"non_english": false,
+"website": "https://www.edfringe.com/event/2015LUISAOM_ABA",
+"status": "active",
+"performance_space": {
+"age_limit": "Ticket holders can always pass through our bars, whatever their age or time of day. After 10pm all our bars have an age restriction of 18+ for non-ticket holders.",
+"wheelchair_access": true,
+"name": "The Theatre",
+"capacity": 500,
+"age_limited": true
+},
+"code": "2015LUISAOM_ABA",
+"venue": {
+"position": {
+"lon": -3.188397,
+"lat": 55.943903
+},
+"phone": "0131 623 3030",
+"web_address": "http://www.assemblyfestival.com",
+"fax": null,
+"post_code": "EH8 9LH",
+"has_cafe": false,
+"cafe_description": "The wide range of indoor and outdoor bars and gourmet street food are right outside the venue around George Square.",
+"map_ref": null,
+"code": "8",
+"disabled_description": "Full venue site is accessible, Lift level access to all areas, Wheelchair accessible toilet, No reserved accessible parking, No on street blue badge parking, Assistance dogs welcome in all areas. Cobbles in the Square",
+"box_office_fringe": true,
+"has_booking_over_phone": true,
+"address": "George Square",
+"email": null,
+"description": "Assembly George Square Theatre is perfectly located next to Assembly George Square Gardens and Studios for pre or post show drinks or food. The theatre itself is a purpose built venue with comfortable modern seating for up to 500, while the The Box is an intimate 80 seat studio hosting great theatre and comedy.",
+"has_booking_over_web": true,
+"name": "Assembly George Square Theatre",
+"box_office_opening": null,
+"has_booking_over_card": true,
+"has_bar": true
+},
+"sub_venue": null,
+"url": "https://api.edinburghfestivalcity.com/events/26579ca1525966f9c932fe7ece6afa052b39ad46",
+"country": "UNITED KINGDOM - ENGLAND",
+"genre_tags": "",
+"description_teaser": null,
+"images": {
+"8bc420ab9cd74fb52f2161a0bcf8f4d75bca3771": {
+"versions": {
+"original": {
+"height": 250,
+"width": 250,
+"mime": "image/jpeg",
+"type": "original",
+"url": "//edfestimages.s3.amazonaws.com/8b/c4/20/8bc420ab9cd74fb52f2161a0bcf8f4d75bca3771-original."
+},
+"thumb-100": {
+"height": 100,
+"width": 100,
+"mime": "image/png",
+"type": "thumb-100",
+"url": "//edfestimages.s3.amazonaws.com/8b/c4/20/8bc420ab9cd74fb52f2161a0bcf8f4d75bca3771-thumb-100.png"
+},
+"square-75": {
+"height": 75,
+"width": 75,
+"mime": "image/png",
+"type": "square-75",
+"url": "//edfestimages.s3.amazonaws.com/8b/c4/20/8bc420ab9cd74fb52f2161a0bcf8f4d75bca3771-square-75.png"
+},
+"square-150": {
+"height": 150,
+"width": 150,
+"mime": "image/png",
+"type": "square-150",
+"url": "//edfestimages.s3.amazonaws.com/8b/c4/20/8bc420ab9cd74fb52f2161a0bcf8f4d75bca3771-square-150.png"
+}
+},
+"orientation": "square",
+"hash": "8bc420ab9cd74fb52f2161a0bcf8f4d75bca3771",
+"type": "thumb"
+}
+},
+"performances": [
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 16.5,
+"concession_additional": false,
+"start": "2015-08-13 20:45:00",
+"end": "2015-08-13 22:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 16.5,
+"concession_additional": false,
+"start": "2015-08-14 20:45:00",
+"end": "2015-08-14 22:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 16.5,
+"concession_additional": false,
+"start": "2015-08-15 20:45:00",
+"end": "2015-08-15 22:00:00"
+}
+],
+"categories": {
+"keywords": [],
+"subjects": [],
+"strand_titles": []
+},
+"disabled": {
+"signed_dates": null,
+"other_services_information": "",
+"captioning": false,
+"audio": false,
+"signed": false,
+"audio_dates": null,
+"other_services_dates": null,
+"captioning_dates": null,
+"other_services": false
+},
+"latitude": 55.943903,
+"longitude": -3.188397
+},
+{
+"genre": "Literature",
+"fringe_first": null,
+"performers_number": null,
+"artist_type": null,
+"sub_title": "Dying for a Story",
+"update_times": {
+"genre": 1433940932,
+"age_category": 1433940932,
+"other": 1433940932,
+"fringe_first": 1433940932,
+"status": 1433940932,
+"web_links": 1433940932,
+"venue": 1433940932,
+"identity": 1433940932,
+"title": 1433940932,
+"description": 1433940932,
+"discounts": 1433940932,
+"images": 1433940932,
+"performances": 1441107911,
+"artist": 1433940932,
+"disabled": 1433940932
+},
+"twitter": null,
+"title": "Amnesty International imprisoned Writers Series",
+"updated": "2015-09-01 12:45:11",
+"description": "<p>The brutal beheadings of journalists James Foley, Steven Sotloff and Kenji Goto served as a graphic reminder of the dangers of news reporting. 19 journalists have been killed since January, with the figure set to rise. Today we hear the words of reporters who risked their lives to bring us stories of atrocities around the world. Reading today: Petina Gappah, Yasmin Alibhai-Brown, Raymond Tallis and Susana Moreira Marques.</p>",
+"discounts": {
+"two_for_one": null,
+"friends": null,
+"schools": null,
+"passport": null,
+"group": null
+},
+"festival": "Edinburgh International Book Festival",
+"year": "2015",
+"artist": "Raymond Tallis",
+"warnings": null,
+"festival_id": "book",
+"age_category": "",
+"non_english": null,
+"website": "https://www.edbookfest.co.uk/the-festival/whats-on/amnesty-international-imprisoned-writers-series-89",
+"status": "active",
+"performance_space": {
+"age_limit": null,
+"wheelchair_access": null,
+"name": "Baillie Gifford Corner Theatre",
+"capacity": null,
+"age_limited": null
+},
+"code": "6581",
+"venue": {
+"position": {
+"lon": -3.206913,
+"lat": 55.951903
+},
+"phone": null,
+"web_address": null,
+"fax": null,
+"post_code": "EH2 4DR",
+"has_cafe": null,
+"cafe_description": null,
+"map_ref": null,
+"code": "Charlotte Square Gardens",
+"disabled_description": null,
+"box_office_fringe": null,
+"has_booking_over_phone": null,
+"address": "Charlotte Square Gardens, Edinburgh",
+"email": null,
+"description": null,
+"has_booking_over_web": null,
+"name": "Charlotte Square Gardens",
+"box_office_opening": null,
+"has_booking_over_card": null,
+"has_bar": null
+},
+"sub_venue": null,
+"url": "https://api.edinburghfestivalcity.com/events/1c4846c4b6135b40a2f8616408a3675c7feddde4",
+"country": null,
+"genre_tags": null,
+"description_teaser": null,
+"images": {
+"b40e45ff7a8d630aee3d6f7aca813851c5c9fdff": {
+"versions": {
+"original": {
+"height": 283,
+"width": 369,
+"mime": "image/png",
+"type": "original",
+"url": "//edfestimages.s3.amazonaws.com/b4/0e/45/b40e45ff7a8d630aee3d6f7aca813851c5c9fdff-original.png"
+},
+"small-320": {
+"height": 245,
+"width": 320,
+"mime": "image/png",
+"type": "small-320",
+"url": "//edfestimages.s3.amazonaws.com/b4/0e/45/b40e45ff7a8d630aee3d6f7aca813851c5c9fdff-small-320.png"
+},
+"thumb-100": {
+"height": 77,
+"width": 100,
+"mime": "image/png",
+"type": "thumb-100",
+"url": "//edfestimages.s3.amazonaws.com/b4/0e/45/b40e45ff7a8d630aee3d6f7aca813851c5c9fdff-thumb-100.png"
+},
+"square-75": {
+"height": 75,
+"width": 75,
+"mime": "image/png",
+"type": "square-75",
+"url": "//edfestimages.s3.amazonaws.com/b4/0e/45/b40e45ff7a8d630aee3d6f7aca813851c5c9fdff-square-75.png"
+},
+"square-150": {
+"height": 150,
+"width": 150,
+"mime": "image/png",
+"type": "square-150",
+"url": "//edfestimages.s3.amazonaws.com/b4/0e/45/b40e45ff7a8d630aee3d6f7aca813851c5c9fdff-square-150.png"
+}
+},
+"orientation": "landscape",
+"hash": "b40e45ff7a8d630aee3d6f7aca813851c5c9fdff",
+"type": "thumb"
+}
+},
+"performances": [
+{
+"concession_family": false,
+"title": null,
+"concession": 0,
+"price": 0,
+"concession_additional": false,
+"start": "2015-08-25 17:30:00",
+"end": "2015-08-25 18:15:00"
+}
+],
+"categories": {
+"keywords": [],
+"subjects": [],
+"strand_titles": []
+},
+"disabled": {
+"signed_dates": null,
+"other_services_information": null,
+"captioning": null,
+"audio": null,
+"signed": null,
+"audio_dates": null,
+"other_services_dates": null,
+"captioning_dates": null,
+"other_services": null
+},
+"latitude": 55.951903,
+"longitude": -3.206913
+},
+{
+"genre": "Musicals and Opera",
+"fringe_first": false,
+"performers_number": 55,
+"artist_type": "Student/Youth company",
+"sub_title": null,
+"update_times": {
+"genre": 1431332799,
+"age_category": 1431332799,
+"other": 1431332799,
+"fringe_first": 1431332799,
+"status": 1431332799,
+"web_links": 1431332799,
+"venue": 1431332799,
+"identity": 1431332799,
+"title": 1431332799,
+"description": 1431332799,
+"discounts": 1431332799,
+"images": 1431332799,
+"performances": 1431332799,
+"artist": 1431332799,
+"disabled": 1431332799
+},
+"twitter": "@YMTScotland",
+"title": "Into the Woods",
+"updated": "2015-05-11 09:26:39",
+"description": "An ambivalent Cinderella? A blood-thirsty Little Red Riding Hood? An unfaithful Prince Charming? A witch… who raps? They’re all among the cockeyed characters in this fractured fairy tale. When a baker and his wife learn they’ve been cursed with childlessness by the witch next door, they embark on a quest for the special objects required to break the spell, swindling, lying to and stealing from Cinderella, Little Red, Rapunzel and Jack (the one who climbed the beanstalk). What begins a lively irreverent fantasy becomes a moving lesson about community responsibility and the stories we tell our children.",
+"discounts": {
+"two_for_one": false,
+"friends": false,
+"schools": false,
+"passport": false,
+"group": false
+},
+"festival": "Edinburgh Festival Fringe",
+"year": "2015",
+"artist": "YMTS – part of Fife Youth Arts @edfringe",
+"warnings": null,
+"festival_id": "fringe",
+"age_category": "U",
+"non_english": true,
+"website": "https://www.edfringe.com/event/2015INTOTHG_E1",
+"status": "active",
+"performance_space": {
+"age_limit": null,
+"wheelchair_access": true,
+"name": "Performing Arts Centre",
+"capacity": 160,
+"age_limited": false
+},
+"code": "2015INTOTHG_E1",
+"venue": {
+"position": {
+"lon": -3.204481,
+"lat": 55.960773
+},
+"phone": "",
+"web_address": null,
+"fax": null,
+"post_code": "EH3 5BL",
+"has_cafe": true,
+"cafe_description": "Basic cash bar with tea and coffee facilities. Bar snacks also available.",
+"map_ref": null,
+"code": "70",
+"disabled_description": "Full venue site is accessible, Some areas not reachable by lift or level access, Wheelchair accessible toilet, Reserved accessible parking, On street blue badge parking, Assistance dogs welcome in all areas",
+"box_office_fringe": false,
+"has_booking_over_phone": false,
+"address": "42 Henderson Row",
+"email": null,
+"description": "The Edinburgh Academy is centrally located in the New Town, with ample off-street parking and refreshments are available 30 minutes before every performance. The venue has several spaces including its Performing Arts Centre and Science Lecture Theatre.",
+"has_booking_over_web": false,
+"name": "The Edinburgh Academy",
+"box_office_opening": null,
+"has_booking_over_card": false,
+"has_bar": true
+},
+"sub_venue": null,
+"url": "https://api.edinburghfestivalcity.com/events/26783af173b50f94b35e762e44a4543bf03b9ad8",
+"country": "UNITED KINGDOM - SCOTLAND",
+"genre_tags": "Musical theatre,Comedy",
+"description_teaser": null,
+"images": {
+"1a60d233db9e4b313ab64eeb025cfc7bf3696335": {
+"versions": {
+"original": {
+"height": 250,
+"width": 250,
+"mime": "image/jpeg",
+"type": "original",
+"url": "//edfestimages.s3.amazonaws.com/1a/60/d2/1a60d233db9e4b313ab64eeb025cfc7bf3696335-original."
+},
+"thumb-100": {
+"height": 100,
+"width": 100,
+"mime": "image/png",
+"type": "thumb-100",
+"url": "//edfestimages.s3.amazonaws.com/1a/60/d2/1a60d233db9e4b313ab64eeb025cfc7bf3696335-thumb-100.png"
+},
+"square-75": {
+"height": 75,
+"width": 75,
+"mime": "image/png",
+"type": "square-75",
+"url": "//edfestimages.s3.amazonaws.com/1a/60/d2/1a60d233db9e4b313ab64eeb025cfc7bf3696335-square-75.png"
+},
+"square-150": {
+"height": 150,
+"width": 150,
+"mime": "image/png",
+"type": "square-150",
+"url": "//edfestimages.s3.amazonaws.com/1a/60/d2/1a60d233db9e4b313ab64eeb025cfc7bf3696335-square-150.png"
+}
+},
+"orientation": "square",
+"hash": "1a60d233db9e4b313ab64eeb025cfc7bf3696335",
+"type": "thumb"
+}
+},
+"performances": [
+{
+"concession_family": false,
+"title": null,
+"concession": 10,
+"price": 12.5,
+"concession_additional": false,
+"start": "2015-08-12 19:30:00",
+"end": "2015-08-12 22:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 10,
+"price": 12.5,
+"concession_additional": false,
+"start": "2015-08-13 19:30:00",
+"end": "2015-08-13 22:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 10,
+"price": 12.5,
+"concession_additional": false,
+"start": "2015-08-14 14:30:00",
+"end": "2015-08-14 17:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 10,
+"price": 12.5,
+"concession_additional": false,
+"start": "2015-08-14 19:30:00",
+"end": "2015-08-14 22:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 10,
+"price": 12.5,
+"concession_additional": false,
+"start": "2015-08-15 14:30:00",
+"end": "2015-08-15 17:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 10,
+"price": 12.5,
+"concession_additional": false,
+"start": "2015-08-15 19:30:00",
+"end": "2015-08-15 22:00:00"
+}
+],
+"categories": {
+"keywords": [],
+"subjects": [],
+"strand_titles": []
+},
+"disabled": {
+"signed_dates": null,
+"other_services_information": "",
+"captioning": false,
+"audio": false,
+"signed": false,
+"audio_dates": null,
+"other_services_dates": null,
+"captioning_dates": null,
+"other_services": false
+},
+"latitude": 55.960773,
+"longitude": -3.204481
+},
+{
+"genre": "Dance",
+"fringe_first": null,
+"performers_number": null,
+"artist_type": null,
+"sub_title": null,
+"update_times": {
+"genre": 1437997132,
+"age_category": 1437997132,
+"other": 1437997132,
+"fringe_first": 1437997132,
+"status": 1437997132,
+"web_links": 1437997132,
+"venue": 1437997132,
+"identity": 1437997132,
+"title": 1437997132,
+"description": 1437997132,
+"discounts": 1437997132,
+"images": 1437997132,
+"performances": 1437997132,
+"artist": 1437997132,
+"disabled": 1437997132
+},
+"twitter": null,
+"title": "La Otra Orilla – Moi&les Autres",
+"updated": "2015-07-27 12:38:52",
+"description": "Myriam Allard and Hedi Graja present their reinvented flamenco in a new piece entitled Moi&lesAutres. In this solo that involves close communication with the musicians, themselves actively commited to the choreography, La Otra Orilla presents a spirited variation on the sometimes complex art of relating to one and other. With original music by composer Caroline Planté, this production reveals yet another version of the company’s hybrid flamenco language. Iconoclast, poetic and firmly rooted in the present.  \n\nThe Edinburgh Mela are delighted to welcome La Otra Orilla all the way from Canada to present this show at the 2015 festival, don’t miss it!\n\nPart of a full day programme of events - ticket prices are per day. Free entry for children under 12. Timings subject to change.",
+"discounts": {
+"two_for_one": null,
+"friends": null,
+"schools": null,
+"passport": null,
+"group": null
+},
+"festival": "Edinburgh Mela",
+"year": "2015",
+"artist": null,
+"warnings": null,
+"festival_id": "mela",
+"age_category": null,
+"non_english": null,
+"website": "http://www.edinburgh-mela.co.uk/moilesautres-2/",
+"status": "active",
+"performance_space": {
+"age_limit": null,
+"wheelchair_access": true,
+"name": "World Dance Feste",
+"capacity": null,
+"age_limited": null
+},
+"code": "La Otra Orilla – Moi&les Autres",
+"venue": {
+"position": {
+"lon": -3.162184,
+"lat": 55.9720573
+},
+"phone": null,
+"web_address": null,
+"fax": null,
+"post_code": "EH6 8BW",
+"has_cafe": true,
+"cafe_description": "As soon as your tummy starts to rumble head straight to the irresistible tastes and smells of the Edinburgh Mela Global Food Village. Whatever you're craving you'll find something here to hit the spot, with stalls dishing up a delicious range of Asian speciality food including Indian and Japanese, plus pizza, hot doughnuts and sweet treats.\nRelax in the summer sun with a fresh fruit juice or milkshake or pick up an ice cold pint from the colourful Kingfisher Beer Truck, new for 2015.",
+"map_ref": null,
+"code": "Leith Links",
+"disabled_description": "The site is fully accessible, although it must be noted that the festival is an outdoor event on a largely grass surface. Accessible toilets will be provided and assistance will be available for disabled patrons at the box office and the site entrance.\nA very limited number of parking spaces will be available for disabled visitors in the production carpark just off John's Place",
+"box_office_fringe": null,
+"has_booking_over_phone": false,
+"address": "Leith Links\nOpposite Duncan Place\nEdinburgh",
+"email": null,
+"description": null,
+"has_booking_over_web": true,
+"name": "Leith Links",
+"box_office_opening": null,
+"has_booking_over_card": true,
+"has_bar": null
+},
+"sub_venue": null,
+"url": "https://api.edinburghfestivalcity.com/events/268c814ac494b3b679839e34c928a73a3ca71262",
+"country": null,
+"genre_tags": "Flamenco",
+"description_teaser": null,
+"images": {
+"e0d853fd3d63305b22747a11121bb6282a03fae6": {
+"versions": {
+"large-1024": {
+"height": 739,
+"width": 1024,
+"mime": "image/png",
+"type": "large-1024",
+"url": "//edfestimages.s3.amazonaws.com/e0/d8/53/e0d853fd3d63305b22747a11121bb6282a03fae6-large-1024.png"
+},
+"medium-640": {
+"height": 462,
+"width": 640,
+"mime": "image/png",
+"type": "medium-640",
+"url": "//edfestimages.s3.amazonaws.com/e0/d8/53/e0d853fd3d63305b22747a11121bb6282a03fae6-medium-640.png"
+},
+"original": {
+"height": 1800,
+"width": 2495,
+"mime": "image/jpeg",
+"type": "original",
+"url": "//edfestimages.s3.amazonaws.com/e0/d8/53/e0d853fd3d63305b22747a11121bb6282a03fae6-original.jpg"
+},
+"small-320": {
+"height": 231,
+"width": 320,
+"mime": "image/png",
+"type": "small-320",
+"url": "//edfestimages.s3.amazonaws.com/e0/d8/53/e0d853fd3d63305b22747a11121bb6282a03fae6-small-320.png"
+},
+"thumb-100": {
+"height": 72,
+"width": 100,
+"mime": "image/png",
+"type": "thumb-100",
+"url": "//edfestimages.s3.amazonaws.com/e0/d8/53/e0d853fd3d63305b22747a11121bb6282a03fae6-thumb-100.png"
+},
+"square-75": {
+"height": 75,
+"width": 75,
+"mime": "image/png",
+"type": "square-75",
+"url": "//edfestimages.s3.amazonaws.com/e0/d8/53/e0d853fd3d63305b22747a11121bb6282a03fae6-square-75.png"
+},
+"square-150": {
+"height": 150,
+"width": 150,
+"mime": "image/png",
+"type": "square-150",
+"url": "//edfestimages.s3.amazonaws.com/e0/d8/53/e0d853fd3d63305b22747a11121bb6282a03fae6-square-150.png"
+}
+},
+"orientation": "landscape",
+"hash": "e0d853fd3d63305b22747a11121bb6282a03fae6",
+"type": "thumb"
+}
+},
+"performances": [
+{
+"concession_family": false,
+"title": null,
+"concession": 0,
+"price": 5,
+"concession_additional": false,
+"start": "2015-08-30 15:15:00",
+"end": "2015-08-30 16:15:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 0,
+"price": 5,
+"concession_additional": false,
+"start": "2015-08-29 15:40:00",
+"end": "2015-08-29 16:40:00"
+}
+],
+"categories": {
+"keywords": [],
+"subjects": [],
+"strand_titles": []
+},
+"disabled": {
+"signed_dates": null,
+"other_services_information": null,
+"captioning": null,
+"audio": null,
+"signed": null,
+"audio_dates": null,
+"other_services_dates": null,
+"captioning_dates": null,
+"other_services": null
+},
+"latitude": 55.9720573,
+"longitude": -3.162184
+},
+{
+"genre": "Theatre",
+"fringe_first": true,
+"performers_number": 1,
+"artist_type": "Professional company",
+"sub_title": null,
+"update_times": {
+"genre": 1428405658,
+"age_category": 1437059981,
+"other": 1430306287,
+"fringe_first": 1428405658,
+"status": 1428405658,
+"web_links": 1428405658,
+"venue": 1438255223,
+"identity": 1428405658,
+"title": 1428405658,
+"description": 1428405658,
+"discounts": 1428405658,
+"images": 1428405658,
+"performances": 1428405658,
+"artist": 1428405658,
+"disabled": 1428405658
+},
+"twitter": "@tosheornottoshe",
+"title": "To She or Not to She",
+"updated": "2015-07-30 12:20:23",
+"description": "'Frailty thy name is woman?! Oh get stuffed Will!' Armed with her record player, a fake moustache, some rudimentary feminism and a lot of questions, Emma is here to find out exactly why she can't play Hamlet. Or Macbeth. Or Iago. Or even just a downright Fool. And not just on stage but in real life! Emma Bentley dons the trousers in her debut solo show tackling the trials and tribulations of playing Shakespeare's men ... without a codpiece.",
+"discounts": {
+"two_for_one": true,
+"friends": false,
+"schools": false,
+"passport": false,
+"group": true
+},
+"festival": "Edinburgh Festival Fringe",
+"year": "2015",
+"artist": "joue le genre ",
+"warnings": null,
+"festival_id": "fringe",
+"age_category": "12+",
+"non_english": false,
+"website": "https://www.edfringe.com/event/2015TOSHEOR_MV",
+"status": "active",
+"performance_space": {
+"age_limit": "16 -17 year olds must be accompanied by an adult in the Cabaret Bar from 23:00 onwards. No under 16s after 23:00.",
+"wheelchair_access": true,
+"name": "Pleasance This",
+"capacity": 51,
+"age_limited": true
+},
+"code": "2015TOSHEOR_MV",
+"venue": {
+"position": {
+"lon": -3.18193,
+"lat": 55.947745
+},
+"phone": "0131 556 6550",
+"web_address": "http://www.pleasance.co.uk",
+"fax": null,
+"post_code": "EH8 9TJ",
+"has_cafe": true,
+"cafe_description": "Seven bars, three cafes. Food available all day.",
+"map_ref": null,
+"code": "33",
+"disabled_description": "A full accessibility guide can be found at www.pleasance.co.uk. Limited access to some parts of venue site, Some areas not reachable by lift or level access, Wheelchair accessible toilet, No reserved accessible parking, No on street blue badge parking, Assistance dogs welcome in all areas",
+"box_office_fringe": true,
+"has_booking_over_phone": true,
+"address": "60 Pleasance",
+"email": null,
+"description": "Soak up the legendary atmosphere at the Pleasance Courtyard, considered by many to be the heart of the Fringe. With every entertainment under the sun in seventeen venues, come take in a show, enjoy a drink and stay for the day. There's even the Kidzone for the little-ones! ‘The centre of the cultural universe' (Scotsman).",
+"has_booking_over_web": true,
+"name": "Pleasance Courtyard",
+"box_office_opening": null,
+"has_booking_over_card": true,
+"has_bar": true
+},
+"sub_venue": null,
+"url": "https://api.edinburghfestivalcity.com/events/1c78b9510b485f4ebb7fd4e231dad69b3eee6855",
+"country": "UNITED KINGDOM - ENGLAND",
+"genre_tags": "Solo show,Comedy",
+"description_teaser": null,
+"images": {
+"9ac2e0c035d18a8e7c4e40bb0a7594c9e1b3d06c": {
+"versions": {
+"original": {
+"height": 250,
+"width": 250,
+"mime": "image/jpeg",
+"type": "original",
+"url": "//edfestimages.s3.amazonaws.com/9a/c2/e0/9ac2e0c035d18a8e7c4e40bb0a7594c9e1b3d06c-original."
+},
+"thumb-100": {
+"height": 100,
+"width": 100,
+"mime": "image/png",
+"type": "thumb-100",
+"url": "//edfestimages.s3.amazonaws.com/9a/c2/e0/9ac2e0c035d18a8e7c4e40bb0a7594c9e1b3d06c-thumb-100.png"
+},
+"square-75": {
+"height": 75,
+"width": 75,
+"mime": "image/png",
+"type": "square-75",
+"url": "//edfestimages.s3.amazonaws.com/9a/c2/e0/9ac2e0c035d18a8e7c4e40bb0a7594c9e1b3d06c-square-75.png"
+},
+"square-150": {
+"height": 150,
+"width": 150,
+"mime": "image/png",
+"type": "square-150",
+"url": "//edfestimages.s3.amazonaws.com/9a/c2/e0/9ac2e0c035d18a8e7c4e40bb0a7594c9e1b3d06c-square-150.png"
+}
+},
+"orientation": "square",
+"hash": "9ac2e0c035d18a8e7c4e40bb0a7594c9e1b3d06c",
+"type": "thumb"
+}
+},
+"performances": [
+{
+"concession_family": false,
+"title": "PREVIEW",
+"concession": false,
+"price": 6,
+"concession_additional": false,
+"start": "2015-08-05 13:00:00",
+"end": "2015-08-05 14:00:00"
+},
+{
+"concession_family": false,
+"title": "PREVIEW",
+"concession": false,
+"price": 6,
+"concession_additional": false,
+"start": "2015-08-06 13:00:00",
+"end": "2015-08-06 14:00:00"
+},
+{
+"concession_family": false,
+"title": "PREVIEW",
+"concession": false,
+"price": 6,
+"concession_additional": false,
+"start": "2015-08-07 13:00:00",
+"end": "2015-08-07 14:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 8,
+"price": 9,
+"concession_additional": false,
+"start": "2015-08-08 13:00:00",
+"end": "2015-08-08 14:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 8,
+"price": 9,
+"concession_additional": false,
+"start": "2015-08-09 13:00:00",
+"end": "2015-08-09 14:00:00"
+},
+{
+"concession_family": false,
+"title": "2 for 1",
+"concession": 7,
+"price": 8,
+"concession_additional": false,
+"start": "2015-08-10 13:00:00",
+"end": "2015-08-10 14:00:00"
+},
+{
+"concession_family": false,
+"title": "2 for 1",
+"concession": 7,
+"price": 8,
+"concession_additional": false,
+"start": "2015-08-11 13:00:00",
+"end": "2015-08-11 14:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 7,
+"price": 8,
+"concession_additional": false,
+"start": "2015-08-12 13:00:00",
+"end": "2015-08-12 14:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 7,
+"price": 8,
+"concession_additional": false,
+"start": "2015-08-13 13:00:00",
+"end": "2015-08-13 14:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 8,
+"price": 9,
+"concession_additional": false,
+"start": "2015-08-14 13:00:00",
+"end": "2015-08-14 14:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 8,
+"price": 9,
+"concession_additional": false,
+"start": "2015-08-15 13:00:00",
+"end": "2015-08-15 14:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 8,
+"price": 9,
+"concession_additional": false,
+"start": "2015-08-16 13:00:00",
+"end": "2015-08-16 14:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 6.5,
+"price": 7.5,
+"concession_additional": false,
+"start": "2015-08-18 13:00:00",
+"end": "2015-08-18 14:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 7,
+"price": 8,
+"concession_additional": false,
+"start": "2015-08-19 13:00:00",
+"end": "2015-08-19 14:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 7,
+"price": 8,
+"concession_additional": false,
+"start": "2015-08-20 13:00:00",
+"end": "2015-08-20 14:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 8,
+"price": 9,
+"concession_additional": false,
+"start": "2015-08-21 13:00:00",
+"end": "2015-08-21 14:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 8,
+"price": 9,
+"concession_additional": false,
+"start": "2015-08-22 13:00:00",
+"end": "2015-08-22 14:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 8,
+"price": 9,
+"concession_additional": false,
+"start": "2015-08-23 13:00:00",
+"end": "2015-08-23 14:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 6.5,
+"price": 7.5,
+"concession_additional": false,
+"start": "2015-08-24 13:00:00",
+"end": "2015-08-24 14:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 6.5,
+"price": 7.5,
+"concession_additional": false,
+"start": "2015-08-25 13:00:00",
+"end": "2015-08-25 14:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 7,
+"price": 8,
+"concession_additional": false,
+"start": "2015-08-26 13:00:00",
+"end": "2015-08-26 14:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 7,
+"price": 8,
+"concession_additional": false,
+"start": "2015-08-27 13:00:00",
+"end": "2015-08-27 14:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 8,
+"price": 9,
+"concession_additional": false,
+"start": "2015-08-28 13:00:00",
+"end": "2015-08-28 14:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 8,
+"price": 9,
+"concession_additional": false,
+"start": "2015-08-29 13:00:00",
+"end": "2015-08-29 14:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 8,
+"price": 9,
+"concession_additional": false,
+"start": "2015-08-30 13:00:00",
+"end": "2015-08-30 14:00:00"
+},
+{
+"concession_family": false,
+"title": null,
+"concession": 6.5,
+"price": 7.5,
+"concession_additional": false,
+"start": "2015-08-31 13:00:00",
+"end": "2015-08-31 14:00:00"
+}
+],
+"categories": {
+"keywords": [],
+"subjects": [],
+"strand_titles": []
+},
+"disabled": {
+"signed_dates": null,
+"other_services_information": "",
+"captioning": false,
+"audio": false,
+"signed": false,
+"audio_dates": null,
+"other_services_dates": null,
+"captioning_dates": null,
+"other_services": false
+},
+"latitude": 55.947745,
+"longitude": -3.18193
+},
+{
+"genre": "Event",
+"fringe_first": null,
+"performers_number": null,
+"artist_type": null,
+"sub_title": null,
+"update_times": {
+"genre": 1449054093,
+"age_category": 1449054093,
+"other": 1449054093,
+"fringe_first": 1449054093,
+"status": 1449054093,
+"web_links": 1449054093,
+"venue": 1449054093,
+"identity": 1449054093,
+"title": 1449054093,
+"description": 1449054093,
+"discounts": 1449054093,
+"images": 1449054093,
+"performances": 1449054093,
+"artist": 1449054093,
+"disabled": 1449054093
+},
+"twitter": null,
+"title": "Concert in the Gardens",
+"updated": "2015-12-02 11:01:33",
+"description": "Hold onto your eardrums, cause Edinburgh's Hogmanay are delighted to announce that Biffy Clyro will be headlining this year's spectacular Concert in the Gardens 2015/16. An all Scottish line-up will be rockin' revellers from around the globe into 2016, with very special guests Idlewild and Honeyblood joining Biffy at the 'Home of Hogmanay' on the 31st December. This will be Biffy Clyro's one and only UK performance of 2015 and will be the stage from which they will kick off 2016 and what is being lined up to be an absolutely huge year for them.",
+"discounts": {
+"two_for_one": null,
+"friends": null,
+"schools": null,
+"passport": null,
+"group": null
+},
+"festival": "Edinburgh's Hogmanay",
+"year": "2015",
+"artist": null,
+"warnings": null,
+"festival_id": "hogmanay",
+"age_category": null,
+"non_english": null,
+"website": "http://www.edinburghshogmanay.com/events/concert-in-the-gardens",
+"status": "active",
+"performance_space": {
+"age_limit": null,
+"wheelchair_access": null,
+"name": null,
+"capacity": null,
+"age_limited": null
+},
+"code": "Concert in the Gardens",
+"venue": {
+"position": {
+"lon": -3.20014358,
+"lat": 55.95059351
+},
+"phone": "",
+"web_address": "",
+"fax": null,
+"post_code": "",
+"has_cafe": true,
+"cafe_description": "",
+"map_ref": null,
+"code": "West Princes Street Gardens",
+"disabled_description": "",
+"box_office_fringe": null,
+"has_booking_over_phone": true,
+"address": "Edinburgh",
+"email": null,
+"description": "",
+"has_booking_over_web": true,
+"name": "West Princes Street Gardens",
+"box_office_opening": null,
+"has_booking_over_card": true,
+"has_bar": null
+},
+"sub_venue": null,
+"url": "https://api.edinburghfestivalcity.com/events/15fe46d9995f3310969f8e63b414ddb10551b346",
+"country": null,
+"genre_tags": null,
+"description_teaser": null,
+"images": {
+"e9b4fa3c6b7591a8f32894e18ec4a80cce2a6826": {
+"versions": {
+"original": {
+"height": 400,
+"width": 500,
+"mime": "image/jpeg",
+"type": "original",
+"url": "//edfestimages.s3.amazonaws.com/e9/b4/fa/e9b4fa3c6b7591a8f32894e18ec4a80cce2a6826-original.jpg"
+},
+"small-320": {
+"height": 256,
+"width": 320,
+"mime": "image/png",
+"type": "small-320",
+"url": "//edfestimages.s3.amazonaws.com/e9/b4/fa/e9b4fa3c6b7591a8f32894e18ec4a80cce2a6826-small-320.png"
+},
+"thumb-100": {
+"height": 80,
+"width": 100,
+"mime": "image/png",
+"type": "thumb-100",
+"url": "//edfestimages.s3.amazonaws.com/e9/b4/fa/e9b4fa3c6b7591a8f32894e18ec4a80cce2a6826-thumb-100.png"
+},
+"square-75": {
+"height": 75,
+"width": 75,
+"mime": "image/png",
+"type": "square-75",
+"url": "//edfestimages.s3.amazonaws.com/e9/b4/fa/e9b4fa3c6b7591a8f32894e18ec4a80cce2a6826-square-75.png"
+},
+"square-150": {
+"height": 150,
+"width": 150,
+"mime": "image/png",
+"type": "square-150",
+"url": "//edfestimages.s3.amazonaws.com/e9/b4/fa/e9b4fa3c6b7591a8f32894e18ec4a80cce2a6826-square-150.png"
+}
+},
+"orientation": "landscape",
+"hash": "e9b4fa3c6b7591a8f32894e18ec4a80cce2a6826",
+"type": "thumb"
+}
+},
+"performances": [
+{
+"concession_family": false,
+"title": null,
+"concession": false,
+"price": 49.5,
+"concession_additional": false,
+"start": "2015-12-31 21:00:00",
+"end": "2016-01-01 01:00:00"
+}
+],
+"categories": {
+"keywords": [],
+"subjects": [],
+"strand_titles": []
+},
+"disabled": {
+"signed_dates": null,
+"other_services_information": null,
+"captioning": null,
+"audio": null,
+"signed": null,
+"audio_dates": null,
+"other_services_dates": null,
+"captioning_dates": null,
+"other_services": null
+},
+"latitude": 55.95059351,
+"longitude": -3.20014358
+},
+{
+"genre": "Workshop",
+"fringe_first": null,
+"performers_number": null,
+"artist_type": null,
+"sub_title": null,
+"update_times": {
+"genre": 1443797418,
+"age_category": 1443797418,
+"other": 1443797418,
+"fringe_first": 1443797418,
+"status": 1443797418,
+"web_links": 1443797418,
+"venue": 1443797418,
+"identity": 1443797418,
+"title": 1443797418,
+"description": 1443797418,
+"discounts": 1443797418,
+"images": 1443797418,
+"performances": 1443797418,
+"artist": 1443797418,
+"disabled": 1443797418
+},
+"twitter": null,
+"title": "The Ties that Bind- Storytelling as a pathway to peace",
+"updated": "2015-10-02 15:50:18",
+"description": "People in conflict hold their ground because they do not feel heard. Sharing personal stories from areas of conflict invites participants into a space where they can be heard and are able to hear the other side of the story. From that space, it is possible to move to a shared place of understanding and possible resolution. This workshop invites you to explore how storytelling can support different sides of a conflict to share their personal stories. The workshop leaders have put this process into practice in communities in Israel and Palestine. Led by Michael Williams and Janet Dowling.",
+"discounts": {
+"two_for_one": null,
+"friends": null,
+"schools": null,
+"passport": null,
+"group": null
+},
+"festival": "Scottish International Storytelling Festival",
+"year": "2015",
+"artist": null,
+"warnings": null,
+"festival_id": "storytelling",
+"age_category": "Adults",
+"non_english": null,
+"website": "http://www.tracscotland.org/festivals/scot-int-story-fest/events/4216/the-ties-that-bind-storytelling-as-a-pathway-to-peace",
+"status": "active",
+"performance_space": {
+"age_limit": null,
+"wheelchair_access": null,
+"name": null,
+"capacity": null,
+"age_limited": null
+},
+"code": "The Ties that Bind- Storytelling as a pathway to peace",
+"venue": {
+"position": {
+"lon": -3.1848,
+"lat": 55.950794
+},
+"phone": null,
+"web_address": null,
+"fax": null,
+"post_code": "EH1 1SR",
+"has_cafe": null,
+"cafe_description": null,
+"map_ref": null,
+"code": "Scottish Storytelling Centre",
+"disabled_description": null,
+"box_office_fringe": null,
+"has_booking_over_phone": null,
+"address": "43-45 High Street",
+"email": null,
+"description": null,
+"has_booking_over_web": null,
+"name": "Scottish Storytelling Centre",
+"box_office_opening": null,
+"has_booking_over_card": null,
+"has_bar": null
+},
+"sub_venue": null,
+"url": "https://api.edinburghfestivalcity.com/events/1cbeb457e1daab912bff267810fc7014fb630d56",
+"country": null,
+"genre_tags": null,
+"description_teaser": null,
+"images": {
+"952f7234f726bea18d93c6005db2ec69fd0e6249": {
+"versions": {
+"medium-640": {
+"height": 298,
+"width": 640,
+"mime": "image/png",
+"type": "medium-640",
+"url": "//edfestimages.s3.amazonaws.com/95/2f/72/952f7234f726bea18d93c6005db2ec69fd0e6249-medium-640.png"
+},
+"original": {
+"height": 300,
+"width": 645,
+"mime": "image/jpeg",
+"type": "original",
+"url": "//edfestimages.s3.amazonaws.com/95/2f/72/952f7234f726bea18d93c6005db2ec69fd0e6249-original.webp"
+},
+"small-320": {
+"height": 149,
+"width": 320,
+"mime": "image/png",
+"type": "small-320",
+"url": "//edfestimages.s3.amazonaws.com/95/2f/72/952f7234f726bea18d93c6005db2ec69fd0e6249-small-320.png"
+},
+"thumb-100": {
+"height": 47,
+"width": 100,
+"mime": "image/png",
+"type": "thumb-100",
+"url": "//edfestimages.s3.amazonaws.com/95/2f/72/952f7234f726bea18d93c6005db2ec69fd0e6249-thumb-100.png"
+},
+"square-75": {
+"height": 75,
+"width": 75,
+"mime": "image/png",
+"type": "square-75",
+"url": "//edfestimages.s3.amazonaws.com/95/2f/72/952f7234f726bea18d93c6005db2ec69fd0e6249-square-75.png"
+},
+"square-150": {
+"height": 150,
+"width": 150,
+"mime": "image/png",
+"type": "square-150",
+"url": "//edfestimages.s3.amazonaws.com/95/2f/72/952f7234f726bea18d93c6005db2ec69fd0e6249-square-150.png"
+}
+},
+"orientation": "landscape",
+"hash": "952f7234f726bea18d93c6005db2ec69fd0e6249",
+"type": "thumb"
+}
+},
+"performances": [
+{
+"concession_family": false,
+"title": null,
+"concession": 12,
+"price": 15,
+"concession_additional": false,
+"start": "2015-10-26 14:00:00",
+"end": "2015-10-26 16:30:00"
+}
+],
+"categories": {
+"keywords": [],
+"subjects": [],
+"strand_titles": []
+},
+"disabled": {
+"signed_dates": null,
+"other_services_information": null,
+"captioning": null,
+"audio": null,
+"signed": null,
+"audio_dates": null,
+"other_services_dates": null,
+"captioning_dates": null,
+"other_services": null
+},
+"latitude": 55.950794,
+"longitude": -3.1848
+}
+]
