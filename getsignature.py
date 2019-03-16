@@ -2,7 +2,7 @@ import hashlib
 import hmac
 import base64
 import urllib.request, json
-f= open("data.txt","w+")
+f= open("data.json","w+")
 api_key     = 'V37UcPDfsVDiaYgs'
 secret_key  = b'yOjBov7vc-0op26qkHmaLOL4abzb34oK'
 query       = ('/events?year=2012&key=' + api_key).encode("utf-8")
