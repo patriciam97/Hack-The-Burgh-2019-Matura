@@ -1,9 +1,10 @@
 import json
 import datetime
 import time
+import matplotlib.pyplot as plt
+
 date=datetime.datetime.now().strftime('%G-%m-%d %H:%M:%S')
 date = time.strptime(date, '%Y-%m-%d %H:%M:%S')
-print(date)
 
 genres={}
 performances={}
@@ -47,7 +48,9 @@ for file in files:
             if(file)== "data_2019.txt":
                 agecat[p["title"]]=p["age_category"]
 
-
+data={"Genres":genres,"Performances":performances,"Discounts": discounts,"Age Categories": agecat,"Upcoming": upcoming}
+with open('stats.json', 'w') as f:  # writing JSON object
+    json.dump(data,f)
 
 print("Genres:")
 print(genres)
@@ -59,3 +62,8 @@ print("Age Categories:")
 print(agecat)
 print("Upcoming")
 print(upcoming)
+
+# Graph for Genres - just for fun
+#plt.bar(range(len(genres)), list(genres.values()), align='center')
+#plt.xticks(range(len(genres)), list(genres.keys()),rotation="vertical")
+#plt.show()
