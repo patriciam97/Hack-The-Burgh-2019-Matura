@@ -23,9 +23,8 @@ for file in files:
             else:
                 genres[p["genre"]]=1
             i=0
+            avshows={}
             for x in p["performances"]:
-                avshows={}
-
                 if(file== "data_2019.txt"):
                     i=i+1
                     date2=time.strptime(x["start"], '%Y-%m-%d %H:%M:%S')
